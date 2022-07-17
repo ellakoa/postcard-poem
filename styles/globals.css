@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+@font-face {
+    font-family: 'MoonlessSC';
+    src:  url('/font/MoonlessSC-Regular.otf') format('opentype');
+}

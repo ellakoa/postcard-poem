@@ -8,7 +8,7 @@ export default function Posts({posts}:{posts:any}) {
     
     return (
         <div className='container max-w-3xl my-10 px-6'>
-            <h1 className='font-bold text-5xl mb-10'>Posts</h1>
+            <h1 className='font-serif text-5xl mb-10'>Posts</h1>
             <ul className=''>{posts && posts.map(Preview)}</ul>
             {!posts && <p>No posts found!</p>}
         </div>

@@ -15,6 +15,8 @@ const Home: NextPage = ({latest}:any) => {
         <Head>
             <title>{title}</title>
             <link rel="icon" href="/favicon.ico" />
+            {/* <!-- Netlify Identity Widget --> */}
+            <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         </Head>
         <div className="relative">
             <div className="w-full h-auto object-cover bg-blend-darken">

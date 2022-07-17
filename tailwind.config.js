@@ -10,7 +10,7 @@ module.exports = {
     extend: {
       fontFamily: {
         'sans': ['Roboto', ...defaultTheme.fontFamily.sans],
-        'serif': ["'DK Au Revoir'", ...defaultTheme.fontFamily.serif],
+        'serif': ['MoonlessSC', ...defaultTheme.fontFamily.serif],
       },
     },
     container: {
