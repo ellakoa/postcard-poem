@@ -1,0 +1,5 @@
+items:
+  - text: Posts
+    url: /posts
+  - text: Latest
+    url: /posts/a-lovely-post-title

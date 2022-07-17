@@ -1,0 +1,66 @@
+backend:
+  # Use netlify identity as backend
+  name: git-gateway
+  branch: master
+  ### enable below lines for github integration ###
+  # name: github
+  # repo: AndyWebster/postcard-poem
+media_folder: "public/img"
+public_folder: "/img"
+
+# Please run "npx netlify-cms-proxy-server" for local backend
+# local_backend: true
+# publish_mode: editorial_workflow
+collections:
+  - label: "Blog"
+    name: "blog"
+    folder: "content/posts"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: "Preview text", name: description, widget: text }
+      - { label: "Aspect", name: aspect, widget: select, options: ["landscape", "portrait"], default: landscape }
+      - { label: Image, name: image, widget: image, choose_url: true }
+      - { label: "Image width (px)", name: width, widget: string, pattern: ["\\d+", "Must be a number"] }
+      - { label: "Image height (px)", name: height, widget: string, pattern: ["\\d+", "Must be a number"] }
+      - { label: "Image Alt", name: alt, widget: string }
+      - { label: Poem, name: poem, widget: text }
+      - { label: "Address lines", name: address, widget: text }
+      - { label: Stamp, name: stamp, widget: image, choose_url: true }
+      - { label: Author, name: author, widget: string, default: "Caroline Whitehouse" }
+      - { label: "Publish Date", name: date, widget: datetime }
+      - { label: Body, name: body, widget: markdown, required: false }
+  - label: "Settings"
+    name: "settings"
+    editor:
+      preview: false
+    files:
+      - label: "Home content"
+        name: home
+        file: "content/home.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Welcome message", name: "welcome", widget: "text" }
+      - label: "Navigation"
+        name: "items"
+        file: "content/navigation.yaml"
+        fields:
+          - label: Nav Items
+            name: items
+            widget: list
+            allow_add: true
+            collapsed: false
+            fields:
+              - { label: Title, name: text, widget: string }
+              - { label: URL, name: url, widget: string }
+      - label: "Settings"
+        name: "settings"
+        file: "content/settings.yaml"
+        fields:
+          - { label: Name, name: name, widget: string }
+          - { label: Author, name: author, widget: string }
+          - { label: Logo, name: image, widget: image, choose_url: true }
+          - { label: "Logo width (px)", name: width, widget: string, pattern: ["\\d+", "Must be a number"] }
+          - { label: "Logo height (px)", name: height, widget: string, pattern: ["\\d+", "Must be a number"] }
