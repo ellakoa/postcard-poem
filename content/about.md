@@ -3,10 +3,30 @@ title: About
 ---
 **How this blog came about**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae odio quis risus vulputate varius mattis ut ante. Sed cursus non lacus suscipit tempor. Nulla porta ex quis justo dignissim, sed tempor magna tincidunt. Mauris euismod erat sit amet dui condimentum sollicitudin. Vivamus ut neque risus. Vivamus porttitor, ligula ut aliquet finibus, est sem dignissim diam, non dictum tortor diam eget risus. Maecenas auctor interdum ligula eget viverra. Nulla viverra sem elit, id malesuada eros convallis sed. Curabitur condimentum, ex et vulputate mattis, lorem sem vestibulum nibh, tincidunt consequat purus eros sit amet est.
+Strange times 2020 and 2021 when staying at home was normal and going out 
+was initially limited to an hour a day. The COVID -19 pandemic affected us all.
 
-Mauris et augue sed nulla efficitur venenatis. Vivamus ac neque at elit bibendum auctor vitae eu libero. Aenean ac rhoncus dui, vel eleifend elit. Aliquam erat volutpat. Aliquam gravida libero sit amet dui tempus, at tincidunt sem accumsan. Morbi viverra, felis ut tristique volutpat, felis leo mollis purus, et blandit arcu magna consequat orci. Pellentesque condimentum fringilla turpis, vel malesuada erat pulvinar eget.
+Overnight my 88 year old mother lost the few pursuits that gave her contact with others.
+Her book club, her craft club and meetings at the WI and of course her family.
 
-Vivamus sodales pretium purus vel sodales. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc pellentesque dictum urna vitae finibus. Curabitur quam dui, viverra vitae dui ac, faucibus lobortis quam. Quisque blandit hendrerit porttitor. Morbi auctor tortor leo, a sollicitudin dui pellentesque sed. Integer porta enim vel magna suscipit laoreet ut et urna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam eu leo et mauris volutpat eleifend. Curabitur imperdiet lacus ac tortor tincidunt, ac elementum purus efficitur.
+The first lock down of March - June 2020 was the hardest. She lived alone and due to 
+her age was advised to shield. 
+Once a week I dropped shopping off on her doorstep stepped away and waved from afar.
+It was during this time I decided to put pen to paper and write her a poem. 
 
-Etiam augue leo, efficitur et ex sit amet, mattis lacinia nunc. Sed eget diam ligula. Fusce sit amet interdum nisi, sed eleifend velit. Vivamus et aliquam risus. In ut elit a est interdum feugiat id et sem. Nunc luctus nunc elit, ac maximus orci feugiat a. Quisque at ornare dui. Maecenas eu pellentesque lacus, sit amet bibendum ex. Donec dignissim nisl arcu, in finibus metus cursus sit amet. In efficitur neque velit, consectetur dapibus est malesuada nec. Aliquam sit amet sapien sollicitudin, cursus metus eu, tempor nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum commodo luctus ligula, id facilisis enim tempor non. Vivamus vitae pellentesque nisl. Aenean velit nibh, molestie in ullamcorper eu, vulputate non lorem. Maecenas vel odio urna.
+Whilst researching local terms to use of her home town ‘Folkestone’ I came across a digital
+copy of an old book called; 
+
+Rambles around Folkestone & other special articles & notes by "Felix". 1914.
+
+Felix was an ex editor of the Folkestone Herald. (Kent UK)
+My mother had lived in Folkestone all her life and it is where she and my father had courted.
+I managed to obtain an original hard copy of the book online, it was repaired and musty 
+but totally old and wonderful. I gifted this to my mother.
+
+In the evenings she would phone me up and tell me she had been 
+on a walk which would completely throw me into a panic until I realised 
+it was in the comfort of her own home with this book in her hands. 
+
+Being inspired by Felix and his Ramblings I decided to use the many photographs I had
+taken as a prompt to create my own ‘ramblings’
