@@ -1,7 +1,7 @@
 ---
 title: The most beautiful morning light
 description: |
-  Kingsdown beach near Deal Kent
+  Kingsdown beach near Deal Kent has the most beautiful morning light.
 aspect: landscape
 image: /img/the-most-beautiful-morning-.jpg
 width: "1161"
