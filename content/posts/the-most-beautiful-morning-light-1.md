@@ -1,5 +1,5 @@
 ---
-title: THE MOST BEAUTIFUL MORNING LIGHT
+title: The most beautiful morning light
 description: |
   Kingsdown beach near Deal Kent
 aspect: landscape
