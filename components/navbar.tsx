@@ -14,7 +14,7 @@ export default function Header() {
                     <a href="/" className="text-indigo-500 font-bold text-lg flex gap-4 items-end">
                         <span className="sr-only">Home</span>
                         <img className="max-h-20 flex-0 basis-10 hidden md:block" src={image} width={width} height={height} alt=""/>
-                        <span className="font-serif text-2xl">{name}</span>
+                        <span className="font-stamp text-2xl">{name}</span>
                     </a>
                 </div>
 

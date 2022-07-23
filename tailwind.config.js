@@ -9,6 +9,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
+        'stamp': ['Calton', ...defaultTheme.fontFamily.sans],
         'sans': ['OllieWollie', ...defaultTheme.fontFamily.sans],
         'serif': ['MiniStory', ...defaultTheme.fontFamily.serif],
       },
