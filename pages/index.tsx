@@ -27,11 +27,12 @@ const Home: NextPage = ({latest}:any) => {
             <h1 className="font-serif text-5xl">{title}</h1>
             <p>{welcome}</p>
         </div>
-        <article className='container max-w-4xl px-3 md:px-6 my-10 flex flex-col'>
-            <Postcard {...latest.attributes} />
-            <Link href={`/posts/${latest.slug}`}>
-                <a className='ml-auto underline'>Read more</a>
-            </Link>
+        <article className='container max-w-5xl px-3 md:px-6 my-10 flex flex-col'>
+            <Postcard {...latest.attributes}>
+                <Link href={`/posts/${latest.slug}`}>
+                    <a className='ml-auto underline'>Read more</a>
+                </Link>
+            </Postcard>
         </article>
         
     </>

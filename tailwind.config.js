@@ -9,8 +9,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'sans': ['Roboto', ...defaultTheme.fontFamily.sans],
-        'serif': ['MoonlessSC', ...defaultTheme.fontFamily.serif],
+        'sans': ['OllieWollie', ...defaultTheme.fontFamily.sans],
+        'serif': ['MiniStory', ...defaultTheme.fontFamily.serif],
       },
     },
     container: {

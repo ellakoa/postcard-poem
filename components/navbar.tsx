@@ -14,7 +14,7 @@ export default function Header() {
                     <a href="/" className="text-indigo-500 font-bold text-lg flex gap-4 items-end">
                         <span className="sr-only">Home</span>
                         <img className="max-h-20 flex-0 basis-10 hidden md:block" src={image} width={width} height={height} alt=""/>
-                        <span>{name}</span>
+                        <span className="font-serif text-2xl">{name}</span>
                     </a>
                 </div>
 
@@ -33,7 +33,7 @@ export default function Header() {
                         <ul className="pt-6 lg:pt-0 list-reset lg:flex justify-end flex-1 items-center">
                             { navigation.items.map(({url, text}:any, index:number) => 
                                 <li key={index} className="nav__item mr-3">
-                                    <a onClick={() => setIsOpen(false)} className="text-ml inline-block text-gray-500 no-underline hover:text-indigo-500 py-2 px-4" href={url}>{text}</a>
+                                    <a onClick={() => setIsOpen(false)} className="text-xl inline-block text-gray-500 no-underline hover:text-indigo-500 py-2 px-4" href={url}>{text}</a>
                                 </li>
                             )}
                         </ul>

@@ -7,9 +7,9 @@ import Link from 'next/link';
 export default function Post({attributes,html,next,prev}:any) {
     const { title, description, date, author } = attributes
     return (
-        <article className='container max-w-4xl px-3 md:px-6 my-10'>
+        <article className='container max-w-5xl px-3 md:px-6 my-10'>
             <header className='prose lg:prose-xl pb-5 mb-5 border-b border-gray-100 text-center mx-auto'>
-                <h1>{ title }</h1>
+                <h1 className="font-serif font-bold text-5xl">{title}</h1>
                 <p>{ description }</p>
                 <p className=" text-base leading-6 font-medium text-gray-500">
                     <time> { (new Date(date)).toDateString() } by <a>{ author }</a> </time>

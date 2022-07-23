@@ -43,6 +43,12 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Welcome message", name: "welcome", widget: "text" }
+      - label: "About content"
+        name: about
+        file: "content/about.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: Body, name: body, widget: markdown, required: true }
       - label: "Navigation"
         name: "items"
         file: "content/navigation.yaml"

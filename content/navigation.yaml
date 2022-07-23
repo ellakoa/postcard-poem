@@ -1,4 +1,6 @@
 items:
+  - text: About
+    url: /about
   - text: Posts
     url: /posts
   - text: Latest
