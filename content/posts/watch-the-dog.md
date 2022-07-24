@@ -7,7 +7,7 @@ aspect: portrait
 image: /img/picture.jpg
 width: "400"
 height: "600"
-alt: Sunflowers, bees and gatekeeper butterflies on a sunny day
+alt: Sunflowers, bees and gatekeeper butterflies on a sunny day Dogs summer
 poem: |+
   
 
@@ -37,4 +37,3 @@ stamp: /img/rose-stamp-trial.jpg
 author: Caroline Whitehouse
 date: 2022-07-24T10:58:35.956Z
 ---
-The garden through the eyes of a playful friend.
