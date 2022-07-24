@@ -5,7 +5,7 @@ aspect: portrait
 image: /img/the-gardeners-office.jpg
 width: "400"
 height: "600"
-alt: rustic window opens onto gardens with hanging flowers
+alt: "Wooden frame window rusted kettle calm view  sea lavender "
 poem: |-
   If I could just pause and gaze
   out of a window every day
