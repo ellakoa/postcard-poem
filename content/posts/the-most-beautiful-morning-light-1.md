@@ -9,8 +9,8 @@ description: |+
 
 aspect: landscape
 image: /img/blog-2.jpg
-width: "400"
-height: "400"
+width: "1500"
+height: "1006"
 alt: Beach low tide sand and chalk rusted train wheel with chain in foreground
   Kingsdown chalk cliff in distance
 poem: |-
