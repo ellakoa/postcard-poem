@@ -1,8 +1,8 @@
 ---
-title: Watch The Dog Summer
+title: Watch The Dog Summer Garden
 description: |-
   Travel through the seasons with a faithful friend
-  Starting with summer.
+  Starting with the summer garden
 aspect: portrait
 image: /img/picture.jpg
 width: "400"
@@ -20,12 +20,20 @@ poem: |+
   Hear the birds timeless chatter
   Watch the dog run and scatter.
 
+  Blue skies give way to grey
+  Summer storms on the way
+  Big fat raindrops warm and round
+  Quench the gardens dusty shroud
+  Listen in anticipation 
+  Wait for the escalation
+  Calm the dog’s trepidation.
+
 
 address: |-
-  Watch the Dog Summer
-  The Garden
+  Watch the Dog 
+  Summer Garden
   Where you live
-stamp: /img/rose-stamp.jpg
+stamp: /img/rose-stamp-trial.jpg
 author: Caroline Whitehouse
 date: 2022-07-24T10:58:35.956Z
 ---
