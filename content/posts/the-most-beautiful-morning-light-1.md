@@ -1,5 +1,5 @@
 ---
-title: The most beautiful morning light
+title: The Most Beautiful Morning Light
 description: |+
   Kingsdown beach near Deal Kent. 
   A very low spring tide reveals Oldstairs bay.
