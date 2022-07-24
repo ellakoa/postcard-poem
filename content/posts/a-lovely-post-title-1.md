@@ -1,6 +1,6 @@
 ---
-title: The Gardeners Cottage
-description: Travel back in time, The Lost Gardens of Heligan
+title: The Gardeners Office
+description: Calm your mind and imagine the view.
 aspect: portrait
 image: /img/the-gardeners-office.jpg
 width: "400"
@@ -14,13 +14,13 @@ poem: |-
 
   What was lost is now found
   Echoes of the past still surround
-  Sea lavendar's drying heads
+  Sea lavender's drying heads
   Rusted kettle on the ledge
 
-  Yellowing paint, grimy glass
+  Yellowing paint grimy glass
   Verdigris on the brass
   I would shake my cares away
-  And out of htis window simply gaze.
+  And out of this is window simply gaze.
 address: |-
   The Gardeners Office
   Pentewan
