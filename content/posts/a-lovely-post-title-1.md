@@ -1,8 +1,10 @@
 ---
-title: Lost Gardens of Heligan, Cornwall
+title: The Gardeners Cottage
+description: A delightful room captured in time, The Lost Gardens of Heligan
 aspect: portrait
-width: "629"
-height: "837"
+image: /img/the-gardeners-office.jpg
+width: "400"
+height: "600"
 alt: rustic window opens onto gardens with hanging flowers
 poem: |-
   If I could just pause and gaze
@@ -20,19 +22,14 @@ poem: |-
   I would shake my cares away
   And out of htis window simply gaze.
 address: |-
-  Lost Gardens of Heligan
+  The Gardeners Office
   Pentewan
   Cornwall
-stamp: /img/derp-cat.jpeg
+stamp: /img/stamp-heligan.jpg
 author: Caroline Whitehouse
 date: 2022-07-16T09:45:04.815Z
 tags:
   - number-2
-description: Bring to the table win-win survival strategies to ensure proactive
-  domination. At the end of the day, going forward, a new normal that has
-  evolved from generation X is on the runway heading towards a streamlined cloud
-  solution.
-image: /img/heligan.jpg
 ---
 **Test blog content**
 
