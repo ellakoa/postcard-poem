@@ -1,11 +1,15 @@
 ---
 title: The most beautiful morning light
-description: |
-  Kingsdown beach near Deal Kent has the most beautiful morning light.
+description: |+
+  Kingsdown beach near Deal Kent. 
+  A very low spring tide reveals Oldstairs bay
+  Take a walk in the bay as the sun rises
+  and the sea literally falls away.
+
 aspect: landscape
-image: /img/the-most-beautiful-morning-.jpg
-width: "1161"
-height: "1101"
+image: /img/blog-2.jpg
+width: "2400"
+height: "1612"
 alt: Beach low tide sand and chalk rusted train wheel with chain in foreground
   Kingsdown chalk cliff in distance
 poem: |-
@@ -20,14 +24,14 @@ poem: |-
   a sea that sparkles with jewels.
 
   Watch seabirds stalk the shallow waters
-  Listen as the waves gently ebb and falter
+  Hear the waves gently ebb and falter
   Amble back as the suns path grows bright
   Enjoy the most beautiful morning light.
 address: |-
   The most beautiful morning light
   Kingsdown
   Kent
-stamp: /img/stamp.png
+stamp: /img/stampand-log.jpg
 author: Caroline Whitehouse
 date: 2022-07-23T11:21:17.834Z
 ---
