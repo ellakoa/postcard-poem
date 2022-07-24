@@ -2,13 +2,15 @@
 title: Watch The Dog Summer
 description: |-
   Travel through the seasons with a faithful friend
-  Starting with summer
+  Starting with summer.
 aspect: portrait
 image: /img/picture.jpg
-width: "1031"
-height: "1500"
-alt: Sunflowers bees gatekeeper butterflies sunny day
+width: "400"
+height: "400"
+alt: Sunflowers, bees and gatekeeper butterflies on a sunny day
 poem: |+
+  
+
   Long days of summer sun
   Gardens full of life and fun
   Roses show exquisite fare 
