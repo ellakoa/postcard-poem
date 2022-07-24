@@ -8,9 +8,9 @@ description: |+
   and the sea literally falls away.
 
 aspect: landscape
-image: /img/small.jpg
-width: "425"
-height: "285"
+image: /img/blog-2.jpg
+width: "400"
+height: "400"
 alt: Beach low tide sand and chalk rusted train wheel with chain in foreground
   Kingsdown chalk cliff in distance
 poem: |-
