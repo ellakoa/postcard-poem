@@ -1,9 +1,11 @@
 ---
 title: Pools Full of Sky
+description: "The tide recedes leaving behind pools of salty water that mirror the sky. "
 aspect: landscape
+image: /img/main-pic.jpg
 width: "1168"
 height: "773"
-alt: Sunset over waterlogged sandy beach
+alt: "Pools of water on the sandy beach reflections of the sky "
 poem: |-
   Silent in reflection
   Caught in contemplation
@@ -22,14 +24,9 @@ address: |-
   Pools Full of Sky
   Kingsdown
   Kent
-stamp: /img/derp-cat.jpeg
+stamp: /img/pools-stamp.jpg
 author: Caroline Whitehouse
 date: 2022-07-17T09:56:40.372Z
 tags:
   - number-2
-description: Bring to the table win-win survival strategies to ensure proactive
-  domination. At the end of the day, going forward, a new normal that has
-  evolved from generation X is on the runway heading towards a streamlined cloud
-  solution.
-image: /img/kingsdown.jpg
 ---
