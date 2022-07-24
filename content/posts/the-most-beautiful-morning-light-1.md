@@ -29,7 +29,7 @@ poem: |-
   Amble back as the suns path grows bright
   Enjoy the most beautiful morning light.
 address: |-
-  The most beautiful morning light
+  The Most Beautiful Morning Light
   Kingsdown
   Kent
 stamp: /img/stampand-log.jpg
