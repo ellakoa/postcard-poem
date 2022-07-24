@@ -9,8 +9,8 @@ description: |+
 
 aspect: landscape
 image: /img/blog-2.jpg
-width: "1500"
-height: "1006"
+width: "600"
+height: "400"
 alt: Beach low tide sand and chalk rusted train wheel with chain in foreground
   Kingsdown chalk cliff in distance
 poem: |-
@@ -36,3 +36,4 @@ stamp: /img/stampand-log.jpg
 author: Caroline Whitehouse
 date: 2022-07-23T11:21:17.834Z
 ---
+From the collection of postcards 'Beyond the Pebbles' link to follow
