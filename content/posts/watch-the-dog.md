@@ -6,7 +6,7 @@ description: |-
 aspect: portrait
 image: /img/picture.jpg
 width: "400"
-height: "400"
+height: "600"
 alt: Sunflowers, bees and gatekeeper butterflies on a sunny day
 poem: |+
   
