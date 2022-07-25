@@ -3,16 +3,14 @@ title: The Most Beautiful Morning Light
 description: |+
   Kingsdown beach near Deal Kent. 
   A very low spring tide reveals Oldstairs bay.
-
-  Take a walk in the bay as the sun rises
-  and the sea literally falls away.
+  Take a walk in the bay as the sea literally falls away.
 
 aspect: landscape
 image: /img/blog-2.jpg
 width: "600"
 height: "400"
-alt: Beach low tide sand and chalk rusted train wheel with chain in foreground
-  Kingsdown chalk cliff in distance
+alt: Exposed rusted train wheel attached to chains, encrusted with limpets and
+  mussels, across the bay is a chalk cliff.
 poem: |-
   When the plug is pulled in the bay 
   and the sea appears to drain away 
