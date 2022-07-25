@@ -7,7 +7,7 @@ aspect: portrait
 image: /img/picture.jpg
 width: "400"
 height: "600"
-alt: Sunflowers, bees and gatekeeper butterflies on a sunny day Dogs summer
+alt: Sunflowers, bees, gatekeeper butterflies, on a very sunny sunny day.
 poem: |+
   
 
@@ -29,10 +29,9 @@ poem: |+
   Calm the dog’s trepidation.
 
 
-address: |-
+address: |
   Watch the Dog 
-  Summer Garden
-  Where you live
+  Summers Garden
 stamp: /img/rose-stamp-trial.jpg
 author: Caroline Whitehouse
 date: 2022-07-24T10:58:35.956Z
