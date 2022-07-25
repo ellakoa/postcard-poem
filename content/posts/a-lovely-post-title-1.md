@@ -5,8 +5,8 @@ aspect: portrait
 image: /img/the-gardeners-office.jpg
 width: "400"
 height: "600"
-alt: Partially open wooden frame window, six panes of glass in each window,
-  looking out of an old outbuilding.
+alt: Partially open wooden frame window, six panes of glass in each, looking out
+  of an old outbuilding.
 poem: |-
   If I could just pause and gaze
   out of a window every day
