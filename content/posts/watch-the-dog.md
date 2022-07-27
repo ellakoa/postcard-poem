@@ -1,5 +1,5 @@
 ---
-title: Watch The Dog Summer Garden
+title: Watch The Dog
 description: |-
   Travel through the seasons with a faithful friend
   Starting with the summer garden
@@ -31,8 +31,9 @@ poem: |+
 
 address: |
   Watch the Dog 
-  Summers Garden
-stamp: /img/rose-stamp-trial.jpg
+  Summer
+  Garden
+stamp: /img/dog-stamp.jpg
 author: Caroline Whitehouse
 date: 2022-07-24T10:58:35.956Z
 ---
