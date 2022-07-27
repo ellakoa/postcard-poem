@@ -1,5 +1,5 @@
 ---
-title: The Gardeners Office
+title: The Garden Office
 description: Calm your mind and imagine the view.
 aspect: portrait
 image: /img/the-gardeners-office.jpg
@@ -22,9 +22,9 @@ poem: |-
   Verdigris on the brass
   I would shake my cares away
   And out of this window simply gaze.
-address: |-
-  The Gardeners Office
-  Pentewan
+address: |
+  The Garden Office
+  Lost Gardens of Heligan
   Cornwall
 stamp: /img/stamp-heligan.jpg
 author: Caroline Whitehouse
