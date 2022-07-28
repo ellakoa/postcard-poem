@@ -45,12 +45,12 @@ date: 2022-07-27T17:32:54.547Z
 Lashed with rain on our outward ride \
 We arrived under a thunderous sky\
 Flanked by inquisitive seals, our first\
-glimpse of the sandbanks chilled
-Surrounded by the unpredictable sea \
+glimpse of the sandbanks chilled\
+Surrounded by the unpredictable sea\
 Would it swallow us up or let us be?
 
 With trepidation, we stepped ashore, \
-Trespasses on these famed sands
+Trespasses on these famed sands \
 The sun appeared, a rainbow transpired
 An amnesty? We hoped \
 While the tide had other shores to scope.
@@ -62,19 +62,20 @@ if we overstayed our precious tour.
 
 We saw no ghosts, heard no eerie sighs\
 No ringing of bells in the distant swell\
-Just beautiful sands for miles and miles
-Peaceful, surreal, virgin land each tide
+Just beautiful sands for miles and miles \
+Peaceful, surreal, virgin land each tide \
 Were we being mesmerised?
 
-We weren't fooled by the soulful pools
-The sculptured sands a beauty wrought 
-by the restless sea, a jealous master 
-who guards, then strikes 
-extinguishing the lights of men
-binding crew and their doomed ships
+We weren't fooled by the soulful pools \
+The sculptured sands a beauty wrought \
+by the restless sea, a jealous master  \
+who guards, then strikes  \
+extinguishing the lights of men \
+binding crew and their doomed ships \
 to the shifting sands, eclipsed.
 
 We left the sands before the seas interception
 Bowed our heads in silent reflection
 A place of tragedy of many lives lost
-The Goodwin Sands are there….   and then, they are not.
+The Goodwin Sands are there….   \
+and then..... they are not.
