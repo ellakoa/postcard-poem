@@ -8,11 +8,11 @@ description: >-
 
   An insert of the poem is on the postcard. I have included the complete poem underneath.
 aspect: landscape
-image: /img/goodwin-sands.jpg
+image: /img/goodwin.jpg
 width: "600"
 height: "400"
-alt: Rainbow arching across a grey stormy sky, undulating sandbanks moulded by
-  the sea.
+alt: grey stormy sky clearing, undulating sandbanks, white chalk cliffs in the
+  distance
 poem: |-
   We saw no ghosts heard no eerie sighs
   No ringing of bells in the distant swell
