@@ -1,13 +1,13 @@
 ---
 title: Watch The Dog
 description: |-
-  Travel through the seasons with a faithful friend
-  Starting with the summer garden
+  Travel through the seasons with a faithful friend.
+  Starting with the garden in summer
 aspect: portrait
 image: /img/picture.jpg
 width: "400"
 height: "600"
-alt: Sunflowers, bees, gatekeeper butterflies, on a very sunny sunny day.
+alt: Sunflowers, bees, gatekeeper butterflies, on a very sunny day.
 poem: |+
   
 
@@ -37,3 +37,9 @@ stamp: /img/dog-stamp.jpg
 author: Caroline Whitehouse
 date: 2022-07-24T10:58:35.956Z
 ---
+### **Comming soon**
+
+Look out for autumn, winter and spring gardens.
+
+\
+Links to the postcards will appear here once they are published.
