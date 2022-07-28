@@ -6,7 +6,7 @@ description: >-
 
   To visit is like stepping into a different dimension, to write about them demanded so much more than a few lines. 
 
-  An insert of the poem is on the postcard. I have included the full poem underneath.
+  An insert of the poem is on the postcard. I have included the complete poem underneath.
 aspect: landscape
 image: /img/goodwin-sands.jpg
 width: "600"
@@ -38,21 +38,30 @@ stamp: /img/stamp-there-then-not.jpg
 author: Caroline Whitehouse
 date: 2022-07-27T17:32:54.547Z
 ---
-Read the full poem here.
+**Read the complete poem here.**
 
-Lashed with rain on our outward ride we arrived under thunderous skies
-Flanked by inquisitive seals our first glimpse of the sandbanks chilled
-Surrounded by the unpredictable sea would it swallow us up or let us be?
+### **There..... Then Not.**
 
-With trepidation, we stepped ashore, trespasses on these famed sands
+Lashed with rain on our outward ride \
+We arrived under a thunderous sky\
+Flanked by inquisitive seals, our first\
+glimpse of the sandbanks chilled
+Surrounded by the unpredictable sea \
+Would it swallow us up or let us be?
+
+With trepidation, we stepped ashore, \
+Trespasses on these famed sands
 The sun appeared, a rainbow transpired
-An amnesty? We hoped while the tide had other shores to scope.
+An amnesty? We hoped \
+While the tide had other shores to scope.
 
-Respectfully we trod the sands forever mindful of those who had
-gone before and what could ensue if we overstayed our precious tour.
+Respectfully we trod the sands \
+Forever mindful of those who had \
+gone before and what could ensue \
+if we overstayed our precious tour.
 
-We saw no ghosts, heard no eerie sighs
-No ringing of bells in the distant swell
+We saw no ghosts, heard no eerie sighs\
+No ringing of bells in the distant swell\
 Just beautiful sands for miles and miles
 Peaceful, surreal, virgin land each tide
 Were we being mesmerised?
