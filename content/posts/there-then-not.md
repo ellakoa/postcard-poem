@@ -74,7 +74,7 @@ extinguishing the lights of men \
 binding crew and their doomed ships \
 to the shifting sands, eclipsed.
 
-We left the sands before the seas interception \
+We left before the seas interception \
 Bowed our heads in silent reflection \
 A place of tragedy of many lives lost\
 The Goodwin Sands are there….   \
