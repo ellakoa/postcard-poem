@@ -51,7 +51,7 @@ Would it swallow us up or let us be?
 
 With trepidation, we stepped ashore, \
 Trespasses on these famed sands \
-The sun appeared, a rainbow transpired
+The sun appeared, a rainbow transpired \
 An amnesty? We hoped \
 While the tide had other shores to scope.
 
@@ -74,8 +74,8 @@ extinguishing the lights of men \
 binding crew and their doomed ships \
 to the shifting sands, eclipsed.
 
-We left the sands before the seas interception
-Bowed our heads in silent reflection
-A place of tragedy of many lives lost
+We left the sands before the seas interception \
+Bowed our heads in silent reflection \
+A place of tragedy of many lives lost\
 The Goodwin Sands are there….   \
 and then..... they are not.
