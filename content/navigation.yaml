@@ -5,5 +5,3 @@ items:
     url: /posts
   - text: Latest
     url: /posts/a-lovely-post-title
-  - text: Collections
-    url: /posts/collections
