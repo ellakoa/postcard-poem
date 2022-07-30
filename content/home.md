@@ -3,5 +3,6 @@ title: Postcard Poems
 welcome: |
   Postcards
   Lovely to send, even lovelier to receive
-  or for just collecting and creating memories.
+  Wanting to share the joy of a place, a moment in time.
+  Or for just collecting and saving memories.
 ---
