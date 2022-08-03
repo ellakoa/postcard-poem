@@ -6,7 +6,7 @@ description: >-
 
   To visit is like stepping into a different dimension, to write about them demanded so much more than a few lines. 
 
-  This is part one
+  The Poem is in Three Parts. This is part one
 aspect: landscape
 image: /img/there-then-not1.jpg
 width: "600"
@@ -30,7 +30,7 @@ address: |-
   There Then Not
   The Goodwin Sands
   6 miles offshore Deal
-stamp: /img/stamp-there-then-not.jpg
+stamp: /img/stamp1.jpg
 author: Caroline Whitehouse
 date: 2022-07-27T17:32:54.547Z
 ---
