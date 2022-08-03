@@ -29,7 +29,7 @@ address: |-
   There Then Not
   The Goodwin Sands
   6 miles offshore Deal
-stamp: /img/stamp-2.jpg
+stamp: /img/stamp-2a.jpg
 author: Caroline Whitehouse
 date: 2022-08-03T16:37:48.854Z
 ---
