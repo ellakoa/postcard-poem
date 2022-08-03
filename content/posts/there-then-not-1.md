@@ -1,0 +1,36 @@
+---
+title: There Then Not
+description: >-
+  The Goodwin Sands are sandbanks that shift and change keeping their secrets
+  hidden. 
+
+  To visit is like stepping into a different dimension, to write about them demanded so much more than a few lines. 
+
+  The poem is in three parts. This is part two
+aspect: landscape
+image: /img/part-two.jpg
+width: "600"
+height: "400"
+alt: Silhouette of a man walking along a beautiful shoreline, in the distance, a
+  tanker is anchored by the sandbanks
+poem: |-
+  Part two
+  Respectfully we trod the sands
+  Forever mindful of those who had
+  gone before and what could ensue 
+  If we overstayed this precious tour.
+
+  We saw no ghosts, heard no eerie sighs
+  No ringing of bells in the distant swell
+  Just beautiful sands for miles and miles
+  Peaceful, surreal, virgin land each tide
+  Were we being mesmerised?
+address: |-
+  There Then Not
+  The Goodwin Sands
+  6 miles offshore Deal
+stamp: /img/stamp-2.jpg
+author: Caroline Whitehouse
+date: 2022-08-03T16:37:48.854Z
+---
+**Part three to follow.**
