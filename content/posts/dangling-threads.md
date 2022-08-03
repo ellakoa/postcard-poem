@@ -3,9 +3,9 @@ title: Dangling Threads
 description: "Hazel catkins the first signs that winter is almost done and
   spring is on the way. "
 aspect: landscape
-image: /img/picture-dangling-threads.jpg
-width: "600"
-height: "400"
+image: /img/picture-dangling-threads2.jpg
+width: "400"
+height: "600"
 alt: Looking up through tree branches with colourful stained glass effect
   joining the branches.
 poem: |-
