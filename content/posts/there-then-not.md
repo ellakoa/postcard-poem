@@ -6,7 +6,7 @@ description: >-
 
   To visit is like stepping into a different dimension, to write about them demanded so much more than a few lines. 
 
-  The Poem is in Three Parts. This is part one
+  The poem is in three parts. This is part one
 aspect: landscape
 image: /img/there-then-not1.jpg
 width: "600"
