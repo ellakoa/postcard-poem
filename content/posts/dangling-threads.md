@@ -2,7 +2,7 @@
 title: Dangling Threads
 description: "Hazel catkins the first signs that winter is almost done and
   spring is on the way. "
-aspect: landscape
+aspect: portrait
 image: /img/picture-dangling-threads.jpg
 width: "400"
 height: "600"
