@@ -1,5 +1,5 @@
 ---
-title: There Then Not
+title: There Then Not part two
 description: >-
   The Goodwin Sands are sandbanks that shift and change keeping their secrets
   hidden. 
@@ -29,8 +29,10 @@ address: |-
   There Then Not
   The Goodwin Sands
   6 miles offshore Deal
-stamp: /img/stamp-2a.jpg
+stamp: /img/stamp-2.jpg
 author: Caroline Whitehouse
 date: 2022-08-03T16:37:48.854Z
 ---
+**Link to part one to follow**
+
 **Part three to follow.**
