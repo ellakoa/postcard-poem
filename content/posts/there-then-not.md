@@ -1,5 +1,5 @@
 ---
-title: There Then Not
+title: There Then Not part one
 description: >-
   The Goodwin Sands are sandbanks that shift and change keeping their secrets
   hidden. 
@@ -34,4 +34,6 @@ stamp: /img/stamp1.jpg
 author: Caroline Whitehouse
 date: 2022-07-27T17:32:54.547Z
 ---
-**Part two and part three to follow.**
+**Part two link to follow** 
+
+**Part three to follow.**
