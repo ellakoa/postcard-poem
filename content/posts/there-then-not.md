@@ -1,37 +1,37 @@
 ---
-title: There Then Not part one
-description: >-
-  The Goodwin Sands are sandbanks that shift and change keeping their secrets
-  hidden. 
-
-  To visit is like stepping into a different dimension, to write about them demanded so much more than a few lines. 
-
-  The poem is in three parts. This is part one
+title: The Most Beautiful Morning Light
+description: |-
+  Kingsdown beach near Deal Kent. 
+  A very low spring tide reveals Oldstairs bay.
+  Take a walk in the bay as the sea literally falls away.
+  Part of a collection of postcards 'Beyond the Pebbles'
 aspect: landscape
-image: /img/there-then-not1.jpg
+image: /img/blog-2.jpg
 width: "600"
 height: "400"
-alt: grey stormy sky clearing, undulating sandbanks, white chalk cliffs in the
-  distance
+alt: Exposed rusted train wheel attached to chains, encrusted with limpets and
+  mussels, across the bay is a chalk cliff.
 poem: |-
-  Lashed with rain on our outward ride 
-  We arrived under a thunderous sky
-  Flanked by inquisitive seals, our first
-  glimpse of the sandbanks chilled
-  Surrounded by the unpredictable sea
-  Would it swallow us up or let us be?
+  When the plug is pulled in the bay 
+  and the sea appears to drain away 
+  take an early morning walk across 
+  the shore with the whitest chalk.
 
-  With trepidation, we stepped ashore
-  Trespasses on these famed sands 
-  The sun appeared, a rainbow transpired 
-  An amnesty? We hoped 
-  While the tide had other shores to scope.
+  Stroll beyond the rolling pebbles and
+  the groynes that reach onto the levels
+  Skirt around the sandy pools towards
+  a sea that sparkles with jewels.
+
+  Watch seabirds stalk the shallow waters
+  Hear the waves gently ebb and falter
+  Amble back as the suns path grows bright
+  Enjoy the most beautiful morning light.
 address: |-
-  There Then Not
-  The Goodwin Sands
-  6 miles offshore Deal
-stamp: /img/stamp1.jpg
+  The Most Beautiful Morning Light
+  Kingsdown
+  Kent
+stamp: /img/stampand-log.jpg
 author: Caroline Whitehouse
 date: 2022-07-27T17:32:54.547Z
 ---
-**Look out for part two and part three.**
+From the collection of postcards 'Beyond the Pebbles'
