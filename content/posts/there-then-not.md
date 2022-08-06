@@ -1,37 +1,21 @@
 ---
-title: The Most Beautiful Morning Light
-description: |-
-  Kingsdown beach near Deal Kent. 
-  A very low spring tide reveals Oldstairs bay.
-  Take a walk in the bay as the sea literally falls away.
-  Part of a collection of postcards 'Beyond the Pebbles'
+title: "New postcard "
+description: Join us this Sunday for a walk in the bay.
 aspect: landscape
-image: /img/blog-2.jpg
+image: /img/morning-light.jpg
 width: "600"
 height: "400"
-alt: Exposed rusted train wheel attached to chains, encrusted with limpets and
-  mussels, across the bay is a chalk cliff.
+alt: A tall beach sentry exposed at low tide. Bright sunlight radiates from the
+  open cage mimicking a street lamp post.
 poem: |-
-  When the plug is pulled in the bay 
-  and the sea appears to drain away 
-  take an early morning walk across 
-  the shore with the whitest chalk.
-
-  Stroll beyond the rolling pebbles and
-  the groynes that reach onto the levels
-  Skirt around the sandy pools towards
-  a sea that sparkles with jewels.
-
-  Watch seabirds stalk the shallow waters
-  Hear the waves gently ebb and falter
-  Amble back as the suns path grows bright
-  Enjoy the most beautiful morning light.
+  Introducing a collection of Postcards called
+  'Beyond The Pebbles'
+  Read the first one this coming Sunday
+  Titled 'The Most Beautiful Morning Light'
 address: |-
-  The Most Beautiful Morning Light
-  Kingsdown
-  Kent
-stamp: /img/stampand-log.jpg
+  Postcard Poems
+  Postcard Poems.co.uk
+stamp: /img/logo-svg.svg
 author: Caroline Whitehouse
 date: 2022-07-27T17:32:54.547Z
 ---
-From the collection of postcards 'Beyond the Pebbles'
