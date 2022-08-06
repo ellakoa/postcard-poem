@@ -9,8 +9,8 @@ description: >-
   The poem is in three parts. This is part one
 aspect: landscape
 image: /img/there-then-not1.jpg
-width: "400"
-height: "600"
+width: "600"
+height: "400"
 alt: grey stormy sky clearing, undulating sandbanks, white chalk cliffs in the
   distance
 poem: |-
