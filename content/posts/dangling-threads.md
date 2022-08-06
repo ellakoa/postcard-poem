@@ -34,4 +34,4 @@ stamp: /img/stamp1.jpg
 author: Caroline Whitehouse
 date: 2022-07-31T07:00:14.169Z
 ---
-**Look out for part two and part three.**
+**Look out for part two next Wednesday**
