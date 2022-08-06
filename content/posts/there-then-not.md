@@ -34,6 +34,4 @@ stamp: /img/stamp1.jpg
 author: Caroline Whitehouse
 date: 2022-07-27T17:32:54.547Z
 ---
-**Part two link to follow** 
-
-**Part three to follow.**
+**Look out for part two and part three.**
