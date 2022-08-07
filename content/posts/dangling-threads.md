@@ -6,13 +6,13 @@ description: >-
 
   To visit is like stepping into a different dimension, to write about them demanded so much more than a few lines. 
 
-  The poem is in three parts. This is part one
+  The poem is in three parts. This is part three
 aspect: landscape
-image: /img/there-then-not1.jpg
+image: /img/part-3.jpg
 width: "600"
 height: "400"
-alt: grey stormy sky clearing, undulating sandbanks, white chalk cliffs in the
-  distance
+alt: Sandbanks, separated by deep pools of water, the sand has been worked into
+  intricate patterns by the sea.
 poem: |-
   We weren't fooled by the soulful pools
   The sculptured sands, a beauty wrought 
