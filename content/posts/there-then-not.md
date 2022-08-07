@@ -1,17 +1,18 @@
 ---
 title: "New postcard "
-description: Join us this Sunday for a walk in the bay.
+description: |-
+  New Postcard 'There Then Not' The Goodwin Sands
+  The poem is in three parts look out for part one on Sunday
 aspect: landscape
-image: /img/morning-light.jpg
+image: /img/goodwin.jpg
 width: "600"
 height: "400"
-alt: A tall beach sentry exposed at low tide. Bright sunlight radiates from the
-  open cage mimicking a street lamp post.
+alt: The Goodwin sandbanks looking back to the shore line and white cliffs of St
+  Margaret's, Kingsdown and Deal
 poem: |-
-  Introducing a collection of Postcards called
-  'Beyond The Pebbles'
-  Read the first one this coming Sunday
-  Titled 'The Most Beautiful Morning Light'
+  Introducing a collection of Postcards 
+  'There Then Not'
+  Describing a visit to the Goodwin Sands.
 address: |-
   Postcard Poems
   Postcard Poems.co.uk
