@@ -14,7 +14,6 @@ height: "400"
 alt: Silhouette of a man walking along a beautiful shoreline, in the distance, a
   tanker is anchored by the sandbanks
 poem: |-
-  Part two
   Respectfully we trod the sands
   Forever mindful of those who had
   gone before and what could ensue 
@@ -33,6 +32,6 @@ stamp: /img/stamp-2.jpg
 author: Caroline Whitehouse
 date: 2022-08-03T16:37:48.854Z
 ---
-**Link to part one to follow**
+**If you missed part one find it in past posts**
 
 **Part three to follow.**
