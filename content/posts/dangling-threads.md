@@ -38,4 +38,4 @@ date: 2022-08-07T12:03:00.940Z
 ---
 **The final part of this poem, if you missed part one and two**
 
-**Check them out the past posts**
+**Check them out in past posts**
