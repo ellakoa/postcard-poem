@@ -9,10 +9,15 @@ width: "600"
 height: "400"
 alt: The Goodwin sandbanks looking back to the shore line and white cliffs of St
   Margaret's, Kingsdown and Deal
-poem: |-
+poem: |+
+  
+
+
   Introducing a collection of Postcards 
   'There Then Not'
   Describing a visit to the Goodwin Sands.
+
+
 address: |-
   Postcard Poems
   Postcard Poems.co.uk
