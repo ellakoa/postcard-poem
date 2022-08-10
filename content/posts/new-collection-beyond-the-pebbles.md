@@ -10,7 +10,7 @@ width: "600"
 height: "400"
 alt: Rivulets of sand have drawn the outline of a face with flowing hair. Flint
   pebbles mark the eyes and a sultry mouth.
-poem: |-
+poem: |+
   
 
 
@@ -19,6 +19,8 @@ poem: |-
   A collection of poems and images
   Inspired by Oldstairs bay
   Kingsdown.
+
+
 address: |-
   Oldstairs Bay
   Kingsdown
