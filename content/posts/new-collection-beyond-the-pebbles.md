@@ -4,7 +4,7 @@ description: |-
   Introducing a new collection of 'Postcards called 'Beyond the Pebbles'
   Keep a look out for these new postcards and enjoy a walk in the bay.
 aspect: landscape
-image: /img/face.jpg
+image: /img/face72.jpg
 width: "600"
 height: "400"
 alt: Rivulets of sand have drawn the outline of a face with flowing hair. Flint
