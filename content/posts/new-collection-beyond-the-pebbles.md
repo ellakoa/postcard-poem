@@ -2,8 +2,7 @@
 title: New Collection 'Beyond the Pebbles'
 description: |-
   Introducing a new collection of 'Postcards called 'Beyond the Pebbles'
-  There will be a postcard from this collection released once a month.
-  Enjoy a walk in the bay.
+  Keep a look out for these new postcards and enjoy a walk in the bay.
 aspect: landscape
 image: /img/face.jpg
 width: "600"
