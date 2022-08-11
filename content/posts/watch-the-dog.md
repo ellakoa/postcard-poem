@@ -4,7 +4,7 @@ description: |-
   Travel through the seasons with a faithful friend.
   Starting with the garden in summer
 aspect: portrait
-image: /img/picture.jpg
+image: /img/watch-dog-summer-.jpg
 width: "400"
 height: "600"
 alt: Sunflowers, bees, gatekeeper butterflies, on a very sunny day.
