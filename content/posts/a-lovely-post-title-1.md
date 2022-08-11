@@ -8,7 +8,7 @@ description: >-
 
   The poem is in three parts. This is part one
 aspect: landscape
-image: /img/there-then-not1.jpg
+image: /img/goodwin-sands-one-9543.jpg
 width: "600"
 height: "400"
 alt: Rainbow arching across a grey stormy sky, undulating sandbanks moulded by
