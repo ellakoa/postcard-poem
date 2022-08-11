@@ -4,7 +4,7 @@ description: |-
   New Postcard 'There Then Not' The Goodwin Sands
   The poem is in three parts look out for part one on Sunday
 aspect: landscape
-image: /img/goodwin.jpg
+image: /img/goodwin-sands-new-post-.jpg
 width: "600"
 height: "400"
 alt: The Goodwin sandbanks looking back to the shore line and white cliffs of St
