@@ -8,7 +8,7 @@ description: >-
 
   The poem is in three parts. This is part two
 aspect: landscape
-image: /img/part-twoa.jpg
+image: /img/goodwin-sands-two-9615.jpg
 width: "600"
 height: "400"
 alt: Silhouette of a man walking along a beautiful shoreline, in the distance, a
