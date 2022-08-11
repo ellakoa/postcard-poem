@@ -8,7 +8,7 @@ description: >-
 
   The poem is in three parts. This is part three
 aspect: landscape
-image: /img/part-3.jpg
+image: /img/goodwin-sands-three-.jpg
 width: "600"
 height: "400"
 alt: Sandbanks, separated by deep pools of water, the sand has been worked into
