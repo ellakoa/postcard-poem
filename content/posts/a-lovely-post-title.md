@@ -4,7 +4,7 @@ description: >
   Some things are better when they are old. Things that were thought lost but
   then found come with a certain nostalgia.
 aspect: portrait
-image: /img/the-gardeners-office.jpg
+image: /img/garden-office-heligan-2.jpg
 width: "400"
 height: "600"
 alt: Partially open wooden frame window, six panes of glass in each, looking out
