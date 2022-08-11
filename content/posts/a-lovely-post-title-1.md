@@ -1,12 +1,12 @@
 ---
 title: There Then Not part one
 description: >-
-  The Goodwin Sands are sandbanks that shift and change keeping their secrets
+  The Goodwin Sands are sandbanks that shift and change, keeping their secrets
   hidden. 
 
-  To visit is like stepping into a different dimension, to write about them demanded so much more than a few lines. 
+  To visit is like stepping into a different dimension. To write about the sandbanks demanded so much more than a few lines. 
 
-  The poem is in three parts. This is part one
+  The poem is in three parts. Below is part one.
 aspect: landscape
 image: /img/goodwin-sands-one-9543.jpg
 width: "600"
@@ -20,7 +20,7 @@ poem: |-
 
   With trepidation we stepped ashore, trespasses on these famed sands
   The sun appeared, a rainbow transpired
-  An amnesty? We hoped, while the tide had other shores to scope.
+  An amnesty? We hoped while the tide had other shores to scope.
 address: |
   There Then Not
   The Goodwin Sands
