@@ -9,19 +9,19 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'stamp': ['Calton', ...defaultTheme.fontFamily.sans],
-        'sans': ['OllieWollie', ...defaultTheme.fontFamily.sans],
-        'serif': ['MiniStory', ...defaultTheme.fontFamily.serif],
+        stamp: ['Calton', ...defaultTheme.fontFamily.sans],
+        sans: ['OllieWollie', ...defaultTheme.fontFamily.sans],
+        serif: ['MiniStory', ...defaultTheme.fontFamily.serif],
       },
     },
     container: {
       center: true,
       sizes: {
-        'sm': '640px',
-        'md': '768px',
-        'lg': '1024px',
-      }
-    }
+        sm: '640px',
+        md: '768px',
+        lg: '1024px',
+      },
+    },
   },
-  plugins: [require('@tailwindcss/typography'),],
+  plugins: [require('@tailwindcss/typography')],
 }

@@ -1,3 +1,3 @@
-declare module "*.md";
-declare module "*.yaml";
-declare module "*.yml";
+declare module '*.md'
+declare module '*.yaml'
+declare module '*.yml'

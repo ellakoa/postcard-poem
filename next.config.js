@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
-const withYaml = require('next-plugin-yaml');
+const withYaml = require('next-plugin-yaml')
 
 module.exports = withYaml({
   reactStrictMode: true,
@@ -16,13 +16,11 @@ module.exports = withYaml({
     ]
   },
   webpack: (cfg) => {
-    cfg.module.rules.push(
-      {
-        test: /\.md$/,
-        loader: 'frontmatter-markdown-loader',
-        options: {  }
-      }
-    )
-    return cfg;
-  }
+    cfg.module.rules.push({
+      test: /\.md$/,
+      loader: 'frontmatter-markdown-loader',
+      options: {},
+    })
+    return cfg
+  },
 })
