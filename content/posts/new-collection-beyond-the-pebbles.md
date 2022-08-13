@@ -2,7 +2,7 @@
 title: New Collection 'Beyond the Pebbles'
 description: |-
   Introducing a new collection of 'Postcards called 'Beyond the Pebbles'
-  Keep checking back for these postcards. Enjoy a walk in the bay.
+  Keep checking back for these postcards and enjoy a walk in the bay.
 aspect: landscape
 image: /img/beyond-pebbles-face-kingsdown.jpg
 width: "600"
