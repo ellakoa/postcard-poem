@@ -1,28 +1,41 @@
 ---
-title: Dangling Threads
-description: "Hazel catkins the first signs that winter is almost done and
-  spring is on the way. "
+title: There Then Not part three
+description: >-
+  The Goodwin Sands are sandbanks that shift and change keeping their secrets
+  hidden. 
+
+  To visit is like stepping into a different dimension, to write about them demanded so much more than a few lines. 
+
+  The poem is in three parts. This is part three
 aspect: landscape
-image: /img/picture-dangling-threads.jpg
-width: "400"
-height: "600"
-alt: Looking up through tree branches with colourful stained glass effect
-  joining the branches.
+image: /img/goodwin-sands-three-.jpg
+width: "600"
+height: "400"
+alt: Sandbanks, separated by deep pools of water, the sand has been worked into
+  intricate patterns by the sea.
 poem: |-
-  The woodlands loom starts to wake
-  As winter removes it’s holding break
-  Day and night begin to balance
-  A test is run, a simple valance
-  Catkins unfurl and sway like threads
-  Dangling over the woodland bed
-  A welcome frieze of yellow and green
-  Heralding spring in bare winter scenes
+  We weren't fooled by the soulful pools
+  The sculptured sands, a beauty wrought 
+  by the restless sea, a jealous master 
+  who guards, then strikes 
+  extinguishing the lights of men
+  binding crew and their doomed ships
+  to the shifting sands, eclipsed.
+
+  We left the sands before the sea’s interception
+  Bowed our heads in silent reflection
+  A place of tragedy of many lives lost
+  The Goodwin Sands are there….
+
+  And then, they are not.
 address: |-
-  Dangling Threads
-  Frandham Woods
-  Dover Kent
-stamp: /img/stamp-dangling-threads.jpg
+  There Then Not
+  The Goodwin Sands
+  6 miles offshore Deal
+stamp: /img/stamp1.jpg
 author: Caroline Whitehouse
-date: 2022-07-31T07:00:14.169Z
+date: 2022-08-07T12:03:00.940Z
 ---
-Part of a collection of poems **Woodland Tapestries**
+**The final part of this poem, if you missed part one and two**
+
+**Check them out in past posts**

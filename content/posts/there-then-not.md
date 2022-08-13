@@ -1,81 +1,27 @@
 ---
-title: There Then Not
-description: >-
-  The Goodwin Sands are sandbanks that shift and change keeping their secrets
-  hidden. 
-
-  To visit is like stepping into a different dimension, to write about them demanded so much more than a few lines. 
-
-  An insert of the poem is on the postcard. I have included the complete poem underneath.
+title: "New postcard "
+description: |-
+  New Postcard 'There Then Not' The Goodwin Sands
+  The poem is in three parts look out for part one on Sunday
 aspect: landscape
-image: /img/goodwin.jpg
+image: /img/goodwin-sands-new-post-.jpg
 width: "600"
 height: "400"
-alt: grey stormy sky clearing, undulating sandbanks, white chalk cliffs in the
-  distance
-poem: |-
-  We saw no ghosts heard no eerie sighs
-  No ringing of bells in the distant swell
-  Just beautiful sands for miles and miles
-  Peaceful, surreal, virgin land each tide
-  Were we being mesmerised?
+alt: The Goodwin sandbanks looking back to the shore line and white cliffs of St
+  Margaret's, Kingsdown and Deal
+poem: |+
+  
 
-  We weren't fooled by the soulful pools
-  The sculptured sands, a beauty wrought 
-  by the restless sea, a jealous master 
-  who guards, then strikes 
-  extinguishing the lights of men
-  binding crew and their doomed ships
-  to the shifting sands, eclipsed.
-  A place of tragedy of many lives lost
-  The Goodwin Sands are there…..
-  And then..... they are not.
+
+  Introducing a collection of Postcards 
+  'There Then Not'
+  Describing a visit to the Goodwin Sands.
+
+
 address: |-
-  There Then Not
-  The Goodwin Sands
-  6 miles offshore Deal
-stamp: /img/stamp-there-then-not.jpg
+  Postcard Poems
+  Postcard Poems.co.uk
+stamp: /img/logo-svg.svg
 author: Caroline Whitehouse
 date: 2022-07-27T17:32:54.547Z
 ---
-**Read the complete poem here.**
-
-### **There..... Then Not.**
-
-Lashed with rain on our outward ride \
-We arrived under a thunderous sky\
-Flanked by inquisitive seals, our first\
-glimpse of the sandbanks chilled\
-Surrounded by the unpredictable sea\
-Would it swallow us up or let us be?
-
-With trepidation, we stepped ashore, \
-Trespasses on these famed sands \
-The sun appeared, a rainbow transpired \
-An amnesty? We hoped \
-While the tide had other shores to scope.
-
-Respectfully we trod the sands \
-Forever mindful of those who had \
-gone before and what could ensue \
-if we overstayed our precious tour.
-
-We saw no ghosts, heard no eerie sighs\
-No ringing of bells in the distant swell\
-Just beautiful sands for miles and miles \
-Peaceful, surreal, virgin land each tide \
-Were we being mesmerised?
-
-We weren't fooled by the soulful pools \
-The sculptured sands a beauty wrought \
-by the restless sea, a jealous master  \
-who guards, then strikes  \
-extinguishing the lights of men \
-binding crew and their doomed ships \
-to the shifting sands, eclipsed.
-
-We left before the seas interception \
-Bowed our heads in silent reflection \
-A place of tragedy of many lives lost\
-The Goodwin Sands are there….   \
-and then..... they are not.
