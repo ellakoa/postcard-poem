@@ -3,8 +3,7 @@ const withYaml = require('next-plugin-yaml')
 
 module.exports = withYaml({
   images: {
-    domains: ["postcardpoems.co.uk"],
-    formats: ["image/webp"],
+    domains: ['postcardpoems.co.uk', 'www.postcardpoems.co.uk'],
   },
   reactStrictMode: true,
   async rewrites() {
