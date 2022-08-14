@@ -20,13 +20,13 @@ export default function Post({ attributes, html, next, prev }: any) {
         </p>
       </header>
       <Postcard {...attributes} />
-      {!!collection && (
+      {/* {!!collection && (
         <Link href={`/posts?collection=${collection}`}>
           <a className='text-center block hover:underline'>
             Visit collection: {collection}
           </a>
         </Link>
-      )}
+      )} */}
 
       {html && (
         <div
