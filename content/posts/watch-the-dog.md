@@ -35,7 +35,7 @@ address: |
   Summer
   Garden
 stamp: /img/dog-stamp.jpg
-stampWidth: "600"
+stampWidth: "400"
 stampHeight: "400"
 author: Caroline Whitehouse
 date: 2022-07-24T10:58:35.956Z
