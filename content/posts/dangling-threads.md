@@ -22,7 +22,7 @@ poem: |-
   binding crew and their doomed ships
   to the shifting sands, eclipsed.
 
-  We left the sands before the sea’s interception
+  We left before the sea’s interception
   Bowed our heads in silent reflection
   A place of tragedy of many lives lost
   The Goodwin Sands are there….
@@ -33,6 +33,8 @@ address: |-
   The Goodwin Sands
   6 miles offshore Deal
 stamp: /img/stamp1.jpg
+stampWidth: "200"
+stampHeight: "400"
 author: Caroline Whitehouse
 date: 2022-08-07T12:03:00.940Z
 ---
