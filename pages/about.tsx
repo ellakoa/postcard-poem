@@ -25,7 +25,6 @@ export async function getStaticProps() {
       notFound: true,
     }
   }
-  console.log(markdown)
   return {
     props: { attributes, html }, // will be passed to the page component as props
   }
