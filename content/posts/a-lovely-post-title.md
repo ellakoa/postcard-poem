@@ -3,6 +3,7 @@ title: The Garden Office
 description: >
   Some things are better when they are old. Things that were thought lost but
   then found come with a certain nostalgia.
+collection: Nostalgia
 aspect: portrait
 image: /img/garden-office-heligan-2.jpg
 width: "400"
@@ -27,6 +28,8 @@ address: |-
   Lost Gardens of Heligan
   Cornwall
 stamp: /img/stamp-heligan.jpg
+stampWidth: "600"
+stampHeight: "400"
 author: Caroline Whitehouse
 date: 2022-07-17T09:56:40.372Z
 tags:
