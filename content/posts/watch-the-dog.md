@@ -3,6 +3,7 @@ title: Watch The Dog
 description: |-
   Travel through the seasons with a faithful friend.
   Starting with the garden in summer.
+collection: Watch the Dog
 aspect: portrait
 image: /img/watch-dog-summer-.jpg
 width: "400"
