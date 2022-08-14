@@ -7,6 +7,7 @@ description: >-
   To visit is like stepping into a different dimension, to write about them demanded so much more than a few lines. 
 
   The poem is in three parts. This is part two
+collection: There Then Not
 aspect: landscape
 image: /img/goodwin-sands-two-9615.jpg
 width: "600"

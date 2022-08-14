@@ -21,6 +21,7 @@ collections:
     fields:
       - { label: Title, name: title, widget: string }
       - { label: 'Preview text', name: description, widget: text }
+      - { label: Collection, name: collection, widget: string, required: false }
       - {
           label: 'Aspect',
           name: aspect,

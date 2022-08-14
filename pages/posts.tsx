@@ -14,11 +14,12 @@ export default function Posts(props: PostsProps) {
   return (
     <>
       <div className='container max-w-3xl my-10 px-6'>
-        <h1 className='font-bold font-serif text-5xl mb-10'>Posts</h1>
-        {collection && <p>Collection: {collection}</p>}
+        <h1 className='font-bold font-serif text-5xl mb-10'>
+          {collection ? collection : 'Posts'}
+        </h1>
       </div>
       <div className='container max-w-3xl my-10 px-6'>
-        <ul className=''>{posts && posts.map(Preview)}</ul>
+        <ul className=''>{!!posts && posts.map(Preview)}</ul>
         {!posts && <p>No posts found!</p>}
       </div>
     </>
@@ -27,8 +28,8 @@ export default function Posts(props: PostsProps) {
 
 export async function getServerSideProps(context: any) {
   const { query } = context
-  const collection = query.collection || null
-  const page = query.page || 1
+  const collection = query?.collection || null
+  const page = query?.page || 1
   const postsPerPage = 10
 
   // Get post paths

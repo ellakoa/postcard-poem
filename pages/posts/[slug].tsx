@@ -5,7 +5,7 @@ import Postcard from '../../components/postcard'
 import Link from 'next/link'
 
 export default function Post({ attributes, html, next, prev }: any) {
-  const { title, description, date, author } = attributes
+  const { title, description, date, author, collection } = attributes
 
   return (
     <article className='container max-w-5xl px-3 md:px-6 my-10'>
@@ -20,22 +20,31 @@ export default function Post({ attributes, html, next, prev }: any) {
         </p>
       </header>
       <Postcard {...attributes} />
+      {!!collection && (
+        <Link href={`/posts?collection=${collection}`}>
+          <a className='text-center block hover:underline'>
+            Visit collection: {collection}
+          </a>
+        </Link>
+      )}
+
       {html && (
         <div
           className='prose lg:prose-xl my-10'
           dangerouslySetInnerHTML={{ __html: html }}
         />
       )}
-      {next && (
+
+      {!!(next || prev) && (
         <ul className='flex justify-between flex-wrap my-10'>
-          {prev.slug && (
+          {!!prev?.slug && (
             <li>
               <Link href={prev.slug}>
                 <a className='hover:underline'>&#8592; {prev.title}</a>
               </Link>
             </li>
           )}
-          {next.slug && (
+          {!!next?.slug && (
             <li className='ml-auto'>
               <Link href={next.slug}>
                 <a className='hover:underline'>{next.title} &#8594;</a>

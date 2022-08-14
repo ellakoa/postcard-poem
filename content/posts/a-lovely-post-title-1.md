@@ -1,5 +1,6 @@
 ---
 title: There Then Not part one
+collection: There Then Not
 description: >-
   The Goodwin Sands are sandbanks that shift and change, keeping their secrets
   hidden. 
