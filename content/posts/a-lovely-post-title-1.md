@@ -1,6 +1,5 @@
 ---
 title: There Then Not part one
-collection: There Then Not
 description: >-
   The Goodwin Sands are sandbanks that shift and change, keeping their secrets
   hidden. 
@@ -8,6 +7,7 @@ description: >-
   To visit is like stepping into a different dimension. To write about the sandbanks demanded so much more than a few lines. 
 
   The poem is in three parts. Below is part one.
+collection: Goodwin Sands
 aspect: landscape
 image: /img/goodwin-sands-one-9543.jpg
 width: "600"
@@ -27,6 +27,8 @@ address: |
   The Goodwin Sands
   6 miles offshore Deal
 stamp: /img/stamp1.jpg
+stampWidth: "600"
+stampHeight: "400"
 author: Caroline Whitehouse
 date: 2022-07-31T07:00:00.000Z
 tags:
