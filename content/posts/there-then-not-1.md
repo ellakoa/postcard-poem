@@ -7,7 +7,7 @@ description: >-
   To visit is like stepping into a different dimension, to write about them demanded so much more than a few lines. 
 
   The poem is in three parts. This is part two
-collection: There Then Not
+collection: Goodwin Sands
 aspect: landscape
 image: /img/goodwin-sands-two-9615.jpg
 width: "600"
@@ -30,6 +30,8 @@ address: |-
   The Goodwin Sands
   6 miles offshore Deal
 stamp: /img/stamp-2.jpg
+stampWidth: "600"
+stampHeight: "400"
 author: Caroline Whitehouse
 date: 2022-08-03T16:37:48.854Z
 ---
