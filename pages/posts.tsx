@@ -2,8 +2,13 @@ import fs from 'fs'
 import { join } from 'path'
 import { useEffect } from 'react'
 import Preview from '../components/preview'
+import getConfig from 'next/config'
+const { serverRuntimeConfig } = getConfig()
 
-const POSTS_PATH = join(process.cwd(), 'content/posts')
+const POSTS_PATH = join(
+  serverRuntimeConfig.PROJECT_ROOT || process.cwd(),
+  'content/posts'
+)
 
 interface PostsProps {
   posts: any

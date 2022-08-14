@@ -26,4 +26,7 @@ module.exports = withYaml({
     })
     return cfg
   },
+  serverRuntimeConfig: {
+    PROJECT_ROOT: __dirname
+  }
 })
