@@ -29,7 +29,7 @@ address: |-
   Clickety-Clack
   Minster Thanet
   Kent
-stamp: /img/clickerty-clackstamp.jpg
+stamp: /img/stamp.jpg
 stampWidth: "400"
 stampHeight: "600"
 author: Caroline Whitehouse
