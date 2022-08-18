@@ -7,12 +7,13 @@ description: >-
   Part of a collection of postcards .Nostalgia'
 collection: Nostalgia
 aspect: landscape
-image: /img/clickerty-clack.jpg
+image: /img/clickerty-clack-postcard-front.jpg
 width: "600"
 height: "400"
 alt: Vintage Singer treadle sewing machine. An old very loved teddy bear sits
   waiting for some cloths to be sewn.
-poem: |-
+poem: |
+  
   I learnt to sew on one like this
   I close my eyes clickety-click
   My mind travels back
@@ -23,13 +24,13 @@ poem: |-
   Her foot works the treadle 
   I feel the flow
   Her gentle hands guiding mine 
-  I learn to sew clickety-clack
+  I learn to sew, clickety-clack
   Sitting on my grandmother's lap.
 address: |-
   Clickety-Clack
   Minster Thanet
   Kent
-stamp: /img/stamp.jpg
+stamp: /img/clickety-clack-stamp.jpg
 stampWidth: "400"
 stampHeight: "600"
 author: Caroline Whitehouse
