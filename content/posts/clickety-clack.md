@@ -4,7 +4,7 @@ description: >-
   Things that were thought lost but then found come with a certain nostalgia.
   They have the power to transport us back in time.
 
-  Part of a collection of postcards .Nostalgia'
+  Part of a collection of postcards 'Nostalgia'
 collection: Nostalgia
 aspect: landscape
 image: /img/clickerty-clack-postcard-front.jpg
