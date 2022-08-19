@@ -7,7 +7,7 @@ description: >-
   Part of a collection of postcards 'Nostalgia'
 collection: Nostalgia
 aspect: landscape
-image: /img/clickerty-clack-postcard-fronta.jpg
+image: /img/treadle-singer-sewing-machine.jpg
 width: "600"
 height: "400"
 alt: Vintage Singer treadle sewing machine. An old very loved teddy bear sits
