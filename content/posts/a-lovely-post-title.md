@@ -7,8 +7,8 @@ collection: Nostalgia
 aspect: portrait
 image: /img/garden-office-blog.jpg
 metaImage: /img/garden-office-blog.jpg
-width: " 600"
-height: "400"
+width: "400"
+height: "600"
 alt: Partially open wooden frame window, six panes of glass in each, looking out
   of an old outbuilding.
 poem: |
