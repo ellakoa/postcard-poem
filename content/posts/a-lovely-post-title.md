@@ -5,7 +5,8 @@ description: >
   then found come with a certain nostalgia.
 collection: Nostalgia
 aspect: portrait
-image: /img/garden-office-heligan-2.jpg
+image: /img/garden-office-blog.jpg
+metaImage: /img/garden-office-blog.jpg
 width: "400"
 height: "600"
 alt: Partially open wooden frame window, six panes of glass in each, looking out
@@ -27,7 +28,7 @@ address: |-
   The Garden Office
   Lost Gardens of Heligan
   Cornwall
-stamp: /img/stamp-heligan.jpg
+stamp: /img/stamp-heligan-blog.jpg
 stampWidth: "600"
 stampHeight: "400"
 author: Caroline Whitehouse
