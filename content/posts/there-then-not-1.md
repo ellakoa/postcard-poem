@@ -9,7 +9,8 @@ description: >-
   The poem is in three parts. This is part two
 collection: Goodwin Sands
 aspect: landscape
-image: /img/goodwin-sands-two-9615.jpg
+image: /img/goodwinw-sands-part-2-blog.jpg
+metaImage: /img/goodwinw-sands-part-2-blog.jpg
 width: "600"
 height: "400"
 alt: Silhouette of a man walking along a beautiful shoreline, in the distance, a
@@ -29,7 +30,7 @@ address: |-
   There Then Not
   The Goodwin Sands
   6 miles offshore Deal
-stamp: /img/stamp-2.jpg
+stamp: /img/goodwinw-sands-stamp2-blog.jpg
 stampWidth: "600"
 stampHeight: "400"
 author: Caroline Whitehouse
