@@ -9,7 +9,8 @@ description: >-
   The poem is in three parts. This is part three
 collection: Goodwin Sands
 aspect: landscape
-image: /img/goodwin-sands-three-.jpg
+image: /img/goodwinw-sands-part-3-blog.jpg
+metaImage: /img/goodwinw-sands-part-3-blog.jpg
 width: "600"
 height: "400"
 alt: Sandbanks, separated by deep pools of water, the sand has been worked into
@@ -33,9 +34,9 @@ address: |-
   There Then Not
   The Goodwin Sands
   6 miles offshore Deal
-stamp: /img/stamp1.jpg
-stampWidth: "200"
-stampHeight: "400"
+stamp: /img/goodwinw-sands-stamp1-blog.jpg
+stampWidth: "400"
+stampHeight: "200"
 author: Caroline Whitehouse
 date: 2022-08-07T12:03:00.940Z
 ---
