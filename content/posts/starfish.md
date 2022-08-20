@@ -30,5 +30,5 @@ stamp: /img/starfish-kingsdown-beach-kent-stamp-blog-1-.jpg
 stampWidth: "400"
 stampHeight: "200"
 author: Caroline Whitehouse
-date: 2022-08-20T16:54:23.545Z
+date: 2022-08-21T07:00:23.545Z
 ---
