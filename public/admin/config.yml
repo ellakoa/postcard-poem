@@ -99,9 +99,44 @@ collections:
         name: 'settings'
         file: 'content/settings.yaml'
         fields:
-          - { label: Name, name: name, widget: string }
-          - { label: Author, name: author, widget: string }
-          - { label: Logo, name: image, widget: image, choose_url: true }
+          - {
+              label: Name,
+              name: name,
+              widget: string,
+              hint: Title shown in share links and search engines,
+            }
+          - {
+              label: Author,
+              name: author,
+              widget: string,
+              hint: Author shown in site footer,
+            }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              hint: Description shown in share links and search engines,
+            }
+          - {
+              label: Meta Image,
+              name: metaImage,
+              widget: image,
+              choose_url: true,
+              hint: Image shown in share links and search engines,
+            }
+          - {
+              label: Url,
+              name: url,
+              widget: string,
+              hint: Url shown in share links and search engines,
+            }
+          - {
+              label: Logo,
+              name: image,
+              widget: image,
+              choose_url: true,
+              hint: Logo shown in site header,
+            }
           - {
               label: 'Logo width (px)',
               name: width,
