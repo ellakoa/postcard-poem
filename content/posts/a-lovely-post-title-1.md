@@ -9,7 +9,8 @@ description: >-
   The poem is in three parts. Below is part one.
 collection: Goodwin Sands
 aspect: landscape
-image: /img/goodwin-sands-one-9543.jpg
+image: /img/goodwinw-sands-part-1-blog.jpg
+metaImage: /img/goodwinw-sands-part-1-blog.jpg
 width: "600"
 height: "400"
 alt: Rainbow arching across a grey stormy sky, undulating sandbanks moulded by
@@ -26,7 +27,7 @@ address: |
   There Then Not
   The Goodwin Sands
   6 miles offshore Deal
-stamp: /img/stamp1.jpg
+stamp: /img/goodwinw-sands-stamp1-blog.jpg
 stampWidth: "600"
 stampHeight: "400"
 author: Caroline Whitehouse
@@ -35,5 +36,3 @@ tags:
   - number-2
 ---
 Part one of three
-
-Part two next Wednesday
