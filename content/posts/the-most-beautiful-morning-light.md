@@ -5,7 +5,8 @@ description: |-
   Part of the postcard collection 'Beyond the Pebbles'
 collection: Beyond the Pebbles
 aspect: landscape
-image: /img/morning-light.jpg
+image: /img/morning-light-kingsdown.jpg
+metaImage: /img/morning-light-kingsdown.jpg
 width: "600"
 height: "400"
 alt: Exposed rusted train wheel attached to chains, encrusted with limpets and
