@@ -1,8 +1,8 @@
 name: Postcard Poems
-description: A poetry blog with postcards
-image: /img/logo-svg.svg
-metaImage: /img/derp-cat.jpeg
-url: https://postcardpoems.co.uk
 author: Caroline Whitehouse
+description: A poetry blog with postcards
+metaImage: /img/beyond-pebbles-face-kingsdown.jpg
+url: https://postcardpoems.co.uk
+image: /img/logo-svg.svg
 width: "400"
 height: "400"
