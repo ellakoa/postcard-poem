@@ -6,6 +6,7 @@ description: |-
 collection: Watch the Dog
 aspect: portrait
 image: /img/watch-dog-summer-.jpg
+metaImage: /img/dog-stamp.jpg
 width: "400"
 height: "600"
 alt: Sunflowers, bees, gatekeeper butterflies, on a very sunny day.
@@ -35,12 +36,10 @@ address: |
   Watch the Dog 
   Summer
   Garden
-stamp: /img/dog-stamp.jpg
+stamp: /img/dog-stamp-1-.jpg
 stampWidth: "600"
 stampHeight: "400"
 author: Caroline Whitehouse
 date: 2022-07-24T10:58:35.956Z
 ---
-### **Coming soon**
-
-Look out for autumn, winter and spring gardens.
+Look out for 'Watch the Dog' in autumn, winter and spring gardens.
