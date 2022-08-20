@@ -7,12 +7,14 @@ import { join } from 'path'
 const POSTS_PATH = join(process.cwd(), 'content/posts')
 import Postcard from '../components/postcard'
 import Link from 'next/link'
+import Meta from '../components/meta'
 
 const Home: NextPage = ({ latest }: any) => {
   const { title, welcome } = attributes
   return (
     <>
       <Head>
+        <Meta />
         <title>{title}</title>
         <link rel='icon' href='/favicon.ico' />
         {/* <!-- Netlify Identity Widget --> */}

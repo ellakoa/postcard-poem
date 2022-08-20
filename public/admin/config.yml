@@ -9,8 +9,8 @@ media_folder: 'public/img'
 public_folder: '/img'
 
 # Please run "npx netlify-cms-proxy-server" for local backend
-# local_backend: true
-# publish_mode: editorial_workflow
+local_backend: true
+publish_mode: editorial_workflow
 collections:
   - label: 'Blog'
     name: 'blog'
@@ -30,6 +30,14 @@ collections:
           default: landscape,
         }
       - { label: Image, name: image, widget: image, choose_url: true }
+      - {
+          label: Meta Image,
+          name: metaImage,
+          widget: image,
+          choose_url: true,
+          hint: Image shown in share links and search engines (follow Facebook’s recommendation of a minimum dimension of 1200×630 pixels and an aspect ratio of 1.91:1,
+          but adhere to Twitter’s file size requirement of less than 1MB),
+        }
       - {
           label: 'Image width (px)',
           name: width,
@@ -122,7 +130,8 @@ collections:
               name: metaImage,
               widget: image,
               choose_url: true,
-              hint: Image shown in share links and search engines,
+              hint: Image shown in share links and search engines (follow Facebook’s recommendation of a minimum dimension of 1200×630 pixels and an aspect ratio of 1.91:1,
+              but adhere to Twitter’s file size requirement of less than 1MB),
             }
           - {
               label: Url,
