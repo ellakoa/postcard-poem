@@ -13,24 +13,19 @@ export default function Header() {
         {/* <!--Logo etc--> */}
         <div className='flex items-center'>
           <Link href='/'>
-            <a className='text-indigo-500 font-bold text-lg flex gap-4 items-center relative'>
+            <a
+              className='text-gray-500 font-bold text-lg flex gap-4 items-end relative max-w-[150px] md:max-w-[200px]'
+              title='Postcard Poems'
+            >
               <span className='sr-only'>Home</span>
-              <div className='relative w-[10rem] h-[4rem]'>
-                <Image
-                  className='hidden md:block'
-                  src={image}
-                  width={width}
-                  height={height}
-                  layout='fill'
-                  objectFit='contain'
-                  objectPosition={'center'}
-                  alt=''
-                />
-              </div>
-
-              <span className='font-stamp text-2xl sr-only md:not-sr-only'>
-                {name}
-              </span>
+              <Image
+                className='hidden md:block max-w-[200px]'
+                src={image}
+                width={width}
+                height={height}
+                layout='intrinsic'
+                alt=''
+              />
             </a>
           </Link>
         </div>
