@@ -4,6 +4,7 @@ interface PostCardProps {
   poem: any
   address: any
   alignPoemLeft: boolean
+  className: string
   stamp: string
   alt: string
   image: string
@@ -19,6 +20,7 @@ const Postcard = (props: PostCardProps) => {
     poem,
     address,
     alignPoemLeft,
+    className,
     stamp,
     alt,
     image,
@@ -33,7 +35,7 @@ const Postcard = (props: PostCardProps) => {
     .split(/\n/g)
     .filter((string: string) => string.length)
   return (
-    <div className='md:mx-auto gap-10 lg:my-5 flex flex-col items-center'>
+    <div className={`gap-10 lg:my-5 flex flex-col items-center ${className}`}>
       <div
         className={`md:p-4 bg-white shadow-2xl rounded-sm inline-block w-full ${
           aspect === 'landscape' ? '' : 'max-w-md'
@@ -66,7 +68,6 @@ const Postcard = (props: PostCardProps) => {
               className=''
               src={stamp}
               alt=''
-              sizes='250px'
               layout='responsive'
               width={stampWidth}
               height={stampHeight}
@@ -92,5 +93,6 @@ const Postcard = (props: PostCardProps) => {
 }
 Postcard.defaultProps = {
   alignPoemLeft: false,
+  className: '',
 }
 export default Postcard

@@ -42,7 +42,7 @@ export default function Post(props: PostProps) {
             </time>
           </p>
         </header>
-        <Postcard {...attributes} />
+        <Postcard className='md:mx-auto' {...attributes} />
         {/* {!!collection && (
         <Link href={`/posts?collection=${collection}`}>
           <a className='text-center block hover:underline'>
