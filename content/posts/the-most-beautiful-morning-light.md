@@ -1,4 +1,8 @@
 ---
+stamp: /img/stampand-log.jpg
+stampWidth: "600"
+width: "600"
+height: "400"
 title: The Most Beautiful Morning Light
 description: |-
   When the spring tides are low take a walk in the bay.
@@ -7,8 +11,6 @@ collection: Beyond the Pebbles
 aspect: landscape
 image: /img/morning-light-kingsdown.jpg
 metaImage: /img/morning-light-kingsdown.jpg
-width: "600"
-height: "400"
 alt: Exposed rusted train wheel attached to chains, encrusted with limpets and
   mussels, across the bay is a chalk cliff.
 poem: |-
@@ -26,13 +28,12 @@ poem: |-
   Listen as the waves gently ebb and falter
   Amble back as the suns path grows bright
   Enjoy the most beautiful morning light.
+stampHeight: "400"
+alignPoemLeft: true
 address: |-
   The Most Beautiful Morning Light
   Kingsdown
   Kent
-stamp: /img/stampand-log.jpg
-stampWidth: "600"
-stampHeight: "400"
 author: Caroline Whitehouse
 date: 2022-08-14T15:59:59.036Z
 ---
