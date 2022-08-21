@@ -5,8 +5,6 @@ description: |-
   Keep checking back for these postcards and enjoy a walk in the bay.
 aspect: landscape
 image: /img/beyond-pebbles-face-kingsdown.jpg
-width: "600"
-height: "400"
 alt: Rivulets of sand have drawn the outline of a face with flowing hair. Flint
   pebbles mark the eyes and a sultry mouth.
 poem: |+

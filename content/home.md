@@ -5,4 +5,5 @@ welcome: |
   Lovely to send, even lovelier to receive.
   Wanting to share the joy of a place, a moment in time.
   Or just for collecting and saving memories.
+image: /img/masthead-bg.jpg
 ---

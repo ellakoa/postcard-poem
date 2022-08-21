@@ -1,10 +1,13 @@
 import fs from 'fs'
 import { join } from 'path'
 const POSTS_PATH = join(process.cwd(), 'content/posts')
+const PUBLIC_PATH = join(process.cwd(), 'public')
 import Postcard from '../../components/postcard'
 import Link from 'next/link'
 import Meta from '../../components/meta'
 import * as siteSettings from '../../content/settings.yaml'
+import sizeOf from 'image-size'
+
 interface PageInfo {
   title: string
   slug: string
@@ -114,9 +117,17 @@ export async function getStaticProps(context: any) {
     slug: posts[postIndex + 1]?.slug || null,
   }
 
-  // Get article data
+  // Get post data and image dimensions
   const markdown = require(`/content/posts/${slug}.md`)
   const { attributes, html } = markdown
+  const imageDimensions = sizeOf(`${PUBLIC_PATH}/${attributes.image}`)
+  attributes.width = imageDimensions.width
+  attributes.height = imageDimensions.height
+
+  const stampDimensions = sizeOf(`${PUBLIC_PATH}/${attributes.stamp}`)
+  attributes.stampWidth = stampDimensions.width
+  attributes.stampHeight = stampDimensions.height
+
   if (!markdown) {
     return {
       notFound: true,

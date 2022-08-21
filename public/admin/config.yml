@@ -38,34 +38,16 @@ collections:
           hint: Image shown in share links and search engines (follow Facebook’s recommendation of a minimum dimension of 1200×630 pixels and an aspect ratio of 1.91:1,
           but adhere to Twitter’s file size requirement of less than 1MB),
         }
-      - {
-          label: 'Image width (px)',
-          name: width,
-          widget: string,
-          pattern: ["\\d+", 'Must be a number'],
-        }
-      - {
-          label: 'Image height (px)',
-          name: height,
-          widget: string,
-          pattern: ["\\d+", 'Must be a number'],
-        }
       - { label: 'Image Alt', name: alt, widget: string }
       - { label: Poem, name: poem, widget: text }
+      - {
+          label: Align Poem Left,
+          name: alignPoemLeft,
+          widget: boolean,
+          default: false,
+        }
       - { label: 'Address lines', name: address, widget: text }
       - { label: Stamp, name: stamp, widget: image, choose_url: true }
-      - {
-          label: 'Stamp width (px)',
-          name: stampWidth,
-          widget: string,
-          pattern: ["\\d+", 'Must be a number'],
-        }
-      - {
-          label: 'Stamp height (px)',
-          name: stampHeight,
-          widget: string,
-          pattern: ["\\d+", 'Must be a number'],
-        }
       - {
           label: Author,
           name: author,
@@ -85,6 +67,7 @@ collections:
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Welcome message', name: 'welcome', widget: 'text' }
+          - { label: 'Masthead image', name: 'image', widget: image }
       - label: 'About content'
         name: about
         file: 'content/about.md'
@@ -145,16 +128,4 @@ collections:
               widget: image,
               choose_url: true,
               hint: Logo shown in site header,
-            }
-          - {
-              label: 'Logo width (px)',
-              name: width,
-              widget: string,
-              pattern: ["\\d+", 'Must be a number'],
-            }
-          - {
-              label: 'Logo height (px)',
-              name: height,
-              widget: string,
-              pattern: ["\\d+", 'Must be a number'],
             }

@@ -1,16 +1,17 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
-import { attributes, react as HomeContent } from '../content/home.md'
+import { attributes } from '../content/home.md'
 import fs from 'fs'
 import { join } from 'path'
 const POSTS_PATH = join(process.cwd(), 'content/posts')
 import Postcard from '../components/postcard'
 import Link from 'next/link'
 import Meta from '../components/meta'
-
-const Home: NextPage = ({ latest }: any) => {
-  const { title, welcome } = attributes
+import sizeOf from 'image-size'
+const PUBLIC_PATH = join(process.cwd(), 'public')
+const Home: NextPage = ({ imageWidth, imageHeight, latest }: any) => {
+  const { image, title, welcome } = attributes
   return (
     <>
       <Head>
@@ -26,7 +27,15 @@ const Home: NextPage = ({ latest }: any) => {
       </Head>
       <div className='relative'>
         <div className='w-full h-auto object-cover bg-blend-darken'>
-          <Image src='/img/masthead-bg.jpg' width={4500} height={1385} alt='' />
+          {!!image && (
+            <Image
+              layout='responsive'
+              src={image}
+              alt=''
+              width={imageWidth}
+              height={imageHeight}
+            />
+          )}
         </div>
       </div>
       <div className='container prose lg:prose-xl text-center my-10 p-3'>
@@ -65,8 +74,12 @@ export async function getStaticProps() {
     const dateB = new Date(itemB.attributes.date).getTime()
     return dateB - dateA
   })
+  const imageDimensions = sizeOf(`${PUBLIC_PATH}/${attributes.image}`)
+  const imageWidth = imageDimensions.width
+  const imageHeight = imageDimensions.height
+
   return {
-    props: { latest: posts[0] }, // will be passed to the page component as props
+    props: { imageWidth, imageHeight, latest: posts[0] }, // will be passed to the page component as props
   }
 }
 
