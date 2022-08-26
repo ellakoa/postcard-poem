@@ -1,12 +1,12 @@
 ---
-title: The Beat of Time
+title: The Silent Beat of Time
 description: >-
   The full moon of August 2022 rose above the horizon sporting the colours of
   the sunset.
 
   We stayed late watching the moon turn from glorious orange hues to its more traditional white silver light.
 
-  The night was warm and it was with reluctance we left. As we left the beach was lit up with lights, the moth man had come to survey migrating moths from across the channel, how wonderful.
+  The night was warm and it was with reluctance we left. As we parted the beach was lit up with lights, the moth man had come to survey migrating moths from across the channel, how wonderful.
 collection: Beyong the Pebbles
 aspect: landscape
 image: /img/the-beat-of-time-kingsdown.jpg
@@ -25,7 +25,7 @@ poem: |-
   twinkling to the silent beat of time.
 alignPoemLeft: false
 address: |-
-  Silent Beat of Time
+  The Silent Beat of Time
   Kingsdown
   Kent
 stamp: /img/the-beat-of-time-stamp.jpg
