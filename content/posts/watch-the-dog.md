@@ -1,4 +1,8 @@
 ---
+stamp: /img/dog-stamp-1-.jpg
+stampWidth: "600"
+width: "400"
+height: "600"
 title: Watch The Dog
 description: |-
   Travel through the seasons with a faithful friend.
@@ -6,9 +10,7 @@ description: |-
 collection: Watch the Dog
 aspect: portrait
 image: /img/watch-dog-summer-.jpg
-metaImage: /img/dog-stamp.jpg
-width: "400"
-height: "600"
+metaImage: /img/watch-dog-summer-.jpg
 alt: Sunflowers, bees, gatekeeper butterflies, on a very sunny day.
 poem: |+
   
@@ -31,14 +33,13 @@ poem: |+
   Calm the dog’s trepidation.
 
 
+stampHeight: "400"
+alignPoemLeft: true
 address: |
   
   Watch the Dog 
   Summer
   Garden
-stamp: /img/dog-stamp-1-.jpg
-stampWidth: "600"
-stampHeight: "400"
 author: Caroline Whitehouse
 date: 2022-07-24T10:58:35.956Z
 ---
