@@ -5,7 +5,8 @@ collection: Places
 aspect: landscape
 image: /img/deal-pier-kent-blog-1-.jpg
 metaImage: /img/deal-pier-kent-blog-1-.jpg
-alt: ...
+alt: Deal Pier, second tier view looking straight down the middle of the
+  concrete legs, towards Deal Town seafront.
 poem: |-
   Deal Pier not too long and not too wide
   Leisure seating stretches along the sides
