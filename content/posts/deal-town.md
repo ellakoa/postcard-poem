@@ -20,7 +20,10 @@ poem: |-
   Deal town once punished and harshly plundered
   Lovingly nurtured, quaint, delightful and cultured.
 alignPoemLeft: false
-address: ???
+address: |-
+  Deal Town
+  Deal
+  Kent
 stamp: /img/derp-cat.jpeg
 author: Caroline Whitehouse
 date: 2022-08-27T14:15:44.056Z
