@@ -6,17 +6,17 @@ aspect: landscape
 image: /img/derp-cat.jpeg
 metaImage: /img/derp-cat.jpeg
 alt: ???
-poem: |
-  Old Deal town, not too big and not too small
+poem: |-
+  Deal town, not too big and not too small
   Fronted by pebbles and a low sea wall
-  named alleys lead to charming streets
-  where houses lean and almost meet
-  The town is steeped in villainess mystery 
-  and awash with a colourful nautical history
-  A memorial bandstand where music flows
-  A castle beautifully built In the shape of a rose
-  Fishing boats rest atop the shingle beach 
-  Vast skies dominate this most easterly reach
+  Named alleys lead to charming streets 
+  Where houses lean and almost meet
+  The town is steeped in villainous mystery 
+  And awash with a colourful nautical history
+  Has a castle built in the shape of a rose and 
+  a memorial bandstand where music flows
+  Fishing boats sit atop the shingle beach under
+  skies that dominate this most easterly reach
   Deal town once punished and harshly plundered
   Lovingly nurtured, quaint, delightful and cultured.
 alignPoemLeft: false
