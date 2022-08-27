@@ -17,12 +17,12 @@ poem: |-
   I have never been to space to
   look back at our blue planet's face
   But I have watched beautiful moons
-  Wax and wane again and again
-  In star-filled heavens where comets fly 
-  and myths and legends traverse the sky
-  A seemingly endless nightscape  
+  Wax and wane again and again in
+  star-filled heavens where comets fly 
+  and myths and legends traverse the 
+  sky, a seemingly endless nightscape  
   where layer upon layer of stars shine 
-  twinkling to the silent beat of time.
+  pulsing to the silent beat of time.
 alignPoemLeft: false
 address: |-
   The Silent Beat of Time
