@@ -11,7 +11,7 @@ alt: Vintage Singer treadle sewing machine. An old very loved teddy bear sits
   waiting for some clothes to be sewn
 poem: |
   
-  Hidden from the light of day
+  Been hidden from the light of day
   Carefully I dust the years away
   As I clean my thoughts go back
   I’m sitting on my grandmother's lap
