@@ -1,5 +1,5 @@
 ---
-title: Clickety -Clack
+title: Clickety-Clack
 description: Things that were thought lost but then found come with a certain
   nostalgia. This old, very loved bear is waiting for some new clothes to be
   sewn on this beautiful singer treadle sewing machine.
