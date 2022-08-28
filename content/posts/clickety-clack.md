@@ -6,7 +6,7 @@ description: Things that were thought lost but then found come with a certain
 collection: Nostalgia
 aspect: landscape
 image: /img/clickerty-clack-blog-1-.jpg
-metaImage: /img/clickerty-clack-blog-1-.jpg
+metaImage: /img/facebook.jpg
 alt: Vintage Singer treadle sewing machine. An old very loved teddy bear sits
   waiting for some clothes to be sewn
 poem: |
