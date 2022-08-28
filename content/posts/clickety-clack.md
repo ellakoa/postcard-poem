@@ -12,7 +12,7 @@ alt: Vintage Singer treadle sewing machine. An old very loved teddy bear sits
 poem: |
   
   Hidden from the light of day
-  I carefully dust the years away
+  Carefully I dust the years away
   As I clean my thoughts go back
   I’m sitting on my grandmother's lap
   I learnt to sew on one like this
