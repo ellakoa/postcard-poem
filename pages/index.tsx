@@ -10,7 +10,13 @@ import Link from 'next/link'
 import Meta from '../components/meta'
 import sizeOf from 'image-size'
 const PUBLIC_PATH = join(process.cwd(), 'public')
-const Home: NextPage = ({ imageWidth, imageHeight, latest }: any) => {
+const Home: NextPage = ({
+  imageWidth,
+  imageHeight,
+  latest,
+  imageSrc,
+  postcardAttributes,
+}: any) => {
   const { image, title, welcome } = attributes
   return (
     <>
@@ -27,10 +33,10 @@ const Home: NextPage = ({ imageWidth, imageHeight, latest }: any) => {
       </Head>
       <div className='relative'>
         <div className='w-full h-auto object-cover bg-blend-darken'>
-          {!!image && (
+          {!!imageSrc && (
             <Image
               layout='responsive'
-              src={image}
+              src={imageSrc}
               alt=''
               width={imageWidth}
               height={imageHeight}
@@ -43,7 +49,7 @@ const Home: NextPage = ({ imageWidth, imageHeight, latest }: any) => {
         <p>{welcome}</p>
       </div>
       <article className='container max-w-5xl px-3 md:px-6 my-10 flex flex-col'>
-        <Postcard {...latest.attributes}>
+        <Postcard {...{ ...latest.attributes, ...postcardAttributes }}>
           <Link href={`/posts/${latest.slug}`}>
             <a className='ml-auto underline'>Read more</a>
           </Link>
@@ -78,8 +84,30 @@ export async function getStaticProps() {
   const imageWidth = imageDimensions.width
   const imageHeight = imageDimensions.height
 
+  const getPostcardAttributes = (slug: string) => {
+    // Get post data and image dimensions
+    const markdown = require(`/content/posts/${slug}.md`)
+    const { attributes, html } = markdown
+    const imagePath = `${PUBLIC_PATH}/${attributes.image}`
+    const imageDimensions = sizeOf(imagePath)
+
+    attributes.width = imageDimensions.width
+    attributes.height = imageDimensions.height
+
+    const stampDimensions = sizeOf(`${PUBLIC_PATH}/${attributes.stamp}`)
+    attributes.stampWidth = stampDimensions.width
+    attributes.stampHeight = stampDimensions.height
+    return attributes
+  }
+  const latestPost = posts[0]
   return {
-    props: { imageWidth, imageHeight, latest: posts[0] }, // will be passed to the page component as props
+    props: {
+      imageSrc: attributes.image,
+      imageWidth,
+      imageHeight,
+      latest: latestPost,
+      postcardAttributes: getPostcardAttributes(latestPost.slug),
+    }, // will be passed to the page component as props
   }
 }
 

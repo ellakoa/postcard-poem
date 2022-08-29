@@ -120,7 +120,9 @@ export async function getStaticProps(context: any) {
   // Get post data and image dimensions
   const markdown = require(`/content/posts/${slug}.md`)
   const { attributes, html } = markdown
-  const imageDimensions = sizeOf(`${PUBLIC_PATH}/${attributes.image}`)
+  const imagePath = `${PUBLIC_PATH}/${attributes.image}`
+  const imageDimensions = sizeOf(imagePath)
+
   attributes.width = imageDimensions.width
   attributes.height = imageDimensions.height
 

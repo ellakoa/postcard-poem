@@ -34,6 +34,12 @@ const Postcard = (props: PostCardProps) => {
   const addressLines = address
     .split(/\n/g)
     .filter((string: string) => string.length)
+
+  // console.table({
+  //   width,
+  //   height,
+  //   image,
+  // })
   return (
     <div className={`gap-10 lg:my-5 flex flex-col items-center ${className}`}>
       <div
