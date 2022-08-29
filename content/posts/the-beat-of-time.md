@@ -16,8 +16,8 @@ alt: The full moon creates a path of moonlight across a calm sea, the distant
 poem: |-
   I have never been to space to
   look back at our blue planet's face
-  But I have watched beautiful moons
-  Wax and wane again and again in
+  but I have watched beautiful moons
+  wax and wane again and again in
   star-filled heavens where comets fly 
   and myths and legends traverse the 
   sky, a seemingly endless nightscape  
