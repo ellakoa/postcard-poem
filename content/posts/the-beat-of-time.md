@@ -18,7 +18,7 @@ poem: |-
   look back at our blue planet's face
   but I have watched beautiful moons
   wax and wane again and again in
-  star-filled heavens where comets fly 
+  star filled heavens where comets fly 
   and myths and legends traverse the 
   sky, a seemingly endless nightscape  
   where layer upon layer of stars shine 
