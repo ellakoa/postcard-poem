@@ -10,7 +10,7 @@ description: >-
 collection: Beyong the Pebbles
 aspect: landscape
 image: /img/the-beat-of-time-kingsdown.jpg
-metaImage: /img/the-beat-of-time-kingsdown.jpg
+metaImage: /img/the-beat-of-time-fbtinyjpeg.jpg
 alt: The full moon creates a path of moonlight across a calm sea, the distant
   orange glow of Calais is on the horizon
 poem: |-
