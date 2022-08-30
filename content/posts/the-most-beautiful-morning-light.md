@@ -10,7 +10,7 @@ description: |-
 collection: Beyond the Pebbles
 aspect: landscape
 image: /img/morning-light-kingsdown.jpg
-metaImage: /img/morning-light-kingsdown.jpg
+metaImage: /img/morning-light-original-fb.jpg
 alt: Exposed rusted train wheel attached to chains, encrusted with limpets and
   mussels, across the bay is a chalk cliff.
 poem: |-
