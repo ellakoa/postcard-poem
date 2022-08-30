@@ -29,7 +29,7 @@ poem: |-
   Amble back as the suns path grows bright
   Enjoy the most beautiful morning light.
 stampHeight: "400"
-alignPoemLeft: true
+alignPoemLeft: false
 address: |-
   The Most Beautiful Morning Light
   Kingsdown
