@@ -1,11 +1,15 @@
 ---
 title: Time Matters Not
-description: aaaa
+description: >
+  Cedar of Lebanon, one of many magnificent trees that stand in the grounds of
+  Kearsney Parks all sporting a favourite spot.
+
+  We visited as children, we took our own children, and now enjoy the parks with the grand children. The parks have had a make over in recent years but still retain the magic that has delighted through the years, it is indeed a favourite spot where time matters not.
 collection: aaaa
 aspect: landscape
 image: /img/derp-cat.jpeg
 metaImage: /img/derp-cat.jpeg
-alt: aaaa
+alt: Ancient Cedar of Lebanon tree standing in Kearsney Parks covered in Snow
 poem: |
   A tree stood content in its favourite spot
   Standing still for so long time was forgot
