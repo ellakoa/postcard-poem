@@ -9,7 +9,7 @@ collection: Kearsney Gardens
 aspect: landscape
 image: /img/cedar-of-lebanon-tree-kearsney-parks-minijpeg.jpg
 metaImage: /img/time-matters-not-meta-imagemini-jpeg.jpg
-alt: An old magnificent Cedar of Lebanon tree standing in Kearsney Parks, The
+alt: An old magnificent Cedar of Lebanon tree standing in Kearsney Parks. The
   Park and trees are covered in Snow
 poem: |
   A tree stood content in its favourite spot
