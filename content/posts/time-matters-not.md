@@ -20,11 +20,11 @@ poem: |
   the tree grew tall
   A fine place to stand 
   and survey all 
-  The tree knew that time mattered not
+  The tree knew that time matters not
   Standing quite still in its favourite spot.
 alignPoemLeft: false
 address: |-
-  Time Mattered Not
+  Time Matters Not
   Kearsney Gardens
   Temple Ewell 
   Dover Kent
