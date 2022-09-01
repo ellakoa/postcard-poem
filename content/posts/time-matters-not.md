@@ -12,14 +12,19 @@ metaImage: /img/time-matters-not-meta-imagemini-jpeg.jpg
 alt: An old magnificent Cedar of Lebanon tree standing in Kearsney Parks. The
   Park and trees are covered in Snow
 poem: |
-  A tree stood content in its favourite spot
-  Standing still for so long time was forgot
-  The tree grew strong the tree grew tall
-  A fine place to stand and survey all 
+  A tree stood content
+  in its favourite spot
+  Standing still for so long 
+  time was forgot
+  The tree grew strong 
+  the tree grew tall
+  A fine place to stand 
+  and survey all 
   The tree knew that time mattered not
   Standing quite still in its favourite spot.
 alignPoemLeft: false
 address: |-
+  Time Mattered Not
   Kearsney Gardens
   Temple Ewell 
   Dover Kent
