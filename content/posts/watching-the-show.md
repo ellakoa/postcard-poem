@@ -13,7 +13,7 @@ poem: |
 
   Fisherman casting out for a catch
   Canoeists passing by with a splash
-  Detecting, looking for an interesting find
+  A Metal detectorist looking for a find
   Families rock pooling, and walkers, all kinds
 
   Shrimpers sweeping with wide nets
