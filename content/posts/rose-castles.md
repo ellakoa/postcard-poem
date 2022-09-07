@@ -7,8 +7,8 @@ collection: Places
 aspect: landscape
 image: /img/walmer-flowers-beach-.jpg
 metaImage: /img/stamp-deal2.jpg
-alt: Deal seafront view from the pier,  Paddleboarders, swimmers, fishermen
-  enjoy the beach on a bright sunny day.
+alt: Deal and Walmer fishing boats atop the beach, large clusters of pink,
+  white, red flowers blooming on the golden pebbles.
 poem: |+
   
 
