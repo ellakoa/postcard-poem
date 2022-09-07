@@ -5,13 +5,13 @@ description: Deal, Walmer and Kingsdown a triple helping of loveliness, one
   from Deal to Kingsdown bloom with colour in June.
 collection: Places
 aspect: landscape
-image: /img/deal-beach-paddle-boarder.jpg
+image: /img/walmer-flowers-beach-.jpg
 metaImage: /img/rose-castles-facebook-page.jpg
 alt: Deal seafront view from the pier,  Paddleboarders, swimmers, fishermen
   enjoy the beach on a bright sunny day.
-poem: |-
+poem: |
   
-  Deal town
+  Deal town not to big and not to small
   Fronted by pebbles and a low sea wall
   Named alleys lead to charming streets
   where tall houses lean and tightly meet
@@ -28,7 +28,7 @@ address: |
   Rose Castles
   Deal & Walmer
   Kent
-stamp: /img/stamp-deal.jpg
+stamp: /img/stamp-deal1.jpg
 author: Caroline Whitehouse
 date: 2022-09-07T14:07:36.660Z
 ---
