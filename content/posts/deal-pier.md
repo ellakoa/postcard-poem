@@ -4,7 +4,7 @@ description: A visit to Deal will ultimately lead you to the seafront and its ic
 collection: Places
 aspect: landscape
 image: /img/deal-pier-kent-blog-1-.jpg
-metaImage: /img/derp-cat.jpeg
+metaImage: /img/rose-castles-facebook-pagetinyjepeg.jpg
 alt: "111"
 poem: |+
   
