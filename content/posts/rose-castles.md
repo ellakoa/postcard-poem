@@ -2,11 +2,12 @@
 title: Rose Castles
 description: Deal, Walmer and Kingsdown a triple helping of loveliness, one
   seamlessly flows into the other along the delightful seafront.
-collection: "111"
+collection: Places
 aspect: landscape
-image: /img/walmer-flowers-beach-.jpg
+image: /img/deal-beach-paddle-boarder.jpg
 metaImage: /img/derp-cat.jpeg
-alt: "111"
+alt: Deal seafront view from the pier,  Paddleboarders, swimmers, fishermen
+  enjoy the beach on a bright sunny day.
 poem: |-
   Deal town not to big and not too small
   Fronted by pebbles and a low sea wall
