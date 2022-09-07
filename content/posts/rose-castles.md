@@ -6,7 +6,7 @@ description: Deal, Walmer and Kingsdown a triple helping of loveliness, one
 collection: Places
 aspect: landscape
 image: /img/walmer-flowers-beach-.jpg
-metaImage: /img/rose-castles-facebook-page.jpg
+metaImage: /img/stamp-deal2.jpg
 alt: Deal seafront view from the pier,  Paddleboarders, swimmers, fishermen
   enjoy the beach on a bright sunny day.
 poem: |+
