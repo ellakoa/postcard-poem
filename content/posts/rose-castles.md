@@ -28,7 +28,7 @@ address: |
   Rose Castles
   Deal & Walmer
   Kent
-stamp: /img/derp-cat.jpeg
+stamp: /img/stamp-deal.jpg
 author: Caroline Whitehouse
 date: 2022-09-07T14:07:36.660Z
 ---
