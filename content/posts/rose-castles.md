@@ -2,7 +2,7 @@
 title: Rose Castles
 description: Deal, Walmer and Kingsdown a triple helping of loveliness, one
   seamlessly flows into the other along the delightful seafront. The beaches
-  bloom with colour in the spring.
+  from Deal to Kingsdown bloom with colour in June.
 collection: Places
 aspect: landscape
 image: /img/deal-beach-paddle-boarder.jpg
