@@ -1,5 +1,5 @@
 ---
-title: Rose Castles
+title: Castles of Rose
 description: Deal, Walmer and Kingsdown a triple helping of loveliness, one
   seamlessly flows into the other along the delightful seafront. The beaches
   from Deal to Kingsdown bloom with colour in June.
@@ -27,10 +27,10 @@ poem: |+
 
 alignPoemLeft: false
 address: |
-  Rose Castles
-  Deal & Walmer
+  Castle of Rose
+  Deal 
   Kent
-stamp: /img/stamp-deal1.jpg
+stamp: /img/stamp-deal2.jpg
 author: Caroline Whitehouse
 date: 2022-09-07T14:07:36.660Z
 ---
