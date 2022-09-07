@@ -10,7 +10,8 @@ collection: Beyond the Pebbles
 aspect: landscape
 image: /img/beyond-the-pebbles-front-tinyjpeg.jpg
 metaImage: /img/beyond-the-pebbles-facebook.jpg
-alt: ///
+alt: "Pictures on the sand. Neptune rising from the deep, a face, flint eyes,
+  sweeping hair. Trees walking in a line. "
 poem: |+
   
 
