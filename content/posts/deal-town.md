@@ -1,12 +1,13 @@
 ---
 title: Deal Town
-description: Deal Town gets more delightful as the years roll by
+description: Deal Town gets more delightful as the years roll by.
 collection: Places
 aspect: landscape
 image: /img/derp-cat.jpeg
 metaImage: /img/derp-cat.jpeg
 alt: ???
-poem: |-
+poem: |
+  
   Deal town, not too big and not too small
   Fronted by pebbles and a low sea wall
   Named alleys lead to charming streets 
