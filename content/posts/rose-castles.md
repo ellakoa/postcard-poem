@@ -1,7 +1,7 @@
 ---
 title: Rose Castles
 description: Deal, Walmer and Kingsdown a triple helping of loveliness, one
-  flows into the other in a seamless manner
+  seamlessly flows into the other along the delightful seafront.
 collection: "111"
 aspect: landscape
 image: /img/derp-cat.jpeg
@@ -23,7 +23,10 @@ poem: |-
   The towns once punished and harshly plundered
   Lovingly nurtured, delightful and cultured.
 alignPoemLeft: false
-address: "111"
+address: |
+  Rose Castles
+  Deal & Walmer
+  Kent
 stamp: /img/derp-cat.jpeg
 author: Caroline Whitehouse
 date: 2022-09-07T14:07:36.660Z
