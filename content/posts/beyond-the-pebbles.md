@@ -14,6 +14,7 @@ alt: ///
 poem: |+
   
 
+
   Beyond the pebbles, the foreshore waits
   For the tide to unclasp its watery cape
   A land always there 
@@ -25,6 +26,7 @@ poem: |+
   Murals appear on the sandy bay
   A fantastical display to surprise
   Explore, let imagination surmise.
+
 
 alignPoemLeft: false
 address: |-
