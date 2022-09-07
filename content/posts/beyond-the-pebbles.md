@@ -8,8 +8,8 @@ description: Oldstairs Bay, Kingsdown in Kent. Sometimes the sands are there and
   fascinating artforms.
 collection: Beyond the Pebbles
 aspect: landscape
-image: /img/derp-cat.jpeg
-metaImage: /img/derp-cat.jpeg
+image: /img/beyond-the-pebbles-front-tinyjpeg.jpg
+metaImage: /img/beyond-the-pebbles-facebook.jpg
 alt: ///
 poem: |+
   
@@ -31,7 +31,7 @@ address: |-
   Beyond the Pebbles
   Oldstairs Bay
   Kingsdown
-stamp: /img/derp-cat.jpeg
+stamp: /img/beyond-the-pebbles-stamp1-tiny-jpeg.jpg
 author: Caroline Whitehouse
 date: 2022-09-07T09:36:20.477Z
 ---
