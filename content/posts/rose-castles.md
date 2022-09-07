@@ -4,7 +4,7 @@ description: Deal, Walmer and Kingsdown a triple helping of loveliness, one
   seamlessly flows into the other along the delightful seafront.
 collection: "111"
 aspect: landscape
-image: /img/deal-beach-paddle-boarder.jpg
+image: /img/walmer-flowers-beach-.jpg
 metaImage: /img/derp-cat.jpeg
 alt: "111"
 poem: |-
