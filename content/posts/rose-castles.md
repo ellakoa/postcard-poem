@@ -9,8 +9,9 @@ image: /img/walmer-flowers-beach-.jpg
 metaImage: /img/rose-castles-facebook-page.jpg
 alt: Deal seafront view from the pier,  Paddleboarders, swimmers, fishermen
   enjoy the beach on a bright sunny day.
-poem: |
+poem: |+
   
+
   Deal town not to big and not to small
   Fronted by pebbles and a low sea wall
   Named alleys lead to charming streets
@@ -23,6 +24,7 @@ poem: |
   skies that dominate this most easterly reach
   The town once punished and harshly plundered
   Lovingly nurtured, delightful and cultured.
+
 alignPoemLeft: false
 address: |
   Rose Castles
