@@ -5,7 +5,8 @@ collection: Places
 aspect: landscape
 image: /img/deal-pier-kent-blog-1-.jpg
 metaImage: /img/rose-castles-facebook-pagetinyjepeg.jpg
-alt: "111"
+alt: Deal Pier looking back to deal from underneath the pier, huge concrete legs
+  are planted into the seabed.
 poem: |+
   
 
