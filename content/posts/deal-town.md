@@ -1,29 +1,32 @@
 ---
 title: Deal Town
-description: Deal Town gets more delightful as the years roll by.
+description: This has been my hometown for the past 9 years and I never tire of
+  it, it gets more delightful as the years roll by.
 collection: Places
 aspect: landscape
 image: /img/derp-cat.jpeg
 metaImage: /img/derp-cat.jpeg
 alt: ???
-poem: |
-  
-  Deal town, not too big and not too small
+poem: |-
+  Deal town not too big and not too small
   Fronted by pebbles and a low sea wall
   Named alleys lead to charming streets 
-  Where houses lean and almost meet
-  The town is steeped in villainous mystery 
+  Where houses lean and tightly meet
+  Walmer beach blooms in spring, has 
+  white beach huts and a picnic green
+
+  The area is steeped in villainous mystery 
   And awash with a colourful nautical history
-  Has a castle built in the shape of a rose and 
-  a memorial bandstand where music flows
+  Two castles built in the shape of a rose 
+  A memorial bandstand where music flows
   Fishing boats sit atop the shingle beach under
   skies that dominate this most easterly reach
-  Deal town once punished and harshly plundered
-  Lovingly nurtured, quaint, delightful and cultured.
+  The towns once punished and harshly plundered
+  Lovingly nurtured, delightful and cultured.
 alignPoemLeft: false
 address: |-
-  Deal Town
-  Deal
+  Rose Castles
+  Deal & Walmer
   Kent
 stamp: /img/derp-cat.jpeg
 author: Caroline Whitehouse
