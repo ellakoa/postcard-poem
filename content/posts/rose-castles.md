@@ -1,7 +1,7 @@
 ---
 title: Castles of Rose
 description: Deal, Walmer and Kingsdown a triple helping of loveliness, one
-  seamlessly flows into the other along the delightful seafront. The beaches
+  seamlessly flows into the other along this stretch of seafront. The beaches
   from Deal to Kingsdown bloom with colour in June.
 collection: Places
 aspect: landscape
