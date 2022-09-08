@@ -18,7 +18,7 @@ poem: |+
   where tall houses lean and tightly meet
   The area is steeped in villainous mystery 
   And awash with a colourful nautical history
-  Has castles built in the shape of a rose 
+  There are 2 castles built in the shape of a rose 
   A memorial bandstand where music flows
   Fishing boats sit atop the shingle beach under
   skies that dominate this most easterly reach
