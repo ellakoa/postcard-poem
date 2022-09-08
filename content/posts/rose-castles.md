@@ -12,11 +12,11 @@ alt: Deal and Walmer fishing boats atop the beach, large clusters of pink,
 poem: |+
   
 
-  Deal town not to big and not to small
+  Deal town not too big and not too small
   Fronted by pebbles and a low sea wall
   Named alleys lead to charming streets
   where tall houses lean and tightly meet
-  The town is steeped in villainous mystery 
+  The area is steeped in villainous mystery 
   And awash with a colourful nautical history
   Has a castle built in the shape of a rose 
   A memorial bandstand where music flows
