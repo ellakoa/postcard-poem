@@ -6,7 +6,7 @@ description: Deal, Walmer and Kingsdown a triple helping of loveliness, one
 collection: Places
 aspect: landscape
 image: /img/walmer-flowers-beach-.jpg
-metaImage: /img/stamp-deal2.jpg
+metaImage: /img/stamp-deal1.jpg
 alt: Deal and Walmer fishing boats atop the beach, large clusters of pink,
   white, red flowers blooming on the pebbles.
 poem: |+
