@@ -1,7 +1,7 @@
 ---
 title: Deal Pier
 description: A visit to Deal will ultimately lead you to the seafront and its
-  iconic pier. The pier struts out to sea on concrete legs.
+  iconic pier. The pier struts out to sea unapologetically on concrete legs.
 collection: Places
 aspect: landscape
 image: /img/deal-pier-beach-flowers1-tiny.jpg
