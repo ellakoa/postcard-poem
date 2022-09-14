@@ -1,12 +1,13 @@
 ---
 title: Deal Pier
-description: A visit to Deal will ultimately lead you to the seafront and its iconic pier.
+description: A visit to Deal will ultimately lead you to the seafront and its
+  iconic pier. The pier struts out to see
 collection: Places
 aspect: landscape
-image: /img/deal-pier-kent-blog-1-.jpg
+image: /img/deal-pier-beach-flowers1-tiny.jpg
 metaImage: /img/rose-castles-facebook-pagetinyjepeg.jpg
-alt: Deal Pier looking back to deal from underneath the pier, huge concrete legs
-  are planted into the seabed.
+alt: Deal Pier strutting out to sea, side view with a pebble beach sporting
+  clusters of red, pink and white flowers.
 poem: |+
   
 
