@@ -1,11 +1,11 @@
 ---
-title: Rose Castles
+title: Blooming Marvellous
 description: Deal, Walmer and Kingsdown a triple helping of loveliness, one
   seamlessly flows into the other along this stretch of seafront. The beaches
-  from Deal to Kingsdown bloom with colour in June.
+  from Deal to Kingsdown bloom with colour in late spring.
 collection: Places
 aspect: landscape
-image: /img/walmer-flowers-beach-.jpg
+image: /img/walmer-beach-flowers-tiny.jpg
 metaImage: /img/stamp-deal1.jpg
 alt: Deal and Walmer fishing boats atop the beach, large clusters of pink,
   white, red flowers blooming on the pebbles.
@@ -27,7 +27,7 @@ poem: |+
 
 alignPoemLeft: false
 address: |
-  Rose Castles
+  Blooming Marvellous 
   Deal 
   Kent
 stamp: /img/stamp-deal2.jpg
