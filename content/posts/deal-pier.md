@@ -4,9 +4,9 @@ description: >
   A visit to Deal will ultimately lead you to the seafront and its iconic pier.
   The pier struts out to sea, unapologetically on concrete legs. 
 
-  Three tiers adorn the end of Deal pier
+  Three tiers adorn the end of the pier theres
 
-  A cafe on the top made of glass, the middle
+  a cafe on the top made of glass, the middle
 
   for fishing on a daily pass, the lower tier 
 
@@ -14,7 +14,7 @@ description: >
 
   to go, and are only on show when the tide is quite low.
 
-  Three Tiers for Deal Pier
+  Three Tiers for Deal Pier.
 collection: Places
 aspect: landscape
 image: /img/deal-pier-beach-flowers1-tiny.jpg
@@ -35,7 +35,7 @@ poem: |+
   Casually stroll the length of the pier
   where the salty sea air is refreshingly clear
   Gaze out to the ships moored in the Downs
-  Gaze back towards delightful old Deal town 
+  Gaze back towards delightful old Deal town.
 
 alignPoemLeft: false
 address: |-
