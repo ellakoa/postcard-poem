@@ -1,10 +1,10 @@
 ---
 title: Deal Pier
-description: >
+description: >+
   A visit to Deal will ultimately lead you to the seafront and its iconic pier.
   The pier struts out to sea, unapologetically on concrete legs. 
 
-  Three tiers adorn the end of the pier theres
+  Three tiers adorn the end of the pier, there's
 
   a cafe on the top made of glass, the middle
 
@@ -14,7 +14,6 @@ description: >
 
   to go, and are only on show when the tide is quite low.
 
-  Three Tiers for Deal Pier.
 collection: Places
 aspect: landscape
 image: /img/deal-pier-beach-flowers1-tiny.jpg
