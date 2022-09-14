@@ -1,7 +1,20 @@
 ---
 title: Deal Pier
-description: A visit to Deal will ultimately lead you to the seafront and its
-  iconic pier. The pier struts out to sea unapologetically on concrete legs.
+description: >
+  A visit to Deal will ultimately lead you to the seafront and its iconic pier.
+  The pier struts out to sea, unapologetically on concrete legs. 
+
+  Three tiers adorn the end of Deal pier
+
+  A cafe on the top made of glass, the middle
+
+  for fishing on a daily pass, the lower tier 
+
+  has all but gone, rusted steps have nowhere 
+
+  to go, and are only on show when the tide is quite low.
+
+  Three Tiers for Deal Pier
 collection: Places
 aspect: landscape
 image: /img/deal-pier-beach-flowers1-tiny.jpg
