@@ -2,7 +2,7 @@
 title: Blooming Lovely
 description: Deal, Walmer and Kingsdown a triple helping of loveliness, one
   seamlessly flows into the other along this stretch of seafront. The beaches
-  bloom with colour throughout the year.
+  bloom with colour in spring.
 collection: Places
 aspect: landscape
 image: /img/walmer-beach-flowers-tiny.jpg
