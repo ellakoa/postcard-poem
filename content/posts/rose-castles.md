@@ -30,7 +30,7 @@ address: |
   Blooming Lovely
   Deal 
   Kent
-stamp: /img/stamp-deal-from-the-pier.jpg
+stamp: /img/stamp-dealtiny.jpg
 author: Caroline Whitehouse
 date: 2022-09-18T07:00:36.660Z
 ---
