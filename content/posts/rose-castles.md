@@ -13,6 +13,7 @@ alt: Deal and Walmer fishing boats atop the beach, large clusters of pink,
 poem: |+
   
 
+
   Deal town not too big and not too small
   Fronted by pebbles and a low sea wall
   Named alleys lead to charming streets
@@ -25,6 +26,7 @@ poem: |+
   vast skies that dominate this most easterly reach
   The town once punished and harshly plundered
   Lovingly nurtured, delightful and cultured.
+
 
 alignPoemLeft: false
 address: |
