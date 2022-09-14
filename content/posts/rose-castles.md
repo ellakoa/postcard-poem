@@ -6,7 +6,7 @@ description: Deal, Walmer and Kingsdown a triple helping of loveliness, one
 collection: Places
 aspect: landscape
 image: /img/walmer-beach-flowers-tiny.jpg
-metaImage: /img/stamp-deal.jpg
+metaImage: /img/rose-castles-facebook-page1.jpg
 alt: Deal and Walmer fishing boats atop the beach, large clusters of pink,
   white, red flowers blooming on the pebbles.
 poem: |+
@@ -30,7 +30,7 @@ address: |
   Blooming Marvellous 
   Deal 
   Kent
-stamp: /img/stamp-deal1.jpg
+stamp: /img/stamp-deal.jpg
 author: Caroline Whitehouse
 date: 2022-09-18T07:00:36.660Z
 ---
