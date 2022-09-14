@@ -1,8 +1,8 @@
 ---
 title: Blooming Marvellous
-description: Deal, Walmer and Kingsdown a triple helping of loveliness, one
+description: "Deal, Walmer and Kingsdown a triple helping of loveliness, one
   seamlessly flows into the other along this stretch of seafront. The beaches
-  bloom with colour in late spring. It is indeed a blooming marvellous place.
+  bloom with colour in late spring. "
 collection: Places
 aspect: landscape
 image: /img/walmer-beach-flowers-tiny.jpg
@@ -30,7 +30,7 @@ address: |
   Blooming Marvellous 
   Deal 
   Kent
-stamp: /img/stamp-deal.jpg
+stamp: /img/stamp-deal-from-the-pier.jpg
 author: Caroline Whitehouse
 date: 2022-09-18T07:00:36.660Z
 ---
