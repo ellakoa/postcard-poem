@@ -1,5 +1,5 @@
 ---
-title: Blooming Marvellous
+title: Blooming Lovely
 description: "Deal, Walmer and Kingsdown a triple helping of loveliness, one
   seamlessly flows into the other along this stretch of seafront. The beaches
   bloom with colour in late spring. "
@@ -27,7 +27,7 @@ poem: |+
 
 alignPoemLeft: false
 address: |
-  Blooming Marvellous 
+  Blooming Lovely
   Deal 
   Kent
 stamp: /img/stamp-deal-from-the-pier.jpg
