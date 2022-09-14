@@ -23,18 +23,20 @@ alt: Deal Pier strutting out to sea, side view with a pebble beach sporting
 poem: |+
   
 
+
   Deal Pier not too long and not too wide
   Leisure seating stretches along the sides
   Straddling the sea on solid concrete legs
   Legs planted deep into the chalk seabed
   Quiescent as the rolling sea comes and goes
   Bearing the force of the tides ebb and flow
-  Bathed in the suns first morning light 
+  Bathed in the sun's first morning light 
   Cast in silhouette when the moon is bright
   Casually stroll the length of the pier
   where the salty sea air is refreshingly clear
   Gaze out to the ships moored in the Downs
   Gaze back towards delightful old Deal town.
+
 
 alignPoemLeft: false
 address: |-
