@@ -21,7 +21,7 @@ poem: |+
   There are 2 castles built in the shape of a rose 
   A memorial bandstand where music flows
   Fishing boats sit atop the shingle beach under
-  skies that dominate this most easterly reach
+  vast skies that dominate this most easterly reach
   The town once punished and harshly plundered
   Lovingly nurtured, delightful and cultured.
 
