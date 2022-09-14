@@ -29,7 +29,7 @@ address: |-
   Deal Pier
   Strutting out to sea
   Deal Kent
-stamp: /img/stamp-deal-full-moon.jpg
+stamp: /img/stamp-dealtiny.jpg
 author: Caroline Whitehouse
 date: 2022-09-25T07:00:48.218Z
 ---
