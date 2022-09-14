@@ -15,11 +15,7 @@ image: /img/starfish-kingsdown-beach-kent-blog-1-.jpg
 metaImage: /img/starfish-kingsdown-beach-kent-blog-1-.jpg
 alt: Wet sandy beach, blue sky and clouds reflected in the sand, bright orange
   starfish walking towards a watery pool.
-poem: |+
-  
-
-
-
+poem: |-
   Starfish caught out by the tide
   Looking for somewhere to hide
   Traipsing across the sandy beach
@@ -28,9 +24,6 @@ poem: |+
   It is quite the feat
   Bright orange starfish
   On the beach.
-
-
-
 stampHeight: "200"
 alignPoemLeft: false
 address: |-
