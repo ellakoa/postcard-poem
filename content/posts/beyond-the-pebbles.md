@@ -20,7 +20,7 @@ poem: |+
   For the tide to unclasp its watery cape
   A land always there 
   but not always seen
-  Of shifting sands and 
+  of shifting sands and 
   shifting dreams
 
   As the tide eagerly draws away
