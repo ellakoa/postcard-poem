@@ -11,11 +11,8 @@ image: /img/cedar-of-lebanon-tree-kearsney-parks-minijpeg.jpg
 metaImage: /img/time-matters-not-meta-imagemini-jpeg.jpg
 alt: An old magnificent Cedar of Lebanon tree standing in Kearsney Parks. The
   Park and trees are covered in Snow
-poem: |+
+poem: |
   
-
-
-
   A tree stood content
   in its favourite spot
   Standing still for so long 
@@ -26,17 +23,13 @@ poem: |+
   and survey all 
   The tree knew that time matters not
   Standing quite still in its favourite spot.
-
-
-
-
 alignPoemLeft: false
 address: |-
   Time Matters Not
   Kearsney Gardens
   Temple Ewell 
   Dover Kent
-stamp: /img/time-matters-not-stamp1tinyjpeg.jpg
+stamp: /img/test1.png
 author: Caroline Whitehouse
 date: 2022-09-04T06:52:41.266Z
 ---
