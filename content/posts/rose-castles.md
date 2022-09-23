@@ -17,11 +17,13 @@ poem: |-
   where tall houses lean and tightly meet
   The area is steeped in villainous mystery 
   And awash with a colourful nautical history
-  There are 2 castles built in the shape of a rose 
+  Two castles built in the shape of a rose 
   A memorial bandstand where music flows
-  Fishing boats sit atop the shingle beach under
-  vast skies that dominate this most easterly reach
-  The town once punished and harshly plundered
+  Fishing boats sit atop the shingle beach 
+  under vast skies that dominate 
+  this most easterly reach
+  The town once punished and 
+  harshly plundered
   Lovingly nurtured, delightful and cultured.
 alignPoemLeft: false
 address: |
