@@ -5,6 +5,8 @@ description: >+
   The pier struts out to sea, unapologetically on concrete legs, how smart is
   that? 
 
+  Part of the 'Postcards from Deal' collection
+
 collection: Places
 aspect: landscape
 image: /img/deal-pier-beach-flowers1-tiny.jpg
