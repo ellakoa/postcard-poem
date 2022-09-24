@@ -13,7 +13,8 @@ image: /img/deal-pier-beach-flowers1-tiny.jpg
 metaImage: /img/rose-castles-facebook-pagetinyjepeg.jpg
 alt: Deal Pier strutting out to sea, side view with a pebble beach sporting
   clusters of red, pink and white flowers.
-poem: |-
+poem: |
+  
   Deal Pier not too long and not too wide
   Leisure seating stretches along the sides
   Straddling the sea on solid concrete legs
