@@ -26,9 +26,9 @@ poem: |-
   Gaze back towards delightful old Deal town.
 alignPoemLeft: false
 address: |-
-  Deal Pier
   Strutting out to sea
-  Deal Kent
+  Deal Pier
+  Kent
 stamp: /img/stamp-dealtiny.jpg
 author: Caroline Whitehouse
 date: 2022-09-25T07:00:48.218Z
