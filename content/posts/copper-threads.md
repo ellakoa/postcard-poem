@@ -27,7 +27,6 @@ poem: |-
   chores rummaging for winter stores
   Summer has cast away
   the canopy begins to fray.
-
   Autumn snips the final threads and
   all around tumbling down a cloth
   of orange, red and golden browns
