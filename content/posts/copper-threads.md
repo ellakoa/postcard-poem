@@ -16,9 +16,9 @@ metaImage: /img/derp-cat.jpeg
 alt: "111"
 poem: |-
   Autumn has to work quite quick
-  before the canopy bares its sticks
+  before the woodland bares its sticks
   Fine copper threads are carefully chosen and 
-  very skilfully interwoven, setting the tree tops 
+  very skilfully interwoven, setting the canopy
   ablaze as the night begins to outwit the day.
 
   Fungi, beautiful and weird
