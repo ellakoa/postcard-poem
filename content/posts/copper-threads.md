@@ -1,12 +1,14 @@
 ---
 title: Copper Threads
-description: >-
+description: >
   The autumn equinox sees summer firmly on the back foot and although we may
   have warmth in the days the nights begin to tell a different story. 
 
   Copper threads is part of a collection of poems called 'Woodland Tapestries'  
 
   The idea is that the woodlands are worked on an ancient loom overseen by the seasons. 
+
+  Winter, Spring and Summer will be weaved in due course.
 collection: "111"
 aspect: landscape
 image: /img/derp-cat.jpeg
