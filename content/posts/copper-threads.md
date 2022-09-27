@@ -2,7 +2,7 @@
 title: Copper Threads
 description: >
   The autumn equinox sees summer firmly on the back foot and although we may
-  have warmth in the days the nights begin to tell a different story. 
+  have warmth in the days the colder nights begin to tell a different story. 
 
   Copper threads is part of a collection of poems called 'Woodland Tapestries'  
 
