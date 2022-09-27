@@ -1,6 +1,6 @@
 ---
 title: Copper Threads
-description: "111"
+description: The autumn equinox sees summer firmly on the backfoot
 collection: "111"
 aspect: landscape
 image: /img/derp-cat.jpeg
@@ -21,8 +21,8 @@ poem: |-
   the canopy begins to fray.
 
   Autumn snips the final threads and
-  all around tumbling down a 
-  cloth of orange, red and golden browns
+  all around tumbling down a cloth
+  of orange, red and golden browns
   Layer upon layer shrouding the ground
 
   A woodland proudly displaying its bounty
