@@ -1,6 +1,12 @@
 ---
 title: Copper Threads
-description: The autumn equinox sees summer firmly on the backfoot
+description: >-
+  The autumn equinox sees summer firmly on the back foot and although we may
+  have warmth in the days the nights begin to tell a different story. 
+
+  Copper threads is part of a collection of poems called 'Woodland Tapestries'  
+
+  The idea is that the woodlands are worked on an ancient loom overseen by the seasons. 
 collection: "111"
 aspect: landscape
 image: /img/derp-cat.jpeg
