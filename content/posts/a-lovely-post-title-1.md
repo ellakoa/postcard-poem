@@ -11,7 +11,7 @@ description: >-
   To visit is like stepping into a different dimension. To write about the sandbanks demanded so much more than a few lines. 
 
   The poem is in three parts. Below is part one.
-collection: Goodwin Sands
+collection: The Goodwin Sands
 aspect: landscape
 image: /img/goodwinw-sands-part-1-blog.jpg
 metaImage: /img/goodwinw-sands-part-1-blog.jpg
