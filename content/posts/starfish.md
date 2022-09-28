@@ -29,7 +29,8 @@ alignPoemLeft: false
 address: |-
   Starfish
   Oldstairs Bay
-  Kingsdown Kent
+  Kingsdown 
+  Kent
 author: Caroline Whitehouse
 date: 2022-08-21T07:00:23.545Z
 ---
