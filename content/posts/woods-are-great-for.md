@@ -25,7 +25,7 @@ poem: |
   then pretending 'like' you weren't scared 
   with soft deep chuckles
   For vivid imaginations and for sharing tales 
-  Stories told in hushed whispers, mindful 
+  told in hushed whispers, mindful 
   that the trees are very good listeners.
 alignPoemLeft: false
 address: |-
