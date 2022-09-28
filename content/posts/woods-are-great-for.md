@@ -1,5 +1,5 @@
 ---
-title: Woods are Great For;
+title: "Woods are Great "
 description: >-
   Woods are great in every season, some woods are good for wildflowers and
   butterflies others for weird fungi and chestnuts and then some woods are good
@@ -14,10 +14,8 @@ image: /img/woods-are-great-for-tiny.jpg
 metaImage: /img/woods-are-great-for-tiny.jpg
 alt: A magnificent tree in a clearing in Kings wood , a grandfather helping his
   grandchildren make a den out of sticks
-poem: |+
+poem: |
   
-
-
   Woods are great for hugging trees 
   for running through and grazing knees
   For messing about with family and friends 
@@ -29,8 +27,6 @@ poem: |+
   For vivid imaginations and for sharing tales 
   Stories told in hushed whispers, mindful 
   that the trees are very good listeners.
-
-
 alignPoemLeft: false
 address: |-
   Woods are Great 
