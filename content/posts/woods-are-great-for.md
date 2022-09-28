@@ -5,7 +5,7 @@ description: >-
   butterflies others for weird fungi and chestnuts and then some woods are good
   for getting lost in. 
 
-  I like to think the trees listen to everything, storing away anecdotes to keep them amused through a long winter's hibernation.
+  I like to think the trees listen to everything, storing away anecdotes to dream about through a long winter's hibernation.
 
   Kings Wood near Ashford is a particularly magnificent wood matching its grand name and is great for all the things listed in the poem. 
 collection: Places
