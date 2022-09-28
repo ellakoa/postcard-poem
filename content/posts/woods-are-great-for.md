@@ -9,7 +9,7 @@ description: >-
 
   Kings Wood near Ashford is a particularly magnificent wood matching its grand name and is great for all the things listed in the poem. 
 collection: Places
-aspect: portrait
+aspect: landscape
 image: /img/wood-are-great-kings-wood-tinyjpeg.jpg
 metaImage: /img/wood-are-great-kings-wood-tinyjpeg.jpg
 alt: Kings Wood sunlight filtering through autumn trees, casting shadows on leaf
