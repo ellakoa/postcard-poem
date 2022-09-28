@@ -25,7 +25,7 @@ poem: |
   then pretending 'like' you weren't scared 
   with soft deep chuckles
   For vivid imaginations and for sharing tales 
-  told in hushed whispers, mindful 
+  tales told in hushed whispers, mindful 
   that the trees are very good listeners.
 alignPoemLeft: false
 address: |-
@@ -33,7 +33,7 @@ address: |-
   Kings Wood 
   Ashford 
   Kent
-stamp: /img/woods-are-great-for-stamp-kings-tiny.png
+stamp: /img/woods-are-great-for-stamp-tiny.png
 author: Caroline Whitehouse
 date: 2022-10-02T07:00:00.000Z
 ---
