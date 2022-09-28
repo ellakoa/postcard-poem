@@ -14,7 +14,9 @@ image: /img/woods-are-great-for-tiny.jpg
 metaImage: /img/woods-are-great-for-tiny.jpg
 alt: A magnificent tree in a clearing in Kings wood , a grandfather helping his
   grandchildren make a den out of sticks
-poem: |-
+poem: |+
+  
+
   Woods are great for hugging trees 
   for running through and grazing knees
   For messing about with family and friends 
@@ -26,11 +28,13 @@ poem: |-
   For vivid imaginations and for sharing tales 
   Stories told in hushed whispers, mindful 
   that the trees are very good listeners.
+
 alignPoemLeft: false
 address: |-
   Woods are Great 
   Kings Wood 
-  Ashford Kent
+  Ashford 
+  Kent
 stamp: /img/woods-are-great-for-stamp-tiny.png
 author: Caroline Whitehouse
 date: 2022-10-02T07:00:00.000Z
