@@ -1,13 +1,13 @@
 ---
 title: Woods are Great For;
 description: >-
-  Many happy days spent in the woods in every season, some woods are good for
-  wild flowers and butterflies others for weird fungi and chestnuts and then
-  there are those for getting lost in. 
+  Woods are great in every season, some woods are good for wildflowers and
+  butterflies others for weird fungi and chestnuts and then some woods are good
+  for getting lost in. 
 
-  The trees take centre stage of course, I like to think they listen to everything, storing away anecdotes to keep them amused through a long winters hibernation.
+  The trees take center stage and I like to think they listen to everything, storing away anecdotes to keep them amused through a long winter's hibernation.
 
-  Kings Wood near Ashford is a particularly magnificent wood  matching its grand name and is great for all the things listed in the poem. 
+  Kings Wood near Ashford is a particularly magnificent wood matching its grand name and is great for all the things listed in the poem. 
 collection: Places
 aspect: landscape
 image: /img/woods-are-great-for-tiny.jpg
