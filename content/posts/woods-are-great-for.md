@@ -7,7 +7,7 @@ description: >-
 
   I like to think the trees listen to everything, storing away anecdotes to dream about through a long winter's hibernation.
 
-  Kings Wood near Ashford is a particularly magnificent wood matching its grand name and is great for all the things listed in the poem. 
+  Kings Wood near Ashford is a particularly magnificent wood matching its grand name.
 collection: Places
 aspect: landscape
 image: /img/wood-are-great-kings-wood-tinyjpeg.jpg
