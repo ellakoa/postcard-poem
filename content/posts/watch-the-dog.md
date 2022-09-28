@@ -12,9 +12,7 @@ aspect: portrait
 image: /img/watch-dog-summer-.jpg
 metaImage: /img/watch-dog-summer-.jpg
 alt: Sunflowers, bees, gatekeeper butterflies, on a very sunny day.
-poem: |+
-  
-
+poem: |-
   Long days of summer sun
   Gardens full of life and fun
   Roses show exquisite fare 
@@ -31,8 +29,6 @@ poem: |+
   Listen in anticipation 
   Wait for the escalation
   Calm the dog’s trepidation.
-
-
 stampHeight: "400"
 alignPoemLeft: true
 address: |
