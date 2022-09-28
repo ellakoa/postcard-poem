@@ -1,4 +1,8 @@
 ---
+stamp: /img/goodwinw-sands-stamp2-blog.jpg
+stampWidth: "600"
+width: "600"
+height: "400"
 title: There Then Not part two
 description: >-
   The Goodwin Sands are sandbanks that shift and change keeping their secrets
@@ -11,8 +15,6 @@ collection: Goodwin Sands
 aspect: landscape
 image: /img/goodwinw-sands-part-2-blog.jpg
 metaImage: /img/goodwinw-sands-part-2-blog.jpg
-width: "600"
-height: "400"
 alt: Silhouette of a man walking along a beautiful shoreline, in the distance, a
   tanker is anchored by the sandbanks
 poem: |-
@@ -26,13 +28,13 @@ poem: |-
   Just beautiful sands for miles and miles
   Peaceful, surreal, virgin land each tide
   Were we being mesmerised?
+stampHeight: "400"
+alignPoemLeft: false
 address: |-
   There Then Not
   The Goodwin Sands
-  6 miles offshore Deal
-stamp: /img/goodwinw-sands-stamp2-blog.jpg
-stampWidth: "600"
-stampHeight: "400"
+  6 miles offshore 
+  Deal
 author: Caroline Whitehouse
 date: 2022-08-03T16:37:48.854Z
 ---
