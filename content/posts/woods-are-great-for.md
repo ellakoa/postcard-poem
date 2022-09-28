@@ -5,7 +5,7 @@ description: >-
   butterflies others for weird fungi and chestnuts and then some woods are good
   for getting lost in. 
 
-  The trees take center stage and I like to think they listen to everything, storing away anecdotes to keep them amused through a long winter's hibernation.
+  I like to think the trees listen to everything, storing away anecdotes to keep them amused through a long winter's hibernation.
 
   Kings Wood near Ashford is a particularly magnificent wood matching its grand name and is great for all the things listed in the poem. 
 collection: Places
@@ -17,17 +17,19 @@ alt: A magnificent tree in a clearing in Kings wood , a grandfather helping his
 poem: |+
   
 
+
   Woods are great for hugging trees 
   for running through and grazing knees
   For messing about with family and friends 
-  finding sticks and making dens.
+  finding sticks and making dens
   For standing quiet when a bird startles and 
   also when the undergrowth rustles 
-  then pretending you weren't scared 
+  then pretending 'like' you weren't scared 
   with soft deep chuckles
   For vivid imaginations and for sharing tales 
   Stories told in hushed whispers, mindful 
   that the trees are very good listeners.
+
 
 alignPoemLeft: false
 address: |-
