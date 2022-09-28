@@ -1,4 +1,8 @@
 ---
+stamp: /img/goodwinw-sands-stamp1-blog.jpg
+stampWidth: "400"
+width: "600"
+height: "400"
 title: There Then Not part three
 description: >-
   The Goodwin Sands are sandbanks that shift and change keeping their secrets
@@ -11,8 +15,6 @@ collection: Goodwin Sands
 aspect: landscape
 image: /img/goodwinw-sands-part-3-blog.jpg
 metaImage: /img/goodwinw-sands-part-3-blog.jpg
-width: "600"
-height: "400"
 alt: Sandbanks, separated by deep pools of water, the sand has been worked into
   intricate patterns by the sea.
 poem: |-
@@ -30,13 +32,13 @@ poem: |-
   The Goodwin Sands are there….
 
   And then, they are not.
+stampHeight: "200"
+alignPoemLeft: false
 address: |-
   There Then Not
   The Goodwin Sands
-  6 miles offshore Deal
-stamp: /img/goodwinw-sands-stamp1-blog.jpg
-stampWidth: "400"
-stampHeight: "200"
+  6 miles offshore 
+  Deal
 author: Caroline Whitehouse
 date: 2022-08-07T12:03:00.940Z
 ---
