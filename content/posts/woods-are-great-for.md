@@ -28,7 +28,7 @@ poem: |-
   that the trees are very good listeners.
 alignPoemLeft: false
 address: |-
-  Woods are Great For;
+  Woods are Great 
   Kings Wood 
   Ashford Kent
 stamp: /img/woods-are-great-for-stamp-tiny.png
