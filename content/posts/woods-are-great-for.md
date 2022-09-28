@@ -14,8 +14,9 @@ image: /img/wood-are-great-kings-wood-tinyjpeg.jpg
 metaImage: /img/wood-are-great-kings-wood-tinyjpeg.jpg
 alt: Kings Wood sunlight filtering through autumn trees, casting shadows on leaf
   strewn woodland floor.
-poem: |
+poem: |+
   
+
   Woods are great for hugging trees 
   for running through and grazing knees
   For messing about with family and friends 
@@ -27,6 +28,7 @@ poem: |
   For vivid imaginations and for sharing tales 
   tales told in hushed whispers, mindful 
   that the trees are very good listeners.
+
 alignPoemLeft: false
 address: |-
   Woods are Great 
