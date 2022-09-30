@@ -19,10 +19,12 @@ poem: |+
 
   Woods are great for hugging trees 
   for running through and grazing knees
-  Spending time with family and friends 
+  For spending time with family and friends 
   Searching for sticks and making dens
-  Standing still when the undergrowth rustles 
-  pretending you weren't scared with chuckles
+  Wide open rides, narrow twisting paths
+  Noisy chatter and joyful laughs
+  For standing still when the undergrowth rustles 
+  pretending 'like'you wasn't scared with chuckles
   For vivid imaginations and tales told in whispers
   mindful that the trees are very good listeners.
 
