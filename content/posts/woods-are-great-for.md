@@ -24,9 +24,9 @@ poem: |+
   For finding a bright sunny glade and then 
   walking back into the dark cool shade 
   For making you think no one else is around 
-  as leafy matter muffles all sound but when
-  the undergrowth suddenly rustles you pretend 
-  you weren't scared with soft deep chuckles
+  as the soft woodland floor muffles sound but 
+  if the undergrowth suddenly rustles you pretend 
+  you aren't scared with soft deep chuckles
   For vivid imaginations and tales told in whispers
   mindful that the trees are very good listeners.
 
