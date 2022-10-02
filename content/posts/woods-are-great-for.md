@@ -25,9 +25,9 @@ poem: |+
   walking back into the dark cool shade 
   For making you think no one else is around 
   as the soft woodland floor muffles sound but 
-  if the undergrowth suddenly rustles you pretend 
+  if the undergrowth rustles you pretend 
   you aren't scared with soft deep chuckles
-  For vivid imaginations and tales told in whispers
+  For vivid imaginations and tales whispered
   mindful that the trees are very good listeners.
 
 alignPoemLeft: false
