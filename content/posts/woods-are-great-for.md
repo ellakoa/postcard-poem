@@ -28,7 +28,7 @@ poem: |+
   if the undergrowth rustles you pretend 
   you aren't scared with soft deep chuckles
   For vivid imaginations and tales whispered
-  mindful that the trees are very good listeners.
+  mindful that trees are very good listeners.
 
 alignPoemLeft: false
 address: |-
