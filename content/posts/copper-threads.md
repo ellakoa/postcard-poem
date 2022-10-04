@@ -15,12 +15,6 @@ image: /img/derp-cat.jpeg
 metaImage: /img/derp-cat.jpeg
 alt: "111"
 poem: |-
-  Autumn has to work quite quick
-  before the woodland bares its sticks
-  Fine copper threads are carefully chosen and 
-  very skilfully interwoven, setting the canopy
-  ablaze as the night begins to outwit the day.
-
   Fungi, beautiful and weird
   Unruly old man's beard
   Woodland creatures go about their 
