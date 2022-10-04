@@ -6,10 +6,10 @@ description: >
 
   Copper threads is part of a collection of poems called 'Woodland Tapestries'  
 
-  The idea is that the woodlands are worked on an ancient loom overseen by the seasons. 
+  I had this whimsical idea that the woodlands are worked on an ancient loom overseen by the seasons. 
 
   Winter, Spring and Summer will be weaved in due course.
-collection: "111"
+collection: Woodland Tapestries
 aspect: landscape
 image: /img/derp-cat.jpeg
 metaImage: /img/derp-cat.jpeg
@@ -28,7 +28,7 @@ poem: |-
 
   A woodland proudly displaying its bounty
   active in preparation, storing in anticipation.
-alignPoemLeft: false
+alignPoemLeft: true
 address: "111"
 stamp: /img/derp-cat.jpeg
 author: Caroline Whitehouse
