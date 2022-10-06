@@ -3,7 +3,7 @@ title: Butterfly Song
 description: "111"
 collection: Butterflies
 aspect: landscape
-image: /img/chalkhill-blue-butterfly-tiny.jpg
+image: /img/white-butterfly-tiny.jpg
 metaImage: /img/chalkhill-blue-butterfly-tiny.jpg
 alt: Close up of a Chalkhill blue butterfly on a single blade of grass. Blue
   silvery wings with a white fringe.
@@ -19,11 +19,11 @@ poem: |-
   draped with flowers and trees
 alignPoemLeft: false
 address: |-
-  The Butterfly's Song
+  Butterfly Song
   Temple Ewell Nature Reserve
   Dover 
   Kent
-stamp: /img/chalkhill-blue-butterfly-female-stamp.jpg
+stamp: /img/white-butterfly-stamp.jpg
 author: Caroline Whitehouse
 date: 2022-10-06T15:05:09.651Z
 ---
