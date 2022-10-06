@@ -1,6 +1,7 @@
 ---
-title: Butterflies song
-description: "Entrancing creatures butterflies, "
+title: The Butterflies Song
+description: Ethereal and entrancing, butterflies are a fleeting part of summer
+  which is short enough in the UK
 collection: Butterflies
 aspect: landscape
 image: /img/chalkhill-blue-butterfly-tiny.jpg
