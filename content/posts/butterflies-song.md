@@ -4,7 +4,7 @@ description: Ethereal and entrancing, butterflies are a fleeting part of summer
   which is short enough in the UK
 collection: Butterflies
 aspect: landscape
-image: /img/chalkhill-blue-butterfly-tiny.jpg
+image: /img/white-butterfly-tiny.jpg
 metaImage: /img/chalkhill-blue-butterfly-tiny.jpg
 alt: Chalkhill Blue Butterfly resting on a single blade of grass, the wings are
   silvery blue with a white fringe.
