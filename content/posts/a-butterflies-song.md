@@ -9,8 +9,8 @@ alt: "111"
 poem: |-
   Butterflies don’t sing
   They dance their song
-  a in colourful sarong
   A whimsical mime
+  in a colourful sarong
   They shimmy in time
   To the music of 
   the birds and the bees
