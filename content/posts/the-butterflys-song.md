@@ -10,10 +10,10 @@ alt: Close up of a Chalkhill blue butterfly on a single blade of grass. Blue
 poem: |-
   Butterflies don’t sing
   They dance their song
-  with ethereal wings
+  with iridescent wings
   A whimsical mime
-  That floats through time
-  Entranced by the music of 
+  played out through time
+  To the rhythem of 
   the birds and the bees
   In a theatre set 
   draped with flowers and trees
