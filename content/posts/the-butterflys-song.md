@@ -1,5 +1,5 @@
 ---
-title: The Butterfly's Song
+title: Butterfly Song
 description: "111"
 collection: Butterflies
 aspect: landscape
@@ -13,7 +13,7 @@ poem: |-
   with iridescent wings
   A whimsical mime
   played out through time
-  To the rhythem of 
+  To the rhythm of 
   the birds and the bees
   In a theatre set 
   draped with flowers and trees
