@@ -1,6 +1,6 @@
 ---
 title: Butterflies song
-description: "111"
+description: "Entrancing creatures butterflies, "
 collection: Butterflies
 aspect: landscape
 image: /img/chalkhill-blue-butterfly-tiny.jpg
