@@ -3,7 +3,7 @@ title: A Butterflies Song
 description: "11"
 collection: Butterflies
 aspect: landscape
-image: /img/derp-cat.jpeg
+image: /img/chalkhill-blue-butterfly-tiny.jpg
 metaImage: /img/derp-cat.jpeg
 alt: "111"
 poem: |-
