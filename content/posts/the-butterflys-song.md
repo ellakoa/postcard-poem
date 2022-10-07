@@ -15,12 +15,15 @@ poem: |+
   They dance their song
   with iridescent wings
   A whimsical mime
-  to a silent rhyme
+  to a silent rhyme.
 
-  They enter a stage draped
-  With flowers and trees
+  They enter a stage 
+  draped with flowers and trees
   Warm sunny skies
-  and a gentle breeze
+  and a gentle breeze.
+
+  They have transformed
+  and are ready to perform.
 
 
 alignPoemLeft: true
