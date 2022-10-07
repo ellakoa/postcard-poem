@@ -1,7 +1,8 @@
 ---
 title: Butterfly Song
-description: "Butterflies don't sing, yet they have such graceful movements I
-  think there must be a tune in their heads that they dance to. "
+description: "Butterflies don't sing, yet they have such graceful movements in
+  flight I think there must be a tune in their heads that they are dancing to.
+  Maybe this is what they are working on when they are cocooned. "
 collection: Butterflies
 aspect: landscape
 image: /img/white-butterfly-tiny.jpg
