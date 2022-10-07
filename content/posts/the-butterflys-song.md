@@ -1,6 +1,7 @@
 ---
 title: Butterfly Song
-description: "111"
+description: "Butterflies don't sing, yet the have such graceful movements I
+  think there must be a tune in their heads that they dance too as they "
 collection: Butterflies
 aspect: landscape
 image: /img/chalkhill-blue-butterfly-tiny.jpg
@@ -16,7 +17,7 @@ poem: |+
   with iridescent wings
   A whimsical mime
   played out through time
-  Danced to the music of 
+  Dancing to the music of 
   the birds and the bees
   In a theatre set 
   draped with flowers and trees
