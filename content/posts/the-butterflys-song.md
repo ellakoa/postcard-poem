@@ -24,7 +24,7 @@ poem: |+
   and a gentle breeze.
 
   They have transformed
-  and are ready to perform.
+  and with joy, perform.
 
 
 alignPoemLeft: true
