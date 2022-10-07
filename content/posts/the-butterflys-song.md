@@ -4,10 +4,10 @@ description: "Butterflies don't sing, yet the have such graceful movements I
   think there must be a tune in their heads that they dance too as they "
 collection: Butterflies
 aspect: landscape
-image: /img/chalkhill-blue-butterfly-tiny.jpg
-metaImage: /img/chalkhill-blue-butterfly-tiny.jpg
-alt: Close up photograph. Male Chalkhill blue butterfly on a single blade of
-  grass. Blue silvery wings with a white fringe
+image: /img/white-butterfly-tiny.jpg
+metaImage: /img/white-butterfly-tiny.jpg
+alt: Close up photograph. White  butterfly feeding on white flowers. White
+  iridescent wings with a fringe.
 poem: |+
   
 
@@ -29,7 +29,7 @@ address: |-
   Temple Ewell Nature Reserve
   Dover 
   Kent
-stamp: /img/chalkhill-blue-butterfly-female-stamp.jpg
+stamp: /img/white-butterfly-stamp.jpg
 author: Caroline Whitehouse
 date: 2022-10-06T15:05:09.651Z
 ---
