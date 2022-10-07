@@ -1,7 +1,7 @@
 ---
 title: Butterfly Song
-description: "Butterflies don't sing, yet the have such graceful movements I
-  think there must be a tune in their heads that they dance too as they "
+description: "Butterflies don't sing, yet they have such graceful movements I
+  think there must be a tune in their heads that they dance to. "
 collection: Butterflies
 aspect: landscape
 image: /img/white-butterfly-tiny.jpg
@@ -16,11 +16,13 @@ poem: |+
   They dance their song
   with iridescent wings
   A whimsical mime
-  played out through time
-  Dancing to the music of 
-  the birds and the bees
-  In a theatre set 
-  draped with flowers and trees
+  to a silent rhyme
+
+  They enter a stage draped
+  With flowers and trees
+  Warm sunny skies
+  and a gentle breeze
+
 
 
 alignPoemLeft: true
