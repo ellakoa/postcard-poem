@@ -12,7 +12,6 @@ alt: Photograph of a white butterfly resting on Queen Anne's Lace. White
   iridescent wings are fully open.
 poem: |+
   
-
   Butterflies don’t sing
   They dance their song
   with iridescent wings
@@ -26,7 +25,6 @@ poem: |+
 
   They have transformed
   and with joy, perform.
-
 
 alignPoemLeft: true
 address: |-
