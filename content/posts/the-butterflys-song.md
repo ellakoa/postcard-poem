@@ -24,11 +24,7 @@ poem: |+
 
 
 alignPoemLeft: true
-address: |-
-  Butterfly Song
-  Temple Ewell Nature Reserve
-  Dover 
-  Kent
+address: "111"
 stamp: /img/chalkhill-blue-butterfly-female-stamp.jpg
 author: Caroline Whitehouse
 date: 2022-10-06T15:05:09.651Z
