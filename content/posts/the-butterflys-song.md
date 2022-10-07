@@ -6,8 +6,8 @@ collection: Butterflies
 aspect: landscape
 image: /img/white-butterfly-tiny.jpg
 metaImage: /img/white-butterfly-tiny.jpg
-alt: Close up photograph. White  butterfly feeding on white flowers. White
-  iridescent wings with a fringe.
+alt: Photograph of a white butterfly resting on Queen Anne's Lace. White
+  iridescent wings are fully open.
 poem: |+
   
 
