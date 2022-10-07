@@ -7,7 +7,8 @@ image: /img/white-butterfly-tiny.jpg
 metaImage: /img/chalkhill-blue-butterfly-tiny.jpg
 alt: Close up of a Chalkhill blue butterfly on a single blade of grass. Blue
   silvery wings with a white fringe.
-poem: |-
+poem: |
+  
   Butterflies don’t sing
   They dance their song
   with iridescent wings
