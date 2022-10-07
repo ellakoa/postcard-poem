@@ -11,7 +11,6 @@ alt: Close up photograph. White  butterfly feeding on white flowers. White
 poem: |+
   
 
-
   Butterflies don’t sing
   They dance their song
   with iridescent wings
@@ -22,7 +21,6 @@ poem: |+
   With flowers and trees
   Warm sunny skies
   and a gentle breeze
-
 
 
 alignPoemLeft: true
