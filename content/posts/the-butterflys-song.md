@@ -5,8 +5,8 @@ collection: Butterflies
 aspect: landscape
 image: /img/white-butterfly-tiny.jpg
 metaImage: /img/chalkhill-blue-butterfly-tiny.jpg
-alt: Close up of a Chalkhill blue butterfly on a single blade of grass. Blue
-  silvery wings with a white fringe.
+alt: Close up photograph. Male Chalkhill blue butterfly on a single blade of
+  grass. Blue silvery wings with a white fringe
 poem: |
   
   Butterflies don’t sing
