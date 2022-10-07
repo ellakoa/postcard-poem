@@ -3,12 +3,13 @@ title: Butterfly Song
 description: "111"
 collection: Butterflies
 aspect: landscape
-image: /img/white-butterfly-tiny.jpg
+image: /img/chalkhill-blue-butterfly-tiny.jpg
 metaImage: /img/chalkhill-blue-butterfly-tiny.jpg
 alt: Close up photograph. Male Chalkhill blue butterfly on a single blade of
   grass. Blue silvery wings with a white fringe
 poem: |+
   
+
 
   Butterflies don’t sing
   They dance their song
@@ -20,13 +21,14 @@ poem: |+
   In a theatre set 
   draped with flowers and trees
 
-alignPoemLeft: false
+
+alignPoemLeft: true
 address: |-
   Butterfly Song
   Temple Ewell Nature Reserve
   Dover 
   Kent
-stamp: /img/white-butterfly-stamp.jpg
+stamp: /img/chalkhill-blue-butterfly-female-stamp.jpg
 author: Caroline Whitehouse
 date: 2022-10-06T15:05:09.651Z
 ---
