@@ -22,7 +22,7 @@ poem: |+
   to a silent rhyme
   What may appear as 
   random flight
-  Is the butterfly’s song
+  Is the butterfly’s song to the world
   Danced in warm sunlight.
 
 
