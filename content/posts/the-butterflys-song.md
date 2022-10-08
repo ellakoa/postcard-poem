@@ -1,8 +1,10 @@
 ---
 title: Butterfly Song
-description: Butterflies don't sing, yet they have such graceful movements in
-  flight I think there must be a tune in their heads that they are dancing to.
-  Our lovely white butterflies are
+description: Butterflies don't sing, but what they lack in sound they make up
+  for with colourful shimmering wings. They have such random movements when
+  flying I think there must be a song in their heads that they are dancing to.
+  Our lovely white butterflies are particularly lively in flight never seeming
+  to land, what a song they must be dancing to.
 collection: Butterflies
 aspect: landscape
 image: /img/white-butterfly-tiny.jpg
