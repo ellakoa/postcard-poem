@@ -12,6 +12,7 @@ alt: Photograph of a white butterfly resting on Queen Anne's Lace. White
   iridescent wings are fully open.
 poem: |+
   
+
   Butterflies dance their song
   with iridescent wings
   A whimsical mime
@@ -21,8 +22,6 @@ poem: |+
   draped with flowers and trees
   Warm sunny skies
   and a gentle breeze.
-
-
 
 alignPoemLeft: true
 address: |-
