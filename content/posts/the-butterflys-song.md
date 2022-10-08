@@ -1,8 +1,8 @@
 ---
 title: Butterfly Song
-description: "Butterflies don't sing, yet they have such graceful movements in
+description: Butterflies don't sing, yet they have such graceful movements in
   flight I think there must be a tune in their heads that they are dancing to.
-  Our lovely white butterflies are particularly "
+  Our lovely white butterflies are
 collection: Butterflies
 aspect: landscape
 image: /img/white-butterfly-tiny.jpg
@@ -12,6 +12,8 @@ alt: Photograph of a white butterfly resting on Queen Anne's Lace. White
 poem: |+
   
 
+
+
   It is with iridescent wings
   a butterfly sings
   A whimsical mime
@@ -20,6 +22,7 @@ poem: |+
   random flight
   Is the butterfly’s song
   Danced in warm sunlight.
+
 
 
 alignPoemLeft: true
