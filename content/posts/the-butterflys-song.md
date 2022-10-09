@@ -23,7 +23,7 @@ poem: |+
   What may appear as 
   random flight
   Is the butterfly's song 
-  Danced in the warm sunlight.
+  danced in the warm sunlight.
 
 
 
