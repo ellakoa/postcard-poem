@@ -23,7 +23,7 @@ address: |-
   The Loveliest Prize
   Kingsdown Bay
   Kent
-stamp: /img/sunrise-kingsdown-sailing-boat-one-134849.jpg
+stamp: /img/the-loveliest-prize-stamp.jpg
 author: Caroline Whitehouse
 date: 2022-10-13T08:07:35.287Z
 ---
