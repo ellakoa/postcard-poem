@@ -18,8 +18,10 @@ poem: |+
   see the mighty sun soar
   Reflecting rich colours on
   waved-washed shores
-  Fiery reds mellow into blushing pinks
-  Molten gold softens with amber hints
+  Fiery reds mellow 
+  into blushing pinks
+  Molten gold softens 
+  with amber hints
   The earliest mornings
   and the shifting tides
   Gifts the early riser 
