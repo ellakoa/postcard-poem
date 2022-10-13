@@ -30,5 +30,5 @@ address: |-
   Kent
 stamp: /img/the-loveliest-prize-stamp.jpg
 author: Caroline Whitehouse
-date: 2022-10-13T08:07:35.287Z
+date: 2022-10-16T07:00:35.287Z
 ---
