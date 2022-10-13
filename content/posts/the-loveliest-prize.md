@@ -5,8 +5,8 @@ collection: Beyond The Pebbles
 aspect: landscape
 image: /img/sunrise-kingsdown-sailing-boat-134855.jpg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
-alt: Sunrise over Kingsdown bay, the rich colours reflect in wet sand, chalk
-  rocks covered in seaweed in the foreground.
+alt: Sunrise over Kingsdown bay, rich colours reflect in wet sand, sailing boat
+  on the horizon, passing the sun.
 poem: |-
   Look to the horizon 
   see the mighty sun soar
