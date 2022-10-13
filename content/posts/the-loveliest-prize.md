@@ -1,15 +1,16 @@
 ---
 title: The Loveliest Prize
 description: "The South East coast of England greets the sunrise as it appears
-  over the distant horizon before sweeping across the rest of the countrysome of
-  the best colours are seen in autumn and winter when the "
+  over the distant horizon before sweeping across the rest of the country some
+  of the best colours are seen in autumn and winter when the "
 collection: Beyond The Pebbles
 aspect: landscape
 image: /img/sunrise-kingsdown-sailing-boat-three-134849.jpg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: Sunrise over Kingsdown bay, rich colours reflect in wet sand, sailing boat
   on the horizon, passing the sun.
-poem: |-
+poem: |
+  
   Look to the horizon 
   see the mighty sun soar
   Reflecting rich colours on
