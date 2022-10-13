@@ -1,8 +1,10 @@
 ---
 title: The Loveliest Prize
-description: "The South East coast of England greets the sunrise as it appears
-  over the distant horizon before sweeping across the rest of the country some
-  of the best colours are seen in autumn and winter when the "
+description: Getting up to see the sunrise takes a commitment at any time of the
+  year, but it is made easier during late autumn and the winter months by the
+  later sunrises. The payoff is the much colder mornings. Yet it is these cold
+  clear mornings that afford some of the most vibrant colours, rewarding those
+  who have stumbled out of bed early enough to catch it.
 collection: Beyond The Pebbles
 aspect: landscape
 image: /img/sunrise-kingsdown-sailing-boat-three-134849.jpg
