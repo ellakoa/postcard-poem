@@ -3,7 +3,7 @@ title: The Loveliest Prize
 description: "111"
 collection: Beyond The Pebbles
 aspect: landscape
-image: /img/sunrise-kingsdown-sailing-boat-one-134849.jpg
+image: /img/sunrise-kingsdown-sailing-boat-three-134849.jpg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: Sunrise over Kingsdown bay, rich colours reflect in wet sand, sailing boat
   on the horizon, passing the sun.
