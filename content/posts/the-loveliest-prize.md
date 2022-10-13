@@ -5,8 +5,8 @@ collection: Beyond The Pebbles
 aspect: landscape
 image: /img/goodwin-sands-one-163740.jpg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
-alt: Sunrise over Kingsdown bay, rich colours reflect in wet sand, chalk rock
-  and seaweed covered rocks in foreground
+alt: Sunrise over Kingsdown bay, the rich colours reflect in wet sand, chalk
+  rocks covered in seaweed in the foreground.
 poem: |-
   Look to the horizon 
   see the mighty sun soar
