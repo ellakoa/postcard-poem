@@ -1,10 +1,10 @@
 ---
 title: The Loveliest Prize
 description: Getting up to see the sunrise takes a commitment at any time of the
-  year, but it is made easier during late autumn and the winter months by the
-  later sunrises. The payoff is the much colder mornings. Yet it is these cold
-  clear mornings that afford some of the most vibrant colours, rewarding those
-  who have stumbled out of bed early enough to catch it.
+  year, but it is made easier during autumn and the winter months by the later
+  sunrises, the payoff is the much colder mornings. Yet it is these cold clear
+  mornings that afford some of the most vibrant colours, rewarding those who
+  have stumbled out of bed early enough to catch it.
 collection: Beyond The Pebbles
 aspect: landscape
 image: /img/sunrise-kingsdown-sailing-boat-three-134849.jpg
