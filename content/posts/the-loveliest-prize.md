@@ -17,7 +17,7 @@ poem: |+
   Look to the horizon 
   see the mighty sun soar
   Reflecting rich colours on
-  waved-washed shores
+  waved washed shores
   Fiery reds mellow 
   into blushing pinks
   Molten gold softens 
