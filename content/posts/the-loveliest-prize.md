@@ -30,7 +30,7 @@ poem: |+
 alignPoemLeft: false
 address: |-
   The Loveliest Prize
-  Kingsdown Bay
+  Kingsdown 
   Kent
 stamp: /img/the-loveliest-prize-stamp.jpg
 author: Caroline Whitehouse
