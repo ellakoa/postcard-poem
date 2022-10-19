@@ -1,12 +1,12 @@
 ---
 title: Cauldrons of the Bay
-description: >-
+description: >
   These 'Cauldrons' are often found in Kingsdown bay, when they have finished
   bubbling they can leave behind
 
   imprints of the monsters they have been creating. If you disturb them by standing in them your feet will sink
 
-  and be held fast, a bit of a shock when your foot suddenly dissapears, a good tug usually releases the foot
+  and could be held fast. It is a bit of a shock when your foot suddenly disappears as you are walking along, a good tug usually releases it and the cauldrons carry on with their conjuring.
 collection: Beyond The Pebbles
 aspect: landscape
 image: /img/beyond-pebbles-face-kingsdown.jpg
