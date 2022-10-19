@@ -11,10 +11,14 @@ poem: |
   A mischievousness comes into play
   that starts as the tide ebbs away
   leaving traps on the sandy ground
-         “to the bay you could be bound"
+
+   “to the bay you could be bound"
+
   whorls of sand grains swirling 
   captured as a cauldron churning
-   ......“careful of the charms they cast”
+
+  “careful of the charms they cast”
+
   don’t disturb them as you pass
   or your feet could be held fast.
 alignPoemLeft: false
