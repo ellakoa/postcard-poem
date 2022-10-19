@@ -9,7 +9,7 @@ description: >
 
   I had this whimsical idea that the woodlands are worked on an ancient loom overseen by the seasons. 
 
-  Winter, Spring and Summer will be weaved in due course.
+  Winter, Spring and Summer will be weaved in due course with some smaller tapestries will linking the seasons.
 collection: Woodland Tapestries
 aspect: landscape
 image: /img/derp-cat.jpeg
