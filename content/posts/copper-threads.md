@@ -1,6 +1,6 @@
 ---
 title: Copper Threads
-description: >
+description: >+
   The autumn equinox sees summer firmly on the back foot and although we may
   have warmth in the shortening days the colder nights begin to tell a different
   story. 
@@ -9,13 +9,15 @@ description: >
 
   I had this whimsical idea that the woodlands are worked on an ancient loom overseen by the seasons. 
 
-  Winter, Spring and Summer will be weaved in due course with some smaller tapestries will linking the seasons.
+  Winter, Spring and Summer will be weaved in due course with some smaller tapestries linking the seasons.
+
 collection: Woodland Tapestries
 aspect: landscape
 image: /img/derp-cat.jpeg
 metaImage: /img/derp-cat.jpeg
 alt: "111"
 poem: |-
+  
   Fungi, beautiful and weird
   Unruly old man's beard
   Woodland creatures go about their 
