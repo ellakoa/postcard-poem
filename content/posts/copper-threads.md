@@ -9,7 +9,7 @@ description: >+
 
   I had this whimsical idea that the woodlands are worked on an ancient loom overseen by the seasons. 
 
-  Winter, Spring and Summer will be weaved in due course with some smaller tapestries linking the seasons.
+  Autumn, Winter, Spring and Summer will be weaved in due course with some smaller tapestries linking the seasons together.
 
 collection: Woodland Tapestries
 aspect: landscape
@@ -17,23 +17,19 @@ image: /img/derp-cat.jpeg
 metaImage: /img/derp-cat.jpeg
 alt: "111"
 poem: |-
-  
-  Fungi, beautiful and weird
-  Unruly old man's beard
-  Woodland creatures go about their 
-  chores rummaging for winter stores
-  Summer has cast away
-  the canopy begins to fray.
-  Autumn snips the final threads and
-  all around tumbling down a cloth
-  of orange, red and golden browns
-  Layer upon layer shrouding the ground
-
-  A woodland proudly displaying its bounty
-  active in preparation, storing in anticipation.
+  Autumn has to work quite quick
+  before the woodland 
+  canopy bares its sticks
+  Fine copper threads are 
+  carefully chosen and 
+  very skilfully interwoven
+  setting the canopy 
+  ablaze as the night 
+  begins to outwit the day.
 alignPoemLeft: true
 address: "111"
 stamp: /img/derp-cat.jpeg
 author: Caroline Whitehouse
 date: 2022-09-27T15:45:20.408Z
 ---
+Look out for the autumn tapestry.
