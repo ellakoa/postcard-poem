@@ -9,7 +9,7 @@ description: >+
 
   I had this whimsical idea that the woodlands are worked on an ancient loom overseen by the seasons. 
 
-  Autumn, Winter, Spring and Summer will be weaved in due course with some smaller tapestries linking the seasons together.
+  Autumn, Winter, Spring and Summer will be weaved in due course with some smaller tapestries linking the seasons together. 
 
 collection: Woodland Tapestries
 aspect: landscape
@@ -27,7 +27,11 @@ poem: |-
   ablaze as the night 
   begins to outwit the day.
 alignPoemLeft: true
-address: "111"
+address: |-
+  Copper Threads
+  Kings Wood
+  Ashford
+  Kent
 stamp: /img/derp-cat.jpeg
 author: Caroline Whitehouse
 date: 2022-09-27T15:45:20.408Z
