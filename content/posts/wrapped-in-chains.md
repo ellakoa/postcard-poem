@@ -20,8 +20,8 @@ poem: |
   Once a proud defender, requisite
   Time has rendered it obsolete
 
-  Grain tower, defiant in defeat
-  Exploits the tide's daily retreat
+  Defiant in defeat, Grain tower
+  exploits the tide's daily retreat
   Luring visitors to its historical scene 
   On a path of bricks covered in green
   But be aware the mudflats are thick 
