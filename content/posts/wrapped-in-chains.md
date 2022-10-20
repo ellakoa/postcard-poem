@@ -10,7 +10,7 @@ description: >-
   Today the tower stands alone, the only battle it faces is a constant battle against the elements. 
 collection: Places
 aspect: landscape
-image: /img/grain-tower-wrapped-in-chains-tiny1.jpg
+image: /img/grain-tower-wrapped-in-chains-tiny.jpg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: Seaweed covered brick path, leading to Grain Napoleonic Tower, placed where
   the river Medway and the Thames merge.
