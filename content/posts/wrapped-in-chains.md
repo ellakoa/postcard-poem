@@ -1,10 +1,13 @@
 ---
 title: Wrapped in Chains
-description: "Grain Napoleonic Tower stands defiant where the River Medway meets
-  the Thames. Built as part of a defence system to protect from a perceived
-  French naval attack. It was added to and used during both world wars. The
-  massive chain once used in defence across the estuary is wrapped around the
-  tower slowly rusting away. The Tower stands alone battling the elements. "
+description: >-
+  Grain Napoleonic Tower stands defiant where the River Medway meets the Thames.
+  Built as part of a defence system to protect from a perceived French naval
+  attack. It was added to and used during both world wars. The massive chain
+  once used in defence across the estuary is wrapped around the tower slowly
+  rusting away. 
+
+  Today the tower stands alone, the only battle it faces is a battle against the elements. 
 collection: Places
 aspect: landscape
 image: /img/beyond-pebbles-face-kingsdown.jpg
