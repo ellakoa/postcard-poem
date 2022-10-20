@@ -7,7 +7,7 @@ description: >-
   once used in defence across the estuary is wrapped around the tower slowly
   rusting away. 
 
-  Today the tower stands alone, the only battle it faces is a battle against the elements. 
+  Today the tower stands alone, the only battle it faces is a constant battle against the elements. 
 collection: Places
 aspect: landscape
 image: /img/beyond-pebbles-face-kingsdown.jpg
