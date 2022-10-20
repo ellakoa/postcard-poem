@@ -26,7 +26,7 @@ poem: |
   Defiant in defeat, Grain tower
   exploits the tide's daily retreat
   Luring visitors to its historical scene 
-  On a path of bricks covered in green
+  Across a path of seaweed, a slippery green
   But be aware the mudflats are thick 
   and the roving tides like to play tricks.
 alignPoemLeft: false
