@@ -23,11 +23,11 @@ poem: |
   Once a proud defender, requisite
   Time has rendered it obsolete
 
-  Defiant in defeat, Grain tower
+  Grain tower, defiant in defeat
   exploits the tide's daily retreat
 
   Luring visitors to its historical scene 
-  Across a path of seaweed, a slippery green
+  Across a path, a slippery green
   But be aware the mudflats are thick 
   and the roving tides like to play tricks.
 alignPoemLeft: false
