@@ -12,21 +12,25 @@ aspect: landscape
 image: /img/beyond-pebbles-face-kingsdown.jpg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: "111"
-poem: |
-  
+poem: |-
   A mischievousness comes into play
-  that starts as the tide ebbs away
+             that starts as the tide ebbs away
   leaving traps on the sandy ground
-
-  “To the bay, you could be bound"
-
-  Whorls of sand grains swirling 
-  captured as a cauldron churning
-
-  “Careful of the charms they cast”
-
-  Don’t disturb them as you pass
+            “to the bay you could be bound’
+  whorls of sand grains swirling 
+             captured as a cauldron churning
+  “careful of the charms they cast”
+             don’t disturb them as you pass
   or your feet could be held fast.
+
+  When the water runs dry 
+             and the cauldrons still 
+  Left behind 
+             are images to chill
+  Imprints of monsters
+             unleashed to fright
+  Keep safe dear friends
+             on this Halloween night.
 alignPoemLeft: false
 address: |-
   Cauldrons of the Bay
