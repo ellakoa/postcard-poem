@@ -30,6 +30,22 @@ poem: "
 
   or your feet could be held fast.
 
+
+  When the water runs dry\ 
+
+  and the cauldrons still\ 
+
+  Left behind are images to chill
+
+  Imprints of monsters\ 
+
+  unleashed to fright
+
+  Keep safe dear friends
+
+  on this Halloween night.
+
+
   \          "
 alignPoemLeft: false
 address: |-
