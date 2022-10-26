@@ -37,7 +37,7 @@ address: |-
   Oldstairs Bay
   Kingsdown
   Kent
-stamp: /img/beyond-pebbles-face-kingsdown.jpg
+stamp: /img/halloween-stamp1.jpg
 author: Caroline Whitehouse
 date: 2022-10-30T08:00:03.881Z
 ---
