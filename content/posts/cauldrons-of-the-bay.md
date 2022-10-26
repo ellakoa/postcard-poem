@@ -6,16 +6,16 @@ description: >-
 
   imprints of what they have been creating. If you disturb them by standing in them your feet will sink into the sand. It is a bit of a shock when your foot suddenly disappears as you are walking along, a good tug usually releases it (albeit wet and slimy) and the cauldrons carry on with their conjuring. Whilst most of the time they are pretty harmless on Halloween they get a little bit mischievous.
 collection: Beyond The Pebbles
-aspect: landscape
-image: /img/beyond-pebbles-face-kingsdown.jpg
+aspect: portrait
+image: /img/halloween2022boo-tiny.jpg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: "111"
 poem: |-
   A mischievousness comes into play
              that starts as the tide ebbs away
   leaving traps on the sandy ground
-            “to the bay, you could be bound’
-  whorls of sand grains swirling 
+            “to the bay you could be bound’
+  Whorls of sand grains swirling 
              captured as a cauldron churning
   “careful of the charms they cast”
              don’t disturb them as you pass
