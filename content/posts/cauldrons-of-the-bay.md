@@ -10,9 +10,7 @@ aspect: portrait
 image: /img/halloween2022boo-tiny.jpg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: "111"
-poem: "
-
-  A mischievousness comes into play
+poem: "A mischievousness comes into play
 
   \           that starts as the tide ebbs away
 
@@ -31,17 +29,17 @@ poem: "
   or your feet could be held fast.
 
 
-  When the water runs dry\ 
+  Halloween the water runs dry\ 
 
-  and the cauldrons still\ 
+  \           and the cauldrons still\ 
 
   Left behind are images to chill
 
-  Imprints of monsters\ 
+  \           Imprints of monsters\ 
 
   unleashed to fright
 
-  Keep safe dear friends
+  \           Keep safe dear friends
 
   on this Halloween night.
 
@@ -53,7 +51,7 @@ address: |-
   Oldstairs Bay
   Kingsdown
   Kent
-stamp: /img/halloween-stamp1.jpg
+stamp: /img/halloween-stamptiny.jpg
 author: Caroline Whitehouse
 date: 2022-10-30T08:00:03.881Z
 ---
