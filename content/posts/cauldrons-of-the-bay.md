@@ -29,28 +29,26 @@ poem: "A mischievousness comes into play
   or your feet could be held fast.
 
 
-  Halloween the water runs dry\ 
+  Halloween, the cauldrons still\ 
 
-  \           and the cauldrons still\ 
+  \            in the sand, images to chill
 
-  Left behind are images to chill
+  Imprints of monsters\ 
 
-  \           Imprints of monsters\ 
+  \            unleashed to fright
 
-  unleashed to fright
+  Keep safe dear friends
 
-  \           Keep safe dear friends
-
-  on this Halloween night.
+  \            on this Halloween night.
 
 
   \          "
 alignPoemLeft: false
-address: |-
+address: |
   Cauldrons of the Bay
+  Halloween
   Oldstairs Bay
-  Kingsdown
-  Kent
+  Kingsdown Kent
 stamp: /img/halloween-stamptiny.jpg
 author: Caroline Whitehouse
 date: 2022-10-30T08:00:03.881Z
