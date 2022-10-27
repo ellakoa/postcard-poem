@@ -30,7 +30,8 @@ poem: |-
               on this Halloween night.
 alignPoemLeft: false
 address: |
-  Cauldrons 
+  Cauldrons of 
+  the Bay
   Oldstairs Bay
   Kingsdown Kent
 stamp: /img/halloween-stamptiny.jpg
