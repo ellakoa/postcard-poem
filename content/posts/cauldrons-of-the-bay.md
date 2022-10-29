@@ -22,8 +22,8 @@ poem: |-
              don’t disturb them as you pass
   or your feet could be held fast.
 
-  At Halloween, the cauldrons still 
-           Left in the sand are images to chill
+  Halloween, the cauldrons still 
+              In the sand images to chill
   Imprints of monsters 
               unleashed to fright
   Keep safe dear friends
