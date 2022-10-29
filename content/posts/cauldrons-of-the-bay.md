@@ -23,11 +23,11 @@ poem: |-
   or your feet could be held fast.
 
   Halloween, the cauldrons still 
-              In the sand images to chill
+  In the sand, images to chill
   Imprints of monsters 
-              unleashed to fright
+  unleashed to fright
   Keep safe dear friends
-              on this Halloween night.
+  on this Halloween night.
 alignPoemLeft: false
 address: |
   Cauldrons of 
