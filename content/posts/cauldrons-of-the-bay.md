@@ -13,13 +13,13 @@ alt: The imprint of a ghoulish face in the sand created by the tide retreating,
   sand bubbles up in watery cauldrons.
 poem: |-
   A mischievousness comes into play
-             that starts as the tide ebbs away
+  that starts as the tide ebbs away
   leaving traps on the sandy ground
-            “to the bay you could be bound’
+  “to the bay you could be bound’
   Whorls of sand grains swirling 
-             captured as a cauldron churning
+  captured as a cauldron churning
   “Careful of the charms they cast”
-             don’t disturb them as you pass
+  don’t disturb them as you pass
   or your feet could be held fast.
 
   Halloween, the cauldrons still 
