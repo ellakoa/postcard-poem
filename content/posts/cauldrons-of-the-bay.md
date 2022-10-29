@@ -4,7 +4,7 @@ description: >-
   These 'Cauldrons' are often found in Kingsdown bay, when they have finished
   bubbling they can leave behind
 
-  imprints of what they have been creating. If you disturb them by standing in them your feet will sink into the sand. It is a bit of a shock when your foot suddenly disappears as you are walking along, a good tug usually releases the foot (albeit now wet and slimy). Whilst most of the time they are pretty harmless creating some unusual art, on Halloween they like a little bit of fun.
+  imprints of what they have been creating. If you disturb them by standing in them your feet will sink into the sand. It is a bit of a shock when your foot suddenly disappears as you are walking along, a tug usually releases the foot (albeit now wet and slimy). Whilst most of the time they are pretty harmless creating some unusual art, on Halloween they like to have a little bit of fun.
 collection: Beyond The Pebbles
 aspect: portrait
 image: /img/halloween2022boo-tiny.jpg
