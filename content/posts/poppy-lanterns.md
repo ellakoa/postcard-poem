@@ -19,7 +19,7 @@ poem: |+
   Then close again before twilight
   Fields of red, a patch, or just one
   Poppies shine with hope
-   in the morning sun
+  in the morning sun
 
   As daylight fades, in a golden haze
   Across the fields red embers blaze
@@ -28,12 +28,15 @@ poem: |+
   rest on the ground
 
   Those left behind cup their face
-  Closing up in a tender embrace.
+  Closing in a tender embrace.
   Silence falls as the evening stills
-  Poppy lanterns light up the fields
+  Poppy lanterns light up the fields.
 
 alignPoemLeft: false
-address: "111"
+address: |-
+  Poppy Lanterns
+  Coldred
+  Kent
 stamp: /img/beyond-pebbles-face-kingsdown.jpg
 author: Caroline Whitehouse
 date: 2022-11-06T08:00:21.359Z
