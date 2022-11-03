@@ -1,21 +1,36 @@
 ---
 title: Poppy Lanterns
-description: "111"
+description: >
+  Poppies are one of a handful of flowers that close at night. T I discovered on
+  a sunny July evening.
+
+  My husband had arrived home from work and mentioned he had seen a glorious field of poppies on his travels. 
+
+  How could I not visit? Camera in hand off we set. It was now late evening and we found the field to be bathed in the last of the setting sun's golden rays. The poppies had closed up shop for the day, it is apparently what they do and in this seemingly simple act, the field appeared to glow with little red lights. How enchanting. 
+
+  I like to think this is their act of remembrance.
 aspect: landscape
 image: /img/beyond-pebbles-face-kingsdown.jpg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: "111"
-poem: |
-  Poppies shine 
-  in the morning light
-  Delicate petals 
-  eager and bright
-  In a golden haze
-  as daylight fades 
-  Poppy petals cup their face 
-  in a tender embrace
+poem: |+
+  Poppies open in the morning light
+  Then close again before twilight
+  Fields of red, a patch, or just one
+  Poppies shine with hope
+   in the morning sun
+
+  As daylight fades in a golden haze
+  Across the fields red embers blaze
+  Some petals, spent, drift gently down
+  Caught by a breeze
+  rest on the ground
+
+  Those left behind cup their face
+  Closing up in a tender embrace.
   Silence falls as the evening stills
-  Poppy lanterns light up the fields.
+  Poppy lanterns light up the fields
+
 alignPoemLeft: false
 address: "111"
 stamp: /img/beyond-pebbles-face-kingsdown.jpg
