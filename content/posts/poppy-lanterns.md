@@ -10,7 +10,7 @@ description: >
 
   I like to think this is their act of remembrance.
 aspect: landscape
-image: /img/beyond-pebbles-face-kingsdown.jpg
+image: /img/poppy-lanterns-tiny.jpg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: Field of bright red poppies, the setting sun has made them look as if they
   are lanterns as the sun shines through them.
@@ -37,7 +37,7 @@ address: |-
   Poppy Lanterns
   Bishopsbourne
   Kent
-stamp: /img/beyond-pebbles-face-kingsdown.jpg
+stamp: /img/stamp.png
 author: Caroline Whitehouse
 date: 2022-11-06T08:00:21.359Z
 ---
