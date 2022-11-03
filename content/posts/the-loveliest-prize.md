@@ -32,7 +32,7 @@ address: |-
   The Loveliest Prize
   Kingsdown 
   Kent
-stamp: /img/the-loveliest-prize-stamp.jpg
+stamp: /img/the-loveliest-prize-stamp-tiny.jpg
 author: Caroline Whitehouse
 date: 2022-10-16T07:00:35.287Z
 ---
