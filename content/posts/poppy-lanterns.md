@@ -12,7 +12,8 @@ description: >
 aspect: landscape
 image: /img/beyond-pebbles-face-kingsdown.jpg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
-alt: "111"
+alt: A Field of bright red poppies, the setting sun has made them look as if
+  they are lanterns as the sun shines through them.
 poem: |+
   Poppies open in the morning light
   Then close again before twilight
