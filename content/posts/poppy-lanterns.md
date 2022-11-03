@@ -37,7 +37,7 @@ address: |-
   Poppy Lanterns
   Bishopsbourne
   Kent
-stamp: /img/stamp.png
+stamp: /img/stamp-1-tiny.png
 author: Caroline Whitehouse
 date: 2022-11-06T08:00:21.359Z
 ---
