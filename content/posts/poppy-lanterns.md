@@ -10,7 +10,7 @@ description: >
 
   I like to think this is their act of remembrance.
 aspect: landscape
-image: /img/poppy-lanterns-5-6726.jpg
+image: /img/poppy-lanterns-4-2.jpg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: Field of bright red poppies, the setting sun has made them look as if they
   are lanterns as the sun shines through them.
