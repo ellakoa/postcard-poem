@@ -6,7 +6,7 @@ description: >
 
   My husband had arrived home from work and mentioned he had seen a glorious field of poppies on his travels. 
 
-  How could I not visit? Camera in hand off we set. It was now late evening and we found the field to be bathed in the last of the setting sun's golden rays. The poppies had closed up shop for the day, it is apparently what they do and in this seemingly simple act, the field appeared to glow with little red lights. How enchanting. 
+  How could I not visit? Camera in hand off we set. It was now late evening and we found the field to be bathed in the last of the setting sun's golden rays. Most of the poppies had closed up shop for the day, it is apparently what they do and in this seemingly simple act, the field appeared to glow with little red lights. How enchanting. 
 
   I like to think this is their act of remembrance.
 aspect: landscape
@@ -35,7 +35,7 @@ poem: |+
 alignPoemLeft: false
 address: |-
   Poppy Lanterns
-  Coldred
+  Bishopsbourne
   Kent
 stamp: /img/beyond-pebbles-face-kingsdown.jpg
 author: Caroline Whitehouse
