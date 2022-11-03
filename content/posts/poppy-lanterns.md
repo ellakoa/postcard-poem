@@ -1,8 +1,8 @@
 ---
 title: Poppy Lanterns
 description: >
-  Poppies are one of a handful of flowers that close at night. T I discovered on
-  a sunny July evening.
+  Poppies are one of a handful of flowers that close at night. This I discovered
+  on a sunny July evening.
 
   My husband had arrived home from work and mentioned he had seen a glorious field of poppies on his travels. 
 
@@ -12,8 +12,8 @@ description: >
 aspect: landscape
 image: /img/beyond-pebbles-face-kingsdown.jpg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
-alt: A Field of bright red poppies, the setting sun has made them look as if
-  they are lanterns as the sun shines through them.
+alt: Field of bright red poppies, the setting sun has made them look as if they
+  are lanterns as the sun shines through them.
 poem: |+
   Poppies open in the morning light
   Then close again before twilight
@@ -21,7 +21,7 @@ poem: |+
   Poppies shine with hope
    in the morning sun
 
-  As daylight fades in a golden haze
+  As daylight fades, in a golden haze
   Across the fields red embers blaze
   Some petals, spent, drift gently down
   Caught by a breeze
