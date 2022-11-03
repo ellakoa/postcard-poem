@@ -33,7 +33,7 @@ address: |-
   Temple Ewell Nature Reserve
   Dover 
   Kent
-stamp: /img/white-butterfly-stamp.jpg
+stamp: /img/white-butterfly-stamp-tiny.jpg
 author: Caroline Whitehouse
 date: 2022-10-09T07:00:09.651Z
 ---
