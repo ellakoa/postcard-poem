@@ -21,8 +21,9 @@ poem: |+
   Poppies shine with hope
   in the morning sun
 
-  As daylight fades, in a golden haze
-  Across the fields red embers blaze
+  As daylight fades
+  in a golden haze across the fields 
+  red embers blaze
   Some petals, spent, drift gently down
   Caught by a breeze
   rest on the ground
