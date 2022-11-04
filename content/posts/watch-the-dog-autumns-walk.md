@@ -1,5 +1,5 @@
 ---
-title: Watch the Dog Autumns walk
+title: Watch the Dog Autumns Garden
 description: "111"
 collection: Watch the Dog
 aspect: portrait
@@ -19,7 +19,8 @@ poem: |-
 alignPoemLeft: false
 address: |-
   Watch the Dog
-  Autumns Walk
+  Autumns 
+  Garden
 stamp: /img/watch-the-dog-stamp-tiny.jpg
 author: Caroline Whitehouse
 date: 2022-11-04T17:56:37.814Z
