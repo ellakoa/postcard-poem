@@ -24,9 +24,8 @@ poem: |+
   Poppies shine with hope
   in the morning sun
 
-  In a golden haze as daylight fades
-  Red embers blaze
-
+  As the sun sinks low 
+  Red embers glow
   Poppy petals cup their face
   Closing in a tender embrace.
   Silence falls as the evening stills
