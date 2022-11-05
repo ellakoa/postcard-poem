@@ -24,8 +24,8 @@ poem: |+
   Poppies shine with hope
   in the morning sun
 
-  As the sun sinks low 
   Red embers glow
+  as the sun sinks low 
   Poppy petals cup their face
   Closing in a tender embrace.
   Silence falls as the evening stills
