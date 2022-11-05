@@ -18,7 +18,7 @@ poem: |-
   With muddy coat and muddy paws
 
   Skies darken day by day
-  Storm clouds dark shades of grey
+  Dark shades of grey
   Autumn winds are on the way
   Hear the wrath
   Fe
