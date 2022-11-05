@@ -24,9 +24,9 @@ poem: |+
   Poppies shine with hope
   in the morning sun
 
-  In a golden haze as daylight fades
+  In a golden haze daylight fades
   Poppy petals cup their face
-  Closing, in a tender embrace.
+  Closing in a tender embrace.
   Silence falls as the evening stills
   Poppy lanterns light up the fields.
 
