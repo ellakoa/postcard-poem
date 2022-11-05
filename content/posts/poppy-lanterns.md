@@ -24,7 +24,8 @@ poem: |+
   Poppies shine with hope
   in the morning sun
 
-  In a golden haze daylight fades
+  In a golden haze as daylight fades
+  Red embers blaze
 
   Poppy petals cup their face
   Closing in a tender embrace.
