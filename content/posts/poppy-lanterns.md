@@ -14,7 +14,8 @@ image: /img/poppy-lanterns-4-2.jpg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: Field of bright red poppies, the setting sun has made them look as if they
   are lanterns as the sun shines through them.
-poem: |+
+poem: |
+  
   Poppies open in the morning light
   Then close again before twilight
   Fields of red, a patch, or just one
@@ -27,7 +28,6 @@ poem: |+
   Closing, in a tender embrace.
   Silence falls as the evening stills
   Poppy lanterns light up the fields.
-
 alignPoemLeft: false
 address: |-
   Poppy Lanterns
