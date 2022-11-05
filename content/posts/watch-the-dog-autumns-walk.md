@@ -16,6 +16,10 @@ poem: |-
   Before winter sweeps them all away
   Watch the dog race indoors
   With muddy coat and muddy paws
+
+  Skies darken day by day
+  Storm clouds dark shades of grey
+  Autumn winds are on the way
 alignPoemLeft: false
 address: |-
   Watch the Dog
