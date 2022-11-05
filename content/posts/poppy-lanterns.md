@@ -21,15 +21,13 @@ poem: |+
   Poppies shine with hope
   in the morning sun
 
-  As daylight fades
-  in a golden haze across the fields 
-  red embers blaze
-  Some petals, spent, drift gently down
+  In a golden haze daylight fades
+  Petals, spent, drift gently down
   Caught by a breeze
   rest on the ground
 
   Those left behind cup their face
-  Closing in a tender embrace.
+  Closing, in a tender embrace.
   Silence falls as the evening stills
   Poppy lanterns light up the fields.
 
