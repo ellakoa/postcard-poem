@@ -21,8 +21,8 @@ poem: |+
   Poppies shine with hope
   in the morning sun
 
-  In a golden haze daylight fades
-  Petals, spent, drift gently down
+  In a golden haze as daylight fades
+  petals, spent, drift gently down
   Caught by a breeze
   rest on the ground
 
