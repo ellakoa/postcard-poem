@@ -25,6 +25,7 @@ poem: |+
   in the morning sun
 
   In a golden haze daylight fades
+
   Poppy petals cup their face
   Closing in a tender embrace.
   Silence falls as the evening stills
