@@ -3,7 +3,7 @@ title: Watch the Dog Autumns Garden
 description: "111"
 collection: Watch the Dog
 aspect: portrait
-image: /img/watch-the-dog-tiny.jpg
+image: /img/watch-the-dog2-studio2-1-tiny.jpeg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: Montage of
 poem: |-
