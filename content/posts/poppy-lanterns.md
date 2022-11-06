@@ -17,7 +17,6 @@ alt: Field of bright red poppies, the setting sun has made them look as if they
 poem: |+
   
 
-
   Poppies open in the morning light
   Then close again before twilight
   Fields of red, a patch, or just one
@@ -26,11 +25,11 @@ poem: |+
 
   Red embers glow
   as the sun sinks low 
+
   Poppy petals cup their face
   Closing in a tender embrace.
   Silence falls as the evening stills
   Poppy lanterns light up the fields.
-
 
 alignPoemLeft: false
 address: |-
