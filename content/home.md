@@ -11,6 +11,6 @@ welcome: >-
 
   New post on Sundays 
 
-  Find me on Facebook to receive notifications of new postshttps://www.facebook.com/Poemsonpostcards
+  Follow me on Facebook to receive notifications of new postshttps://www.facebook.com/Poemsonpostcards
 image: /img/blog-banner3tiny.jpg
 ---
