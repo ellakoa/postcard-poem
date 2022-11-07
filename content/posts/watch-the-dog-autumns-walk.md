@@ -8,20 +8,20 @@ metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: Montage of
 poem: |-
   Autumn skies change day by day
-  Summer reluctantly gives way
-  Bursts of orange 
-  Hues of brown
-  Leaves everywhere are tumbling down
-  Time to chase time to play
-  Before winter sweeps them all away
-  Watch the dog race indoors
-  With muddy coat and muddy paws
+  Summer has finally given way
+  Bursts of orange, hues of brown
+  Leaves are everywhere, tumbling down
+  The dirt is soft and easy to dig
+  Time to bury treats and fetch twigs
+  Watch the dog race indoors with
+  muddy coat and muddy paws.
 
-  Skies darken day by day
-  Dark shades of grey
-  Autumn winds are on the way
-  Hear the wrath
-  Fe
+  Billowing clouds start to race
+  Windy weather sets a pace
+  Gusts to knock you off your feet
+  sending bins down the street
+  Watch the dog chase his tail
+  Calm the dog's playful spell.
 alignPoemLeft: false
 address: |-
   Watch the Dog
