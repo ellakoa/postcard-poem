@@ -26,7 +26,7 @@ poem: |-
 alignPoemLeft: false
 address: |-
   Watch the Dog
-  Autumns 
+  Autumns Walk
   Garden
 stamp: /img/watch-the-dog-stamp-tiny.jpg
 author: Caroline Whitehouse
