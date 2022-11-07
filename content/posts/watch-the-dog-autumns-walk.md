@@ -5,7 +5,8 @@ collection: Watch the Dog
 aspect: portrait
 image: /img/watch-the-dog2-studio2-1-tiny.jpeg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
-alt: Montage of
+alt: Flowers,  zinnias and rudbekia in gorgeous oranges and browns on a back
+  drop of autumnal leaves
 poem: |-
   Autumn skies change day by day
   Summer has finally given way
