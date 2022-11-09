@@ -1,7 +1,7 @@
 ---
 title: Watch the Dog Autumns Walk
 description: |
-  Time to catch up with Watch the Dog autumns walk 
+  Time to catch up with our faithful friend in the garden in Autumn
 collection: Watch the Dog
 aspect: portrait
 image: /img/watch-the-dog5-tiny.jpeg
