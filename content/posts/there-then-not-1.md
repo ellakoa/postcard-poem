@@ -1,5 +1,5 @@
 ---
-stamp: /img/goodwinw-sands-stamp2-blog.jpg
+stamp: /img/stamp-2.jpg
 stampWidth: "600"
 width: "600"
 height: "400"
@@ -14,7 +14,7 @@ description: >-
 collection: Goodwin Sands
 aspect: landscape
 image: /img/goodwinw-sands-part-2-blog.jpg
-metaImage: /img/goodwinw-sands-part-2-blog.jpg
+metaImage: /img/face.jpg
 alt: Silhouette of a man walking along a beautiful shoreline, in the distance, a
   tanker is anchored by the sandbanks
 poem: |-
