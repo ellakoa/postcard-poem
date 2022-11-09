@@ -2,11 +2,10 @@
 title: Watch the Dog Autumns Walk
 description: >
   Time to catch up with our faithful friend in the garden in Autumn. If you
-  missed the postcard for the summer garden you can read it here,
-  https://postcardpoems.co.uk/posts/watch-the-dog
+  missed the postcard for the summer garden you can find in the link below.
 collection: Watch the Dog
 aspect: portrait
-image: /img/watch-the-dog6-tiny.jpeg
+image: /img/watch-the-dog5-tiny.jpeg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: Flowers,  zinnias and rudbekia in gorgeous oranges and browns on a back
   drop of autumnal leaves
@@ -35,3 +34,4 @@ stamp: /img/watch-the-dog-stamp-tiny.jpg
 author: Caroline Whitehouse
 date: 2022-11-13T08:00:37.814Z
 ---
+Read the summer postcard here, https://postcardpoems.co.uk/posts/watch-the-dog
