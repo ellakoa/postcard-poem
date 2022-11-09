@@ -36,7 +36,7 @@ address: |-
   No. 1 The Thames
   Grain
   Kent
-stamp: /img/beyond-the-pebbles-stamp1-tiny-jpeg.jpg
+stamp: /img/wrapped-in-chains-stamp-tiny.jpg
 author: Caroline Whitehouse
 date: 2022-10-23T07:00:42.821Z
 ---
