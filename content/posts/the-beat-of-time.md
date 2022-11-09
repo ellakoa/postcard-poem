@@ -10,7 +10,7 @@ description: >-
 collection: Beyond the Pebbles
 aspect: landscape
 image: /img/the-beat-of-time-kingsdown.jpg
-metaImage: /img/the-beat-of-time-fbtinyjpeg.jpg
+metaImage: /img/face.jpg
 alt: The full moon creates a path of moonlight across a calm sea, the distant
   orange glow of Calais is on the horizon
 poem: |-
@@ -29,7 +29,7 @@ address: |-
   The Silent Beat of Time
   Kingsdown
   Kent
-stamp: /img/the-beat-of-time-stamp.jpg
+stamp: /img/the-beat-of-time-stamp-tiny.jpg
 author: Caroline Whitehouse
 date: 2022-08-28T11:36:03.960Z
 ---
