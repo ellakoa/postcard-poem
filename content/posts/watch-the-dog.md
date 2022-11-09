@@ -9,8 +9,8 @@ description: |-
   Starting with the garden in summer.
 collection: Watch the Dog
 aspect: portrait
-image: /img/watch-dog-summer-.jpg
-metaImage: /img/watch-dog-summer-.jpg
+image: /img/watch-the-dog-summer.jpg
+metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: Sunflowers, bees, gatekeeper butterflies, on a very sunny day.
 poem: |-
   Long days of summer sun
