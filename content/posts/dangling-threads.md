@@ -1,5 +1,5 @@
 ---
-stamp: /img/goodwinw-sands-stamp1-blog.jpg
+stamp: /img/goodwinw-sands-stamp1-tiny.jpg
 stampWidth: "400"
 width: "600"
 height: "400"
@@ -14,7 +14,7 @@ description: >-
 collection: Goodwin Sands
 aspect: landscape
 image: /img/goodwinw-sands-part-3-blog.jpg
-metaImage: /img/goodwinw-sands-part-3-blog.jpg
+metaImage: /img/face.jpg
 alt: Sandbanks, separated by deep pools of water, the sand has been worked into
   intricate patterns by the sea.
 poem: |-
