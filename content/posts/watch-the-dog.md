@@ -3,14 +3,14 @@ stamp: /img/dog-stamp-1-.jpg
 stampWidth: "600"
 width: "400"
 height: "600"
-title: Watch The Dog
+title: Watch The Dog Summer
 description: |-
   Travel through the seasons with a faithful friend.
   Starting with the garden in summer.
 collection: Watch the Dog
 aspect: portrait
-image: /img/watch-dog-summer-.jpg
-metaImage: /img/watch-dog-summer-.jpg
+image: /img/watch-the-dog-summer.jpg
+metaImage: /img/face.jpg
 alt: Sunflowers, bees, gatekeeper butterflies, on a very sunny day.
 poem: |-
   Long days of summer sun
