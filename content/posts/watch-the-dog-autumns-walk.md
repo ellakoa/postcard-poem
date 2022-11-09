@@ -1,15 +1,19 @@
 ---
 title: Watch the Dog Autumns Walk
 description: >
-  Time to catch up with our faithful four footed friend in the garden in Autumn.
-  If you missed the postcard for the summer garden you can find in the link
-  below.
+  Time to catch up with our faithful four-footed friend in the autumn garden.
+
+  Autumn always delivers such vibrant colours in nature.
+
+  It is as if it is setting itself on fire, going out in a blaze of glory before the winter takes hold. 
+
+  If you missed the postcard for the summer garden you can find it in the link below.
 collection: Watch the Dog
 aspect: portrait
 image: /img/watch-the-dog5-tiny.jpeg
 metaImage: /img/face.jpg
-alt: Flowers,  zinnias and rudbekia in gorgeous oranges and browns on a back
-  drop of autumnal leaves
+alt: "Flowers of zinnias and rudbekia in gorgeous oranges and browns on a back
+  drop of autumnal leaves "
 poem: |
   Autumn skies change day by day
   Summer has finally given way
