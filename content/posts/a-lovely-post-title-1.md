@@ -1,5 +1,5 @@
 ---
-stamp: /img/goodwinw-sands-stamp1-blog.jpg
+stamp: /img/goodwinw-sands-stamp1-tiny.jpg
 stampWidth: "600"
 width: "600"
 height: "400"
@@ -13,7 +13,7 @@ description: >-
   The poem is in three parts. Below is part one.
 collection: The Goodwin Sands
 aspect: landscape
-image: /img/goodwinw-sands-part-1-blog.jpg
+image: /img/face.jpg
 metaImage: /img/goodwinw-sands-part-1-blog.jpg
 alt: Rainbow arching across a grey stormy sky, undulating sandbanks moulded by
   the sea
