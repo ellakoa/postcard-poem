@@ -1,4 +1,8 @@
 ---
+stamp: /img/stamp-heligan-new-tiny.jpg
+stampWidth: "600"
+width: "400"
+height: "600"
 title: The Garden Office
 description: >
   Some things are better when they are old. Things that were thought lost but
@@ -6,9 +10,7 @@ description: >
 collection: Nostalgia
 aspect: portrait
 image: /img/garden-office-blog.jpg
-metaImage: /img/garden-office-blog.jpg
-width: "400"
-height: "600"
+metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: Partially open wooden frame window, six panes of glass in each, looking out
   of an old outbuilding.
 poem: |
@@ -24,13 +26,12 @@ poem: |
   Verdigris on the brass
   I would shake my cares away and
   from this window pause and gaze.
+stampHeight: "400"
+alignPoemLeft: false
 address: |-
   The Garden Office
   Lost Gardens of Heligan
   Cornwall
-stamp: /img/stamp-heligan-blog.jpg
-stampWidth: "600"
-stampHeight: "400"
 author: Caroline Whitehouse
 date: 2022-07-17T09:56:40.372Z
 tags:
