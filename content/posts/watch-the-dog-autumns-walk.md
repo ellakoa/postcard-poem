@@ -8,13 +8,13 @@ image: /img/watch-the-dog2-studio2-1-tiny.jpeg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: Flowers,  zinnias and rudbekia in gorgeous oranges and browns on a back
   drop of autumnal leaves
-poem: |-
+poem: |
   Autumn skies change day by day
   Summer has finally given way
   Bursts of orange, hues of brown
-  Leaves are everywhere, tumbling down
+  Leaves everywhere tumbling down
   The dirt is soft and easy to dig
-  Time to bury treats and fetch twigs
+  Time to play with fallen twigs
   Watch the dog race indoors with
   muddy coat and muddy paws.
 
