@@ -11,7 +11,7 @@ description: >-
 collection: Places
 aspect: landscape
 image: /img/grain-tower-wrapped-in-chains-tiny.jpg
-metaImage: /img/beyond-pebbles-face-kingsdown.jpg
+metaImage: /img/face.jpg
 alt: Seaweed covered brick path, leading to Grain Napoleonic Tower, placed where
   the river Medway and the Thames merge.
 poem: |
@@ -36,7 +36,7 @@ address: |-
   No. 1 The Thames
   Grain
   Kent
-stamp: /img/wrapped-in-chains-stamp-tiny.jpg
+stamp: /img/beyond-the-pebbles-stamp1-tiny-jpeg.jpg
 author: Caroline Whitehouse
 date: 2022-10-23T07:00:42.821Z
 ---
