@@ -11,7 +11,7 @@ description: >-
 collection: Places in Kent
 aspect: landscape
 image: /img/wood-are-great-kings-wood-tinyjpeg.jpg
-metaImage: /img/wood-are-great-kings-wood-tinyjpeg.jpg
+metaImage: /img/face.jpg
 alt: Kings Wood sunlight filtering through autumn trees, casting shadows on leaf
   strewn woodland floor.
 poem: |+
@@ -36,7 +36,7 @@ address: |-
   Kings Wood 
   Ashford 
   Kent
-stamp: /img/woods-are-great-for-stamp-kings-tiny.png
+stamp: /img/woods-are-great-for-stamp-tiny.jpg
 author: Caroline Whitehouse
 date: 2022-10-02T07:00:00.000Z
 ---
