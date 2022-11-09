@@ -8,7 +8,7 @@ description: >
 collection: Kearsney Gardens
 aspect: landscape
 image: /img/cedar-of-lebanon-tree-kearsney-parks-minijpeg.jpg
-metaImage: /img/time-matters-not-meta-imagemini-jpeg.jpg
+metaImage: /img/face.jpg
 alt: An old magnificent Cedar of Lebanon tree standing in Kearsney Parks. The
   Park and trees are covered in Snow
 poem: |
@@ -29,7 +29,7 @@ address: |-
   Kearsney Gardens
   Temple Ewell 
   Dover Kent
-stamp: /img/test1.png
+stamp: /img/time-matters-not-stamp1tinyjpeg.jpg
 author: Caroline Whitehouse
 date: 2022-09-04T06:52:41.266Z
 ---
