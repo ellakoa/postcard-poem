@@ -1,5 +1,5 @@
 ---
-stamp: /img/stampand-log.jpg
+stamp: /img/the-most-beautiful-morning-light-stamp-tiny.jpg
 stampWidth: "600"
 width: "600"
 height: "400"
@@ -10,7 +10,7 @@ description: |-
 collection: Beyond the Pebbles
 aspect: landscape
 image: /img/morning-light-kingsdown.jpg
-metaImage: /img/morning-light-original-fb.jpg
+metaImage: /img/face.jpg
 alt: Exposed rusted train wheel attached to chains, encrusted with limpets and
   mussels, across the bay is a chalk cliff.
 poem: |-
