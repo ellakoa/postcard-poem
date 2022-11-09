@@ -26,7 +26,7 @@ poem: |-
 
   Watch seabirds stalk the shallow waters
   Listen as the waves gently ebb and falter
-  Amble back as the suns path grows bright
+  Amble back as the sun's path grows bright
   Enjoy the most beautiful morning light.
 stampHeight: "400"
 alignPoemLeft: false
