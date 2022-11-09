@@ -10,7 +10,7 @@ description: >
 collection: Nostalgia
 aspect: portrait
 image: /img/garden-office-blog.jpg
-metaImage: /img/beyond-pebbles-face-kingsdown.jpg
+metaImage: /img/face.jpg
 alt: Partially open wooden frame window, six panes of glass in each, looking out
   of an old outbuilding.
 poem: |
