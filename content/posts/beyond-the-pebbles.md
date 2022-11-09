@@ -9,7 +9,7 @@ description: Oldstairs Bay, Kingsdown in Kent. Sometimes the sands are there and
 collection: Beyond the Pebbles
 aspect: landscape
 image: /img/beyond-the-pebbles-front-tinyjpeg.jpg
-metaImage: /img/beyond-the-pebbles-facebook.jpg
+metaImage: /img/face.jpg
 alt: "Pictures on the sand. Neptune rising from the deep, a face, flint eyes,
   sweeping hair. Trees walking in a line. "
 poem: |-
