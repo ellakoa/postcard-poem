@@ -7,7 +7,7 @@ description: >
 collection: Watch the Dog
 aspect: portrait
 image: /img/watch-the-dog5-tiny.jpeg
-metaImage: /img/beyond-pebbles-face-kingsdown.jpg
+metaImage: /img/face.jpg
 alt: Flowers,  zinnias and rudbekia in gorgeous oranges and browns on a back
   drop of autumnal leaves
 poem: |
