@@ -1,8 +1,9 @@
 ---
 title: Watch the Dog Autumns Walk
 description: >
-  Time to catch up with our faithful friend in the garden in Autumn. If you
-  missed the postcard for the summer garden you can find in the link below.
+  Time to catch up with our faithful four footed friend in the garden in Autumn.
+  If you missed the postcard for the summer garden you can find in the link
+  below.
 collection: Watch the Dog
 aspect: portrait
 image: /img/watch-the-dog5-tiny.jpeg
