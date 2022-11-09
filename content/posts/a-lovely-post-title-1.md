@@ -13,8 +13,8 @@ description: >-
   The poem is in three parts. Below is part one.
 collection: The Goodwin Sands
 aspect: landscape
-image: /img/face.jpg
-metaImage: /img/goodwinw-sands-part-1-blog.jpg
+image: /img/goodwinw-sands-part-1-blog.jpg
+metaImage: /img/face.jpg
 alt: Rainbow arching across a grey stormy sky, undulating sandbanks moulded by
   the sea
 poem: |+
