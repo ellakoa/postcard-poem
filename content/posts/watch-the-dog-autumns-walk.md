@@ -1,10 +1,10 @@
 ---
-title: Watch the Dog Autumns Garden
+title: Watch the Dog Autumns Walk
 description: |
   111
 collection: Watch the Dog
 aspect: portrait
-image: /img/watch-the-dog2-studio2-1-tiny.jpeg
+image: /img/watch-the-dog5-tiny.jpeg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: Flowers,  zinnias and rudbekia in gorgeous oranges and browns on a back
   drop of autumnal leaves
