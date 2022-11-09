@@ -4,7 +4,7 @@ description: |
   Time to catch up with our faithful friend in the garden in Autumn
 collection: Watch the Dog
 aspect: portrait
-image: /img/watch-the-dog5-tiny.jpeg
+image: /img/watch-the-dog6-tiny.jpeg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: Flowers,  zinnias and rudbekia in gorgeous oranges and browns on a back
   drop of autumnal leaves
