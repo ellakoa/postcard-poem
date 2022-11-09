@@ -10,7 +10,7 @@ description: |-
 collection: Watch the Dog
 aspect: portrait
 image: /img/watch-the-dog-summer.jpg
-metaImage: /img/beyond-pebbles-face-kingsdown.jpg
+metaImage: /img/face.jpg
 alt: Sunflowers, bees, gatekeeper butterflies, on a very sunny day.
 poem: |-
   Long days of summer sun
