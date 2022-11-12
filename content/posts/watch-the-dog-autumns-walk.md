@@ -1,5 +1,5 @@
 ---
-title: Watch the Dog Autumns Walk
+title: Watch the Dog Autumns Garden
 description: >
   Time to catch up with our faithful four-footed friend in the autumn garden.
 
@@ -31,8 +31,8 @@ poem: |
 alignPoemLeft: false
 address: |-
   Watch the Dog
-  Autumns Walk
-  In The Garden
+  Autumns 
+  Garden
 stamp: /img/watch-the-dog-stamp-tiny.jpg
 author: Caroline Whitehouse
 date: 2022-11-13T08:00:37.814Z
