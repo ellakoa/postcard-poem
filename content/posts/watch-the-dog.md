@@ -3,7 +3,7 @@ stamp: /img/dog-stamp-1-.jpg
 stampWidth: "600"
 width: "400"
 height: "600"
-title: Watch The Dog Summer
+title: Watch The Dog Summers Garden
 description: |-
   Travel through the seasons with a faithful friend.
   Starting with the garden in summer.
