@@ -32,7 +32,7 @@ alignPoemLeft: false
 address: |-
   Watch the Dog
   Autumns Walk
-  Garden
+  In The Garden
 stamp: /img/watch-the-dog-stamp-tiny.jpg
 author: Caroline Whitehouse
 date: 2022-11-13T08:00:37.814Z
