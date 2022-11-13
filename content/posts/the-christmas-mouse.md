@@ -26,7 +26,7 @@ poem: |-
   Soon it was noticed with a small frown
   The silver wrappers littering the ground
   Who was eating the chocolate treats?
-  Was it a game, who was to blame?
+  Who was to blame? Was it a game
 
   One night the little mouse tried to eat two
   The second one was too much to chew
@@ -36,10 +36,11 @@ poem: |-
   Next day the mystery was finally solved
   There was no doubt, with such tiny teeth
   A little mouse was eating
-  the Christmas treats
+  the Christmas treats.
 alignPoemLeft: false
 address: |-
   The Christmas Mouse
+  A True Story
   Deal
   Kent
 stamp: /img/christmas-mouse-stamp-tiny.jpg
