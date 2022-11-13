@@ -28,7 +28,7 @@ poem: |-
   Who was eating the chocolate treats?
   Who was to blame? Was it a game
 
-  One night the little mouse tried to eat two
+  One night the mouse tried to eat two
   The second one was too much to chew
   Not only the wrapper did the mouse drop 
   but also the chocolate with a nibbled top
