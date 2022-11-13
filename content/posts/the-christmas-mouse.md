@@ -5,7 +5,8 @@ collection: Christmas
 aspect: portrait
 image: /img/christmas-mouse-postcard-1-tiny.jpg
 metaImage: /img/face.jpg
-alt: "111"
+alt: Christmas tree, partially decorated, a little  mouse in a red Santa hat
+  sits underneath nibbling a chocolate tree decoration.
 poem: |-
   A bold little mouse hid in a house 
   To shelter from winter’s cold
