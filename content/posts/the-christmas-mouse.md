@@ -5,13 +5,13 @@ collection: Christmas
 aspect: portrait
 image: /img/christmas-mouse-postcard-1-tiny.jpg
 metaImage: /img/face.jpg
-alt: Christmas tree, partially decorated, a little  mouse in a red Santa hat
-  sits underneath nibbling a chocolate tree decoration.
+alt: A partially decorated Christmas tree, a little mouse in a red Santa hat
+  sits underneath nibbling a chocolate decoration.
 poem: |-
   A bold little mouse hid in a house 
   To shelter from winter’s cold
   At night on nimble feet the mouse
-  scouted for tasty crumbs to eat
+  scouted about for tasty crumbs to eat
 
   One midnight mission, into his vision
   There came a tree, indoors! 
@@ -35,6 +35,8 @@ poem: |-
 
   Next day the mystery was finally solved
   There was no doubt, with such tiny teeth
+  A little mouse was eating
+  the Christmas treats
 alignPoemLeft: false
 address: |-
   The Christmas Mouse
