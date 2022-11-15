@@ -34,7 +34,7 @@ address: |-
   Fredville Park
   Nonington
   Kent
-stamp: /img/derp-cat.jpeg
+stamp: /img/majesty-fredville-park-nonington-stamp-tiny1.jpg
 author: Caroline Whitehouse
 date: 2022-11-14T15:47:53.913Z
 ---
