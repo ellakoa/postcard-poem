@@ -16,7 +16,7 @@ poem: |-
   I have great age as you can see
   Green moss blankets my knees
   My limbs are heavy and prone to fall
-  My midriff has sagged as I’ve grown tall
+  My midriff has sagged as I’ve grown so tall
   My heartwood has shrunk
   Hollow now is my trunk
   Yet I do not mope
