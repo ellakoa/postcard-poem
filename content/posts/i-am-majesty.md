@@ -30,7 +30,7 @@ poem: |-
   I am Majesty
 alignPoemLeft: false
 address: |-
-  I am majesty
+  I am Majesty
   Fredville Park
   Nonington
   Kent
