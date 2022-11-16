@@ -18,7 +18,7 @@ poem: |-
   Limbs are heavy and prone to fall
   Midriff has sagged I’ve grown so tall
   My heartwood has shrunk
-  Hollow now is my trunk
+  Quite hollow now is my trunk
   Yet I do not mope
   I live the years with hope
   Each spring green leaves become my crown
