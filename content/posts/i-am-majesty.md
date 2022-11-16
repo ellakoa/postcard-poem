@@ -8,7 +8,7 @@ description: >
   It was my husband who approached a worker (who was driving by on a tractor) who phoned the gamekeeper, who in turn escorted us to ‘Majesty’ The gamekeeper was very accommodating and informative about the park. A big thank you to this lovely man. We learnt that this great oak is thought to be over a thousand years. How humbling to make the acquaintance of one so old.
 collection: Places
 aspect: landscape
-image: /img/majesty6-7486.jpg
+image: /img/majesty6-7486-tiny.jpg
 metaImage: /img/face.jpg
 alt: An ancient oak tree. A Face is seen on the tree where the limbs have fallen
   and the midriff appears to have sagged.
@@ -34,7 +34,7 @@ address: |-
   Fredville Park
   Nonington
   Kent
-stamp: /img/majesty-fredville-park-nonington-stamp-tiny1.jpg
+stamp: /img/majesty-fredville-park-nonington-stamp1-tiny.jpg
 author: Caroline Whitehouse
 date: 2022-11-14T15:47:53.913Z
 ---
