@@ -15,8 +15,8 @@ alt: An ancient oak tree. A Face is seen on the tree where the limbs have fallen
 poem: |-
   I have great age as you can see
   Green moss blankets my knees
-  My limbs are heavy and prone to fall
-  My midriff has sagged I’ve grown so tall
+  Limbs are heavy and prone to fall
+  Midriff has sagged I’ve grown so tall
   My heartwood has shrunk
   Hollow now is my trunk
   Yet I do not mope
@@ -26,7 +26,7 @@ poem: |-
   I could be a thousand years or more
   Maybe there is alchemy at my core
   I am of great antiquity
-  I stand with great dignity
+  Standing with great dignity
   I am Majesty
 alignPoemLeft: false
 address: |-
