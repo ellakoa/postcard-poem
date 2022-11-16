@@ -14,7 +14,7 @@ alt: An ancient oak tree. A Face is seen on the tree where the limbs have fallen
   and the midriff appears to have sagged.
 poem: |-
   I have great age as you can see
-  Green moss blankets my knees
+  Soft green moss blankets my knees
   Limbs are heavy and prone to fall
   Midriff has sagged I’ve grown so tall
   My heartwood has shrunk
