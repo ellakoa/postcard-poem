@@ -7,8 +7,8 @@ metaImage: /img/derp-cat.jpeg
 alt: ///
 poem: |
   There’s a certain excitement as the sun starts 
-  to rise chasing the dark from the night time sky
-  What will the bay reveal today
+  to rise chasing the dark from the night 
+  time sky what will the bay reveal today
   Who will enjoy what is on display?
 
   Fisherman casting out for a catch
