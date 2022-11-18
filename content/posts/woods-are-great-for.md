@@ -21,8 +21,8 @@ poem: |+
   for running around and grazing knees
   For spending time with family and friends 
   Searching for sticks and making dens
-  For finding a bright sunny glade and then 
-  walking back into the dark cool shade 
+  strolling into a bright sunny glade and then 
+  stumbling back into the dark cool shade 
   For making you think no one else is around 
   as the soft woodland floor muffles sound but 
   if the undergrowth 
