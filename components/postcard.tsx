@@ -14,6 +14,7 @@ interface PostCardProps {
   children: any
   stampWidth: number
   stampHeight: number
+  video?: string
 }
 const Postcard = (props: PostCardProps) => {
   const {
@@ -30,16 +31,12 @@ const Postcard = (props: PostCardProps) => {
     children,
     stampWidth,
     stampHeight,
+    video,
   } = props
   const addressLines = address
     .split(/\n/g)
     .filter((string: string) => string.length)
 
-  // console.table({
-  //   width,
-  //   height,
-  //   image,
-  // })
   return (
     <div className={`gap-10 lg:my-5 flex flex-col items-center ${className}`}>
       <div
@@ -47,17 +44,27 @@ const Postcard = (props: PostCardProps) => {
           aspect === 'landscape' ? '' : 'max-w-md'
         }`}
       >
-        <Image
-          layout='responsive'
-          className={`border-2 border-black ${
-            aspect === 'landscape' ? 'aspect-[8/5]' : 'aspect-[5/8]'
-          }`}
-          src={image}
-          sizes='(min-width: 768px) 1080px, (min-width: 640px) 768px, 640px'
-          alt={alt}
-          width={width}
-          height={height}
-        />
+        {video ? (
+          <iframe
+            width='100%'
+            height='550'
+            src={`https://player.vimeo.com/video/${video}?controls=0&sidedock=0&title=0`}
+            frameBorder='0'
+            allowFullScreen={true}
+          ></iframe>
+        ) : (
+          <Image
+            layout='responsive'
+            className={`border-2 border-black ${
+              aspect === 'landscape' ? 'aspect-[8/5]' : 'aspect-[5/8]'
+            }`}
+            src={image}
+            sizes='(min-width: 768px) 1080px, (min-width: 640px) 768px, 640px'
+            alt={alt}
+            width={width}
+            height={height}
+          />
+        )}
       </div>
       <div
         className={`shadow-2xl rounded-sm md:p-4 grid bg-white md:grid-cols-[4fr_3fr] w-full gap-4 max-w-full`}

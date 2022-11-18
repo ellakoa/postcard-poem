@@ -9,7 +9,7 @@ media_folder: 'public/img'
 public_folder: '/img'
 
 # Please run "npx netlify-cms-proxy-server" for local backend
-# local_backend: true
+local_backend: true
 publish_mode: editorial_workflow
 collections:
   - label: 'Blog'
@@ -29,7 +29,20 @@ collections:
           options: ['landscape', 'portrait'],
           default: landscape,
         }
-      - { label: Image, name: image, widget: image, choose_url: true }
+      - {
+          label: Image,
+          name: image,
+          widget: image,
+          hint: Will only show if a video ID is not provided,
+          choose_url: true,
+        }
+      - {
+          label: Video,
+          name: video,
+          widget: string,
+          hint: Vimeo video Id e.g. 770190133,
+          required: false,
+        }
       - {
           label: Meta Image,
           name: metaImage,
