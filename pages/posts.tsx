@@ -8,11 +8,9 @@ const POSTS_PATH = join(process.cwd(), 'content/posts')
 
 interface PostsProps {
   posts: any
-  page?: number
-  collection?: string
 }
 export default function Posts(props: PostsProps) {
-  const { collection, page, posts } = props
+  const { posts } = props
   return (
     <>
       <Head>
@@ -29,10 +27,9 @@ export default function Posts(props: PostsProps) {
   )
 }
 
-export async function getServerSideProps(context: any) {
+export async function getStaticProps(context: any) {
   const { query } = context
   const page = query?.page || 1
-  const postsPerPage = 10
 
   // Get post paths
   const paths: any = fs
