@@ -2,8 +2,9 @@ import fs from 'fs'
 import { GetStaticProps } from 'next'
 import Head from 'next/head'
 import { join } from 'path'
-import Breadcrumbs from '../../components/breadcrumbs'
-import CollectionPreview from '../../components/collectionPreview'
+import Breadcrumbs from '../../components/Breadcrumbs'
+import CollectionPreview from '../../components/CollectionPreview'
+
 import Meta from '../../components/meta'
 
 const POSTS_PATH = join(process.cwd(), 'content/posts')
