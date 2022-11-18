@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 
-export default function Preview(item: any, index: number) {
+export default function CollectionPreview(item: any, index: number) {
   const { slug, attributes } = item
   const { title, image, description, date, collection } = attributes
   return (
@@ -24,13 +24,6 @@ export default function Preview(item: any, index: number) {
           </div>
         </div>
         <div className='flex gap-4 md:justify-end'>
-          {!!collection && (
-            <Link href={`/collections/${collection}`}>
-              <a className='flex-1 md:flex-initial   text-center font-bold text-sm px-2 py-1 border border-black rounded hover:bg-black hover:bg-opacity-20'>
-                Visit collection
-              </a>
-            </Link>
-          )}
           <Link href={`/posts/${slug}`}>
             <a className='flex-1 md:flex-initial   text-center font-bold text-sm px-2 py-1 border border-black rounded hover:bg-black hover:bg-opacity-20'>
               Read post
