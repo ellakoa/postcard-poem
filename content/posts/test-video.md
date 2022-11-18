@@ -4,7 +4,7 @@ description: "111"
 collection: "1111"
 aspect: landscape
 image: /img/derp-cat.jpeg
-video: https://vimeo.com/770190133#t=3
+video: https://vimeo.com/770190133
 metaImage: /img/face.jpg
 alt: "11"
 poem: "111"
