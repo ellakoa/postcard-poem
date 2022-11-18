@@ -31,7 +31,7 @@ export default function Posts(props: PostsProps) {
   )
 }
 
-export async function getStaticProps(context: any) {
+export async function getServerSideProps(context: any) {
   const { query } = context
   const collection = query?.collection || null
   const page = query?.page || 1
