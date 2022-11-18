@@ -70,8 +70,8 @@ const Postcard = (props: PostCardProps) => {
         className={`shadow-2xl rounded-sm md:p-4 grid bg-white md:grid-cols-[4fr_3fr] w-full gap-4 max-w-full`}
       >
         <div
-          className={`font-sans py-10 px-5 md:py-5 text-center flex ${
-            alignPoemLeft ? '' : 'items-center'
+          className={`font-sans py-10 px-5 md:py-5 items-center flex ${
+            alignPoemLeft ? '' : 'text-center'
           } justify-center md:text-2xl flex-col whitespace-pre-wrap border-t md:border-t-0 md:border-r`}
           dangerouslySetInnerHTML={{ __html: poem }}
         />
