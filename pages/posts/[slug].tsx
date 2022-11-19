@@ -41,6 +41,13 @@ export default function Post(props: PostProps) {
               {new Date(date).toDateString()} by <a>{author}</a>{' '}
             </time>
           </p>
+          {!!collection && (
+            <Link href={`/collections/${collection}`}>
+              <a className='flex-1 md:flex-initial no-underline text-center font-bold text-lg px-2 py-1 border border-black rounded hover:bg-black hover:bg-opacity-20'>
+                Visit collection: {collection}
+              </a>
+            </Link>
+          )}
         </header>
         <Postcard className='md:mx-auto' {...attributes} />
         {/* {!!collection && (
