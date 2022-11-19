@@ -3,7 +3,7 @@ title: Happy Halloween
 description: Something a little bit different for this spooky night
 collection: Videos
 aspect: landscape
-image: /img/derp-cat.jpeg
+image: /img/face.jpg
 video: "770190133"
 metaImage: /img/face.jpg
 alt: Video of artwork in the sand, pictures of monsters.
