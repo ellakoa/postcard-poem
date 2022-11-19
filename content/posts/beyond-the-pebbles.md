@@ -7,8 +7,8 @@ description: Oldstairs Bay, Kingsdown in Kent. Sometimes the sands are there and
   was unable to escape through this layer and bubbled back up leaving these
   fascinating artforms.
 collection: Beyond the Pebbles
-aspect: landscape
-image: /img/beyond-the-pebbles-front-tinyjpeg.jpg
+aspect: portrait
+image: /img/neptune-beyond-the-pebbles.jpg
 metaImage: /img/face.jpg
 alt: "Pictures on the sand. Neptune rising from the deep, a face, flint eyes,
   sweeping hair. Trees walking in a line. "
