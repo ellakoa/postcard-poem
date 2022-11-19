@@ -9,7 +9,7 @@ description: >-
   creatures waiting the return of the sea.
 
   Part of the postcard collection 'Beyond the Pebbles'
-collection: Beyond The Pebbles
+collection: Beyond the Pebbles
 aspect: landscape
 image: /img/starfish-kingsdown-beach-kent-blog-1-.jpg
 metaImage: /img/face.jpg
