@@ -7,7 +7,7 @@ description: >+
 
   Part of the 'Postcards from Deal' collection
 
-collection: Places
+collection: Postcards from Deal
 aspect: landscape
 image: /img/deal-pier-beach-flowers1-tiny.jpg
 metaImage: /img/face.jpg
