@@ -6,7 +6,7 @@ description: >
   I had gone to the park to see the Sweet Chestnut ‘Step Tree’ resigning myself to the idea that seeing the Fredville Oak ‘Majesty’ was very unlikely as it is situated in a private area of the park.
 
   It was my husband who approached a worker (who was driving by on a tractor) who phoned the gamekeeper, who in turn escorted us to ‘Majesty’ The gamekeeper was very accommodating and informative about the park. A big thank you to the tractor driver and the gamekeeper. We learned that this great oak is thought to be over a thousand years. How humbling to make the acquaintance of one so old.
-collection: Places
+collection: Kent Veiws
 aspect: landscape
 image: /img/majesty6-7486-tiny.jpg
 metaImage: /img/face.jpg
