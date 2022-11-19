@@ -3,7 +3,7 @@ title: That Frizzy
 description: Even Fungi have bad hair days.
 collection: Beautiful and Weird
 aspect: landscape
-image: /img/bad-hair-day-tiny.jpg
+image: /img/fungi-stamp-bad-hair-day-3296.jpg
 metaImage: /img/face.jpg
 alt: Autumn fungi on decaying log, moss on ground, fungi have hair like strands
   in a frizzy mass on their caps.
