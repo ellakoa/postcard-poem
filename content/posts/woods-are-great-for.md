@@ -8,7 +8,7 @@ description: >-
   I like to think the trees listen to everything, storing away anecdotes to dream about during a long winter's hibernation.
 
   Kings Wood near Ashford is a particularly magnificent wood matching its grand name.
-collection: Places in Kent
+collection: Kent Views
 aspect: landscape
 image: /img/wood-are-great-kings-wood-tinyjpeg.jpg
 metaImage: /img/face.jpg
