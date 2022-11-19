@@ -40,4 +40,3 @@ date: 2022-07-31T07:00:00.000Z
 tags:
   - number-2
 ---
-Part one of three postcards about a trip to the Goodwin Sands.
