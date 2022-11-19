@@ -4,8 +4,10 @@ stampWidth: "600"
 width: "600"
 height: "400"
 title: The Most Beautiful Morning Light
-description: |-
-  When the spring tides are low take a walk in the bay.
+description: >-
+  When the spring tides are low take a walk in the bay and enjoy the morning
+  light.
+
   Part of the postcard collection 'Beyond the Pebbles'
 collection: Beyond the Pebbles
 aspect: landscape
