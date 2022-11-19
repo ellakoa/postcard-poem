@@ -4,9 +4,10 @@ stampWidth: "600"
 width: "400"
 height: "600"
 title: Watch The Dog Summers Garden
-description: |-
-  Travel through the seasons with a faithful friend.
-  Starting with the garden in summer.
+description: >
+  Travel through the seasons with a faithful friend. 
+
+  Summer often arrives with a flourish and can be temperamental in its duration but the longer brighter days are always welcome.
 collection: Watch the Dog
 aspect: portrait
 image: /img/watch-the-dog-summer.jpg
@@ -39,4 +40,3 @@ address: |
 author: Caroline Whitehouse
 date: 2022-07-24T10:58:35.956Z
 ---
-Look out for 'Watch the Dog' in autumn, winter and spring gardens.
