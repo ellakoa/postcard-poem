@@ -10,7 +10,7 @@ description: >-
 
   To visit is like stepping into a different dimension, to write about them demanded so much more than a few lines. 
 
-  The poem is in three parts. This is part three. Find part one and two in collections.
+  The poem is in three parts. This is part three. 
 collection: Goodwin Sands
 aspect: landscape
 image: /img/goodwinw-sands-part-3-blog.jpg
