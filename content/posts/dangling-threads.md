@@ -10,7 +10,7 @@ description: >-
 
   To visit is like stepping into a different dimension, to write about them demanded so much more than a few lines. 
 
-  The poem is in three parts. This is part three
+  The poem is in three parts. This is part three. Find part one and two in collections.
 collection: Goodwin Sands
 aspect: landscape
 image: /img/goodwinw-sands-part-3-blog.jpg
@@ -42,6 +42,3 @@ address: |-
 author: Caroline Whitehouse
 date: 2022-08-07T12:03:00.940Z
 ---
-**The final part of this poem, if you missed part one and two**
-
-**Check them out in past posts**
