@@ -7,7 +7,7 @@ description: >-
   abundance. 
 
   Part of the 'Postcards from Deal' collection
-collection: Places
+collection: Postcards from Deal
 aspect: landscape
 image: /img/walmer-beach-flowers-tiny.jpg
 metaImage: /img/face.jpg
