@@ -8,7 +8,7 @@ description: >-
   When the spring tides are low take a walk in the bay and enjoy the morning
   light.
 
-  Part of the postcard collection 'Beyond the Pebbles'
+  Part of the postcard collection 'Beyond the Pebbles' an exploration of Oldstairs Bay Kingsdown Kent.
 collection: Beyond the Pebbles
 aspect: landscape
 image: /img/morning-light-kingsdown.jpg
