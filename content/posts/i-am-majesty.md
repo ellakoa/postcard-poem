@@ -19,8 +19,8 @@ poem: |-
   Midriff has sagged I’ve grown so tall
   My heartwood has shrunk
   Quite hollow now is my trunk
-  Yet I do not mope
   I live the years with hope
+  There is no cause to mope
   Each spring green leaves become my crown
   In autumn brown acorns cascade down
   I could be a thousand years or more
