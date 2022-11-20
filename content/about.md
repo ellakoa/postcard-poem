@@ -1,7 +1,15 @@
 ---
 title: About
 ---
-**How this blog came about**
+**P﻿rivacy Policy**
+
+W﻿e use google analytics to moniter traffic to this website. For more information please go to;
+
+<https://www.termsfeed.com/live/1dfaf5e1-2d9f-4547-a65f-69dbb927098c>
+
+
+
+ **How this blog came about**
 
 Strange times 2020 and 2021 when staying at home was normal and going out 
 was initially limited to an hour a day. The COVID -19 pandemic affected us all.
