@@ -7,7 +7,7 @@ description: It is always empowering to see a heron launch itself into the air
   examples of Herons, they are often found standing still as statues along the
   river banks with watchful eyes, ready to take flight in an instance.
 collection: Northfolk Views
-aspect: portrait
+aspect: landscape
 image: /img/heron-norfolk-broads-leap-of-faith-3.jpg
 metaImage: /img/face.jpg
 alt: Grey Heron gracefully leaping into the air above water which reflects the
