@@ -9,15 +9,17 @@ alt: "111"
 poem: |+
   
 
+
   How do you fly with such spindly legs
-  dangling behind you like wooden pegs
-  Then land with such ease
+  dangling like wooden pegs
+  and then land with such ease
   on bendy knees beneath the trees
   I marvel at your leap of faith 
   into the sky with such grace
   I wish I could fly like you
   and boldly leap
   to change the view.
+
 
 
 alignPoemLeft: false
