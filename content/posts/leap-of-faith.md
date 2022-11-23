@@ -17,7 +17,7 @@ poem: |+
   on bendy knees beneath the trees
   I marvel at your leap of faith 
   into the sky with such grace
-  I wish I could fly like you
+  I wish I could be like you
   and boldly leap
   to change the view.
 
