@@ -2,8 +2,8 @@
 title: Leap of Faith
 description: "111"
 collection: Northfolk Views
-aspect: landscape
-image: /img/heron-norfolk-broads-leap-of-faith-3.jpg
+aspect: portrait
+image: /img/heron-norfolk-broads-leap-of-faith5a-2.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |+
