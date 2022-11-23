@@ -2,8 +2,8 @@
 title: Leap of Faith
 description: It is always empowering to see a heron launch itself into the air
   with seemingly little effort. For a bird that looks almost prehistoric, its
-  moves are ballerina like, its grey feathers as chiffon floating around their
-  bodies
+  moves are very ballerina like, its grey feathers floating with its moves as
+  chiffon.
 collection: Northfolk Views
 aspect: portrait
 image: /img/heron-norfolk-broads-leap-of-faith5c-2.jpg
