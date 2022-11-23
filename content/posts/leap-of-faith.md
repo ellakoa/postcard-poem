@@ -27,7 +27,7 @@ address: |
   A Leap of Faith
   Norfolk Broads
   Norfolk
-stamp: /img/derp-cat.jpeg
+stamp: /img/heron-norfolk-broads-leap-of-faith-3-stamp-tiny.jpg
 author: Caroline Whitehouse
 date: 2022-11-23T11:05:04.702Z
 ---
