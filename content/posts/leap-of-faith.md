@@ -16,15 +16,16 @@ poem: |+
   
 
 
-  How do you fly with such spindly legs
+  How do you fly with spindly legs
   dangling like wooden pegs
   and then land with such ease
   on bendy knees beneath the trees
   I marvel at your leap of faith 
   into the sky with such grace
-  I wish I could be like you
-  and boldly leap
-  to change the view.
+  To be so bold and 
+  change the view
+  I wish I could leap like you.
+
 
 
 
