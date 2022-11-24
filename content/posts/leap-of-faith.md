@@ -12,10 +12,8 @@ image: /img/heron-norfolk-broads-leap-of-faith5c-2.jpg
 metaImage: /img/face.jpg
 alt: Grey Heron gracefully leaping into the air above water which reflects the
   colours of the sunset.
-poem: |+
+poem: |
   
-
-
   How do you fly with spindly legs
   dangling like wooden pegs
   and then land with such ease
@@ -25,10 +23,6 @@ poem: |+
   To be so bold and 
   change the view
   I wish I could leap like you.
-
-
-
-
 alignPoemLeft: false
 address: |
   A Leap of Faith
