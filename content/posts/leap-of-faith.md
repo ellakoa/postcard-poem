@@ -4,7 +4,7 @@ description: It is always empowering to see a heron launch itself into the air
   with seemingly little effort. For a bird that looks almost prehistoric, its
   moves are very graceful and ballerina like, the heron's grey feathers shimmy
   around its body like a floaty chiffon wrap. The Norfolk Broads has many fine
-  examples of Herons, they are often found standing still as statues along the
+  examples of herons, they are often found standing still as statues along the
   river banks with watchful eyes, ready to take flight in an instance.
 collection: Northfolk Views
 aspect: landscape
