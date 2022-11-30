@@ -3,7 +3,7 @@ title: The Absent Moon
 description: aaa
 collection: Beyond the Pebbles
 aspect: landscape
-image: /img/derp-cat.jpeg
+image: /img/the-restful-moon.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
