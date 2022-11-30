@@ -1,6 +1,7 @@
 ---
 title: The Hidden Seabed
 description: "111"
+collection: Beyond the Pebbles
 aspect: landscape
 image: /img/derp-cat.jpeg
 metaImage: /img/face.jpg
