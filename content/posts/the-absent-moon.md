@@ -1,6 +1,9 @@
 ---
 title: The Absent Moon
-description: aaa
+description: You never know what you are going to find as quietly stroll along.
+  Well imaging my surprise to find the moon not where it should be, up in the
+  sky but trying to be incognito on the ground. I guess we all deserve a rest
+  day.
 collection: Beyond the Pebbles
 aspect: landscape
 image: /img/the-restful-moon.jpg
