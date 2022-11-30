@@ -6,7 +6,7 @@ description: You never know what you are going to find as quietly stroll along.
   day.
 collection: Beyond the Pebbles
 aspect: landscape
-image: /img/the-restful-moon.jpg
+image: /img/the-restful-moon1tiny.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
