@@ -28,7 +28,7 @@ address: |-
   Oldstairs Bay
   Kingsdown
   Kent
-stamp: /img/derp-cat.jpeg
+stamp: /img/the-absent-moon-stamptiny.jpg
 author: Caroline Whitehouse
 date: 2022-11-30T13:37:07.347Z
 ---
