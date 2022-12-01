@@ -6,7 +6,7 @@ description: You never know what you are going to find as quietly stroll along.
   day.
 collection: Beyond the Pebbles
 aspect: landscape
-image: /img/the-restful-moon1tiny.jpg
+image: /img/the-absent-moon-tiny.jpg
 metaImage: /img/face.jpg
 alt: Oldstairs bay, in the sand is a large crater that looks like the moon,
   seaweed for eyes and mouth and a long chalk nose
