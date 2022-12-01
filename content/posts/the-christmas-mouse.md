@@ -13,8 +13,8 @@ alt: A partially decorated Christmas tree, a little mouse in a red Santa hat
 poem: |-
   A bold little mouse hid in a house 
   To shelter from winter’s cold
-  At night on nimble feet 
-  the mouse scouted for crumbs to eat
+  At night on nimble feet the 
+  mouse did seek tasty crumbs to eat
 
   One midnight mission, into his vision
   There came a tree, indoors! 
