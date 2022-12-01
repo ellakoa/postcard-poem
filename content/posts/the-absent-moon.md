@@ -16,10 +16,10 @@ poem: |-
   be completely out of vision
   Where does the moon go 
   in that missing day?
-  Well, today the moon 
-  was resting in the bay
+  Well, today I found 
+  the moon bathing in the bay
   Taking a day off 
-  bathing on the ground
+  resting on the ground
   quietly ignoring those
   that wandered around.
 alignPoemLeft: false
