@@ -1,6 +1,9 @@
 ---
 title: The Christmas Mouse
-description: "111"
+description: >-
+  Seasons Greetings to all my readers. 
+
+  This little mouse did come into our home and worked its way through many of the tree's chocolate treats. 
 collection: Christmas
 aspect: portrait
 image: /img/christmas-mouse-postcard-1-tiny.jpg
