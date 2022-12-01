@@ -39,7 +39,7 @@ poem: |-
   Next day the mystery was finally solved
   There was no doubt, with such tiny teeth
   A little mouse was eating
-  the Christmas treats.
+  the Christmas tree treats.
 alignPoemLeft: false
 address: |-
   The Christmas Mouse
