@@ -30,5 +30,5 @@ address: |-
   Kent
 stamp: /img/the-absent-moon-stamptiny.jpg
 author: Caroline Whitehouse
-date: 2022-11-30T13:37:07.347Z
+date: 2022-12-04T08:00:07.347Z
 ---
