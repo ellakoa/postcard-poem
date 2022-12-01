@@ -8,7 +8,8 @@ collection: Beyond the Pebbles
 aspect: landscape
 image: /img/the-restful-moon1tiny.jpg
 metaImage: /img/face.jpg
-alt: "111"
+alt: Oldstairs bay, in the sand is a large crater that looks like the moon,
+  seaweed for eyes and mouth and a long chalk nose
 poem: |-
   Every month it seems 
   the moon is on a mission 
