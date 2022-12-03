@@ -16,7 +16,7 @@ poem: |
   be completely out of vision
   Where does the moon go
   missing for a day?
-  Well, today, I found 
+  Well, today I found 
   the moon bathing in the bay
   Quietly observing those 
   that wandered around 
