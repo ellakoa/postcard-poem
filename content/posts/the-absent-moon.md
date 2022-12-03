@@ -1,5 +1,5 @@
 ---
-title: The Absent Moon
+title: Incognito
 description: You never know what you are going to find as quietly stroll along.
   Well, imagine my surprise to find the moon not where it should be, up in the
   sky but trying to be incognito on the ground. I guess we all deserve a rest
@@ -21,11 +21,11 @@ poem: |-
   the moon bathing in the bay
   Taking a day off 
   resting on the ground
-  quietly ignoring those
+  quietly incognito to those
   that wandered around.
 alignPoemLeft: false
 address: |-
-  The Absent Moon
+  Incognito
   Oldstairs Bay
   Kingsdown
   Kent
