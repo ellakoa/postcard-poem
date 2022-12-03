@@ -10,7 +10,7 @@ image: /img/the-absent-moon-tiny.jpg
 metaImage: /img/face.jpg
 alt: Oldstairs bay, in the sand is a large crater that looks like the moon,
   seaweed for eyes and mouth and a long chalk nose
-poem: |-
+poem: |
   Every month it seems 
   the moon is on a mission 
   to wax and wane and then 
@@ -19,10 +19,10 @@ poem: |-
   missing for a day?
   Well, today I found 
   the moon bathing in the bay
-  Taking the day off 
+  Quietly observing  those 
+  that wandered around 
+  Trying to be incognito 
   resting on the ground
-  Trying to be incognito
-  to those that wandered around.
 alignPoemLeft: false
 address: |-
   Incognito
