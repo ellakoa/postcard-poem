@@ -15,14 +15,14 @@ poem: |-
   the moon is on a mission 
   to wax and wane and then 
   be completely out of vision
-  Where does the moon go 
-  on that day?
+  Where does the moon go
+  missing for a day?
   Well, today I found 
   the moon bathing in the bay
-  Taking a day off 
+  Taking the day off 
   resting on the ground
-  Quietly incognito to those
-  that wandered around.
+  Trying to be incognito
+  to those that wandered around.
 alignPoemLeft: false
 address: |-
   Incognito
