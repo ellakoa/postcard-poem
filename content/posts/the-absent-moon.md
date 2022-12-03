@@ -21,7 +21,7 @@ poem: |-
   the moon bathing in the bay
   Taking a day off 
   resting on the ground
-  quietly incognito to those
+  Quietly incognito to those
   that wandered around.
 alignPoemLeft: false
 address: |-
