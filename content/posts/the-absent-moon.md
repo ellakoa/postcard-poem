@@ -1,9 +1,8 @@
 ---
 title: Incognito
-description: You never know what you are going to find as quietly stroll along.
-  Well, imagine my surprise to find the moon not where it should be, up in the
-  sky but trying to be incognito on the ground. I guess we all deserve a rest
-  day.
+description: You never know what you are going to find as you amble along. Well,
+  imagine my surprise to find the moon not where it should be, up in the sky but
+  trying to be incognito on the ground. I guess we all deserve a rest day.
 collection: Beyond the Pebbles
 aspect: landscape
 image: /img/the-absent-moon-tiny.jpg
@@ -19,7 +18,7 @@ poem: |
   missing for a day?
   Well, today, I found 
   the moon bathing in the bay
-  Quietly observing  those 
+  Quietly observing those 
   that wandered around 
   Trying to be incognito 
   resting on the ground
