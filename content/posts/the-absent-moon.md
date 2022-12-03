@@ -28,7 +28,7 @@ address: |-
   Oldstairs Bay
   Kingsdown
   Kent
-stamp: /img/the-absent-moon-stamptiny.jpg
+stamp: /img/the-absent-moon-stamp-tiny.jpg
 author: Caroline Whitehouse
 date: 2022-12-04T08:00:07.347Z
 ---
