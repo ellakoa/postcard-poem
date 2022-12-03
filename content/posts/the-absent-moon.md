@@ -16,7 +16,7 @@ poem: |-
   to wax and wane and then 
   be completely out of vision
   Where does the moon go 
-  in that missing day?
+  on that day?
   Well, today I found 
   the moon bathing in the bay
   Taking a day off 
