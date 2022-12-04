@@ -30,7 +30,8 @@ stampHeight: "400"
 alignPoemLeft: false
 address: |-
   The Garden Office
-  Lost Gardens of Heligan
+  Lost Gardens 
+  of Heligan
   Cornwall
 author: Caroline Whitehouse
 date: 2022-07-17T09:56:40.372Z
