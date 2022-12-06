@@ -42,8 +42,8 @@ poem: |-
   the Christmas tree treats.
 alignPoemLeft: false
 address: |-
-  The Christmas Mouse
-  A True Story
+  The Christmas 
+  Mouse
   Deal
   Kent
 stamp: /img/christmas-mouse-stamp-tiny.jpg
