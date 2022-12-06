@@ -3,7 +3,9 @@ title: The Christmas Mouse
 description: >-
   Seasons Greetings to all my readers. 
 
-  This little mouse did come into our home and worked its way through many of the tree's chocolate treats. 
+  We were baffled as to why we kept finding the empty silver wrappers of the chocolate treats beneath the tree, my husband was convinced I was the guilty culprit until one morning we discovered the partially eaten one and I was vindicated.
+
+  A big thank you to Nora who painted a portrait of the little mouse and allowed me to include it on the artwork for this postcard.
 collection: Christmas
 aspect: portrait
 image: /img/christmas-mouse-postcard-1-tiny.jpg
