@@ -14,7 +14,7 @@ poem: |-
   A bold little mouse hid in a house 
   To shelter from winter’s cold
   At night on nimble feet the 
-  mouse did seek tasty crumbs to eat
+  mouse did seek crumbs to eat
 
   One midnight mission, into his vision
   There came a tree, indoors! 
@@ -24,7 +24,7 @@ poem: |-
   His little nose started twitching
   What was that he was sniffing?
   Wrapped in silver something sweet 
-  Could it be a chocolate treat? 
+  Could it be a chocolate treat? Yum
 
   Soon it was noticed with a small frown
   The silver wrappers littering the ground
