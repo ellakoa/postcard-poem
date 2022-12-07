@@ -3,9 +3,9 @@ title: The Christmas Mouse
 description: >-
   Seasons Greetings to all my readers. 
 
-  We were baffled as to why we kept finding the empty silver wrappers of the chocolate treats beneath the tree, my husband was convinced I was the guilty culprit until one morning we discovered the partially eaten one and I was vindicated.
+  We were baffled as to why we kept finding the empty silver wrappers of the chocolate treats beneath the tree, my husband was convinced I was the guilty culprit until one morning we discovered a partially eaten chocolate with tiny tiny teeth marks, and I was vindicated.
 
-  A big thank you to Nora who painted a portrait of the little mouse and allowed me to include it on the artwork for this postcard.
+  A big thank you to Nora who painted a portrait of the little mouse and allowed me to include it in the artwork for this postcard.
 collection: Christmas
 aspect: portrait
 image: /img/christmas-mouse-postcard-1-tiny.jpg
@@ -44,8 +44,8 @@ poem: |-
   the Christmas tree treats.
 alignPoemLeft: false
 address: |-
-  The Christmas 
-  Mouse
+  The Christmas Mouse
+  In a House
   Deal
   Kent
 stamp: /img/christmas-mouse-stamp-tiny.jpg
