@@ -5,7 +5,8 @@ collection: Places
 aspect: landscape
 image: /img/little-boats-1-tiny.jpg
 metaImage: /img/face.jpg
-alt: aaa
+alt: Night time scene of Ramsgate harbour, The little boats are lit up with
+  festive lights which reflect in the water
 poem: |
   Bag of chips and not a gull in sight
   an evening stroll to the harbour lights
