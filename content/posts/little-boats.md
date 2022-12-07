@@ -1,9 +1,9 @@
 ---
 title: The Little Boats
-description: "We are quickly approaching the longest night and what better way
-  to embrace this than to visit some festive lights? The little boats in
-  Ramsgate harbour always put on a splendid display bringing some festive cheer
-  to make you smile. "
+description: "We are fast approaching the longest night and what better way to
+  embrace this than to visit some festive lights? The little boats in Ramsgate
+  harbour always put on a splendid display bringing some festive cheer to make
+  you smile. "
 collection: Kent Views
 aspect: landscape
 image: /img/little-boats-2-tiny.jpg
