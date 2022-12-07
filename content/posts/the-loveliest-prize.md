@@ -5,7 +5,7 @@ description: Getting up to see the sunrise takes a commitment at any time of the
   rising that bit later, the payoff is the much colder mornings. Yet it is these
   cold clear mornings that afford some of the most vibrant colours, rewarding
   those who have stumbled out of bed early to capture it 'The Loveliest Prize'
-collection: Beyond the Pebbles, Kent Views
+collection: Beyond the Pebbles
 aspect: landscape
 image: /img/sunrise-kingsdown-sailing-boat-three-134849.jpg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
