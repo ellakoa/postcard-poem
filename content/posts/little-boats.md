@@ -16,10 +16,10 @@ poem: |
   We casually stroll the harbour arm
   taking our time completely charmed
   and as twilight darkens into the night
-  the festive lights gradually glow bright
+  the festive lights glow bright
 
   It warms our cockles but not our toes
-  or the tip of a now red nose
+  or the tip of a now red shiny nose
   Hot chocolate with sprinkles before
   we make tracks, we turn and wave 
   and the little boats twinkle back.
