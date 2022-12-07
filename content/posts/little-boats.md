@@ -3,7 +3,7 @@ title: Little Boats
 description: "111"
 collection: Places
 aspect: landscape
-image: /img/derp-cat.jpeg
+image: /img/little-boats-2-tiny.jpg
 metaImage: /img/face.jpg
 alt: aaa
 poem: |
