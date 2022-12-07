@@ -1,0 +1,31 @@
+---
+title: Little Boats
+description: "111"
+collection: Places
+aspect: landscape
+image: /img/derp-cat.jpeg
+metaImage: /img/face.jpg
+alt: aaa
+poem: |
+  Bag of chips and not a gull in sight
+  an evening stroll to the harbour lights
+  There's a nip in the air and sudden 
+  blasts of wind, we are wrapped up 
+  warm against a cold that stings
+
+  We casually stroll the harbour arm
+  taking our time completely charmed
+  and as twilight darkens into the night
+  the festive lights gradually glow bright
+
+  It warms our cockles but not our toes
+  or the tip of a now red nose
+  Hot chocolate with sprinkles before
+  we make tracks, we turn and wave 
+  and the little boats twinkle back.
+alignPoemLeft: false
+address: aaa
+stamp: /img/derp-cat.jpeg
+author: Caroline Whitehouse
+date: 2022-12-07T09:23:26.581Z
+---
