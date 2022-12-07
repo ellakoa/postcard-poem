@@ -3,7 +3,7 @@ title: Little Boats
 description: "111"
 collection: Places
 aspect: landscape
-image: /img/little-boats-1-tinya.jpg
+image: /img/little-boats-2-tiny.jpg
 metaImage: /img/face.jpg
 alt: Night time scene of Ramsgate harbour, The little boats are lit up with
   festive lights which reflect in the water
