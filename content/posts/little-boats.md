@@ -3,7 +3,7 @@ title: Little Boats
 description: "111"
 collection: Places
 aspect: landscape
-image: /img/little-boats-1tiny.jpg
+image: /img/little-boats-2-tiny.jpg
 metaImage: /img/face.jpg
 alt: aaa
 poem: |
@@ -24,8 +24,12 @@ poem: |
   we make tracks, we turn and wave 
   and the little boats twinkle back.
 alignPoemLeft: false
-address: aaa
-stamp: /img/derp-cat.jpeg
+address: |-
+  The Little Boats
+  Ramsgate Harbour
+  Ramsgate
+  Kent
+stamp: /img/little-boats-stamp-tiny.jpg
 author: Caroline Whitehouse
 date: 2022-12-07T09:23:26.581Z
 ---
