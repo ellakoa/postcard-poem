@@ -22,7 +22,7 @@ poem: |-
   but I don’t really know
   Gales could blow from the east
   bringing the beast
-  Or blow from the north 
+  or blow from the north 
   hurling chill winds forth
   Milder air from the south 
   and rain from the west
