@@ -7,7 +7,7 @@ description: You can tell that it is almost winter when The Beast from the East
   used to describe the heavy rain clouds that chase in from the channel and if
   you get caught outside on one of their wash days you are in for a soaking. The
   old signal box at Folkestone Harbour station before the redevelopment of this
-  area. I remember as a child standing on the pier and watching the boat trains
+  area. I remember as a child standing on the pier watching the boat trains
   arrive at the harbour station, one particular time I saw a girl about my age
   in a smart coat with a little suitcase by her feet, how exotic I thought as I
   dreamed about her destination.
