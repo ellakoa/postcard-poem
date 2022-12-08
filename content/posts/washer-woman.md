@@ -33,7 +33,7 @@ poem: |-
   doing their chores
 
   However the weathervane spins
-  and the drama that it brings
+  with the drama that it brings
   the child in our heart sings.
 alignPoemLeft: false
 address: |-
