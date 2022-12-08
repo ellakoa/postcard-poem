@@ -17,7 +17,7 @@ aspect: landscape
 image: /img/weather-folkestone-tiny.jpg
 metaImage: /img/face.jpg
 alt: "111"
-poem: |
+poem: |-
   I doubt it will snow 
   but I don’t really know
   Gales could blow from the east
