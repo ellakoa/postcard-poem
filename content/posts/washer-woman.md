@@ -43,5 +43,5 @@ address: |-
   Kent
 stamp: /img/weather-folkestone-stamp-tiny.jpg
 author: Caroline Whitehouse
-date: 2022-12-08T14:32:14.837Z
+date: 2022-12-11T08:00:14.837Z
 ---
