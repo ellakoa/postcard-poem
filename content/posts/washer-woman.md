@@ -8,9 +8,9 @@ description: You can tell that it is almost winter when The Beast from the East
   you get caught outside on one of their wash days you are in for a soaking. The
   old signal box at Folkestone Harbour station before the redevelopment of this
   area. I remember as a child standing on the pier watching the boat trains
-  arrive at the harbour station, one particular time I saw a girl about my age
-  in a smart coat with a little suitcase by her feet, how exotic I thought as I
-  dreamed about her destination.
+  arrive, one particular time I saw a girl about my age in a smart coat with a
+  little suitcase by her feet, how exotic I thought as I dreamed about her
+  destination.
 collection: Kent Views
 aspect: landscape
 image: /img/weather-folkestone-tiny.jpg
