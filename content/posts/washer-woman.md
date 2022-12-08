@@ -3,10 +3,10 @@ title: Washer Women
 description: You can tell that it is almost winter when The Beast from the East
   starts to enter the weatherman's repertoire. There is always an amusing
   variety of words when describing the weather especially when the locality gets
-  put into the pot. The Folkestone Washer Women is one of a few terms that is
-  used to describe the heavy rain clouds that chase in from the channel and if
-  you get caught outside on one of their wash days you are in for a soaking. The
-  old signal box at Folkestone Harbour station before the redevelopment of this
+  put into the pot. The Folkestone Washer Women is one of the terms that is used
+  to describe the heavy rain clouds that chase in from the channel and if you
+  get caught outside on one of their wash days you are in for a soaking. The old
+  signal box at Folkestone Harbour station before the redevelopment of this
   area. I remember as a child standing on the pier watching the boat trains
   arrive, one particular time I saw a girl about my age in a smart coat with a
   little suitcase by her feet, how exotic I thought as I dreamed about her
