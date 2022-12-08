@@ -33,8 +33,8 @@ poem: |-
   doing their chores
 
   However the weathervane spins
-  with the drama that it brings
-  the child in our heart sings.
+  the child in our heart finds wings
+  and revels in the drama it brings.
 alignPoemLeft: false
 address: |-
   Washer Women
