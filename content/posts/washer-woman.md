@@ -16,7 +16,8 @@ collection: Kent Views
 aspect: landscape
 image: /img/weather-folkestone-tiny.jpg
 metaImage: /img/face.jpg
-alt: "111"
+alt: "Folkestone Harbour train signal box, view towards the town and north
+  downs, black rain clouds loom above "
 poem: |-
   I doubt it will snow 
   but I don’t really know
@@ -29,7 +30,7 @@ poem: |-
   might follow the Downs' hilly crest
   Then again, making it pour
   we could endure the 
-  Folkestone-washerwomen 
+  Folkestone washer women 
   doing their chores
 
   However the weathervane spins
