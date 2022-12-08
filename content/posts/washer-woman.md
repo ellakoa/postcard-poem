@@ -32,18 +32,7 @@ poem: |
   Folkestone-washerwomen 
   doing their chores
 
-  But It will be a delight if;
-
-  Following a clear starry night
-  the sun shines beautifully bright 
-  Jack frost leaves patterns of lace
-  coaxing a smile to a cold ruddy face
-  We can hear bird songs so precise 
-  And berries covered in ice
-
   However the weathervane spins
-  and whether we are outside or in
-  Mother nature
   the child in our heart sings.
 alignPoemLeft: false
 address: |-
