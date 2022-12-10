@@ -26,7 +26,7 @@ poem: |-
   hurling chill winds forth
   Milder air from the south 
   and rain from the west might follow
-  the North Downs's hilly crest
+  the North Downs hilly crest
   Then again, making it pour
   we could endure the 
   Folkestone washer-women 
