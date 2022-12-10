@@ -1,7 +1,7 @@
 ---
 title: The Christmas Mouse
 description: >-
-  Seasons Greetings to all my readers. 
+  Seasons Greetings to all my readers.
 
   We were baffled as to why we kept finding the empty silver wrappers of the chocolate treats beneath the tree, my husband was convinced I was the guilty culprit until one morning we discovered a partially eaten chocolate with tiny tiny teeth marks, and I was vindicated.
 
