@@ -25,11 +25,11 @@ poem: |-
   or blow from the north 
   hurling chill winds forth
   Milder air from the south 
-  and rain from the west
-  might follow the Downs' hilly crest
+  and rain from the west might follow
+  the North Downs's hilly crest
   Then again, making it pour
   we could endure the 
-  Folkestone washer women 
+  Folkestone washer-women 
   doing their chores
 
   However the weathervane spins
