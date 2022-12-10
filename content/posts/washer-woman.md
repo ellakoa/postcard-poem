@@ -4,7 +4,7 @@ description: You can tell that it is almost winter when The Beast from the East
   starts to enter the weatherman's repertoire. There is always an amusing
   variety of words when describing the weather especially when the locality gets
   put into the pot. The Folkestone Washer Women is one of the terms that is used
-  to describe the heavy rain clouds that chase in from the English channel and
+  to describe the heavy rain clouds that chase in from the English Channel and
   if you get caught in one of their wash days you are in for a soaking. The old
   signal box at Folkestone Harbour station just before a wash day and before the
   redevelopment of this area. I remember as a child standing on the pier
