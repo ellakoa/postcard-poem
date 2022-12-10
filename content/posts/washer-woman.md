@@ -1,5 +1,5 @@
 ---
-title: Washer Women
+title: The Folkestone Washer-Women
 description: You can tell that it is almost winter when The Beast from the East
   starts to enter the weatherman's repertoire. There is always an amusing
   variety of words when describing the weather especially when the locality gets
@@ -37,7 +37,7 @@ poem: |-
   and revels in the drama it brings.
 alignPoemLeft: false
 address: |-
-  Washer Women
+  The Folkestone Washer Women
   Folkestone
   Kent
 stamp: /img/weather-folkestone-stamp-tiny.jpg
