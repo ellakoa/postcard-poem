@@ -37,7 +37,7 @@ poem: |-
   and revels in the drama it brings.
 alignPoemLeft: false
 address: |-
-  The Folkestone Washer Women
+  The Folkestone Washer-Women
   Folkestone
   Kent
 stamp: /img/weather-folkestone-stamp-tiny.jpg
