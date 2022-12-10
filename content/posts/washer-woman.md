@@ -40,7 +40,7 @@ address: |-
   Washer Women
   Folkestone
   Kent
-stamp: /img/weather-folkestone-stamp1-tiny.jpg
+stamp: /img/weather-folkestone-stamp-tiny.jpg
 author: Caroline Whitehouse
 date: 2022-12-11T08:00:14.837Z
 ---
