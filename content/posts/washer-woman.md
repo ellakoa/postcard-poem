@@ -39,7 +39,6 @@ alignPoemLeft: false
 address: |-
   Washer Women
   Folkestone
-  Harbour
   Kent
 stamp: /img/weather-folkestone-stamp1-tiny.jpg
 author: Caroline Whitehouse
