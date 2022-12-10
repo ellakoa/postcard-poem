@@ -13,7 +13,7 @@ description: You can tell that it is almost winter when The Beast from the East
   destination.
 collection: Kent Views
 aspect: landscape
-image: /img/weather-folkestone-tiny.jpg
+image: /img/folkestone-washer-women-tiny.jpg
 metaImage: /img/face.jpg
 alt: "Folkestone Harbour train signal box, view towards the town and north
   downs, black rain clouds loom above "
