@@ -34,7 +34,7 @@ poem: |-
 
   However the weathervane spins
   the child in us finds wings
-  and revels in the drama it brings.
+  that revels in the drama it brings.
 alignPoemLeft: false
 address: |-
   The Folkestone Washer-Women
