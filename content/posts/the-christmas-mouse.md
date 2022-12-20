@@ -14,33 +14,33 @@ alt: A partially decorated Christmas tree, a little mouse in a red Santa hat
   sits underneath nibbling a chocolate decoration.
 poem: |-
   A bold little mouse hid in a house 
-  To shelter from winter’s cold
-  At night when all where asleep the
+  to shelter from winter’s cold
+  at night when all were asleep the
   mouse did seek fallen crumbs to eat
 
-  One midnight mission, into his vision
-  There came a tree, indoors! 
-  That tree hadn’t been there before 
-  Just perfect to climb and explore
+  One midnight mission into his vision
+  was a tree, a tree indoors! 
+  that tree hadn’t been there before 
+  just perfect to climb and explore
 
   His little nose started twitching
-  What was that he was sniffing?
+  what was that he was sniffing?
   Wrapped in silver something sweet 
-  Could it be a chocolate treat? Yum
+  could it be a chocolate treat? Yum
 
   Soon it was noticed with a small frown
-  The silver wrappers littering the ground
+  the silver wrappers littering the ground
   Who was eating the chocolate treats?
   Who was to blame? Was it a game
 
   One night the mouse tried to eat two
-  The second one was too much to chew
-  Not only the wrapper did the mouse drop 
+  the second one was too much to chew
+  not only the wrapper did the mouse drop 
   but also the chocolate with a nibbled top
 
   The next day the mystery was finally solved
-  There was no doubt, with such tiny teeth
-  A little mouse was eating
+  there was no doubt, with such tiny teeth
+  a little mouse was eating
   the Christmas tree treats.
 alignPoemLeft: false
 address: |-
