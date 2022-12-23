@@ -1,5 +1,5 @@
 ---
-title: The Christmas Mouse
+title: The Sholden Mouse
 description: >-
   Seasons Greetings to all my readers.
 
@@ -44,8 +44,8 @@ poem: |-
   the Christmas tree treats.
 alignPoemLeft: false
 address: |-
-  The Christmas Mouse
-  In a House
+  The Sholden Mouse
+  Sholden
   Deal
   Kent
 stamp: /img/christmas-mouse-stamp-tiny.jpg
