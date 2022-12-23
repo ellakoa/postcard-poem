@@ -19,7 +19,7 @@ poem: |-
   mouse did seek fallen crumbs to eat
 
   One midnight mission into his vision
-  was a tree, a tree indoors! 
+  there came a tree, a tree indoors! 
   that tree hadn’t been there before 
   just perfect to climb and explore
 
