@@ -38,7 +38,7 @@ poem: |-
   not only the wrapper did the mouse drop 
   but also the chocolate with a nibbled top
 
-  The next day the mystery was finally solved
+  The mystery was finally solved
   there was no doubt, with such tiny teeth
   a little mouse was eating
   the Christmas tree treats.
