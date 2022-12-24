@@ -3,7 +3,7 @@ title: The Sholden Mouse
 description: >-
   Seasons Greetings to all my readers.
 
-  We were baffled as to why we kept finding the empty silver wrappers of the chocolate treats beneath the tree, my husband was convinced I was the guilty culprit until one morning we discovered a partially eaten chocolate with tiny tiny teeth marks, and I was vindicated.
+  We were baffled as to why we kept finding the empty silver wrappers of the chocolate treats beneath the tree, my husband was convinced I was the guilty culprit until one morning we discovered a partially eaten chocolate with tiny tiny teeth marks in a perfect circle, and I was vindicated.
 
   A big thank you to Nora who painted a portrait of the little mouse and allowed me to include it in the artwork for this postcard.
 collection: Christmas
