@@ -16,7 +16,6 @@ poem: |
   Just straight down
   Cloaking all sound
   Out of the grey came white
-  colour drained from sight
   The day became like the night
   and the night became like the day
   in a washed out ghostly way
