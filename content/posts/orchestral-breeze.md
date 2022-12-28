@@ -10,7 +10,8 @@ collection: Norfolk Views
 aspect: landscape
 image: /img/swan-orchestral-breeze-tiny.png
 metaImage: /img/face.jpg
-alt: "111"
+alt: A swan glides across water under a blue sky, reflections of reeds and
+  trees, a starburst of the sun is in the water.
 poem: |
   Skies dotted with exuberant clouds
   Sunlight tangled in twigs and boughs
