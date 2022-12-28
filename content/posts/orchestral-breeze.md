@@ -17,7 +17,6 @@ poem: |
   Dried reeds rustling aside still dykes 
   Reflections dip far out of sight.
 
-  Families on bikes in matching lycra
   People jogging, a new years mantra
   Some with headphones 
   Some with dogs
@@ -27,5 +26,5 @@ alignPoemLeft: false
 address: "111"
 stamp: /img/derp-cat.jpeg
 author: Caroline Whitehouse
-date: 2022-12-14T08:22:03.586Z
+date: 2023-01-01T08:00:03.586Z
 ---
