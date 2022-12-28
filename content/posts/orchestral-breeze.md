@@ -6,7 +6,7 @@ description: >
   Six months have passed since setting up this blog. A big thank you for sharing this journey with me and taking the time to read my postcards, I have many more postcards to share. New years day 2022 went down as the warmest on record in the UK and many took advantage of this, it was reported some even had barbeques. Most just took to their feet to get out and enjoy the unusually warm winter's day, clearing their heads of the last remnants of ‘Christmas fog.’ 
 collection: Norfolk Views
 aspect: landscape
-image: /img/swan-orchestral-breeze-tiny.png
+image: /img/swan-orchestral-breeze-tiny.jpg
 metaImage: /img/face.jpg
 alt: A swan glides across water under a blue sky, reflections of reeds and
   trees, a starburst of the sun is in the water.
