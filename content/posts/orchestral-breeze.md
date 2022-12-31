@@ -2,7 +2,7 @@
 title: Orchestral Breeze
 description: >+
   The years continue to pass from one to the other like a relay race. We say
-  farewell to the old year and welcome the new year. Maybe we are the battens
+  farewell to the old year and welcome in the new year. Maybe we are the battens
   being passed from one year to the next. Looking back, in the UK new years day
   2022 went down as the warmest on record, and many took advantage of this, it
   was reported some even had barbeques. Most just took to their feet to get out
