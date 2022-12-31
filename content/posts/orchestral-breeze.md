@@ -18,6 +18,7 @@ alt: A swan glides across water under a blue sky, reflections of reeds and
 poem: |+
   
 
+
   Skies dotted with exuberant clouds
   Sunlight tangled in twigs and boughs
   An unusually warm orchestral breeze
@@ -27,6 +28,7 @@ poem: |+
   A watchful redbreast looking for snacks
   Dried reeds rustling beside still dykes 
   Swans glide in winter's low sunlight.
+
 
 alignPoemLeft: false
 address: |-
