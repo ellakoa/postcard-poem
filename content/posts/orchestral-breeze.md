@@ -23,8 +23,8 @@ poem: |
 
   Blackbirds scratching on leafy tracks
   A watchful redbreast looking for snacks
-  Dried reeds rustling aside still dykes 
-  Swans drift through winters lowlight
+  Dried reeds rustling beside still dykes 
+  Swans drift in winter's low sunlight.
 alignPoemLeft: false
 address: |-
   Orchestral Breeze
