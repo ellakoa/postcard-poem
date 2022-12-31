@@ -13,7 +13,7 @@ image: /img/swan-orchestral-breeze-tiny.jpg
 metaImage: /img/face.jpg
 alt: A swan glides across water under a blue sky, reflections of reeds and
   trees, a starburst of the sun is in the water.
-poem: |+
+poem: |
   
 
   Skies dotted with exuberant clouds
@@ -24,8 +24,7 @@ poem: |+
   Blackbirds scratching on leafy tracks
   A watchful redbreast looking for snacks
   Dried reeds rustling aside still dykes 
-  Reflections dipping far out of sight
-
+  Swans drift past in winters sunlight
 alignPoemLeft: false
 address: |-
   Orchestral Breeze
