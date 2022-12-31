@@ -24,9 +24,6 @@ poem: |
   Dried reeds rustling aside still dykes 
   Reflections dipping far out of sight
 
-  People jogging a new years mantra
-  Some with headphones 
-  Some with dogs
   Walkers, dawdling, talking
   Clearing Christmas fog.
 alignPoemLeft: false
