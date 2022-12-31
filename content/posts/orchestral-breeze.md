@@ -23,7 +23,7 @@ poem: |+
   Blackbirds scratching on leafy tracks
   A watchful redbreast looking for snacks
   Dried reeds rustling aside still dykes 
-  Reflections dipping far out of sight
+  Reflections dipping far out of sight.
 
 alignPoemLeft: false
 address: |-
