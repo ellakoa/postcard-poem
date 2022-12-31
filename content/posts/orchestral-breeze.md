@@ -1,9 +1,12 @@
 ---
 title: Orchestral Breeze
-description: >
-  Wishing you all a happy new year 2023
+description: >+
+  The years continue to pass from one to the other like a relay race, we say
+  farewell to the old year and welcome in the new year, maybe we are the battens
+  being passed from one year to the next.
 
-  Six months have passed since setting up this blog. A big thank you for sharing this journey with me and taking the time to read my postcards, I have many more postcards to share. Looking back, New years day 2022 went down as the warmest on record in the UK and many took advantage of this, it was reported some even had barbeques. Most just took to their feet to get out and enjoy the unusually warm winter's day, clearing their heads of the last remnants of ‘Christmas fog.’ 
+  New years day 2022 went down as the warmest on record in the Uk and many took advantage of this, it was reported some even had barbeques. Most just took to their feet to get out and enjoy the unusually warm winter's day, the southerly winds brought the warmer air and cleared heads of the last remnants of ‘Christmas fog.’ 
+
 collection: Norfolk Views
 aspect: landscape
 image: /img/swan-orchestral-breeze-tiny.jpg
