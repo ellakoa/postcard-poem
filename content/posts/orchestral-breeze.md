@@ -1,11 +1,13 @@
 ---
 title: Orchestral Breeze
 description: >+
-  The years continue to pass from one to the other like a relay race, we say
-  farewell to the old year and welcome in the new year, maybe we are the battens
-  being passed from one year to the next.
-
-  In the UK New years day 2022 went down as the warmest on record and many took advantage of this it was reported some even had barbeques. Most just took to their feet to get out and enjoy the unusually warm winter's day, the southerly winds brought the warmer air and cleared away the last remnants of ‘Christmas fog.’ 
+  The years continue to pass from one to the other like a relay race. We say
+  farewell to the old year and welcome the new year. Maybe we are the battens
+  being passed from one year to the next. Looking back, in the UK new years day
+  2022 went down as the warmest on record, and many took advantage of this, it
+  was reported some even had barbeques. Most just took to their feet to get out
+  and enjoy the unusually warm winter's day, southerly winds brought the warmer
+  air making the trees dance and sing. A glorious day to be out and about.
 
 collection: Norfolk Views
 aspect: landscape
