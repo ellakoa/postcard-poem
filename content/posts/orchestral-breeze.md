@@ -5,7 +5,7 @@ description: >+
   farewell to the old year and welcome in the new year, maybe we are the battens
   being passed from one year to the next.
 
-  New years day 2022 went down as the warmest on record in the Uk and many took advantage of this, it was reported some even had barbeques. Most just took to their feet to get out and enjoy the unusually warm winter's day, the southerly winds brought the warmer air and cleared heads of the last remnants of ‘Christmas fog.’ 
+  In the UK New years day 2022 went down as the warmest on record and many took advantage of this, it was reported some even had barbeques. Most just took to their feet to get out and enjoy the unusually warm winter's day, the southerly winds brought the warmer air and cleared heads of the last remnants of ‘Christmas fog.’ 
 
 collection: Norfolk Views
 aspect: landscape
