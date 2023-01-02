@@ -2,7 +2,7 @@
 title: Snow Tumbled Down
 description: "111"
 collection: Kent Views
-aspect: landscape
+aspect: portrait
 image: /img/postcard-poems-tiny.png
 metaImage: /img/face.jpg
 alt: "111"
