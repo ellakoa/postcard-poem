@@ -35,4 +35,4 @@ on a walk which would completely throw me into a panic until I realised
 it was in the comfort of her own home with this book in her hands. 
 
 Being inspired by Felix and his Ramblings I decided to use the many photographs I had
-taken as a prompt to create my own ‘ramblings’ and share them,
+taken as a prompt to create my own ‘ramblings’ and share them.
