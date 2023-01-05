@@ -27,6 +27,7 @@ poem: |
 alignPoemLeft: false
 address: |-
   Swimming with Stars
+  Chapmans Pool
   Dancing Ledge
   Dorset
 stamp: /img/swimming-with-stars-dancing-ledge-.jpg
