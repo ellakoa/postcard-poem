@@ -3,7 +3,7 @@ title: Swimming with Stars
 description: Chapmans Pool
 collection: Dorset Views
 aspect: landscape
-image: /img/swimming-with-stars-dancing-ledge-main.jpg
+image: /img/chapmans-pool-dancing-ledge1-.jpg
 metaImage: /img/face.jpg
 alt: Chapman's pool, a tidal pool at Dancing Ledge Dorset, a lone swimmer,
   starbursts of sunlight dance on the water
