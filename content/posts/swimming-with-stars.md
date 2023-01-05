@@ -5,7 +5,7 @@ collection: Dorset Views
 aspect: landscape
 image: /img/swimming-with-stars-dancing-ledge6-6229.jpg
 metaImage: /img/face.jpg
-alt: "11"
+alt: "Tidal pool, lone swimmer, sunlight "
 poem: |-
   Have the stars skipped down
   when the moon's not around
