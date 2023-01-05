@@ -5,7 +5,8 @@ collection: Dorset Views
 aspect: landscape
 image: /img/swimming-with-stars-dancing-ledge4-.jpg
 metaImage: /img/face.jpg
-alt: "11"
+alt: Chapman's pool, a tidal pool at Dancing Ledge Dorset, a lone swimmer,
+  starbursts of sunlight dance on the water
 poem: |-
   Have the stars skipped down
   when the moon's not around
