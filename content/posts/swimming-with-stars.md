@@ -5,23 +5,23 @@ collection: Dorset Views
 aspect: landscape
 image: /img/swimming-with-stars-dancing-ledge6-6229.jpg
 metaImage: /img/face.jpg
-alt: "Tidal pool, lone swimmer, sunlight "
+alt: "11"
 poem: |-
   Have the stars skipped down
   when the moon's not around
   to play on the sea 
   in a daytime breeze
-  Or maybe
+  or maybe
   the sun has sprinkled glitter
   over the waves
   to glint and flitter as
   sparkling sun glitter
-  And when the sun sleeps
-  And the stars peep
+  and when the sun sleeps
+  and when the stars peep
   Is it silver the moon 
   spills onto the sea
-  To make the sea shimmer 
-  For the nighttime swimmer
+  to make the sea shimmer 
+  for the nighttime swimmer.
 
   Possibly it is all three.
 alignPoemLeft: false
