@@ -1,6 +1,6 @@
 ---
 title: Swimming with Stars
-description: "111"
+description: Chapmans Pool
 collection: Dorset Views
 aspect: landscape
 image: /img/swimming-with-stars-dancing-ledge6-6229.jpg
@@ -8,20 +8,16 @@ metaImage: /img/face.jpg
 alt: "11"
 poem: |-
   Have the stars skipped down
-  when the moon's not around?
+  when the moon's not around
   to play on the sea 
-  In a daytime breeze
-
+  in a daytime breeze
   Or maybe
-
   the sun has sprinkled glitter
   over the waves
   to glint and flitter as
   sparkling sun glitter
-
   And when the sun sleeps
   And the stars peep
-
   Is it silver the moon 
   spills onto the sea
   To make the sea shimmer 
