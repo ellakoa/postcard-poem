@@ -3,14 +3,14 @@ title: Swimming with Stars
 description: "111"
 collection: Dorset Views
 aspect: landscape
-image: /img/swimming-with-stars-dancing-ledge4-.jpg
+image: /img/swimming-with-stars-dancing-ledge6-6229.jpg
 metaImage: /img/face.jpg
 alt: "11"
-poem: |
+poem: |-
   Have the stars skipped down
-  when the moons not around?
+  when the moon's not around?
   to play on the sea 
-  in a daytime breeze
+  In a daytime breeze
 
   Or maybe
 
@@ -21,16 +21,20 @@ poem: |
 
   And when the sun sleeps
   And the stars peep
-  Is it silver the moon
-  pours into the sea?
-  to shatter and scatter
+
+  Is it silver the moon 
+  spills onto the sea
+  To make the sea shimmer 
+  For the nighttime swimmer
+
+  Possibly it is all three.
 alignPoemLeft: false
 address: |-
   Swimming with Stars
   Chapmans Pool
   Dancing Ledge
   Dorset
-stamp: /img/swimming-with-stars-dancing-ledge3-6269.jpg
+stamp: /img/swimming-with-stars-dancing-ledge4-.jpg
 author: Caroline Whitehouse
 date: 2023-01-05T12:51:46.527Z
 ---
