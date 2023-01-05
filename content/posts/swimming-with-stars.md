@@ -19,8 +19,7 @@ poem: |-
   sparkling sun glitter
   and when the sun sleeps
   and when the stars peep
-  is it silver the moon 
-  spills onto the sea
+  is it silver the moon spills 
   to make the sea shimmer 
   for the nighttime swimmer
 
