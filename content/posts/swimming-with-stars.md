@@ -3,7 +3,7 @@ title: Swimming with Stars
 description: Chapmans Pool
 collection: Dorset Views
 aspect: landscape
-image: /img/swimming-with-stars-dancing-ledge6-6229.jpg
+image: /img/swimming-with-stars-dancing-ledge4-.jpg
 metaImage: /img/face.jpg
 alt: "11"
 poem: |-
@@ -30,7 +30,7 @@ address: |-
   Chapmans Pool
   Dancing Ledge
   Dorset
-stamp: /img/swimming-with-stars-stamp-tiny.jpg
+stamp: /img/swimming-with-stars-stamp1-tiny.jpg
 author: Caroline Whitehouse
 date: 2023-01-05T12:51:46.527Z
 ---
