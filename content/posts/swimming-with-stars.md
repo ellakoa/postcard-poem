@@ -18,10 +18,10 @@ poem: |-
   sparkling sun glitter
   and when the sun sleeps
   and when the stars peep
-  Is it silver the moon 
+  is it silver the moon 
   spills onto the sea
   to make the sea shimmer 
-  for the nighttime swimmer.
+  for the nighttime swimmer
 
   Possibly it is all three.
 alignPoemLeft: false
