@@ -30,7 +30,7 @@ address: |-
   Chapmans Pool
   Dancing Ledge
   Dorset
-stamp: /img/swimming-with-stars-dancing-ledge4-.jpg
+stamp: /img/swimming-with-stars-stamp-tiny.jpg
 author: Caroline Whitehouse
 date: 2023-01-05T12:51:46.527Z
 ---
