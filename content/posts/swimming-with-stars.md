@@ -29,6 +29,7 @@ address: |-
   Swimming with Stars
   Dancing Ledge
   Dorset
+  UK
 stamp: /img/swimming-with-stars-stamp-tiny.jpg
 author: Caroline Whitehouse
 date: 2023-01-08T08:00:46.527Z
