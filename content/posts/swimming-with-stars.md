@@ -21,7 +21,7 @@ poem: |-
   and when the stars peep
   is it silver the moon spills 
   to make the sea shimmer 
-  for the nighttime swimmer
+  for the midnight swimmer
 
   Possibly it is all three.
 alignPoemLeft: false
@@ -30,7 +30,7 @@ address: |-
   Chapmans Pool
   Dancing Ledge
   Dorset
-stamp: /img/swimming-with-stars-stamp3-tiny.jpg
+stamp: /img/swimming-with-stars-stamp2-tiny.jpg
 author: Caroline Whitehouse
 date: 2023-01-08T08:00:46.527Z
 ---
