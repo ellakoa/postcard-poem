@@ -1,14 +1,14 @@
 ---
 title: Swimming with Stars
 description: "Weeks before any trip I always buy a paper map of the area and
-  pore over it to find places to visit. We visited the beautiful county of
-  Dorset in 2019. The place name ‘Dancing Ledge’ on the Jurassic coastline
-  captured my imagination. Our visit luckily coincided with a low tide, where we
-  watched a lone swimmer in the tidal pool on the ledge. This was something that
-  had to be on my to-do list but we were unprepared for such an adventure that
-  day. We finally returned in 2022, the sea was calm, the sun was bright and it
-  appeared as if thousands of stars were playing chase in the sea. I swam in the
-  tidal pool surrounded by stars, how heavenly. "
+  find myself poring over it to find places to visit. We visited the beautiful
+  county of Dorset in 2019. The place name ‘Dancing Ledge’ on the Jurassic
+  coastline captured my imagination. Our visit luckily coincided with a low
+  tide, here we watched a lone swimmer in the tidal pool on the ledge. This was
+  something that had to be on my to-do list but we were unprepared for such an
+  adventure that day. We finally returned in 2022, the sea was calm, the sun was
+  bright and it appeared as if thousands of stars were playing chase in the sea.
+  I swam in the tidal pool surrounded by stars, how heavenly. "
 collection: Dorset Views
 aspect: landscape
 image: /img/swimming-with-stars-dancing-ledge-maintiny.jpg
