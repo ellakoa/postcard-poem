@@ -30,7 +30,7 @@ address: |-
   Dancing Ledge
   Dorset
   UK
-stamp: /img/swimming-with-stars-stamp2-tiny.jpg
+stamp: /img/stamp-swimming-with-starstiny.png
 author: Caroline Whitehouse
 date: 2023-01-08T08:00:46.527Z
 ---
