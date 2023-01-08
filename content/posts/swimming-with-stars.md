@@ -18,15 +18,13 @@ alt: Chapman's pool, a tidal pool at Dancing Ledge Dorset, a lone swimmer,
 poem: |-
   Have the stars skipped down
   when the moon's not around
-  to play on the sea 
-  in a daytime breeze?
-  Or maybe
-  the sun has sprinkled glitter
-  over the waves
-  to glint and flitter as
-  sparkling sun glitter.
-  When the sun's asleep
-  and the stars peep
+  to play on the sea in a daytime breeze?
+
+  Or maybe the sun has sprinkled glitter
+  over the waves to glint and flitter 
+  as sparkling sun glitter.
+
+  When the sun's asleep and the stars peep
   is it silver the moon spills 
   to make the sea shimmer 
   for the midnight swimmer?
