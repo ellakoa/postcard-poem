@@ -24,9 +24,9 @@ poem: |-
   the sun has sprinkled glitter
   over the waves
   to glint and flitter as
-  sparkling sun glitter
-  and when the sun sleeps
-  and when the stars peep
+  sparkling sun glitter.
+  When the sun's asleep
+  and the stars peep
   is it silver the moon spills 
   to make the sea shimmer 
   for the midnight swimmer?
