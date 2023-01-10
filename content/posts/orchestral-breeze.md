@@ -36,7 +36,7 @@ address: |-
   Orchestral Breeze
   Norfolk Broads
   Norfolk
-stamp: /img/orchestral-breeze-stamp-tiny.png
+stamp: /img/orchestral-breeze-stamp1tiny.png
 author: Caroline Whitehouse
 date: 2023-01-01T08:00:03.586Z
 ---
