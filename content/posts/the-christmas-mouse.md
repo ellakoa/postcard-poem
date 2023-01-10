@@ -48,7 +48,7 @@ address: |-
   Sholden
   Deal
   Kent
-stamp: /img/christmas-mouse-stamp-tiny.jpg
+stamp: /img/mouse-stamp-tiny.png
 author: Caroline Whitehouse
 date: 2022-12-24T08:00:22.877Z
 ---
