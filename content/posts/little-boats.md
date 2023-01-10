@@ -33,7 +33,7 @@ address: |-
   Ramsgate Harbour
   Ramsgate
   Kent
-stamp: /img/little-boats-stamp-tiny.jpg
+stamp: /img/little-boats.png
 author: Caroline Whitehouse
 date: 2022-12-18T08:00:26.581Z
 ---
