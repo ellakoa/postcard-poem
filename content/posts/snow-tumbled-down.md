@@ -5,7 +5,8 @@ collection: Kent Views
 aspect: landscape
 image: /img/tractor-minster-snow-tiny.jpg
 metaImage: /img/face.jpg
-alt: "111"
+alt: Heavy snow is falling. A blue and red tractor with a bright yellow trailer
+  is parked, with a pile of logs in the foreground
 poem: |-
   Snow tumbled down, straight down
   Layer upon layer on the frozen ground
