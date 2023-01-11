@@ -15,14 +15,14 @@ poem: |-
   Just straight down, cloaking all sound
   Out of the grey came white
   The day became quiet as the night
-  The night became light as the day
+  The night became as the day
   All around snow tumbled down.
-
-  Then the grey sky became blue
+  Then
+  The grey sky became blue
   What  a glorious view
   Everywhere white, everywhere bright
-  Time to put work things away
-  enjoy the wonderment and play.
+  Time to put work things away, enjoy
+  the wonderment of nature at play.
 alignPoemLeft: false
 address: |-
   Snow Tumbled Down
