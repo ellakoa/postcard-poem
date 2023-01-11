@@ -29,9 +29,9 @@ poem: |+
 alignPoemLeft: false
 address: |-
   Snow Tumbled Down
-  Kearsney Parks
-  Dover
-  Kent
+  Minster
+  Thanet
+  Kent UK
 stamp: /img/derp-cat.jpeg
 author: Caroline Whitehouse
 date: 2022-12-28T13:59:02.428Z
