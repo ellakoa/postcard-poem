@@ -3,8 +3,8 @@ title: Snow Tumbled Down
 description: >
   This particular year the snow fell in early March. The blackthorn was in bloom
   indicating spring was ready to be embraced but winter had not entirely done
-  with us. A reminder that our unpredictable weather (and our peculiar
-  fascination with it) will always have the last word. 
+  with us. A reminder that our unpredictable weather will always have the last
+  word. 
 collection: Kent Views
 aspect: landscape
 image: /img/tractor-minster-snow-2-1-.jpg
