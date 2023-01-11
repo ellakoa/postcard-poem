@@ -6,20 +6,26 @@ aspect: portrait
 image: /img/derp-cat.jpeg
 metaImage: /img/face.jpg
 alt: "111"
-poem: |
-  Snow tumbled down 
-  Straight down
-  Layer upon layer 
-  on the frozen ground
+poem: |+
+  
+  Snow tumbled down, straight down
+  Layer upon layer on the frozen ground
   No gentle wind to twirl and swirl
   No fierce wind to shift and drift
-  Just straight down
-  Cloaking all sound
+  Just straight down, cloaking all sound
   Out of the grey came white
-  The day became like the night
-  and the night became like the day
-  in a washed out ghostly way
+  Draining colour from sight
+  The day became quiet as the night
+  and the night became as the day
+  washed out in a ghostly way
   All around snow tumbled down.
+
+  Then the grey sky became blue
+  A glorious view, everywhere white
+  everywhere bright, time to put work 
+  things aside, enjoy the wonderment
+  Of outside
+
 alignPoemLeft: false
 address: |-
   Snow Tumbled Down
