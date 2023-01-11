@@ -32,7 +32,7 @@ address: |-
   Minster
   Thanet
   Kent UK
-stamp: /img/snow-tumbled-down-stamp-tiny.jpg
+stamp: /img/snow-tumbled-down-stamp-2-1-.jpg
 author: Caroline Whitehouse
 date: 2023-01-15T08:00:02.428Z
 ---
