@@ -22,7 +22,7 @@ poem: |-
   What  a glorious view
   Everywhere white, everywhere bright
   Time to put work things away, enjoy
-  the wonderment of nature at play.
+  the wonderment and play.
 alignPoemLeft: false
 address: |-
   Snow Tumbled Down
