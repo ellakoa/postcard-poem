@@ -2,8 +2,8 @@
 title: Snow Tumbled Down
 description: "111"
 collection: Kent Views
-aspect: portrait
-image: /img/derp-cat.jpeg
+aspect: landscape
+image: /img/tractor-minster-snow-tiny.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |+
