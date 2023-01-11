@@ -6,26 +6,22 @@ aspect: landscape
 image: /img/tractor-minster-snow-tiny.jpg
 metaImage: /img/face.jpg
 alt: "111"
-poem: |+
-  
+poem: |-
   Snow tumbled down, straight down
   Layer upon layer on the frozen ground
   No gentle wind to twirl and swirl
   No fierce wind to shift and drift
   Just straight down, cloaking all sound
   Out of the grey came white
-  Draining colour from sight
   The day became quiet as the night
-  and the night became as the day
-  washed out in a ghostly way
+  The night became light as the day
   All around snow tumbled down.
 
   Then the grey sky became blue
-  A glorious view, everywhere white
-  everywhere bright, time to put work 
-  things aside, enjoy the wonderment
-  Of outside
-
+  What  a glorious view
+  Everywhere white, everywhere bright
+  Time to put work things aside
+  enjoy the wonderment of outside
 alignPoemLeft: false
 address: |-
   Snow Tumbled Down
