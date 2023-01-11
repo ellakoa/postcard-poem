@@ -7,7 +7,7 @@ description: >
   fascination with it) will always have the last word. 
 collection: Kent Views
 aspect: landscape
-image: /img/tractor-minster-snow-tiny.jpg
+image: /img/tractor-minster-snow-2-1-.jpg
 metaImage: /img/face.jpg
 alt: Heavy snow is falling. A blue and red tractor with bright yellow trailer is
   parked, a pile of logs sits in the foreground
