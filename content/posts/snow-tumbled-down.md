@@ -20,8 +20,8 @@ poem: |-
   Then the grey sky became blue
   What  a glorious view
   Everywhere white, everywhere bright
-  Time to put work things aside
-  enjoy the wonderment of outside
+  Time to put work things away
+  enjoy the wonderment and play.
 alignPoemLeft: false
 address: |-
   Snow Tumbled Down
