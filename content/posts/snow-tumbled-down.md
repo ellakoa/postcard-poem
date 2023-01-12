@@ -18,12 +18,11 @@ poem: |-
   No fierce wind to shift and drift
   Just straight down, cloaking all sound
   Out of the grey came white
-  The day became quiet as the night
-  The night became as the day
+  The day became quiet as night
   All around snow tumbled down.
   Then
   The grey sky became blue
-  What  a glorious view
+  What a glorious view
   Everywhere white, everywhere bright
   Time to put work things away
   enjoy the wonderment and play.
