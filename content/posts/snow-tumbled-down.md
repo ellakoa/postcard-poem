@@ -23,8 +23,7 @@ poem: |-
   Then
   The grey sky became blue
   What a glorious view
-  Everywhere white
-  Everywhere bright
+  Everywhere white, everywhere bright
 alignPoemLeft: false
 address: |-
   Snow Tumbled Down
