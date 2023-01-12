@@ -7,7 +7,7 @@ description: >
   word. 
 collection: Kent Views
 aspect: landscape
-image: /img/tractor-minster-snow-1a-1-.jpg
+image: /img/tractor-minster-snow-tiny.jpg
 metaImage: /img/face.jpg
 alt: Heavy snow is falling. A blue and red tractor with bright yellow trailer is
   parked, a pile of logs sits in the foreground
