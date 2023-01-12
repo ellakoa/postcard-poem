@@ -23,9 +23,8 @@ poem: |-
   Then
   The grey sky became blue
   What a glorious view
-  Everywhere white, everywhere bright
-  Time to put work things away
-  enjoy the wonderment and play.
+  Everywhere white
+  Everywhere bright
 alignPoemLeft: false
 address: |-
   Snow Tumbled Down
