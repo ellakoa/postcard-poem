@@ -19,7 +19,7 @@ poem: |-
   No fierce wind to shift and drift
   Just straight down, cloaking all sound
   Out of the grey came white
-  The day became quiet as the night
+  The day became quiet as night
   All around snow tumbled down.
   Then
   The grey sky became blue
