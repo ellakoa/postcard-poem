@@ -1,6 +1,9 @@
 ---
 title: Winters Walk
-description: "111"
+description: We reconnect with our faithful friend on a winters walk. The garden
+  in winter is quite bare, a few hellebores have started flowering and some
+  snowdrops are beginning to show their green tips through the soil, the grass
+  is supporting an untold count of worm casts
 collection: Watch the Dog
 aspect: portrait
 image: /img/kearsney-parks-snow-.jpg
