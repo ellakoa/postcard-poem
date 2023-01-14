@@ -23,8 +23,8 @@ poem: |-
   The air is cold, the sun is low
   everywhere is white with snow
   Time for gloves time for scarfs
-  Hear the dogs excited bark
-  waiting for walks in the park
+  Hear the dogs playful bark
+  excited for walks in the park.
 alignPoemLeft: false
 address: |-
   Watch the Dog
