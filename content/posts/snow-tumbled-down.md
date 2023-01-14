@@ -1,10 +1,11 @@
 ---
 title: Snow Tumbled Down
-description: >
-  This particular year the snow fell in early March. The blackthorn was in bloom
-  indicating spring was ready to be embraced but winter had not entirely done
-  with us. A reminder that our unpredictable weather will always have the last
-  word. 
+description: "This particular year the snow fell in early March. The blackthorn
+  was in bloom indicating spring was ready to be embraced but winter had not
+  entirely done with us. Often there is a rivalry between the seasons as one
+  season transitions into the other, but eventually, it is always the outgoing
+  season that will give way letting the new season flourish. This is a reminder
+  that our unpredictable weather will always have the last word. "
 collection: Kent Views
 aspect: landscape
 image: /img/tractor-minster-snow-tiny.jpg
@@ -18,12 +19,12 @@ poem: |-
   No fierce wind to shift and drift
   Just straight down, cloaking all sound
   Out of the grey came white
-  The day became quiet as night
+  The day became quiet as the night
   All around snow tumbled down.
   Then
   The grey sky became blue
   What a glorious view
-  Everywhere white, everywhere bright
+  Everywhere white, everywhere bright.
 alignPoemLeft: false
 address: |-
   Snow Tumbled Down
