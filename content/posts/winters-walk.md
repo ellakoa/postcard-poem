@@ -3,7 +3,7 @@ title: Winters Walk
 description: "111"
 collection: Watch the Dog
 aspect: portrait
-image: /img/derp-cat.jpeg
+image: /img/kearsney-parks-snow-.jpg
 video: "111"
 metaImage: /img/derp-cat.jpeg
 alt: "111"
