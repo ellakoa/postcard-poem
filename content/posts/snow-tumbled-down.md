@@ -20,7 +20,8 @@ poem: |-
   Just straight down, cloaking all sound
   Out of the grey came white
   The day became quiet as night
-  All around snow tumbled down.
+  Layer upon layer, a heavy crown
+  All around snow tumbled down
   Then
   The grey sky became blue
   What a glorious view
