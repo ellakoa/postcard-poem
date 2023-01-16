@@ -12,7 +12,8 @@ collection: New Forest
 aspect: portrait
 image: /img/dew-pond-new-forest-tiny.jpg
 metaImage: /img/face.jpg
-alt: "111"
+alt: Dew pond surrounded by lilies, heather and sundew plants. A small raincloud
+  reelected in the waters.
 poem: |-
   A dew pond sits on top of the hill
   Amazing the water doesn’t spill
