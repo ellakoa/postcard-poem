@@ -1,12 +1,12 @@
 ---
 title: Dew Pond
-description: What a lovely name ‘Dew Pond’ we found this dew pond by accident
+description: What a lovely name ‘Dew Pond’ we found this Dew Pond by accident
   after we had left the track to take shelter under an old crab apple tree. We
   weren't the only ones to seek shelter as we were soon joined by several New
   Forest ponies, who seemed a bit disgruntled to find us there and eyed us
   rather suspiciously from under their long lashes. As the heavens opened we all
   stubbornly stayed put. The shower soon moved on and as the ponies went one way
-  we decided to go the other and there we found it, a delightful dew pond on top
+  we decided to go the other and there we found it, a delightful Dew Pond on top
   of a hill.
 collection: New Forest
 aspect: landscape
