@@ -10,7 +10,7 @@ description: What a lovely name ‘Dew Pond’ we found this dew pond by acciden
   of a hill.
 collection: New Forest
 aspect: landscape
-image: /img/dew-pond-new-forest-tiny1.jpg
+image: /img/new-forest-dew-pond-5100.jpg
 metaImage: /img/face.jpg
 alt: Dew pond surrounded by lilies, heather and sundew plants. A small raincloud
   reelected in the waters.
