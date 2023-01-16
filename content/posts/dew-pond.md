@@ -1,6 +1,6 @@
 ---
 title: Dew Pond
-description: What a lovely name ‘Dew Pond’ we found this dew pond by accident
+description: What a lovely name ‘Dew Pond’ we found this Dew pond by accident
   after we had left the track to take shelter under an old crab apple tree. We
   weren't the only ones to seek shelter as we were soon joined by several New
   Forest ponies, who seemed a bit disgruntled to find us there and eyed us
