@@ -18,7 +18,7 @@ poem: |-
   A dew pond sits on top of the hill
   Amazing the water doesn’t spill
   Flashes of dragonflies pass us by
-  Rogue rain clouds saunter up high
+  Rouge rain clouds saunter up high
   Around the pond sundews glisten
   and if we stand and carefully listen
   the only sounds we can hear
