@@ -27,7 +27,7 @@ poem: |-
 alignPoemLeft: false
 address: |-
   Dew Pond
-  Linwood
+  Near Linwood
   New Forest
   UK
 stamp: /img/dew-pond-new-forest-stamp-tiny.jpg
