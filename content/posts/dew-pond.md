@@ -7,7 +7,7 @@ description: What a lovely name ‘Dew Pond’ we found this dew pond after we h
   from under their long lashes. As the heavens opened we all stubbornly stayed
   put. The rain shower soon moved on and as the ponies went one way we decided
   to go the other where we found a delightful dew pond high up on the heath
-  surrounded by prickly gorse and fragrant heathers.
+  surrounded by prickly gorse and fragrant heathers. Breathtaking.
 collection: New Forest
 aspect: landscape
 image: /img/new-forest-dew-pond-5100.jpg
@@ -33,5 +33,5 @@ address: |-
   UK
 stamp: /img/dew-pond-new-forest-stamp-tiny.jpg
 author: Caroline Whitehouse
-date: 2023-01-16T15:39:40.200Z
+date: 2023-01-22T08:00:40.200Z
 ---
