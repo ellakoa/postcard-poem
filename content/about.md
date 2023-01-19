@@ -21,7 +21,7 @@ Rambles around Folkestone & other special articles & notes by "Felix". 1914.
 
 Felix was an ex-editor of the Folkestone Herald. (Kent UK)
 My mother had lived in Folkestone all her life. It is where she and my father had courted.
-I managed to obtain an original hard copy of the book online, the was repaired and musty 
+I managed to obtain an original hard copy of the book online, the book was repaired and musty 
 but old and wonderful. I gifted this to my mother.
 
 In the evenings she would phone me up and tell me she had been 
@@ -29,4 +29,6 @@ on a walk which would completely throw me into a panic until I realised
 it was in the comfort of her own home with this book in her hands. 
 
 Being inspired by Felix and his Ramblings I decided to use the many photographs I had
-taken as a prompt to create my own ‘ramblings’ and share them.
+taken over the years as a prompt to create my own ‘ramblings’ and share them.
+
+I hope you discover new or forgotten places to escape to, either in body or spirit. Please enjoy.
