@@ -2,10 +2,11 @@
 title: Snow Tumbled Down
 description: This particular year the snow fell in early March. The blackthorn
   was in bloom indicating spring was ready to be embraced but winter had not
-  entirely done with us. Often there is a rivalry between the seasons as one
-  season transitions into the other, but eventually, it is always the outgoing
-  season that will give way letting the new season flourish. Our unpredictable
-  weather will always keep us on our toes.
+  entirely done with us. This is known as a blackthorn winter. Often there is a
+  rivalry between the seasons as one season transitions into the other, but
+  eventually, it is always the outgoing season that will give way letting the
+  new season flourish. Our unpredictable weather will always keep us on our
+  toes.
 collection: Kent Views
 aspect: landscape
 image: /img/tractor-minster-snow-tiny.jpg
