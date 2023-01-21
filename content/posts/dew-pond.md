@@ -25,7 +25,8 @@ poem: |-
   Around the pond sundews glisten
   and if we stand and carefully listen
   the only sounds we can hear 
-  are of ponies munching grass somewhere near.
+  are of ponies 
+  munching grass somewhere near.
 alignPoemLeft: false
 address: |-
   Dew Pond
