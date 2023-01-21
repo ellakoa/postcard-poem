@@ -28,8 +28,8 @@ poem: |-
 alignPoemLeft: false
 address: |-
   Dew Pond
-  Near Linwood
   New Forest
+  Hampshire
   UK
 stamp: /img/dew-pond-new-forest-stamp-tiny.jpg
 author: Caroline Whitehouse
