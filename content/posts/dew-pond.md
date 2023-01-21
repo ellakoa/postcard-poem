@@ -6,8 +6,8 @@ description: What a lovely name ‘Dew Pond’ we found this dew pond after we h
   who seemed a bit disgruntled to find us there and eyed us rather suspiciously
   from under their long lashes. As the heavens opened we all stubbornly stayed
   put. The rain shower soon moved on and as the ponies went one way we decided
-  to go the other where we found a delightful dew pond high up on the heath
-  sheltered by prickly yellow gorse and fragrant heathers. Breathtaking.
+  to go the other, we found a delightful dew pond high up on the heath sheltered
+  by prickly yellow gorse and fragrant heathers. Breathtaking.
 collection: New Forest
 aspect: landscape
 image: /img/dew-ponds-new-forest-5-.jpg
