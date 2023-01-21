@@ -6,8 +6,8 @@ description: We came across this dew pond after we had left the track to take
   disgruntled to find us there and eyed us rather suspiciously from under their
   long lashes. As the heavens opened we all stubbornly stayed put. The rain
   shower soon moved on and as the ponies went one way we decided to go the
-  other, we found a delightful dew pond high up on the heath sheltered on one
-  side by prickly yellow gorse and on the other, fragrant heathers.
+  other. We found a delightful dew pond high up on the heath sheltered on one
+  side by prickly yellow gorse and on the other by fragrant heathers.
   Breathtaking.
 collection: New Forest
 aspect: landscape
