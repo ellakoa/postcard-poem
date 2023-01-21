@@ -10,7 +10,7 @@ description: What a lovely name ‘Dew Pond’ we found this dew pond after we h
   sheltered by prickly yellow gorse and fragrant heathers. Breathtaking.
 collection: New Forest
 aspect: landscape
-image: /img/new-forest-dew-pond-5100.jpg
+image: /img/dew-ponds-new-forest-5-.jpg
 metaImage: /img/face.jpg
 alt: Dew pond surrounded by lilies, heather and sundew plants. A small raincloud
   reelected in the waters.
