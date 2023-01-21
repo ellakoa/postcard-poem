@@ -11,7 +11,7 @@ description: We came across this dew pond after we had left the track to take
   Breathtaking.
 collection: New Forest
 aspect: landscape
-image: /img/dew-ponds-new-forest-5a-tiny.jpg
+image: /img/dew-ponds-new-forest-5a-1-tiny.jpg
 metaImage: /img/face.jpg
 alt: Dew pond surrounded by lilies, heather and sundew plants. Grey fluffy rain
   clouds are reflected in the waters.
