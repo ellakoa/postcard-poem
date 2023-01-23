@@ -20,7 +20,7 @@ poem: |-
   Caught in reflection
   Silent in perception
   Pools full of sky
-alignPoemLeft: false
+alignPoemLeft: true
 address: |-
   Pools Full of Sky
   Kingsdown
