@@ -8,16 +8,9 @@ metaImage: /img/derp-cat.jpeg
 alt: "111"
 poem: |-
   Aroused by dew drops on her lips
-  The valley stirs beneath the mist
+  The valley spirit stirs beneath the mist
   Teasing the Drellingore with a wish
   To join her for a winter tryst
-
-  “Parched after hot summer nights
-  Leaves in the breeze wispy sprites
-  Come dance in the shortening light
-  See the return of the Drellingore flight
-  Ride the stream towards the sea
-  Glide with abandonment, blissfully free”
 
   Tempted by the valleys mirth
   Water trickles from beneath the earth
@@ -34,7 +27,7 @@ poem: |-
   The valley where the water flows
   Now green and budding with flowers
 
-  The valley sighs and rests her head
+  The spirit sighs and rests her head
   Near to the dwindling winterbourne bed
   The stream slows then flows no more
   Thank you, sleep well, my Drellingore.
