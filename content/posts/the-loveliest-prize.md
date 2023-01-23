@@ -20,7 +20,7 @@ poem: |+
   waved washed shores
   Fiery reds mellow 
   into blushing pinks
-  Molten gold softens 
+  Yellow gold softens 
   with amber hints
   The earliest mornings
   and the shifting tides
