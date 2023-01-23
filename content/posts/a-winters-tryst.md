@@ -26,13 +26,13 @@ poem: |-
 
   The winterbourne ripples with pride
   The valley refreshed either side 
-  His course swift awash with rain
+  His course swift, awash with rain
   He vowed this year not to wane
 
   But winter tires and spring stirs
   Storms become but showers
   The valley where the water flows
-  is green and budding with flowers
+  Now green and budding with flowers
 
   The valley sighs and rests her head
   Near to the dwindling winterbourne bed
