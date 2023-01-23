@@ -8,11 +8,11 @@ metaImage: /img/derp-cat.jpeg
 alt: "111"
 poem: |-
   Aroused by dew drops on her lips
-  The valley spirit stirs beneath the mist
+  The valley spirit stirs in the mist
   Teasing the Drellingore with a wish
   To join her for a winter tryst
 
-  Tempted by the valleys mirth
+  Tempted by the spirits mirth
   Water trickles from beneath the earth
   Crystal clear, cool and sweet
   Reaching out to caress her thirsty feet
@@ -25,7 +25,7 @@ poem: |-
   But winter tires and spring stirs
   Storms become but showers
   The valley where the water flows
-  Now green and budding with flowers
+  Now green, budding with flowers
 
   The spirit sighs and rests her head
   Near to the dwindling winterbourne bed
