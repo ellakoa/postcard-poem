@@ -12,9 +12,10 @@ metaImage: /img/face.jpg
 alt: Sea captured in a tidal pool, Kingsdown Kent. Reflections of the sunrise
   and of puffy clouds in the pool.
 poem: |-
-  The sky at your feet, shallow yet deep
   Silent in reflection
   Caught in perception 
+  The sky at your feet 
+  Shallow yet deep
   Still waters capture stills
   that move as nature wills
   Blue and grey change hue
