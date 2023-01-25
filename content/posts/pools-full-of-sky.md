@@ -7,7 +7,7 @@ description: >
   feet, so near so far and enjoy the ethereal moment.
 collection: Kent Views
 aspect: landscape
-image: /img/pools-full-of-sk-kingsdown-1686.jpg
+image: /img/kingsdown-kent-pools-full-of-sky-1a-tiny.jpg
 metaImage: /img/face.jpg
 alt: Sea captured in a tidal pool, Kingsdown Kent. Reflections of the sunrise
   and of puffy clouds in the pool.
