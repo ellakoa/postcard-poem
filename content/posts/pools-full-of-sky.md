@@ -30,7 +30,7 @@ address: |-
   Kingsdown
   Kent
   UK
-stamp: /img/pools-stamp-tiny.jpg
+stamp: /img/kingsdown-kent-stamp-1-tiny.png
 author: Caroline Whitehouse
 date: 2023-01-23T16:32:22.312Z
 ---
