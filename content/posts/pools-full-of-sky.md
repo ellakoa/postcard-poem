@@ -7,19 +7,18 @@ image: /img/derp-cat.jpeg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
+  The sky at your feet, shallow yet deep
   Silent in reflection
-  Caught in contemplation
+  Caught in perception 
   Still waters capture stills
-  That moves as nature wills
-  Blues and greys change hue
+  that move as nature wills
+  Blue and grey change hue
   Birds fly straight on through
   The sun pours molten gold
-  Into cold water moulds
-  Clouds drift into view
+  into cold water moulds
   A breeze ripples anew
-  Caught in reflection
-  Silent in perception
-  Pools full of sky
+  forever shifting the view
+  Pools full of sky.
 alignPoemLeft: true
 address: |-
   Pools Full of Sky
