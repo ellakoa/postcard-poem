@@ -3,7 +3,7 @@ title: Pools Full of Sky
 description: "111"
 collection: Kent Views
 aspect: landscape
-image: /img/derp-cat.jpeg
+image: /img/pools-full-of-sk-kingsdown-1686.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
@@ -25,7 +25,7 @@ address: |-
   Kingsdown
   Kent
   UK
-stamp: /img/derp-cat.jpeg
+stamp: /img/pools-stamp-tiny.jpg
 author: Caroline Whitehouse
 date: 2023-01-23T16:32:22.312Z
 ---
