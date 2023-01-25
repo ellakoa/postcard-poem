@@ -24,7 +24,7 @@ poem: |-
   A breeze ripples anew
   forever shifting the view
   Pools full of sky.
-alignPoemLeft: true
+alignPoemLeft: false
 address: |-
   Pools Full of Sky
   Kingsdown
