@@ -10,7 +10,7 @@ description: >
   ‘A stick and a Float’ is the first of a series of postcards about this place's uniqueness.
 collection: Norfolk Broads
 aspect: landscape
-image: /img/derp-cat.jpeg
+image: /img/norfolk-broads-a-stick-and-a-float-1tiny.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
