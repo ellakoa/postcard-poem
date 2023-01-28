@@ -41,8 +41,7 @@ address: |-
   A Stick and a Float
   (amongst other things)
   The Norfolk Broads
-  Norfolk 
-  UK
+  Norfolk UK
 stamp: /img/a-stick-and-a-float-stamp-2.png
 author: Caroline Whitehouse
 date: 2023-01-29T08:00:38.547Z
