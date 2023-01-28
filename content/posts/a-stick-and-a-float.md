@@ -16,7 +16,7 @@ alt: "111"
 poem: |-
   Weave a way through reeds and sedge 
   come closer to the water's edge, peer
-  deep in the reflections before they shift
+  deep in reflections before they shift
   Glance an otherly world of eels and fish
 
   Navigate flat marshes under vast skies  
