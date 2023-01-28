@@ -3,7 +3,7 @@ title: A Stick and a Float
 description: >
   Many different dwellers live on or around the waterways that make up the
   beautiful Norfolk Broads. Some are residents all year round others are
-  visitors that flock in the warmer months,  many will return again and again
+  visitors that flock in the warmer months, many will return again and again
   captivated by the magic they find that makes them feel as if they are in their
   own special realm. 
 
