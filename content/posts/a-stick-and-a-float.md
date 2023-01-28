@@ -17,7 +17,7 @@ poem: |-
   Weave a way through reeds and sedge 
   come closer to the water's edge, peer
   deep in the reflections before they shift
-  glance, an otherly world of eels and fish
+  Glance an otherly world of eels and fish
 
   Navigate flat marshes under vast skies  
   watch a myriad of birds dip and dive
@@ -30,7 +30,7 @@ poem: |-
   a fisherman in a waterproof coat
 
   Hear whispers in the wavering reeds that
-  disperse in the mists sowing dreams
+  disperse in the mists sowing seeds, dreams
   to the one in a boat holding the helm 
   claiming the waters as his realm
 
