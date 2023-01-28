@@ -1,11 +1,11 @@
 ---
 title: A Stick and a Float
 description: >
-  Many different dwellers on and around the waterways make up the beautiful
-  Norfolk Broads. Some are residents all year round others are visitors that
-  flock in the warmer months. Many will return again and again captivated by the
-  magic they find that makes them feel as if they are in their own special
-  realm. 
+  Many different dwellers live on or around the waterways that make up the
+  beautiful Norfolk Broads. Some are residents all year round others are
+  visitors that flock in the warmer months,  many will return again and again
+  captivated by the magic they find that makes them feel as if they are in their
+  own special realm. 
 
   ‘A stick and a Float’ is the first of a series of postcards sharing the joy that is the Norfolk Broads.
 collection: Norfolk Views
