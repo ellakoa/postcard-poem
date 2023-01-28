@@ -10,7 +10,7 @@ description: >
   ‘A stick and a Float’ is the first of a series of postcards about this place's uniqueness.
 collection: Norfolk Views
 aspect: landscape
-image: /img/norfolk-broads-a-stick-and-a-float-boat.jpg
+image: /img/norfolk-broads-a-stick-and-a-float-1tiny.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
@@ -43,7 +43,7 @@ address: |-
   The Norfolk Broads
   Norfolk 
   UK
-stamp: /img/derp-cat.jpeg
+stamp: /img/a-stick-and-a-float-stamp-1-1-.png
 author: Caroline Whitehouse
 date: 2023-01-29T08:00:38.547Z
 ---
