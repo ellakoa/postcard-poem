@@ -23,7 +23,7 @@ poem: |-
   Navigate flat marshes under vast skies  
   watch a myriad of birds dip and dive
   See a dart of electric blue
-  of a kingfisher vanishing from view
+  a kingfisher vanishing from view
 
   Spy grey herons on spindly legs
   being statues at the water's edge
