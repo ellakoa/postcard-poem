@@ -16,8 +16,8 @@ alt: Three colourful yachts moored up, a grey cloudy sky, the sun breaking
   through, beautiful reflections in the water.
 poem: |-
   Weave a way through reeds and sedge 
-  come closer to the water's edge, peer
-  deep in reflections before they shift
+  come closer to the water's edge
+  peer deep in reflections before they shift
   Glance an otherly world of eels and fish
 
   Navigate flat marshes under vast skies  
