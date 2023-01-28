@@ -31,7 +31,7 @@ poem: |-
   spy a fisherman in a waterproof coat
 
   Hear whispers in the golden reeds 
-  that disperse in the mists sowing seeds
+  that disperse as dreams, sowing seeds
   to the one in a boat holding the helm 
   claiming the waters as his realm
 
