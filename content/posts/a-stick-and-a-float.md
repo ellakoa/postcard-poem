@@ -29,8 +29,8 @@ poem: |-
   and just as still with a stick and a float
   a fisherman in a waterproof coat
 
-  Hear whispers in the wavering reeds that
-  disperse in the mists sowing seeds, dreams
+  Hear whispers in the golden reeds, dreams
+  that disperse in the mists sowing seeds
   to the one in a boat holding the helm 
   claiming the waters as his realm
 
