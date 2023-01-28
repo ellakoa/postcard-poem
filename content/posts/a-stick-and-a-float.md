@@ -1,6 +1,13 @@
 ---
 title: A Stick and a Float
-description: "111"
+description: >
+  Many different types of dwellers of the waterways make up the beautiful
+  Norfolk Broads. Some are residents all year round others are visitors that
+  flock in the warmer months. Many will return again and again captivated by the
+  magic they find that makes them feel as if they are in their own special
+  realm. 
+
+  ‘A stick and a Float’ is the first of a series of postcards about this place's uniqueness.
 collection: Norfolk Broads
 aspect: landscape
 image: /img/derp-cat.jpeg
@@ -14,7 +21,7 @@ poem: |-
 
   Navigate flat marshes under vast skies  
   watch a myriad of birds dip and dive
-  See a sudden dart of electric blue
+  See a dart of electric blue
   of a kingfisher vanishing from view
 
   Spy grey herons on spindly legs
