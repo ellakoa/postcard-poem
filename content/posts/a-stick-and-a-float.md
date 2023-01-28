@@ -10,7 +10,7 @@ description: >
   ‘A stick and a Float’ is the first of a series of postcards sharing the 
 collection: Norfolk Views
 aspect: landscape
-image: /img/norfolk-broads-a-stick-and-a-float-1tiny.jpg
+image: /img/norfolk-broads-a-stick-and-a-float-boat.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
