@@ -12,7 +12,8 @@ collection: Norfolk Views
 aspect: landscape
 image: /img/norfolk-broads-a-stick-and-a-float-1tiny.jpg
 metaImage: /img/face.jpg
-alt: "111"
+alt: Three colourful yachts moored up, a grey cloudy sky, the sun breaking
+  through, beautiful reflections in the water.
 poem: |-
   Weave a way through reeds and sedge 
   come closer to the water's edge, peer
@@ -39,7 +40,7 @@ poem: |-
 alignPoemLeft: false
 address: |-
   A Stick and a Float
-  (amongst other things)
+  and your very own boat
   The Norfolk Broads
   Norfolk UK
 stamp: /img/a-stick-and-a-float-stamp-1-1-.png
