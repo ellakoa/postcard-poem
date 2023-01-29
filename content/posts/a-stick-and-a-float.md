@@ -43,7 +43,7 @@ address: |-
   and your very own boat
   The Norfolk Broads
   Norfolk UK
-stamp: /img/a-stick-and-a-float-stamp-1-1-.png
+stamp: /img/a-stick-and-a-float-stamp-reeds-1-.png
 author: Caroline Whitehouse
 date: 2023-01-29T08:00:38.547Z
 ---
