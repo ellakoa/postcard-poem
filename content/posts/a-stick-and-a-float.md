@@ -14,15 +14,15 @@ image: /img/norfolk-broads-a-stick-and-a-float-1tiny.jpg
 metaImage: /img/face.jpg
 alt: Three colourful yachts moored up, a grey cloudy sky, the sun breaking
   through, beautiful reflections in the water.
-poem: |-
+poem: |
   Weave a way through reeds and sedge 
   come closer to the water's edge
   peer deep in reflections before they shift
-  Glance an otherly world of eels and fish
+  Glance at an otherly world of eels and fish
 
   Navigate flat marshes under vast skies  
   watch a myriad of birds dip and dive
-  See a dart of electric blue
+  See a dart of electric blue, glimpse
   a kingfisher vanishing from view
 
   Spy grey herons on spindly legs
@@ -31,9 +31,9 @@ poem: |-
   spy a fisherman in a waterproof coat
 
   Hear whispers in the golden reeds 
-  that disperse as dreams, sowing seeds
+  of dreams  that start sowing the seeds
   to the one in a boat holding the helm 
-  claiming the waters as his realm
+  whispering the waters are his realm
 
   Light bounces and plays morphing the days
   entrancing the dwellers of these waterways.
