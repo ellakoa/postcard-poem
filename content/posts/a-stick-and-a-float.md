@@ -33,7 +33,7 @@ poem: |
   Hear whispers in the golden reeds 
   of dreams  that start sowing the seeds
   to the one in a boat holding the helm 
-  whispering the waters are his realm
+  whispering the waters are his realm.
 
   Light bounces and plays morphing the days
   entrancing the dwellers of these waterways.
