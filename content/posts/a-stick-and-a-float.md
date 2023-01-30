@@ -31,7 +31,7 @@ poem: |
   spy a fisherman in a waterproof coat
 
   Hear whispers in the golden reeds 
-  of dreams  that start sowing the seeds
+  of dreams that start sowing the seeds
   to the one in a boat holding the helm 
   whispering the waters are his realm.
 
