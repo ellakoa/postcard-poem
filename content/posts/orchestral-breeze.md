@@ -12,7 +12,7 @@ description: >+
 
 collection: Norfolk Views
 aspect: landscape
-image: /img/swan-orchestral-breeze-tiny.jpg
+image: /img/orchestral-breeze-norfolk-main-new-tiny.jpg
 metaImage: /img/face.jpg
 alt: A swan glides across water under a blue sky, reflections of reeds and
   trees, a starburst of the sun is in the water.
@@ -36,7 +36,8 @@ address: |-
   Orchestral Breeze
   Norfolk Broads
   Norfolk
-stamp: /img/orchestral-breeze-stamp1tiny.png
+  UK
+stamp: /img/orchestral-breeze-stamp-tiny.png
 author: Caroline Whitehouse
 date: 2023-01-01T08:00:03.586Z
 ---
