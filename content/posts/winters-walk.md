@@ -31,7 +31,7 @@ address: |-
   Winters Walk
   Kearsney Parks
   Dover UK
-stamp: /img/derp-cat.jpeg
+stamp: /img/watch-the-dog-stamp-tiny.png
 author: Caroline Whitehouse
 date: 2023-01-14T09:31:48.372Z
 ---
