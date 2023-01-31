@@ -8,7 +8,7 @@ collection: Watch the Dog
 aspect: portrait
 image: /img/kearsney-parks-snow-.jpg
 video: ""
-metaImage: /img/derp-cat.jpeg
+metaImage: /img/watch-the-dog-stamp-tiny.png
 alt: "111"
 poem: |-
   The darkest greys the clearest blues 
@@ -29,6 +29,8 @@ alignPoemLeft: false
 address: |-
   Watch the Dog
   Winters Walk
+  Kearsney Parks
+  Dover UK
 stamp: /img/derp-cat.jpeg
 author: Caroline Whitehouse
 date: 2023-01-14T09:31:48.372Z
