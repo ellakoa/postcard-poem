@@ -1,10 +1,10 @@
 ---
 title: Winters Walk
-description: We reconnect with our faithful friend on a winters walk. The garden
+description: We reconnect with our faithful friend on a winter walk. The garden
   in winter is quite bare, a few hellebores have started flowering and some
   snowdrops are beginning to show their green tips through the soil, the grass
-  is supporting an untold count of worm casts making a walk in the park seem a
-  preferable place to be.
+  is supporting an untold count of worm casts making it a muddy place to be.
+  Time to explore our beautiful parks.
 collection: Watch the Dog
 aspect: portrait
 image: /img/kearsney-parks-snow-new.jpg
