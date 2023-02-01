@@ -1,5 +1,5 @@
 ---
-title: Winters Walk
+title: Watch the Dog Winters Walk
 description: We reconnect with our faithful friend on a winter walk. The garden
   in winter is quite bare, a few hellebores have started flowering and some
   snowdrops are beginning to show their green tips through the soil, the grass
