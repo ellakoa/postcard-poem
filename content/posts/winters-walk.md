@@ -10,7 +10,8 @@ aspect: portrait
 image: /img/kearsney-parks-dover-snow-new-tiny.jpg
 video: ""
 metaImage: /img/face.jpg
-alt: "111"
+alt: "Snow scene, lake with swan in foreground icicles on small fountain, people
+  playing in the sow, a distant dog walker "
 poem: |-
   The darkest greys the clearest blues 
   Winter skies have many hues
@@ -32,7 +33,7 @@ address: |-
   Winters Walk
   Kearsney Parks
   Dover UK
-stamp: /img/watch-the-dog-stamp-1a-1-.png
+stamp: /img/watch-the-dog-stamp-2a.png
 author: Caroline Whitehouse
 date: 2023-02-05T08:00:48.372Z
 ---
