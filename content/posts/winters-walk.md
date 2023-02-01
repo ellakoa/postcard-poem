@@ -6,7 +6,7 @@ description: We reconnect with our faithful friend on a winter walk. The garden
   is supporting an untold count of worm casts making it a muddy place to be.
   Time to explore our beautiful parks.
 collection: Watch the Dog
-aspect: portrait
+aspect: landscape
 image: /img/kearsney-parks-snow-new-3-.jpg
 video: ""
 metaImage: /img/face.jpg
