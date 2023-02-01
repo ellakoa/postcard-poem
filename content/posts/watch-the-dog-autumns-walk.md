@@ -1,11 +1,9 @@
 ---
 title: Watch the Dog Autumns Garden
-description: >
+description: >-
   Time to catch up with our faithful four-footed friend in the autumn garden.
 
-  Autumn always delivers such vibrant colours in nature. It is as if it is setting itself on fire, going out in a blaze of glory before the winter takes hold. 
-
-  If you missed the postcard for the summer garden you can find it in the link below.
+  Autumn always delivers such vibrant colours in nature. It is as if it is setting itself on fire, going out in a blaze of glory before the winter takes hold. The days are getting shorter and colder and the garden starts putting itself to sleep.
 collection: Watch the Dog
 aspect: portrait
 image: /img/watch-the-dog5-tiny.jpeg
