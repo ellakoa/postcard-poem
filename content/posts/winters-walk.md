@@ -7,7 +7,7 @@ description: We reconnect with our faithful friend on a winter walk. The garden
   Time to explore our beautiful parks.
 collection: Watch the Dog
 aspect: portrait
-image: /img/kearsney-parks-snow-new-3-.jpg
+image: /img/kearsney-parks-dover-snow-new-tiny.jpg
 video: ""
 metaImage: /img/face.jpg
 alt: "111"
