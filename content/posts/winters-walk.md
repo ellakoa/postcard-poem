@@ -6,7 +6,7 @@ description: "We reconnect with our faithful friend on a winters walk. The
   grass is supporting an untold count of worm casts "
 collection: Watch the Dog
 aspect: portrait
-image: /img/kearsney-parks-snow-.jpg
+image: /img/kearsney-parks-snow-new.jpg
 video: ""
 metaImage: /img/watch-the-dog-stamp-tiny.png
 alt: "111"
