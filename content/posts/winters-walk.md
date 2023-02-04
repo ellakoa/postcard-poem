@@ -1,10 +1,13 @@
 ---
 title: Watch the Dog Winters Walk
-description: We reconnect with our faithful friend on a winter walk. The garden
-  in winter is quite bare, a few hellebores have started flowering and some
-  snowdrops are beginning to show their green tips through the soil, the grass
-  is supporting an untold count of worm casts making it a muddy place to be.
-  Time to explore our beautiful parks.
+description: >-
+  We reconnect with our faithful friend on a winter walk. The garden in winter
+  is quite bare, a few hellebores have started flowering and some snowdrops are
+  beginning to show their green tips through the soil, the grass is supporting
+  an untold count of worm casts making it a muddy place to be. Time to explore
+  our beautiful parks.
+
+  Kearsney parks are home to some very fine beech trees, you have to admire the way they hold onto their autumn leaves throughout the winter, looking after their new leaf shoots until the spring and only when the new shoots are ready will they drop their old leaves.
 collection: Watch the Dog
 aspect: landscape
 image: /img/beech-trees-kearsney-parks-snow-1-1-.jpg
