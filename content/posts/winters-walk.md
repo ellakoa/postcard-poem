@@ -10,7 +10,7 @@ description: >-
   Kearsney parks are home to some very fine beech trees, you have to admire the way they hold onto their autumn leaves throughout the winter, looking after their new leaf shoots until the spring and only when the new shoots are ready will they drop their old leaves.
 collection: Watch the Dog
 aspect: landscape
-image: /img/beech-trees-kearsney-parks-snow-1-1-.jpg
+image: /img/kearsney-parks-s-snow-024594-1-.jpg
 video: ""
 metaImage: /img/face.jpg
 alt: Kearsney Parks snow scene, colourful beech trees holding on to their autumn
