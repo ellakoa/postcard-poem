@@ -19,16 +19,16 @@ poem: |-
   The darkest greys the clearest blues 
   Winter skies have many hues
   Naked trees stand tall and bold
-  Watchful over winters hold
+  Watchful over winter's hold
   Many plants are now sleeping as
   the earth has slowed its breathing 
   Time to dream behind closed doors
-  Watch the dogs twitching paws
+  Watch the dog's twitching paws
 
   The air is cold, the sun is low
   everywhere is white with snow
   Time for gloves time for scarfs
-  Hear the dog's playful bark
+  Hear the dog playfully bark
   excited for walks in the park.
 alignPoemLeft: false
 address: |-
