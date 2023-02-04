@@ -6,12 +6,12 @@ description: We reconnect with our faithful friend on a winter walk. The garden
   is supporting an untold count of worm casts making it a muddy place to be.
   Time to explore our beautiful parks.
 collection: Watch the Dog
-aspect: portrait
-image: /img/kearsney-parks-dover-snow-new-tiny.jpg
+aspect: landscape
+image: /img/beech-trees-kearsney-parks-snow-1-1-.jpg
 video: ""
 metaImage: /img/face.jpg
-alt: "Snow scene, lake with swan in foreground icicles on small fountain, people
-  playing in the sow, a distant dog walker "
+alt: Kearsney Parks snow scene, colourful beech trees holding on to their autumn
+  leaves.
 poem: |-
   The darkest greys the clearest blues 
   Winter skies have many hues
