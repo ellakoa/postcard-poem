@@ -10,7 +10,8 @@ aspect: landscape
 image: /img/facebook-kearsney-parks-a-1-.jpg
 video: ""
 metaImage: /img/face.jpg
-alt: Kearsney Parks snow scene, view through brick covered bridge over the lakes
+alt: Kearsney Parks snow scene, trees boughs heavy with snow, a park bench is
+  covered in snow in the foreground.
 poem: |-
   The darkest greys the clearest blues 
   Winter skies have many hues
@@ -22,9 +23,9 @@ poem: |-
   Watch the dog's twitching paws
 
   The air is cold, the sun is low
-  everywhere is white with snow
-  Time for gloves time for scarfs
-  Hear the dog playfully bark
+  everywhere a dusting of snow
+  Time for gloves and a woolly scarf
+  Hear the dog's playful bark
   excited for walks in the park.
 alignPoemLeft: false
 address: |-
