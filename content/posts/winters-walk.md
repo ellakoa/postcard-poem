@@ -7,7 +7,7 @@ description: We reconnect with our faithful friend on a winter walk. The garden
   our beautiful parks.
 collection: Watch the Dog
 aspect: portrait
-image: /img/facebook-kearsney-parks-bridge-tiny.jpg
+image: /img/bridge-kearsney-snow-1395.jpg
 video: ""
 metaImage: /img/face.jpg
 alt: Kearsney Parks snow scene, view through brick covered bridge over the lakes
