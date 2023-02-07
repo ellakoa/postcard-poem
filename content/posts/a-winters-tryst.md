@@ -10,7 +10,7 @@ poem: |-
   Parched after hot summer nights
   The valley stirs in the shortening light
   Teasing the Drellingore with a wish
-  To join her for a winter tryst
+  To join her for a winters tryst
   Tempted by the valleys mirth
   Water trickles from beneath the earth
   Crystal clear, cool and sweet
