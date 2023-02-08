@@ -9,7 +9,7 @@ description: >-
   I had just had my first encounter with ‘The Drellingore’, a ‘winterbourne’ stream transient in nature, dependent upon the weather. It can be many years between its occurrence. I was captivated.
 collection: "1111"
 aspect: landscape
-image: /img/alkham-valley-drellingore-1a-.jpg
+image: /img/alkham-valley-drellingore-1b-2254.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
@@ -38,7 +38,7 @@ address: |-
   A Winters Tryst
   Alkham valley
   Kent
-stamp: /img/derp-cat.jpeg
+stamp: /img/alkham-valley-drellingore-stamp1-1-.jpg
 author: Caroline Whitehouse
 date: 2023-02-12T08:00:22.553Z
 ---
