@@ -34,11 +34,12 @@ poem: |-
   the valley is budding with flowers
   The stream slows, then flows no more.
   Thank you, sleep well, my Drellingore.
-alignPoemLeft: true
+alignPoemLeft: false
 address: |-
   A Winters Tryst
   Alkham valley
   Kent
+  UK
 stamp: /img/alkham-valley-drellingore-stamp1-1-.jpg
 author: Caroline Whitehouse
 date: 2023-02-12T08:00:22.553Z
