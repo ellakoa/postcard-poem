@@ -4,7 +4,7 @@ description: >-
   Something a bit whimsical for valentines, a simple love story, between a
   valley and its water source.
 
-  The Alkham Valley is known as a dry valley, so I was surprised one year to see a stream running along the valley floor which increased in width throughout the winter months only to vanish in the spring.
+  The beautiful Alkham Valley is known as a dry valley, so I was surprised one year to see a stream running along the valley floor which increased in width throughout the winter months only to vanish in the spring.
 
   I had just had my first encounter with ‘The Drellingore’, a ‘winterbourne’ stream transient in nature, dependent upon the weather. It can be many years between its occurrence. I was captivated.
 collection: Kent Views
