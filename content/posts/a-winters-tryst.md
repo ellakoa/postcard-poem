@@ -9,7 +9,7 @@ description: >-
   I had just had my first encounter with ‘The Drellingore’, a ‘winterbourne’ stream transient in nature, dependent upon the weather. It can be many years between its occurrence. I was captivated.
 collection: Kent Views
 aspect: landscape
-image: /img/alkham-valley-drellingore-3.jpg
+image: /img/alkham-valley-drellingore-2-.jpg
 metaImage: /img/face.jpg
 alt: Alkham Valley. The winterbourne stream the Drellingore is in full flow
   along the valley floor.
