@@ -2,7 +2,7 @@
 title: A Winters Tryst
 description: >-
   Something a bit whimsical for valentines, a simple love story, between a
-  valley and its water source.
+  valley and it's stream.
 
   The beautiful Alkham Valley is known as a dry valley, so I was surprised one year to see a stream running along the valley floor which increased in width throughout the winter months only to vanish in the spring.
 
