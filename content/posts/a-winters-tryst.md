@@ -11,8 +11,8 @@ collection: Kent Views
 aspect: landscape
 image: /img/alkham-valley-drellingore-3-1-.jpg
 metaImage: /img/face.jpg
-alt: Alkham Valley. The winterbourne stream the Drellingore is in full flow
-  along the valley floor.
+alt: Alkham Valley. The winterbourne stream the Drellingore is in full flow,
+  winding it's way along the valley floor.
 poem: |-
   Parched after hot summer nights
   The valley stirs in the shortening light
