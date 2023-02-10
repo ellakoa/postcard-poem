@@ -1,5 +1,5 @@
 ---
-title: A Bit of Perspective
+title: Spinning
 description: After visiting Langdon bay, I would often sit on top of the steep
   steps that lead down to the bay and watch the tide come in. A great place to
   ponder the world. It is hard to comprehend that the earth spins 1000 miles per
@@ -8,7 +8,8 @@ collection: Kent Views
 aspect: landscape
 image: /img/langdon-steps-dover-1-t.jpg
 metaImage: /img/face.jpg
-alt: "111"
+alt: Steep iron steps rusted at the bottom. Looking straight down, the incoming
+  tide makes the sea appear to fall from above.
 poem: |-
   Imagine the sea is a great big pool 
   that clings to a vast spinning ball
@@ -28,7 +29,7 @@ poem: |-
   If it were to stop, off, we would drop.
 alignPoemLeft: false
 address: |-
-  A bit of Perspective
+  Spinning
   Langdon Bay
   Dover
   Kent UK
