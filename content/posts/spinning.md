@@ -6,7 +6,7 @@ description: After visiting Langdon bay, I would often sit on top of the steep
   hour and unaware we are being taken along for the ride. How awesome is that?
 collection: Kent Views
 aspect: landscape
-image: /img/derp-cat.jpeg
+image: /img/langdon-steps-dover-1-t.jpg
 metaImage: /img/face.jpg
 alt: Steep iron steps rusted at the bottom. Looking straight down, the incoming
   tide makes the sea appear to fall from above.
@@ -33,7 +33,7 @@ address: |-
   Langdon Bay
   Dover
   Kent UK
-stamp: /img/derp-cat.jpeg
+stamp: /img/langdon-steps-dover-stamp-1-1-.jpg
 author: Caroline Whitehouse
 date: 2023-02-19T08:00:56.129Z
 ---
