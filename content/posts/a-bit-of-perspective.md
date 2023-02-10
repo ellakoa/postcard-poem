@@ -2,8 +2,8 @@
 title: A Bit of Perspective
 description: After visiting Langdon bay, I would often sit on top of the steep
   steps that lead down to the bay and watch the tide come in. A great place to
-  be in tune with the world. It is hard to comprehend that the earth spins 1000
-  miles per hour and we are being taken along for the ride. How awesome is that?
+  ponder the world. It is hard to comprehend that the earth spins 1000 miles per
+  hour and unaware we are being taken along for the ride. How awesome is that?
 collection: Kent Views
 aspect: landscape
 image: /img/langdon-steps-dover-1-t.jpg
