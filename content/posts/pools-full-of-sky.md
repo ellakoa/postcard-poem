@@ -13,8 +13,8 @@ alt: Sea captured in a tidal pool, Kingsdown Kent. Reflections of the sunrise
   and of puffy clouds in the pool.
 poem: |-
   Silent in reflection
-  Caught in contemplation
-  Still waters capture stills
+  Pause in contemplation
+  Still waters, capture stills
   that move as nature wills
   Blue and grey change hue
   Birds fly straight on through
