@@ -12,7 +12,6 @@ metaImage: /img/face.jpg
 alt: Sea captured in a tidal pool, Kingsdown Kent. Reflections of the sunrise
   and of puffy clouds in the pool.
 poem: |-
-  The sky at your feet 
   Silent in reflection
   Caught in perception 
   Still waters capture stills
@@ -24,7 +23,7 @@ poem: |-
   A breeze ripples anew
   forever shifting the view
   Pools full of sky.
-alignPoemLeft: false
+alignPoemLeft: true
 address: |-
   Pools Full of Sky
   Kingsdown
