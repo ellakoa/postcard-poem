@@ -22,7 +22,7 @@ poem: |-
   upside down, as we are spun around
 
   No wonder life can get a bit dizzy 
-  and our hair can be a little bit frizzy
+  and our hair a little bit frizzy
   Spinning so fast on a daily repeat
   as the world holds on tight to our feet.
 
