@@ -10,10 +10,10 @@ image: /img/langdon-steps-dover-1-t.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
-  Is the sea a great big pool 
+  Imagine the sea is a great big pool 
   that clings to a vast spinning ball
   Spinning so fast, if it were to stall
-  would the sea become a waterfall?
+  The sea would cascade as a waterfall
 
   Are we ever the right way up 
   or on the very top of this gyrating prop?
@@ -21,8 +21,10 @@ poem: |-
   upside down, as we are spun around
 
   No wonder life can get a bit dizzy 
+  and our hair can be a little bit frizzy
   Spinning so fast on a daily repeat
   as the world holds on tight to our feet.
+
   If it were to stop, off, we would drop.
 alignPoemLeft: false
 address: |-
