@@ -17,16 +17,16 @@ poem: |-
   Parched after hot summer nights
   The valley stirs in the shortening light
   Teasing the Drellingore with a wish
-  To join her for a winters tryst
+  To join for a winters tryst
   Tempted by the valleys mirth
   Water trickles from beneath the earth
   Crystal clear, cool and sweet
-  Reaching to quench her thirsty feet.
+  Reaching to quench the thirsty feet.
 
   The winterbourne ripples with pride
   The valley green on either side
-  His course swift, awash with rain
-  He vowed this year not to wane.
+  Course swift, awash with rain
+  Vowing this year not to wane.
 
   Yet winter tires and spring stirs
   Storms become gentle showers
