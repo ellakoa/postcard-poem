@@ -18,7 +18,7 @@ poem: |-
 
   Are we ever the right way up 
   or on top of this gyrating prop?
-  More likely we are sideways on,
+  More likely we are sideways on
   upside down, as we are spun around
 
   No wonder life can get a bit dizzy 
