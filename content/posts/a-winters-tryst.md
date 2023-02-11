@@ -25,7 +25,7 @@ poem: |-
 
   The winterbourne ripples with pride
   The valley green on either side
-  Course swift, awash with rain
+  His course swift, awash with rain
   Vowing this year not to wane.
 
   Yet winter tires and spring stirs
