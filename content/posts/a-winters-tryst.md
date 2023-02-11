@@ -21,7 +21,7 @@ poem: |-
   Tempted by the valleys mirth
   Water trickles from beneath the earth
   Crystal clear, cool and sweet
-  Reaching to quench the thirsty feet.
+  Reaching to quench summers heat.
 
   The winterbourne ripples with pride
   The valley green on either side
