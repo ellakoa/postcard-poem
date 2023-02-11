@@ -17,11 +17,11 @@ poem: |-
   Parched after hot summer nights
   The valley stirs in the shortening light
   Teasing the Drellingore with a wish
-  To join for a winters tryst
+  To join her for a winters tryst
   Tempted by the valleys mirth
   Water trickles from beneath the earth
   Crystal clear, cool and sweet
-  Reaching to quench summers heat.
+  Reaching out to quench her thirsty feet.
 
   The winterbourne ripples with pride
   The valley green on either side
@@ -33,6 +33,7 @@ poem: |-
   Along the dwindling winterbourne bed
   the valley is budding with flowers
   The stream slows, then flows no more.
+
   Thank you, sleep well, my Drellingore.
 alignPoemLeft: false
 address: |-
