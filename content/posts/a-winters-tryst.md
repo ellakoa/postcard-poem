@@ -32,8 +32,8 @@ poem: |-
   Storms become gentle showers
   Along the dwindling winterbourne bed
   the valley is budding with flowers
-  The stream slows, then flows no more.
 
+  The stream slows, then flows no more.
   Thank you, sleep well, my Drellingore.
 alignPoemLeft: false
 address: |-
