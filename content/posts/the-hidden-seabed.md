@@ -7,35 +7,30 @@ image: /img/derp-cat.jpeg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
-  I went down to the beach that day when the
-  tide ebbed further than the chart displayed
-  although it was March the cold winds were none 
-  the sun was warm, there was a southerly breeze 
-  high pressure depressed the silent sea. 
-
+  I was down the beach that day, the day
+  the tide ebbed further than the chart displayed
+  Although it was March the cold winds were none
+  the sun was warm, with a southerly breeze
+  High pressure had depressed the silent sea
   The tide went low, exceptionally low.
+  Very few it seemed had ventured to roam 
+  on the sands not normally shown 
+  and marvel at their great reveal 
+  in that magical time when the tide is still.
 
-  It was quiet peacefully quiet
-  Very few it seemed had ventured out to 
-  roam the sands not normally shown and 
-  to marvel at their great reveal in that
-  magical hour when the tide is still.
+  Boom, the largest noise travelled across the bay, 
+  and it was clear why many had stayed away
+  Gone to witness the Richborough chimneys
+  brought to their knees, 
+  rubble and dust hung in a breeze, 
+  blocking out the clear blue skies 
+  with cheer, then sadness on their demise.
 
-  Boom! The Cooling Towers doom
-
-  The noise travelled across the bay
-  That was why many had stayed away
-  To witness the towers brought to 
-  their knees, rubble and dust, a cheer, 
-  then a sigh, sadness at their demise.
-
-  Seconds was all it took a fleeting look
-
-  Many missed seeing the lowest of low tides 
+  Many missed the lowest of low tides 
   and the loveliest of clear blue skies, 
-  An hour or so shared by the fortunate few 
-  that had ventured out and cared to tread on
-  what was usually the hidden seabed.
+  which was shared by the fortunate few 
+  that had stepped out and cared to tread 
+  on what was usually the hidden seabed.
 alignPoemLeft: false
 address: |-
   Oldstairs Bay
