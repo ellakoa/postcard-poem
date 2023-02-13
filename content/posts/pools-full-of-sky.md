@@ -3,11 +3,11 @@ title: Pools Full of Sky
 description: >
   It always makes me stop in my tracks when I come across a pool full of sky,
   not only because I would get my feet wet and the illusion would vanish but
-  because I love the idea of having the sky at my feet, so near yet so far. and
-  enjoy the ethereal moment.
+  because I love the idea of having the sky at my feet, imaging I could just
+  step out and walk on air, so near yet so far. 
 collection: Kent Views
 aspect: landscape
-image: /img/kingsdown-pools-full-of-sky-1.jpg
+image: /img/kingsdown-pools-full-of-sky-2-1-.jpg
 metaImage: /img/face.jpg
 alt: Sea captured in a tidal pool, Kingsdown Kent. Reflections of the sunrise
   and of puffy clouds in the pool.
