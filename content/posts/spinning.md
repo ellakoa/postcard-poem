@@ -1,5 +1,5 @@
 ---
-title: Spinning
+title: A Matter of Perspective.
 description: After visiting Langdon bay, I would often sit on top of the steep
   steps that lead down to the bay and watch the tide come in. A great place to
   ponder the world. It is hard to comprehend that the earth spins 1000 miles per
@@ -29,7 +29,7 @@ poem: |-
   If it were to stop, off, we would pop.
 alignPoemLeft: false
 address: |-
-  Spinning
+  A Matter of Perspective
   Langdon Bay
   Dover
   Kent UK
