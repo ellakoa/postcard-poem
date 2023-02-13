@@ -1,10 +1,10 @@
 ---
 title: Pools Full of Sky
 description: >
-  It always makes me stop in my tracks when I come across a pool full of sky. It
-  is as if you could just step out and walk on air, if you did step out it would
-  be wet feet and the illusion would vanish. Much better to have the sky at your
-  feet, so near so far and enjoy the ethereal moment.
+  It always makes me stop in my tracks when I come across a pool full of sky,
+  not only because I would get my feet wet and the illusion would vanish but
+  because I love the idea of having the sky at my feet, so near yet so far. and
+  enjoy the ethereal moment.
 collection: Kent Views
 aspect: landscape
 image: /img/kingsdown-pools-full-of-sky-1.jpg
