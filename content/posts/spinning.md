@@ -11,7 +11,7 @@ metaImage: /img/face.jpg
 alt: Steep iron steps rusted at the bottom. Looking straight down, the incoming
   tide makes the sea appear to fall from above.
 poem: |-
-  Imagine the sea as a great big pool 
+  Imagine the sea, a great big pool 
   that clings to a vast spinning ball
   Spinning so fast, if it were to stall
   The sea would cascade as a waterfall
@@ -22,11 +22,11 @@ poem: |-
   upside down, as we are spun around
 
   No wonder life can get a bit dizzy 
-  Our hair becomes a little bit frizzy
+  Our hair, become a little bit frizzy
   Spinning so fast on a daily repeat
   as the world holds on tight to our feet.
 
-  If it were to stop, off, we would drop.
+  If it were to stop, off, we would pop.
 alignPoemLeft: false
 address: |-
   Spinning
