@@ -17,7 +17,7 @@ address: |-
   Castle Farm
   Shoreham
   Kent UK
-stamp: /img/derp-cat.jpeg
+stamp: /img/lavender-fields-stamp-1-.jpg
 author: Caroline Whitehouse
 date: 2023-02-08T08:00:50.031Z
 ---
