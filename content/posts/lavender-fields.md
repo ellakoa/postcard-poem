@@ -1,6 +1,6 @@
 ---
 title: Lavender Fields
-description: Lavender Fields, reminiscent of summer days.
+description: "Lavender Fields, reminiscent of summer days. "
 collection: Haiku
 aspect: landscape
 image: /img/lavender-fields-blog-1-.jpg
