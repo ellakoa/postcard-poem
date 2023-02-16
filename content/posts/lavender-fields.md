@@ -8,8 +8,8 @@ metaImage: /img/face.jpg
 alt: "Lavender Fields, rows of lavender in bloom, the rows disappearing into the
   distance on a sunny day. "
 poem: |-
-  Fields running with blue
-  Perfume flees into the air
+  Fields abound with blue
+  Perfume flees drenching the air
   July caught, bottled.
 alignPoemLeft: false
 address: |-
