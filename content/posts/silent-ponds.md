@@ -15,7 +15,7 @@ alt: A frozen Lake surrounded by snow, many birds have landed on the lake and
 poem: |-
   Birds alight and skate
   winter’s ice traps silent ponds
-  birds bemused huddle
+  birds bemused spectate
 alignPoemLeft: false
 address: |
   Silent ponds
