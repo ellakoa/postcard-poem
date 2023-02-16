@@ -24,7 +24,7 @@ poem: |-
   No wonder life can get a bit dizzy 
   Our hair, become a little bit frizzy
   Spinning so fast on a daily repeat
-  as the world holds on tight to our feet.
+  Thankful the world holds on to our feet.
 
   If it were to stop, off, we would pop.
 alignPoemLeft: false
