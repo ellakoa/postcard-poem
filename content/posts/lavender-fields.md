@@ -14,7 +14,6 @@ poem: |-
 alignPoemLeft: false
 address: |-
   Lavender Fields
-  Shoreham
   Kent 
   UK
 stamp: /img/lavender-fields-stamp-1-.jpg
