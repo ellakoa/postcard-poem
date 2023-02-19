@@ -1,9 +1,9 @@
 ---
 title: Lavender Fields
-description: "Lavender Fields, reminiscent of summer days. "
+description: Summer Bottled
 collection: Haiku
 aspect: landscape
-image: /img/summer-bottled-1-.jpg
+image: /img/summer-bottled-1-1-.jpg
 metaImage: /img/face.jpg
 alt: "Lavender Fields, rows of lavender in bloom, the rows disappearing into the
   distance on a sunny day. "
@@ -13,6 +13,7 @@ poem: |-
   Distilled and bottled.
 alignPoemLeft: false
 address: |-
+  Summer Bottled
   Lavender Fields
   Kent 
   UK
