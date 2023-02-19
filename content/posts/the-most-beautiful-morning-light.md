@@ -8,7 +8,7 @@ description: >-
   When the spring tides are low take a walk in the bay and enjoy the most
   spectacular morning light.
 
-  Scaffold poles and old train wheels litter the chalk beds at low tides and have become home to various sea life. I have been told they are the remnants of old sea defences.
+  Scaffold poles and old train wheels litter the chalk beds at low tides and have become home to various sea life. I have been told they are the remnants of old sea defences. 
 collection: Beyond the Pebbles
 aspect: landscape
 image: /img/morning-light-kingsdown.jpg
