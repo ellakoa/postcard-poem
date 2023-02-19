@@ -2,7 +2,7 @@
 title: Lavender Fields
 description: Summer Bottled
 collection: Haiku
-aspect: landscape
+aspect: portrait
 image: /img/summer-bottled-1-1-.jpg
 metaImage: /img/face.jpg
 alt: "Lavender Fields, rows of lavender in bloom, the rows disappearing into the
