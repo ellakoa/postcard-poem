@@ -9,7 +9,7 @@ alt: "Lavender Fields, rows of lavender in bloom, the rows disappearing into the
   distance on a sunny day. "
 poem: |-
   Fields of lavender 
-  Summer’s dry air drenched with scent
+  Summers dry air drenched with scent
   Distilled and bottled.
 alignPoemLeft: false
 address: |-
