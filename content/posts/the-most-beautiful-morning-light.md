@@ -5,10 +5,10 @@ width: "600"
 height: "400"
 title: The Most Beautiful Morning Light
 description: >-
-  When the spring tides are low take a walk in the bay and enjoy the morning
-  light.
+  When the spring tides are low take a walk in the bay and enjoy the most
+  spectacular morning light.
 
-  Part of the postcard collection 'Beyond the Pebbles' an exploration of Oldstairs Bay Kingsdown Kent.
+  Scaffold poles and old train wheels litter the chalk beds at low tides and have become home to various sea life. I have been told they are the remnants of old sea defences. 
 collection: Beyond the Pebbles
 aspect: landscape
 image: /img/morning-light-kingsdown.jpg
