@@ -13,8 +13,8 @@ poem: |-
   the sun was warm, with a southerly breeze
   High pressure had depressed the silent sea
   The tide went low, exceptionally low.
-  Very few it seemed had ventured to roam 
-  on the sands not normally shown 
+  Very few it seemed had ventured out
+  to roam the sands not normally shown 
   and marvel at their great reveal 
   in that magical time when the tide is still.
 
