@@ -18,14 +18,6 @@ poem: |-
   and marvel at their great reveal 
   in that magical time when the tide is still.
 
-  Boom, the largest noise travelled across the bay, 
-  and it was clear why many had stayed away
-  Gone to witness the Richborough chimneys
-  brought to their knees, 
-  rubble and dust hung in a breeze, 
-  blocking out the clear blue skies 
-  with cheer, then sadness on their demise.
-
   Many missed the lowest of low tides 
   and the loveliest of clear blue skies, 
   which was shared by the fortunate few 
