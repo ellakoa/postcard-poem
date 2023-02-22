@@ -27,7 +27,7 @@ poem: |-
   A Metal detectorist looking for a find
   Families rock pooling, and walkers, all kinds
   Shrimpers sweeping with wide nets
-  A man with a trolley, bait digging I expect
+  A man and trolley, bait digging I expect
   Swimmers embracing the cold of the sea
   sometimes the tide just up to their knees
 
