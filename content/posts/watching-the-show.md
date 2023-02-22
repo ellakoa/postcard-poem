@@ -6,7 +6,7 @@ image: /img/derp-cat.jpeg
 metaImage: /img/derp-cat.jpeg
 alt: ///
 poem: |
-  There’s a certain excitement 
+  There’s a certain buzz
   as the sun starts to rise 
   chasing the dark from the nighttime sky
   What will the low tide reveal today?
