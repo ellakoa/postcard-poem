@@ -41,7 +41,7 @@ address: |-
   Kingsdown
   Kent
   UK
-stamp: /img/watching-the-show-stamp-1-.jpg
+stamp: /img/watching-the-show-stamp-2-1-.png
 author: Caroline Whitehouse
 date: 2023-02-26T08:00:56.627Z
 ---
