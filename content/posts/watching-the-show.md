@@ -12,8 +12,8 @@ poem: |
   What will the low tide reveal today?
   Who will enjoy the expansive bay?
 
-  Fisherman casting out for a catch
-  Canoeists passing by with a splash
+  Fisherman casting out with a splash
+  Canoeists passing by in a dash
   A Metal detectorist looking for a find
   Families rock pooling, and walkers, all kinds
   Shrimpers sweeping with wide nets
