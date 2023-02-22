@@ -5,13 +5,13 @@ aspect: landscape
 image: /img/kingsdown-cliffs-9874-t.jpg
 metaImage: /img/face.jpg
 alt: ///
-poem: |
+poem: |-
   There’s a certain buzz
   as the sun starts to rise 
   chasing the dark from the nighttime sky
   What will the low tide reveal today?
   Who will enjoy the expansive bay?
-
+  There's
   Fisherman casting out with a splash
   Canoeists passing by in a dash
   A Metal detectorist looking for a find
