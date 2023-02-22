@@ -17,11 +17,12 @@ poem: |
   Families rock pooling, and walkers, all kinds
 
   Shrimpers sweeping with wide nets
-  A man with a trolley, not sure what he collects
+  A man with a trolley, bait digging I expect
   Swimmers embracing the cold of the sea
   sometimes the tide just up to their knees
 
   The lone photographer watching the show
+
   Most chase their pursuits for an hour or so
   As the bay disappears they pack up and go.
 alignPoemLeft: false
