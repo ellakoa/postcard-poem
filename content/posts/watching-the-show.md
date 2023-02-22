@@ -13,7 +13,8 @@ collection: Kent Views
 aspect: landscape
 image: /img/kingsdown-cliffs-9874-t.jpg
 metaImage: /img/face.jpg
-alt: ///
+alt: Low tide, blue skies, there is a reflection of Kingsdown cliffs in a rock
+  pool, a distant figure sits alone on the chalk rocks.
 poem: |-
   There’s a certain buzz
   as the sun starts to rise 
