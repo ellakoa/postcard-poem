@@ -33,7 +33,7 @@ poem: |-
 
   The lone photographer watching the show
 
-  Most chase their pursuits for an hour or so
+  Most, chase their pursuits for an hour or so
   As the bay disappears they pack up and go.
 alignPoemLeft: false
 address: |-
