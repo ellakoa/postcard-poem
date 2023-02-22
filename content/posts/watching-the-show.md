@@ -6,16 +6,16 @@ image: /img/derp-cat.jpeg
 metaImage: /img/derp-cat.jpeg
 alt: ///
 poem: |
-  There’s a certain excitement as the sun starts 
-  to rise chasing the dark from the night 
-  time sky what will the bay reveal today?
-  Who will enjoy what is on display?
+  There’s a certain excitement 
+  as the sun starts to rise 
+  chasing the dark from the nighttime sky
+  What will the low tide reveal today?
+  Who will enjoy the expansive bay?
 
   Fisherman casting out for a catch
   Canoeists passing by with a splash
   A Metal detectorist looking for a find
   Families rock pooling, and walkers, all kinds
-
   Shrimpers sweeping with wide nets
   A man with a trolley, bait digging I expect
   Swimmers embracing the cold of the sea
