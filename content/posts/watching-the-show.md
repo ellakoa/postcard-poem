@@ -1,6 +1,14 @@
 ---
 title: Watching the Show
-description: Kingsdown beach
+description: >
+  Kingsdown beach, is one of my favourite places, especially during low spring
+  tides. The bay comes to life with visitors during this time, engaging in all
+  sorts of activities and as the tide comes back in they seem to magically
+  disappear. Now you might think that the small figure sitting on the chalk
+  rocks near the middle of the photo is the lone photographer, but no, it was
+  actually a lady sitting to guard a suspected unexploded device. Her friend had
+  spied it the day before and reported it. The tide had hidden it with sand
+  again and they wanted to warn others to tread carefully. How brave was that?
 collection: Kent Views
 aspect: landscape
 image: /img/kingsdown-cliffs-9874-t.jpg
