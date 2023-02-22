@@ -27,9 +27,11 @@ poem: |-
   As the bay disappears they pack up and go.
 alignPoemLeft: false
 address: |-
+  Watching the Show
   Oldstairs Bay
   Kingsdown
   Kent
+  UK
 stamp: /img/watching-the-show-stamp-1-.jpg
 author: Caroline Whitehouse
 date: 2023-02-26T08:00:56.627Z
