@@ -2,8 +2,8 @@
 title: Watching the Show
 description: Kingsdown beach
 aspect: landscape
-image: /img/derp-cat.jpeg
-metaImage: /img/derp-cat.jpeg
+image: /img/kingsdown-cliffs-9874-t.jpg
+metaImage: /img/face.jpg
 alt: ///
 poem: |
   There’s a certain buzz
@@ -30,7 +30,7 @@ address: |-
   Oldstairs Bay
   Kingsdown
   Kent
-stamp: /img/derp-cat.jpeg
+stamp: /img/watching-the-show-stamp-1-.jpg
 author: Caroline Whitehouse
 date: 2022-09-02T14:36:56.627Z
 ---
