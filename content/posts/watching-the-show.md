@@ -1,6 +1,7 @@
 ---
 title: Watching the Show
 description: Kingsdown beach
+collection: Kent Views
 aspect: landscape
 image: /img/kingsdown-cliffs-9874-t.jpg
 metaImage: /img/face.jpg
