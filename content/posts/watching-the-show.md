@@ -1,7 +1,7 @@
 ---
 title: Watching the Show
 description: >
-  Kingsdown beach, is one of my favourite places, especially during low spring
+  Kingsdown beach, one of my favourite places, especially during low spring
   tides. The bay comes to life with visitors during this time, engaging in all
   sorts of activities and as the tide comes back in they seem to magically
   disappear. Now you might think that the small figure sitting on the chalk
