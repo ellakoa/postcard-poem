@@ -23,7 +23,7 @@ poem: |-
   A breeze, ripples anew
   Veiling the scenic view
   Breaking the trance 
-  of pensive glance
+  of a pensive glance
   Pools full of sky.
 alignPoemLeft: true
 address: |-
