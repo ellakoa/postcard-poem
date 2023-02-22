@@ -7,11 +7,12 @@ image: /img/derp-cat.jpeg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
-  I was down the beach that day, the day
-  the tide ebbed further than the chart displayed
-  Although it was March the cold winds were none
+  I was down the beach that day, the tide 
+  ebbed further than the chart displayed
+  It was March, the cold winds were none
   the sun was warm, with a southerly breeze
-  High pressure had depressed the silent sea
+  High pressure had depressed the silent sea.
+
   The tide went low, exceptionally low.
   Very few it seemed had ventured out
   to roam the sands not normally shown 
