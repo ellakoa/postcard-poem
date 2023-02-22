@@ -37,7 +37,6 @@ poem: |-
 alignPoemLeft: false
 address: |-
   Watching the Show
-  Oldstairs Bay
   Kingsdown
   Kent
   UK
