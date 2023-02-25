@@ -21,7 +21,7 @@ poem: |-
   The sun pours molten gold
   inside cold water moulds
   A breeze, ripples anew
-  Veiling the scenic view
+  Shifting the scenic view
   Breaking the trance 
   of a pensive glance
   Pools full of sky.
