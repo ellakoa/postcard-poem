@@ -13,7 +13,7 @@ alt: Sea captured in a tidal pool, Kingsdown Kent. Reflections of the sunrise
   and of puffy clouds in the pool.
 poem: |-
   Silent in reflection
-  Gaze in contemplation
+  Caught in contemplation
   Still waters capture stills
   that move as nature wills
   Blues and greys change hue
@@ -21,7 +21,7 @@ poem: |-
   The sun pours molten gold
   inside cold water moulds
   A breeze, ripples anew
-  Shifting the scenic view
+  Shifting the placid view
   Breaking the trance 
   of a pensive glance
   Pools full of sky.
