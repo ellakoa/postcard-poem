@@ -18,7 +18,7 @@ poem: |
   Blossoms appear 
   as a dusting of snow
   Cheering spring on 
-  in the ancient hedgerows
+  in the ancient hedgerows.
 alignPoemLeft: false
 address: |-
   Neither Frost or Snow
