@@ -9,17 +9,17 @@ alt: "111"
 poem: |
   Specks of white
   neither frost nor snow
-  Are first to claim
+  are first to claim
   the sparse hedgerows 
 
   Blackthorns stir
   as the days get longer
-  Buds pop open 
+  buds pop open 
   as the sun gets stronger
 
   Blossoms appear 
   as a dusting of snow
-  Cheering spring on 
+  cheering spring on 
   in the ancient hedgerows.
 alignPoemLeft: false
 address: |-
