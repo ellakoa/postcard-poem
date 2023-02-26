@@ -19,7 +19,7 @@ poem: |
   as a dusting of snow
   Cheering spring on 
   in the ancient hedgerows
-alignPoemLeft: true
+alignPoemLeft: false
 address: |-
   Neither Frost or Snow
   Ancient Hedgerows
