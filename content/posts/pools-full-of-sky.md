@@ -3,7 +3,7 @@ title: Pools Full of Sky
 description: >
   It always makes me stop in my tracks when I come across a pool full of sky,
   not only because I would get my feet wet and the illusion would vanish but
-  because I love the idea of having the sky at my feet, imaging I could just
+  because I love the idea of having the sky at my feet, imagining I could just
   step out and walk on air, so near yet so far. 
 collection: Kent Views
 aspect: landscape
