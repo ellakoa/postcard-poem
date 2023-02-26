@@ -21,7 +21,7 @@ poem: |
                in the ancient hedgerows
 alignPoemLeft: true
 address: |-
-  Neither Frost of Snow
+  Neither Frost or Snow
   Ancient Hedgerows
   Kent
   UK
