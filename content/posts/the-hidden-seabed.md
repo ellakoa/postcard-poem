@@ -40,9 +40,11 @@ poem: |-
   on what was usually the hidden seabed.
 alignPoemLeft: false
 address: |-
+  The Hidden Seabed
   Oldstairs Bay
   Kingsdown 
   Kent
+  UK
 stamp: /img/derp-cat.jpeg
 author: Caroline Whitehouse
 date: 2022-11-30T11:01:15.525Z
