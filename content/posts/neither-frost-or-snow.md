@@ -1,7 +1,7 @@
 ---
 title: Neither Frost or Snow
 description: "1111"
-collection: Kent
+collection: Kent Views
 aspect: landscape
 image: /img/blackthorn-hedgrows-1.jpg
 metaImage: /img/face.jpg
@@ -19,7 +19,7 @@ poem: |
 
   Blossoms appear 
   as a dusting of snow
-  cheering spring on 
+  Spring has arrived
   in the ancient hedgerows.
 alignPoemLeft: false
 address: |-
