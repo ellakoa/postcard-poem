@@ -11,7 +11,7 @@ description: >
   predicted. It was magical.
 collection: Beyond the Pebbles
 aspect: landscape
-image: /img/derp-cat.jpeg
+image: /img/the-hidden-seabed-kingsdown-2693.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
@@ -45,7 +45,7 @@ address: |-
   Kingsdown 
   Kent
   UK
-stamp: /img/derp-cat.jpeg
+stamp: /img/the-hidden-seabed-kingsdown-stamp-1-.png
 author: Caroline Whitehouse
 date: 2022-11-30T11:01:15.525Z
 ---
