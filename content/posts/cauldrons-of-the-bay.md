@@ -8,7 +8,7 @@ description: >-
 collection: Beyond the Pebbles
 aspect: portrait
 image: /img/halloween2022boo-tiny.jpg
-metaImage: /img/beyond-pebbles-face-kingsdown.jpg
+metaImage: /img/cauldrons-kingsdown.jpg
 alt: The imprint of a ghoulish face in the sand created by the tide retreating,
   sand bubbles up in watery cauldrons.
 poem: |-
