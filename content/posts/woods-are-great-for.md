@@ -14,23 +14,23 @@ image: /img/wood-are-great-kings-wood-tinyjpeg.jpg
 metaImage: /img/face.jpg
 alt: Kings Wood sunlight filtering through autumn trees, casting shadows on leaf
   strewn woodland floor.
-poem: |+
-  
-
+poem: |-
   Woods are great for hugging trees 
   for running around and grazing knees
   For spending time with family and friends 
   Searching for sticks and making dens
-  strolling into a bright sunny glade and then 
-  stumbling back into the dark cool shade 
-  For making you think no one else is around 
-  as the soft woodland floor muffles sound but 
-  if the undergrowth 
-  were to rustle you would pretend 
-  you weren't scared with soft chuckles
-  For vivid imaginations and tales whispered
-  mindful that trees are very good listeners.
 
+  For strolling into a bright sunny glade 
+  then stumbling back into dark cool shade 
+
+  For making you think no one else is around 
+  as the soft woodland floor muffles sound
+  but if the undergrowth were to rustle you
+  would pretend you weren't scared and chuckle
+
+  For vivid imaginations 
+  and tales told in whispers
+  mindful that trees are very good listeners.
 alignPoemLeft: false
 address: |-
   Woods are Great 
