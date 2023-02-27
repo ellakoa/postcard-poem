@@ -35,8 +35,8 @@ poem: |-
 
   Missing the lowest of tides 
   and the lovely morning sky 
-  shared by a fortunate few 
-  that had stayed and cared to tread 
+  shared by a few that had stayed 
+  and cared to tread 
   on what was usually the hidden seabed.
 alignPoemLeft: false
 address: |-
