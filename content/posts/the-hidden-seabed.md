@@ -1,6 +1,14 @@
 ---
 title: The Hidden Seabed
-description: "111"
+description: >
+  Eleven years have passed since the Richborough towers were demolished, and I
+  was often asked if I was going to be there to grab a photo. I thought about it
+  but as chance would have it, the Sunday in question coincided with a low tide
+  in Kingsdown bay, which turned out to be one of the lowest I have seen so far.
+  Very few were down the beach that morning, and discussing the tide with a
+  gentleman I met, he said it was the lowest he had seen it for 20 years,
+  explaining the high pressure had caused the tide to go out further than
+  predicted. It was magical.
 collection: Beyond the Pebbles
 aspect: landscape
 image: /img/derp-cat.jpeg
