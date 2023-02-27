@@ -1,6 +1,8 @@
 ---
 title: Neither Frost or Snow
-description: "1111"
+description: I always watch out for that first glimpse of white in the
+  hedgerows. What starts off as tiny white specks soon turns into an abundance
+  of blackthorn blossom. The flowers always out before the leaves
 collection: Kent Views
 aspect: landscape
 image: /img/blackthorn-hedgrows-1.jpg
