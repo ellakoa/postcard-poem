@@ -5,7 +5,7 @@ description: >
   not only because I would get my feet wet and the illusion would vanish but
   because I love the idea of having the sky at my feet, imagining I could just
   step out and walk on air, so near yet so far. 
-collection: Kent Views
+collection: Beyond the Pebbles
 aspect: landscape
 image: /img/kingsdown-pools-full-of-sky-2-1-.jpg
 metaImage: /img/face.jpg
