@@ -11,7 +11,7 @@ image: /img/halloween2022boo-tiny.jpg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
 alt: The imprint of a ghoulish face in the sand created by the tide retreating,
   sand bubbles up in watery cauldrons.
-poem: |+
+poem: |-
   
   A mischievousness comes into play
   that starts as the tide ebbs away
@@ -23,12 +23,19 @@ poem: |+
   don’t disturb them as you pass
   or your feet could be held fast.
 
+  Halloween, the cauldrons still 
+  In the sand, images to chill
+  Imprints of monsters 
+  unleashed to fright
+  Keep safe dear friends
+  on this Halloween night.
 alignPoemLeft: false
 address: |
   Cauldrons of 
   the Bay
   Oldstairs Bay
-  Kingsdown Kent
+  Kingsdown 
+  Kent
 stamp: /img/halloween-stamptiny.jpg
 author: Caroline Whitehouse
 date: 2022-10-30T08:00:03.881Z
