@@ -15,22 +15,28 @@ image: /img/derp-cat.jpeg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
-  I was down the beach that day, the tide 
-  ebbed further than the chart displayed
-  It was March, the cold winds were none
-  the sun was warm, with a southerly breeze
-  High pressure had depressed the silent sea.
+  I went down to the beach that day
+  the tower's demise echoed over the bay.
+  It was March, cold winds were none
+  The day was warm, with a southerly breeze
+  High pressure depressed the silent sea.
 
-  The tide went low, exceptionally low.
+  The tide went low, exceptionally low
+
   Very few it seemed had ventured out
   to roam the sands not normally shown 
-  and marvel at their great reveal 
-  in that magical time when the tide is still.
+  and marvel at their grand reveal 
+  in that magical hour when the tide is still.
 
-  Many missed the lowest of low tides 
-  and the loveliest of clear blue skies, 
-  which was shared by the fortunate few 
-  that had stepped out and cared to tread 
+  Many had witnessed the towers 
+  bought to their knees
+  with a cheer then a sigh
+  as rubble and dust filled the sky
+
+  Missing the lowest of tides 
+  and the lovely morning sky 
+  shared by a fortunate few 
+  that had stayed and cared to tread 
   on what was usually the hidden seabed.
 alignPoemLeft: false
 address: |-
