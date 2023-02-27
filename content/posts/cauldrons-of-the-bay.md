@@ -8,7 +8,7 @@ description: >-
 collection: Beyond the Pebbles
 aspect: portrait
 image: /img/halloween2022boo-tiny.jpg
-metaImage: /img/cauldrons-kingsdown.jpg
+metaImage: /img/face.jpg
 alt: The imprint of a ghoulish face in the sand created by the tide retreating,
   sand bubbles up in watery cauldrons.
 poem: |-
@@ -36,7 +36,7 @@ address: |
   Oldstairs Bay
   Kingsdown 
   Kent
-stamp: /img/halloween-stamptiny.jpg
+stamp: /img/cauldrons-kingsdown.jpg
 author: Caroline Whitehouse
 date: 2022-10-30T08:00:03.881Z
 ---
