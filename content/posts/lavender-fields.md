@@ -1,8 +1,7 @@
 ---
 title: Lavender Fields
-description: |-
+description: |
   Haiku, a short Japanese poem capturing a moment in time.
-  'Summer Bottled' was inspired by a visit to a lavender farm in Kent.
 collection: Haiku
 aspect: portrait
 image: /img/summer-bottled-1-.jpg
