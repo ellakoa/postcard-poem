@@ -18,7 +18,7 @@ poem: |+
   There were butterflies and bees 
   all around. A very enjoyable day.
 
-alignPoemLeft: false
+alignPoemLeft: true
 address: |-
   Summer Bottled
   Lavender Fields
