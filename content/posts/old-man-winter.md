@@ -11,7 +11,7 @@ poem: |-
   'Old Man Winter' inspired a late snowfall in 
   March when the blackthorn blossom was out.
   I walked down the lanes and was fascinated
-  with the layer of snow covering the blossom.
+  with the layer of snow crowning the blossom.
 alignPoemLeft: true
 address: |-
   Old Man Winter
