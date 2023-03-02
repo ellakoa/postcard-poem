@@ -3,7 +3,7 @@ title: Old Man Winter
 description: |
   Haiku, a short Japanese poem capturing a moment in time.
 collection: Haiku
-aspect: portrait
+aspect: landscape
 image: /img/old-man-winter-1-1-.png
 metaImage: /img/face.jpg
 alt: A branch of blackthorn blossom, covered in snow.
