@@ -13,9 +13,9 @@ alt: Blackthorn blossom, white flowers sitting close to the twigs that carry it,
   no leaves yet. A bee is collecting pollen.
 poem: |-
   Catkins trumpet the approaching spring
-  Swaying to the tune of easterly winds.
+  swaying to the tune of easterly winds
   and as the sun thaws winter's sleepy spell
-  Buds in the hedgerows gently swell.
+  buds in the hedgerows gently swell.
 
   Specks of white neither frost nor snow
   begin to claim the sparse hedgerows.
