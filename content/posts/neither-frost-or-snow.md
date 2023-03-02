@@ -14,8 +14,7 @@ alt: Blackthorn blossom, white flowers sitting close to the twigs that carry it,
 poem: |-
   Catkins trumpet the approaching spring
   Swaying to the tune of easterly winds.
-
-  As the sun thaws winter's sleepy spell
+  and as the sun thaws winter's sleepy spell
   Buds in the hedgerows gently swell.
 
   Specks of white neither frost nor snow
@@ -25,7 +24,7 @@ poem: |-
   buds pop open as the sun gets stronger.
 
   Blossoms appear as a dusting of snow
-  Spring has arrived in the ancient hedgerows.
+  Drumroll spring, in the ancient hedgerows.
 alignPoemLeft: false
 address: |-
   Neither Frost or Snow
