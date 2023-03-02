@@ -4,7 +4,7 @@ description: |
   Haiku, a short Japanese poem capturing a moment in time.
 collection: Haiku
 aspect: landscape
-image: /img/old-man-winter-1-1-.png
+image: /img/old-man-winter-1-.jpg
 metaImage: /img/face.jpg
 alt: A branch of blackthorn blossom, covered in snow.
 poem: |-
