@@ -23,8 +23,8 @@ poem: |-
   Blackthorns stir as the days get longer
   buds pop open as the sun gets stronger.
 
-  Blossoms appear as a dusting of snow
-  Drumroll spring, in the ancient hedgerows.
+  Blossoms that appear as a dusting of snow
+  drumroll spring, in the ancient hedgerows.
 alignPoemLeft: false
 address: |-
   Neither Frost or Snow
