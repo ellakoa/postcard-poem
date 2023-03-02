@@ -1,15 +1,19 @@
 ---
 title: Lavender Fields
-description: Summer Bottled
+description: |-
+  Haiku, a short Japanese poem capturing a moment in time.
+  'Summer Bottled' was inspired by a visit to a lavender farm in Kent.
 collection: Haiku
 aspect: portrait
 image: /img/summer-bottled-1-1-.jpg
 metaImage: /img/face.jpg
 alt: "Lavender Fields, rows of lavender in bloom, the rows disappearing into the
   distance on a sunny day. "
-poem: |-
+poem: |
+  
+
   Fields of lavender 
-  Summers dry air drenched with scent
+  Summer’s dry air drenched with scent
   Distilled and bottled.
 alignPoemLeft: false
 address: |-
