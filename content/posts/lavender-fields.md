@@ -14,8 +14,8 @@ poem: |+
   'Summer Bottled' was inspired by a visit 
   to a lavender farm in Kent. 
   It was a warm sunny day and the air was
-  filled with the scent of lavender.
-  There were butterflies and bees 
+  filled with the calming scent of lavender.
+  There were butterflies and bees dancing
   all around. A very enjoyable day.
 
 alignPoemLeft: true
