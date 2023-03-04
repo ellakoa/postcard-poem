@@ -14,8 +14,10 @@ metaImage: /img/face.jpg
 alt: Blackthorn blossom, white flowers sitting close to the twigs that carry it,
   no leaves yet. A bee is collecting pollen.
 poem: |-
-  The sun breaks winter's spell
-  buds in the hedgerows gently swell.
+  Catkins trumpet the approaching spring
+  Swaying in tune to cold easterly winds
+  As the sun thaws winter's sleepy spell
+  Buds in the hedgerows gently swell
 
   Specks of white neither frost nor snow
   begin to claim the sparse hedgerows.
