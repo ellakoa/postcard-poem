@@ -29,7 +29,7 @@ poem: |-
   drumroll spring, in the ancient hedgerows.
 alignPoemLeft: false
 address: |-
-  Neither Frost or Snow
+  Neither Frost Nor Snow
   The Hedgerows Parade
   Kent
   UK
