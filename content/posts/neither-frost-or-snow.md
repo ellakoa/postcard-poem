@@ -1,5 +1,5 @@
 ---
-title: Neither Frost or Snow
+title: Neither Frost Nor Snow
 description: I am always cheered to see the first vibrant green catkins in the
   hedgerows, swaying defiantly against cold winter winds and a sure sign that
   spring will not be far behind. Then comes a most welcome sight that starts as
