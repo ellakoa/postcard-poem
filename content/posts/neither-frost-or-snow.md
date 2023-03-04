@@ -37,3 +37,4 @@ stamp: /img/blackthorn-hedrows-stamp-2-a.png
 author: Caroline Whitehouse
 date: 2023-02-26T12:43:46.866Z
 ---
+The first of a series of poems called 'The Hedgerows Parade' exploring the changing seasons in our ancient hedgerows.
