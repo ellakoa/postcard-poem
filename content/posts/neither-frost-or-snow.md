@@ -31,7 +31,7 @@ address: |-
   Ancient Hedgerows
   Kent
   UK
-stamp: /img/blackthorn-hedrows-stamp-2-a.png
+stamp: /img/blackthorn-hedrows-stamp-1-.png
 author: Caroline Whitehouse
 date: 2023-03-05T08:00:46.866Z
 ---
