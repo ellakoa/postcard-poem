@@ -7,7 +7,7 @@ description: I am always cheered to see the first vibrant green catkins in the
   blossom, the blossom always out before the leaves, providing an early source
   of nectar and pollen for our bees. It also acts as a marker of where the sloes
   will be, come autumn.
-collection: Kent Views
+collection: The Hedgerows Parade
 aspect: landscape
 image: /img/blackthorn-hedgrows-1.jpg
 metaImage: /img/face.jpg
