@@ -30,7 +30,7 @@ poem: |-
 alignPoemLeft: false
 address: |-
   Neither Frost or Snow
-  Ancient Hedgerows
+  The Hedgerows Parade
   Kent
   UK
 stamp: /img/blackthorn-hedrows-stamp-2-a.png
