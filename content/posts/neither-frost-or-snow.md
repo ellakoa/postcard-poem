@@ -14,10 +14,10 @@ metaImage: /img/face.jpg
 alt: Blackthorn blossom, white flowers sitting close to the twigs that carry it,
   no leaves yet. A bee is collecting pollen.
 poem: |-
-  Catkins trumpet the approaching spring
   Swaying in tune to cold easterly winds
-  As the sun thaws winter's sleepy spell
-  Buds in the hedgerows gently swell
+  Catkins trumpet the approaching spring,
+  As spring breaks winter’s sleepy spell
+  buds in the hedgerows gently swell.
 
   Specks of white neither frost nor snow
   begin to claim the sparse hedgerows.
@@ -33,7 +33,7 @@ address: |-
   Ancient Hedgerows
   Kent
   UK
-stamp: /img/blackthorn-hedrows-stamp-1-.png
+stamp: /img/blackthorn-hedrows-stamp-2-a.png
 author: Caroline Whitehouse
 date: 2023-03-05T08:00:46.866Z
 ---
