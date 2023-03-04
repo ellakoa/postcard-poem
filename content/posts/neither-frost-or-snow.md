@@ -9,7 +9,7 @@ description: I am always cheered to see the first vibrant green catkins in the
   of where the sloes will be, come autumn.
 collection: The Hedgerows Parade
 aspect: landscape
-image: /img/blackthorn-hedgrows-1.jpg
+image: /img/blackthorn-hedgrows-1-1-.jpg
 metaImage: /img/face.jpg
 alt: Blackthorn blossom, white flowers sitting close to the twigs that carry it,
   no leaves yet. A bee is collecting pollen.
