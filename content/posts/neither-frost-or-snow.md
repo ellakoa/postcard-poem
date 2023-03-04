@@ -4,8 +4,9 @@ description: I am always cheered to see the first vibrant green catkins in the
   hedgerows, swaying defiantly against cold winter winds and a sure sign that
   spring will not be far behind. Then comes a most welcome sight that starts as
   tiny white specks, developing into a most beautiful display of blackthorn
-  blossom, providing an early source of nectar and pollen for our bees. It also
-  acts as a marker of where the sloes will be, come autumn.
+  blossom, the blossom always out before the leaves, providing an early source
+  of nectar and pollen for our bees. It also acts as a marker of where the sloes
+  will be, come autumn.
 collection: Kent Views
 aspect: landscape
 image: /img/blackthorn-hedgrows-1.jpg
