@@ -3,7 +3,7 @@ title: Neither Frost or Snow
 description: I am always cheered to see the first vibrant green catkins in the
   hedgerows, swaying defiantly against cold winter winds and a sure sign that
   spring will not be far behind. Then comes a most welcome sight that starts as
-  tiny white specks, developing into a most beautiful display of blackthorn
+  tiny white specks, developing into the most beautiful display of blackthorn
   blossom, the blossom always out before the leaves, providing an early source
   of nectar and pollen for our early insect dwellers. It also acts as a marker
   of where the sloes will be, come autumn.
