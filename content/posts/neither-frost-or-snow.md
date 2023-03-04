@@ -17,7 +17,7 @@ poem: |-
   Swaying in tune to cold easterly winds
   Catkins trumpet the approaching spring,
   As spring breaks winter’s sleepy spell
-  buds in the hedgerows gently swell.
+  buds in the hedgerow gently swell.
 
   Specks of white neither frost nor snow
   begin to claim the sparse hedgerows.
