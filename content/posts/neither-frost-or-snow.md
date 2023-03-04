@@ -14,9 +14,7 @@ metaImage: /img/face.jpg
 alt: Blackthorn blossom, white flowers sitting close to the twigs that carry it,
   no leaves yet. A bee is collecting pollen.
 poem: |-
-  Catkins trumpet the approaching spring
-  swaying to the tune of easterly winds
-  and as the sun warms winter's spell
+  The sun breaks winter's spell
   buds in the hedgerows gently swell.
 
   Specks of white neither frost nor snow
