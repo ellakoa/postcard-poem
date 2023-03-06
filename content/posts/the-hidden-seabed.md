@@ -12,7 +12,7 @@ description: It has been eleven years since the Richborough towers were
   opened up as a vast area of sand, it was magical.
 collection: Beyond the Pebbles
 aspect: landscape
-image: /img/hidden-seabed-kingsdown-4b-2693.jpg
+image: /img/hidden-seabed-kingsdown-new.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
