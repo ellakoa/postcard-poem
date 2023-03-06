@@ -4,8 +4,8 @@ description: It has been eleven years since the Richborough towers were
   demolished. I was often asked if I was going to be there to grab a photo. I
   thought about it but as chance would have it the Sunday in question coincided
   with a predicted low spring tide. The low tide won and it turned out to be one
-  of the lowest I have seen. Very few were down the beach that morning, most off
-  to see the towers demolished. The sound of which echoed over the bay.
+  of the lowest I have seen. Very few were down the beach that morning, most
+  were off to see the towers demolished. The sound of which echoed over the bay.
   Discussing the tide with a gentleman I met, he said it was the lowest he had
   seen it for 20 years, explaining the high pressure had caused the tide to go
   out further than predicted. What is normally seen as pebbles and chalk beds,
