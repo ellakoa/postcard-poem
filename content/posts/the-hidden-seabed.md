@@ -12,7 +12,7 @@ description: It has been eleven years since the Richborough towers were
   opened up as a vast area of sand, it was magical.
 collection: Beyond the Pebbles
 aspect: landscape
-image: /img/hidden-seabed-kingsdown-new-1.jpg
+image: /img/hidden-seabed-kingsdown-new-1a-1-.jpg
 metaImage: /img/face.jpg
 alt: Kingsdown bay, A low spring tide has exposed a vast area of sand behind the
   seaweed covered chalk beds.
@@ -45,7 +45,7 @@ address: |-
   Kingsdown 
   Kent
   UK
-stamp: /img/the-hidden-seabed-kingsdown-stamp-1-.png
+stamp: /img/hidden-seabed-kingsdown-stamp-new-1-.jpg
 author: Caroline Whitehouse
 date: 2023-03-12T08:00:00.000Z
 ---
