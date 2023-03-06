@@ -14,7 +14,8 @@ collection: Beyond the Pebbles
 aspect: landscape
 image: /img/hidden-seabed-kingsdown-new.jpg
 metaImage: /img/face.jpg
-alt: "111"
+alt: Kingsdown bay, A low spring tide has exposed a vast area of sand behind the
+  seaweed covered chalk beds.
 poem: |-
   I went down to the beach that day when
   the tower's demise echoed over the bay.
