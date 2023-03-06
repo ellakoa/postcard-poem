@@ -15,30 +15,27 @@ image: /img/the-hidden-seabed-kingsdown-2693.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
-  I went down to the beach that day
+  I went down to the beach that day when
   the tower's demise echoed over the bay.
 
   It was March, cold winds were none
   The day was warm, with a southerly breeze
-  High pressure depressed the silent sea.
+  High pressure depressed the silent sea
 
-  The tide went low, exceptionally low
-
-  Very few it seemed had ventured out
-  to roam the sands not normally shown 
-  and marvel at their grand reveal 
-  in that magical hour when the tide is still.
+  The tide went low, exceptionally low.
 
   Many had witnessed the towers 
   bought to their knees
-  with a cheer then a sigh
-  as rubble and dust filled the sky
+  a cheer, then a sigh
+  as rubble and dust filled the sky.
 
-  Missing the lowest of tides 
-  and the lovely morning sky 
-  shared by a few that had stayed 
-  and cared to tread 
-  on what was usually the hidden seabed.
+  Few it seemed had ventured out 
+  to tread on the usual hidden seabed
+  To marvel at their grand reveal
+  in that magical hour 
+  when the tide is still.
+
+  The tide went low, exceptionally low.
 alignPoemLeft: false
 address: |-
   The Hidden Seabed
