@@ -31,7 +31,8 @@ poem: |-
   as rubble and dust filled the sky.
 
   Few it seemed had ventured out 
-  to tread on the usual hidden seabed
+  and cared to tread 
+  on what was usually the hidden seabed
   To marvel at their grand reveal
   in that magical hour 
   when the tide is still.
