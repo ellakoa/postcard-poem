@@ -20,16 +20,16 @@ export default function Posts(props: PostsProps) {
       <Head>
         <Meta />
       </Head>
-      <div className='container max-w-3xl my-10 px-6'>
+      <div className='container max-w-3xl my-10 px-3 md:px-6'>
         <Breadcrumbs
           links={[{ url: '/collections', label: '← Collections' }]}
         />
         <h1 className='font-bold font-serif text-5xl mb-10'>{collection}</h1>
       </div>
-      <div className='container max-w-3xl my-10 px-6'>
+      <div className='container max-w-3xl my-10 px-3 md:px-6'>
         {' '}
         {posts ? (
-          <ul className=''>{posts.map(CollectionPreview)}</ul>
+          <ul className='grid gap-4'>{posts.map(CollectionPreview)}</ul>
         ) : (
           <p>No posts found!</p>
         )}
