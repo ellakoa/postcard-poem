@@ -27,8 +27,8 @@ poem: |-
   The tide went low, exceptionally low.
 
   Many had witnessed the towers 
-  bought to their knees with
-  a cheer, then a sigh
+  bought to their knees 
+  with a cheer, then a sigh
   as rubble and dust filled the sky.
 
   Few it seemed had ventured out 
