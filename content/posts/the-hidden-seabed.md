@@ -42,7 +42,6 @@ poem: |-
 alignPoemLeft: false
 address: |-
   The Hidden Seabed
-  Oldstairs Bay
   Kingsdown 
   Kent
   UK
