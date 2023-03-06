@@ -9,7 +9,7 @@ export default function Posts(props: any) {
       <Head>
         <Meta />
       </Head>
-      <div className='container max-w-3xl my-10 px-6'>
+      <div className='container max-w-3xl my-10 px-3 md:px-6'>
         <h1 className='font-serif font-bold text-5xl'>{title}</h1>
         {html && (
           <div

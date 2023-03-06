@@ -62,6 +62,12 @@ collections:
       - { label: 'Address lines', name: address, widget: text }
       - { label: Stamp, name: stamp, widget: image, choose_url: true }
       - {
+          label: Show stamp in preview,
+          name: showStampInPreview,
+          widget: boolean,
+          default: false,
+        }
+      - {
           label: Author,
           name: author,
           widget: string,

@@ -16,11 +16,13 @@ export default function Posts(props: PostsProps) {
       <Head>
         <Meta />
       </Head>
-      <div className='container max-w-3xl my-10 px-6'>
+      <div className='container max-w-3xl my-10 px-3 md:px-6'>
         <h1 className='font-bold font-serif text-5xl mb-10'>Posts</h1>
       </div>
-      <div className='container max-w-3xl my-10 px-6'>
-        <ul className=''>{!!posts && posts.map(Preview)}</ul>
+      <div className='container max-w-3xl my-10 px-3 md:px-6'>
+        <ul className='grid gap-4 sm:grid-cols-2 md:grid-cols-1'>
+          {!!posts && posts.map(Preview)}
+        </ul>
         {!posts && <p>No posts found!</p>}
       </div>
     </>

@@ -28,10 +28,10 @@ export default function Collections(props: CollectionsProps) {
       <Head>
         <Meta />
       </Head>
-      <div className='container max-w-3xl my-10 px-6'>
+      <div className='container max-w-3xl my-10 px-3 md:px-6'>
         <h1 className='font-bold font-serif text-5xl mb-10'>Collections</h1>
       </div>
-      <div className='container max-w-3xl my-10 px-6'>
+      <div className='container max-w-3xl my-10 px-3 md:px-6'>
         <ul className='flex gap-4 flex-wrap'>
           {!!paths && paths.map(CollectionLink)}
         </ul>
