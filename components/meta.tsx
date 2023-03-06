@@ -17,6 +17,7 @@ const Meta = (props: MetaProps) => {
       <meta property='og:image' content={`${image}`} />
       <meta property='og:url' content={`${url}`} />
       <meta name='twitter:card' content='summary_large_image' />
+      <meta name='p:domain_verify' content='2544d4823d964cb07ac39cc195d59000' />
     </>
   )
 }
