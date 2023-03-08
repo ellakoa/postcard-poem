@@ -23,7 +23,7 @@ address: |-
   Dover
   Kent UK
 stamp: /img/hushed-by-snow-stamp-1-.jpg
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-03-01T08:00:47.575Z
 ---
