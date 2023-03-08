@@ -9,7 +9,7 @@ description: "Weeks before any trip I always buy a paper map of the area and
   such an adventure that day. We finally returned in 2022, the sea was calm, the
   sun was bright and it appeared as if thousands of stars were playing chase in
   the sea. I swam in the tidal pool surrounded by stars, how heavenly. "
-collection: Dorset Views
+collection: Wonderful Britain
 aspect: landscape
 image: /img/swimming-with-stars-dancing-ledge-main1-tiny.jpg
 metaImage: /img/face.jpg
@@ -37,6 +37,7 @@ address: |-
   Dorset
   UK
 stamp: /img/stamp-swimming-with-starstiny.png
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-01-08T08:00:46.527Z
 ---
