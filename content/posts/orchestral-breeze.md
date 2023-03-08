@@ -10,7 +10,7 @@ description: >+
   winds brought the warmer air making the trees dance and sing. A glorious day
   to be out and about.
 
-collection: Norfolk Views
+collection: Wonderful Britain
 aspect: landscape
 image: /img/orchestral-breeze-norfolk-main-new-tiny.jpg
 metaImage: /img/face.jpg
@@ -38,6 +38,7 @@ address: |-
   Norfolk
   UK
 stamp: /img/orchestral-breeze-stamp-tiny.png
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-01-01T08:00:03.586Z
 ---
