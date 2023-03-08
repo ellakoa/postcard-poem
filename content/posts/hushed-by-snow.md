@@ -8,9 +8,11 @@ metaImage: /img/face.jpg
 alt: A Cedar of Lebanon tree, branches are hanging, heavy with snow. Snow covers
   the ground.
 poem: >-
-  Delicate and light, snowflakes tumble down, layer upon layer, catching 
+  Delicate and light, snowflakes tumble down, 
 
-  each other as they settle, bringing a peace and quiet to the land. 
+  layer upon layer, catching each other as they settle,
+
+  bringing a peace and quiet to the land. 
 
   Hushed by snow was inspired by a walk in the beautiful Keasney parks in Dover. 
 
