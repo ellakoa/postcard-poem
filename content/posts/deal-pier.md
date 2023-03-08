@@ -6,7 +6,7 @@ description: >+
   that? 
 
 
-collection: Beautiful Places
+collection: Wonderful Britain
 aspect: landscape
 image: /img/deal-pier-beach-flowers1-tiny.jpg
 metaImage: /img/face.jpg
