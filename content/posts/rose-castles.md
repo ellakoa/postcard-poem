@@ -7,7 +7,7 @@ description: >-
   abundance. 
 
   Part of the 'Postcards from Deal' collection
-collection: Postcards from Deal
+collection: Beautiful Places
 aspect: landscape
 image: /img/walmer-beach-flowers-tiny.jpg
 metaImage: /img/face.jpg
@@ -34,6 +34,7 @@ address: |
   Deal 
   Kent
 stamp: /img/stamp-dealtiny.jpg
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-09-18T07:00:36.660Z
 ---
