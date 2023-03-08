@@ -6,7 +6,7 @@ description: >-
   We were baffled as to why we kept finding the empty silver wrappers of the chocolate treats beneath the tree, my husband was convinced I was the guilty culprit until one morning we discovered a partially eaten chocolate with tiny tiny teeth marks in a perfect circle, and I was vindicated.
 
   A big thank you to Nora who painted a portrait of the little mouse and allowed me to include it in the artwork for this postcard.
-collection: Christmas
+collection: Beautiful Creatures
 aspect: portrait
 image: /img/christmas-mouse-postcard-1-tiny.jpg
 metaImage: /img/face.jpg
@@ -49,6 +49,7 @@ address: |-
   Deal
   Kent
 stamp: /img/mouse-stamp-tiny.png
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-12-24T08:00:22.877Z
 ---
