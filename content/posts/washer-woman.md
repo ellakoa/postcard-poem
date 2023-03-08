@@ -11,7 +11,7 @@ description: You can tell that it is almost winter when The Beast from the East
   watching the boat trains arrive, one particular time I saw a girl about my age
   in a smart coat with a little suitcase by her feet, how exotic I thought as I
   dreamed about her destination.
-collection: Kent Views
+collection: Wonderful Britain
 aspect: landscape
 image: /img/folkestone-washer-women-tiny.jpg
 metaImage: /img/face.jpg
@@ -41,6 +41,7 @@ address: |-
   Folkestone
   Kent
 stamp: /img/weather-folkestone-stamp-tiny.jpg
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-12-11T08:00:14.837Z
 ---
