@@ -8,7 +8,7 @@ description: >-
   rusting away. 
 
   Today the tower stands alone, the only battle it faces is a constant battle against the elements. 
-collection: Kent Views
+collection: Wonderful Places
 aspect: landscape
 image: /img/grain-tower-wrapped-in-chains-tiny.jpg
 metaImage: /img/face.jpg
@@ -37,6 +37,7 @@ address: |-
   Grain
   Kent
 stamp: /img/wrapped-in-chains-stamp-tiny.jpg
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-10-23T07:00:42.821Z
 ---
