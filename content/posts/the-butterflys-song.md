@@ -5,7 +5,7 @@ description: Butterflies don't sing, but what they lack in sound they make up
   flying I think there must be a song in their heads that they are dancing to.
   Our lovely white butterflies are particularly lively in flight never seeming
   to land, what a song they must be dancing to.
-collection: Butterflies
+collection: Beautiful Creatures
 aspect: landscape
 image: /img/white-butterfly-tiny.jpg
 metaImage: /img/white-butterfly-tiny.jpg
@@ -34,6 +34,7 @@ address: |-
   Dover 
   Kent
 stamp: /img/white-butterfly-stamp-tiny.jpg
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-10-09T07:00:09.651Z
 ---
