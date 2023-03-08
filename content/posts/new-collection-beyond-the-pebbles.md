@@ -3,7 +3,7 @@ title: Clickety-Clack
 description: Things that were thought lost but then found come with a certain
   nostalgia. This old, very loved bear is waiting for some new clothes to be
   sewn on this beautiful singer treadle sewing machine.
-collection: Nostalgia
+collection: Thoughtful Things
 aspect: landscape
 image: /img/clickerty-clack-blog-1-.jpg
 metaImage: /img/face.jpg
@@ -30,6 +30,7 @@ address: |-
   Minster
   Kent
 stamp: /img/clickety-clack-stamp-tiny.jpg
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-08-24T07:00:15.794Z
 ---
