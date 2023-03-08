@@ -5,7 +5,7 @@ description: After visiting Langdon bay, I would sit on top of the steep steps
   the world. It is hard to comprehend that the earth spins roughly 1,000 miles
   per hour and to think we are being taken along for the ride. How awesome is
   that?
-collection: Kent Views
+collection: Wonderful Britain
 aspect: landscape
 image: /img/langdon-steps-dover-1-t.jpg
 metaImage: /img/face.jpg
@@ -35,6 +35,7 @@ address: |-
   Dover
   Kent UK
 stamp: /img/langdon-steps-dover-stamp-1-1-.jpg
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-02-19T08:00:56.129Z
 ---
