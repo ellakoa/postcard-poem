@@ -36,6 +36,7 @@ address: |-
   The Most Beautiful Morning Light
   Kingsdown
   Kent
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-08-14T15:59:59.036Z
 ---
