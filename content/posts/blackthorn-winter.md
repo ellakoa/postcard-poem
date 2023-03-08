@@ -7,7 +7,7 @@ description: This particular year the snow fell in early March. The blackthorn
   eventually, it is always the outgoing season that will give way letting the
   new season flourish. Our unpredictable weather will always keep us on our
   toes.
-collection: Kent Views
+collection: Wonderful Britain
 aspect: landscape
 image: /img/tractor-minster-snow-tiny.jpg
 metaImage: /img/face.jpg
@@ -34,6 +34,7 @@ address: |-
   Thanet
   Kent UK
 stamp: /img/snow-tumbled-down-stamp-2-1-.jpg
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-01-15T08:00:47.870Z
 ---
