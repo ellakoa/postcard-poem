@@ -49,7 +49,7 @@ address: |-
   Deal
   Kent
 stamp: /img/mouse-stamp-tiny.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-12-24T08:00:22.877Z
 ---
