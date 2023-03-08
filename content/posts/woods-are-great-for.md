@@ -8,7 +8,7 @@ description: >-
   I like to think the trees listen to everything, storing away anecdotes to dream about during a long winter's hibernation.
 
   Kings Wood near Ashford is a particularly magnificent wood matching its grand name.
-collection: Kent Views
+collection: Beautiful Places
 aspect: landscape
 image: /img/wood-are-great-kings-wood-tinyjpeg.jpg
 metaImage: /img/face.jpg
@@ -38,6 +38,7 @@ address: |-
   Ashford 
   Kent
 stamp: /img/woods-are-great-for-stamp-1a.jpg
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-10-02T07:00:00.000Z
 ---
