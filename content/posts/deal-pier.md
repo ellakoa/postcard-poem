@@ -7,7 +7,7 @@ description: >+
 
   Part of the 'Postcards from Deal' collection
 
-collection: Postcards from Deal
+collection: Beautiful Places
 aspect: landscape
 image: /img/deal-pier-beach-flowers1-tiny.jpg
 metaImage: /img/face.jpg
@@ -35,6 +35,7 @@ address: |-
   Deal Pier
   Kent
 stamp: /img/deal-pier-stamp-tiny.jpg
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-09-25T07:00:48.218Z
 ---
