@@ -7,7 +7,7 @@ description: >-
   abundance. 
 
   Part of the 'Postcards from Deal' collection
-collection: Beautiful Places
+collection: Wonderful Britain
 aspect: landscape
 image: /img/walmer-beach-flowers-tiny.jpg
 metaImage: /img/face.jpg
