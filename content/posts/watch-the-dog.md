@@ -8,7 +8,7 @@ description: >
   Travel through the seasons with a faithful friend. 
 
   Summer often arrives with a flourish and can be temperamental in its duration but the longer brighter days are always welcome.
-collection: Watch the Dog
+collection: "Watch the Dog "
 aspect: portrait
 image: /img/watch-the-dog-summer.jpg
 metaImage: /img/face.jpg
