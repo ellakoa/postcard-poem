@@ -11,7 +11,7 @@ description: >-
   To visit is like stepping into a different dimension, to write about them demanded so much more than a few lines. 
 
   The poem is in three parts. This is part two. 
-collection: Goodwin Sands
+collection: Beautiful Places
 aspect: landscape
 image: /img/goodwinw-sands-part-2-blog.jpg
 metaImage: /img/face.jpg
@@ -35,6 +35,7 @@ address: |-
   The Goodwin Sands
   6 miles offshore 
   Deal
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-08-03T16:37:48.854Z
 ---
