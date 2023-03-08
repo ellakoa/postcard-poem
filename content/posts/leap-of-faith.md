@@ -6,7 +6,7 @@ description: It is always empowering to see a heron launch itself into the air
   around its body like a floaty chiffon wrap. The Norfolk Broads has many fine
   examples of herons, they are often found standing still as statues along the
   river banks with watchful eyes, ready to take flight in an instance.
-collection: Norfolk Views
+collection: Beautiful Creatures
 aspect: portrait
 image: /img/heron-norfolk-broads-leap-of-faith5c-2.jpg
 metaImage: /img/face.jpg
@@ -28,6 +28,7 @@ address: |
   Norfolk Broads
   Norfolk
 stamp: /img/heron-norfolk-broads-leap-of-faith-3-stamp-tiny.jpg
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-11-23T11:05:04.702Z
 ---
