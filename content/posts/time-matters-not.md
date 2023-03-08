@@ -5,7 +5,7 @@ description: >
   grounds of Kearsney Parks, all sporting a favourite spot.
 
   We visited as children, we took our children, and now enjoy the parks with the grandchildren. Recently the parks have had a makeover and I am sure many more will find the magic that has delighted through the years, it is indeed a favourite spot where time matters not.
-collection: Kent Views
+collection: Beautiful Places
 aspect: landscape
 image: /img/cedar-of-lebanon-tree-kearsney-parks-minijpeg.jpg
 metaImage: /img/face.jpg
@@ -30,6 +30,7 @@ address: |-
   Temple Ewell 
   Dover Kent
 stamp: /img/time-matters-not-stamp1tinyjpeg.jpg
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-09-04T06:52:41.266Z
 ---
