@@ -5,7 +5,6 @@ description: >+
   The pier struts out to sea, unapologetically on concrete legs, how smart is
   that? 
 
-  Part of the 'Postcards from Deal' collection
 
 collection: Beautiful Places
 aspect: landscape
