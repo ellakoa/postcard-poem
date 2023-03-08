@@ -8,7 +8,7 @@ description: >-
   rusting away. 
 
   Today the tower stands alone, the only battle it faces is a constant battle against the elements. 
-collection: Wonderful Places
+collection: Wonderful Britain
 aspect: landscape
 image: /img/grain-tower-wrapped-in-chains-tiny.jpg
 metaImage: /img/face.jpg
