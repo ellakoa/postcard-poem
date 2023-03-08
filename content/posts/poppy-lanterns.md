@@ -9,7 +9,7 @@ description: >
   How could I not visit? Camera in hand off we set. It was now late evening and we found the field to be bathed in the last of the setting sun's golden rays. Most of the poppies had closed up shop for the day, it is apparently what they do and in this seemingly simple act, the field appeared to glow with little red lights. How enchanting. 
 
   I like to think this is their act of remembrance.
-collection: Kent Views
+collection: Wonderful Britain
 aspect: landscape
 image: /img/poppy-lanterns-4-2.jpg
 metaImage: /img/beyond-pebbles-face-kingsdown.jpg
@@ -38,6 +38,7 @@ address: |-
   Bishopsbourne
   Kent
 stamp: /img/stamp-1-tiny.png
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-11-06T08:00:21.359Z
 ---
