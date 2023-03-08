@@ -4,7 +4,7 @@ description: "We are fast approaching the longest night and what better way to
   embrace this than to visit some festive lights? The little boats in Ramsgate
   harbour always put on a splendid display bringing some festive cheer to warm
   your heart and make you smile. "
-collection: Kent Views
+collection: Wonderful Britain
 aspect: landscape
 image: /img/little-boats-2-tiny.jpg
 metaImage: /img/face.jpg
@@ -34,6 +34,7 @@ address: |-
   Ramsgate
   Kent
 stamp: /img/little-boats.png
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-12-18T08:00:26.581Z
 ---
