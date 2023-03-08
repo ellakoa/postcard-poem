@@ -37,6 +37,7 @@ address: |
   Watch the Dog 
   Summer
   Garden
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-07-24T10:58:35.956Z
 ---
