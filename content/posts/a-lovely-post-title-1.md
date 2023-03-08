@@ -11,7 +11,7 @@ description: >-
   To visit is like stepping into a different dimension. To write about the sandbanks demanded so much more than a few lines. 
 
   The poem is in three parts. Below is part one.
-collection: Goodwin Sands
+collection: Beautiful Places
 aspect: landscape
 image: /img/goodwinw-sands-part-1-blog.jpg
 metaImage: /img/face.jpg
@@ -35,6 +35,7 @@ address: |
   The Goodwin Sands
   6 miles offshore 
   Deal Kent
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-07-31T07:00:00.000Z
 tags:
