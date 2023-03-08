@@ -8,7 +8,7 @@ description: >
   own special realm. 
 
   ‘A stick and a Float’ is the first of a series of postcards sharing the joy that is the Norfolk Broads.
-collection: Norfolk Views
+collection: Wonderful Britain
 aspect: landscape
 image: /img/norfolk-broads-a-stick-and-a-float-1tiny.jpg
 metaImage: /img/face.jpg
@@ -44,6 +44,7 @@ address: |-
   The Norfolk Broads
   Norfolk UK
 stamp: /img/a-stick-and-a-float-stamp-reeds-1-.png
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-01-29T08:00:38.547Z
 ---
