@@ -9,7 +9,7 @@ description: We came across this dew pond after we had left the track to take
   other. We found a delightful dew pond high up on the heath, sheltered on one
   side by prickly yellow gorse and on the other by fragrant heathers.
   Breathtaking.
-collection: New Forest
+collection: Wonderful Britain
 aspect: landscape
 image: /img/dew-ponds-new-forest-5a-1-.jpg
 metaImage: /img/face.jpg
@@ -33,6 +33,7 @@ address: |-
   Hampshire
   UK
 stamp: /img/dew-pond-new-forest-stamp-tiny.jpg
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-01-22T08:00:40.200Z
 ---
