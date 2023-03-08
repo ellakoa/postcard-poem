@@ -17,7 +17,7 @@ metaImage: /img/face.jpg
 alt: Kingsdown bay, A low spring tide has exposed a vast area of sand behind the
   seaweed covered chalk beds.
 poem: |-
-  I went down to the beach that day when
+  I went down to the beach that day,
   the tower's demise echoed over the bay.
 
   It was March, cold winds were none
