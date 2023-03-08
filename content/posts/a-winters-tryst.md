@@ -7,7 +7,7 @@ description: >-
   The beautiful Alkham Valley is known as a dry valley, so I was surprised one year to see a stream running along the valley floor which increased in width throughout the winter months, only to vanish in the spring.
 
   I had just had my first encounter with ‘The Drellingore’, a ‘winterbourne’ stream transient in nature, dependent upon the weather. It can be many years between its occurrence. I was captivated.
-collection: Kent Views
+collection: Wonderful Britain
 aspect: landscape
 image: /img/craft-project-4-1-.jpg
 metaImage: /img/face.jpg
@@ -42,6 +42,7 @@ address: |-
   Kent
   UK
 stamp: /img/alkham-valley-drellingore-stamp2-1-.jpg
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-02-12T08:00:22.553Z
 ---
