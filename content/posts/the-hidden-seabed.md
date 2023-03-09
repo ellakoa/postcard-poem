@@ -1,6 +1,6 @@
 ---
 title: The Hidden Seabed
-description: It has been eleven years since the Richborough towers were
+description: It has been eleven years since the Richborough cooling towers were
   demolished. I was often asked if I was going to be there to grab a photo. I
   thought about it but as chance would have it the Sunday in question coincided
   with a predicted low spring tide. The low tide won and it turned out to be one
@@ -26,8 +26,8 @@ poem: |-
 
   The tide went low, exceptionally low.
 
-  Many had witnessed the towers 
-  bought to their knees 
+  Many had witnessed the cooling 
+  towers bought to their knees 
   with a cheer, then a sigh
   as rubble and dust filled the sky.
 
