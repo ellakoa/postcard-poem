@@ -2,8 +2,8 @@
 title: Hushed by Snow
 description: Haiku, a short Japanese poem capturing a moment in time.
 collection: Haiku
-aspect: portrait
-image: /img/hushed-by-snow-blog-1.jpg
+aspect: landscape
+image: /img/hushed-by-snow-blog-1-a-1-.jpg
 metaImage: /img/face.jpg
 alt: A Cedar of Lebanon tree, branches are hanging, heavy with snow. Snow covers
   the ground.
