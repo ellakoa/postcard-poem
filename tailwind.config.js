@@ -10,7 +10,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        stamp: ['Calton', ...defaultTheme.fontFamily.sans],
+        stamp: ['Courier', ...defaultTheme.fontFamily.sans],
         sans: ['OllieWollie', ...defaultTheme.fontFamily.sans],
         serif: ['MiniStory', ...defaultTheme.fontFamily.serif],
       },

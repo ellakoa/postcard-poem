@@ -63,16 +63,16 @@ export default function Post(props: PostProps) {
           <ul className='flex justify-between flex-wrap my-10'>
             {!!prev?.slug && (
               <li>
-                <Link href={prev.slug}>
-                  <a className='hover:underline'>&#8592; {prev.title}</a>
-                </Link>
+                <StampCta href={prev.slug}>
+                  <a className=''>&#8592; {prev.title}</a>
+                </StampCta>
               </li>
             )}
             {!!next?.slug && (
               <li className='ml-auto'>
-                <Link href={next.slug}>
-                  <a className='hover:underline'>{next.title} &#8594;</a>
-                </Link>
+                <StampCta href={next.slug}>
+                  <a className=''>{next.title} &#8594;</a>
+                </StampCta>
               </li>
             )}
           </ul>

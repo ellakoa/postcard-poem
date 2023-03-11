@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import StampCta from './StampCta'
 
 interface BreadcrumbLink {
   url: string
@@ -13,9 +14,9 @@ const Breadcrumbs = (props: breadcrumbsProps) => {
     <ul className='flex gap-4 flex-wrap py-4'>
       {links.map(({ url, label }: BreadcrumbLink, index) => (
         <li key={index} className=''>
-          <Link href={url}>
-            <a className='hover:underline cursor-pointer'>{label}</a>
-          </Link>
+          <StampCta href={url}>
+            <a className=''>{label}</a>
+          </StampCta>
         </li>
       ))}
     </ul>

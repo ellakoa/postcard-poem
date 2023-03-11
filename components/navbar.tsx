@@ -4,6 +4,7 @@ import * as settings from '../content/settings.yaml'
 import Image from 'next/image'
 import Link from 'next/link'
 import Card from './Card'
+import StampCta from './StampCta'
 
 export default function Header() {
   const [isOpen, setIsOpen] = useState(false)
@@ -72,13 +73,13 @@ export default function Header() {
             <ul className='pt-6 md:pt-0 list-reset md:flex justify-end flex-1 items-center'>
               {navigation.items.map(({ url, text }: any, index: number) => (
                 <li key={index} className='nav__item mb-3 md:mb-0 md:mr-3'>
-                  <a
+                  <StampCta
+                    className='text-xl inline-block'
                     onClick={() => setIsOpen(false)}
-                    className='stamp text-xl inline-block'
                     href={url}
                   >
                     {text}
-                  </a>
+                  </StampCta>
                 </li>
               ))}
             </ul>

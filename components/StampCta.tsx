@@ -5,12 +5,13 @@ interface StampCtaProps {
   href: string
   className?: string
   children?: ReactNode
+  onClick?: any
 }
 const StampCta = (props: StampCtaProps) => {
-  const { children, className, href } = props
+  const { children, className, href, onClick } = props
   return (
-    <Link href={href}>
-      <a className={`stamp no-underline ${className}`}>{children}</a>
+    <Link href={href} onClick={onClick}>
+      <a className={`font-stamp stamp no-underline ${className}`}>{children}</a>
     </Link>
   )
 }
@@ -18,5 +19,6 @@ StampCta.defaultProps = {
   children: <></>,
   className: '',
   href: '',
+  onClick: () => {},
 }
 export default StampCta

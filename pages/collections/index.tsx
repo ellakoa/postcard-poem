@@ -4,6 +4,8 @@ import Image from 'next/image'
 import { join } from 'path'
 import Meta from '../../components/meta'
 import * as attributes from '../../content/navigation.yaml'
+import Card from '../../components/Card'
+import PageHeading from '../../components/PageHeading'
 const POSTS_PATH = join(process.cwd(), 'content/posts')
 
 interface CollectionsProps {
@@ -15,19 +17,21 @@ export default function Collections(props: CollectionsProps) {
   const { collections } = attributes
   const CollectionLink = ({ text, image }: { text: string; image: string }) => (
     <Link href={`/collections/${text}`}>
-      <a className='flex gap-2 flex-col shadow-2xl rounded-sm p-3 bg-white   relative'>
-        <span className='self-end'>
-          <Image
-            src={image}
-            alt=''
-            objectFit={'contain'}
-            width={160}
-            height={140}
-            layout={'fixed'}
-            objectPosition={'top right'}
-          />
-        </span>
-        <span className='block'>{text}</span>
+      <a>
+        <Card className='flex gap-2 flex-col p-3 relative'>
+          <span className='self-end'>
+            <Image
+              src={image}
+              alt=''
+              objectFit={'contain'}
+              width={160}
+              height={140}
+              layout={'fixed'}
+              objectPosition={'top right'}
+            />
+          </span>
+          <span className='block'>{text}</span>
+        </Card>
       </a>
     </Link>
   )
@@ -39,9 +43,7 @@ export default function Collections(props: CollectionsProps) {
       <Head>
         <Meta />
       </Head>
-      <div className='container max-w-3xl my-10 px-3 md:px-6'>
-        <h1 className='font-bold font-serif text-5xl mb-10'>Collections</h1>
-      </div>
+      <PageHeading title='Collections' />
       <div className='container max-w-3xl my-10 px-3 md:px-6'>
         <ul className='grid xs:grid-cols-2 gap-4 sm:grid-cols-3'>
           {collections.map(CollectionLink)}
