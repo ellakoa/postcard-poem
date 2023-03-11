@@ -41,7 +41,7 @@ address: |-
   Kingsdown 
   Kent
   UK
-stamp: /img/the-hidden-seabed-kingsdown-stamp-2-.png
+stamp: /img/the-hidden-seabed-kingsdown-2693.jpg
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-03-12T08:00:00.000Z
