@@ -8,7 +8,7 @@ description: >-
   Discussing the tide with a gentleman I met, he said it was the lowest he had seen it for 20 years, explaining the high pressure had caused the tide to go out further than predicted. What is normally seen as a pebble beach with chalk beds at Kingsdown in Kent, opened up as a vast area of sand, it was magical.
 collection: Beyond the Pebbles
 aspect: landscape
-image: /img/the-hidden-seabed-kingsdown-1-.jpg
+image: /img/the-hidden-seabed-kingsdown-2693.jpg
 metaImage: /img/face.jpg
 alt: Kingsdown bay, A low spring tide has exposed a vast area of sand behind the
   seaweed covered chalk beds.
