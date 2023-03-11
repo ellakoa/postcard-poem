@@ -1,6 +1,6 @@
 ---
 title: Silent Footsteps
-description: Sometimes the a morning is just perfect, and needs no other
+description: Sometimes the morning is just perfect and needs no other
   introduction. This was one such morning, enjoy an early morning stroll in a
   field of blue.
 collection: Kent Views
