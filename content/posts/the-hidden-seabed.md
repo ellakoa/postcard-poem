@@ -1,6 +1,6 @@
 ---
 title: The Hidden Seabed
-description: >
+description: >-
   It has been eleven years since the Richborough cooling towers were demolished.
   Very few were down the beach that Sunday morning, it seemed many had gone to
   see the Richborough cooling tower's demise. The sound of the explosion echoed
@@ -30,7 +30,7 @@ poem: |-
 
   Few it seemed had ventured out 
   and cared to tread 
-  on what was usually the hidden seabed
+  on the unhidden seabed
   To marvel at their grand reveal
   in that magical hour 
   when the tide is still.
