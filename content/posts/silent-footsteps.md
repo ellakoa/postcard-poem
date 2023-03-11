@@ -14,7 +14,7 @@ poem: |-
   easing the night from the mind.
 
   Strolling amidst the violet-blue
-  silent footsteps, are wet with dew.
+  silent footsteps are wet with dew.
 
   Sunlight slips between trees
   gold slowly drips from their leaves.
@@ -25,7 +25,7 @@ poem: |-
   Looking up towards the sky
   a flock of birds pass by,
 
-  and with the birds, spirits soar
+  and with the birds, my spirits soar
   awake and restored.
 alignPoemLeft: false
 address: |-
