@@ -2,6 +2,7 @@
 title: Silent Footsteps
 description: Sometimes the a morning is just perfect, and needs no other
   introduction. Enjoy an early morning stroll.
+collection: Kent Views
 aspect: landscape
 image: /img/blue-field-1.jpg
 metaImage: /img/face.jpg
