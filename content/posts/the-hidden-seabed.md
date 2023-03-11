@@ -8,12 +8,12 @@ description: >-
   Discussing the tide with a gentleman I met, he said it was the lowest he had seen it for 20 years, explaining the high pressure had caused the tide to go out further than predicted. What is normally seen as a pebble beach with chalk beds at Kingsdown in Kent, opened up as a vast area of sand, it was magical.
 collection: Beyond the Pebbles
 aspect: landscape
-image: /img/hidden-seabed-kingsdown-new-1.jpg
+image: /img/the-hidden-seabed-kingsdown-1-.jpg
 metaImage: /img/face.jpg
 alt: Kingsdown bay, A low spring tide has exposed a vast area of sand behind the
   seaweed covered chalk beds.
 poem: |-
-  I went down to the beach that day,
+  I went down to the beach that day
   the tower's demise echoed over the bay.
 
   It was March, cold winds were none
@@ -22,7 +22,7 @@ poem: |-
 
   The tide went low, exceptionally low.
 
-  Many had witnessed the cooling 
+  Many had gone to see the cooling 
   towers bought to their knees 
   with a sudden cheer, then a sigh
   as rubble and dust filled the sky.
