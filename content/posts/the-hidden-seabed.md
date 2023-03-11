@@ -1,15 +1,12 @@
 ---
 title: The Hidden Seabed
-description: It has been eleven years since the Richborough cooling towers were
-  demolished. I was often asked if I was going to be there to grab a photo. I
-  thought about it but as chance would have it the Sunday in question coincided
-  with a predicted low spring tide. The low tide won and it turned out to be one
-  of the lowest I have seen. Very few were down the beach that morning, most
-  were off to see the towers demolished. The sound of which echoed over the bay.
-  Discussing the tide with a gentleman I met, he said it was the lowest he had
-  seen it for 20 years, explaining the high pressure had caused the tide to go
-  out further than predicted. What is normally seen as pebbles and chalk beds,
-  opened up as a vast area of sand, it was magical.
+description: >
+  It has been eleven years since the Richborough cooling towers were demolished.
+  Very few were down the beach that Sunday morning, it seemed many had gone to
+  see the Richborough cooling tower's demise. The sound of the explosion echoed
+  over the bay. 
+
+  Discussing the tide with a gentleman I met, he said it was the lowest he had seen it for 20 years, explaining the high pressure had caused the tide to go out further than predicted. What is normally seen as pebble beach and chalk beds at Kingsdown in Kent, opened up as a vast area of sand, it was magical.
 collection: Beyond the Pebbles
 aspect: landscape
 image: /img/hidden-seabed-kingsdown-new.jpg
@@ -28,7 +25,7 @@ poem: |-
 
   Many had witnessed the cooling 
   towers bought to their knees 
-  with a cheer, then a sigh
+  with a sudden cheer, then a sigh
   as rubble and dust filled the sky.
 
   Few it seemed had ventured out 
@@ -38,7 +35,7 @@ poem: |-
   in that magical hour 
   when the tide is still.
 
-  The tide went low, exceptionally low.
+  The tide was low, magically so.
 alignPoemLeft: false
 address: |-
   The Hidden Seabed
