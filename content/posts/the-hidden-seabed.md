@@ -17,8 +17,9 @@ poem: |-
   I went down to the beach that day
   the tower's demise echoed over the bay.
 
-  It was March, cold winds were none
-  The day was warm, with a southerly breeze
+  It was March the cold winds were none
+  The day was warm, 
+  with a southerly breeze
   High pressure depressed the silent sea
 
   The tide went low, exceptionally low.
@@ -28,7 +29,7 @@ poem: |-
   with a sudden cheer, then a sigh
   as rubble and dust filled the sky.
 
-  Few it seemed had ventured out 
+  Very few had ventured out 
   and cared to tread 
   on the unhidden seabed
   To marvel at their grand reveal
