@@ -14,10 +14,10 @@ poem: |-
   easing the night from the mind.
 
   Strolling amidst the violet-blue
-  silent footsteps, wet with dew.
+  silent footsteps, are wet with dew.
 
   Sunlight slips between trees
-  gold slowly drips from leaves.
+  gold slowly drips from their leaves.
 
   Early mists hover, then break
   A subtle warmth eases aches.
