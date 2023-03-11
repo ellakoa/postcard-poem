@@ -105,6 +105,14 @@ collections:
             fields:
               - { label: Title, name: text, widget: string }
               - { label: URL, name: url, widget: string }
+          - label: Collections
+            name: collections
+            widget: list
+            allow_add: true
+            collapsed: false
+            fields:
+              - { label: Label, name: text, widget: string }
+              - { label: 'Image', name: 'image', widget: image }
       - label: 'Settings'
         name: 'settings'
         file: 'content/settings.yaml'

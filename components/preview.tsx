@@ -1,5 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
+import Card from './Card'
+import StampCta from './StampCta'
 
 export default function Preview(item: any, index: number) {
   const { slug, attributes } = item
@@ -13,8 +15,8 @@ export default function Preview(item: any, index: number) {
     stamp,
   } = attributes
   return (
-    <li className='shadow-2xl rounded-sm p-3 bg-white' key={index}>
-      <>
+    <li key={index}>
+      <Card className='p-3'>
         {showStampInPreview ? (
           <div className='ml-auto max-w-[200px] md:hidden aspect-video relative overflow-hidden flex-grow-0 flex-shrink-0 basis-[200px] mb-2'>
             <Image
@@ -54,19 +56,18 @@ export default function Preview(item: any, index: number) {
         </div>
         <div className='flex gap-4 md:justify-end'>
           {!!collection && (
-            <Link href={`/collections/${collection}`}>
-              <a className='flex-1 md:flex-initial   text-center font-bold text-sm px-2 py-1 border border-black rounded hover:bg-black hover:bg-opacity-20'>
-                Visit collection
-              </a>
-            </Link>
+            <StampCta
+              href={`/collections/${collection}`}
+              className='flex-1 md:flex-initial'
+            >
+              Visit collection
+            </StampCta>
           )}
-          <Link href={`/posts/${slug}`}>
-            <a className='flex-1 md:flex-initial   text-center font-bold text-sm px-2 py-1 border border-black rounded hover:bg-black hover:bg-opacity-20'>
-              Read post
-            </a>
-          </Link>
+          <StampCta href={`/posts/${slug}`} className='flex-1 md:flex-initial'>
+            Read post
+          </StampCta>
         </div>
-      </>
+      </Card>
     </li>
   )
 }

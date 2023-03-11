@@ -9,6 +9,8 @@ import Postcard from '../components/postcard'
 import Link from 'next/link'
 import Meta from '../components/meta'
 import sizeOf from 'image-size'
+import Card from '../components/Card'
+import StampCta from '../components/StampCta'
 const PUBLIC_PATH = join(process.cwd(), 'public')
 const Home: NextPage = ({
   imageWidth,
@@ -31,8 +33,8 @@ const Home: NextPage = ({
           defer
         ></script>
       </Head>
-      <div className='relative'>
-        <div className='w-full h-auto object-cover bg-blend-darken'>
+      <div className='relative p-3'>
+        <Card className='w-full h-auto object-cover'>
           {!!imageSrc && (
             <Image
               layout='responsive'
@@ -42,7 +44,7 @@ const Home: NextPage = ({
               height={imageHeight}
             />
           )}
-        </div>
+        </Card>
       </div>
       <div className='container prose lg:prose-xl text-center my-10 p-3'>
         <h1 className='font-serif text-5xl'>{title}</h1>
@@ -50,9 +52,9 @@ const Home: NextPage = ({
       </div>
       <article className='container max-w-5xl px-3 md:px-6 my-10 flex flex-col'>
         <Postcard {...{ ...latest.attributes, ...postcardAttributes }}>
-          <Link href={`/posts/${latest.slug}`}>
-            <a className='ml-auto underline'>Read more</a>
-          </Link>
+          <StampCta href={`/posts/${latest.slug}`} className='ml-auto'>
+            Read more
+          </StampCta>
         </Postcard>
       </article>
     </>

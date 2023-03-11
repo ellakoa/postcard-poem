@@ -5,6 +5,7 @@ module.exports = {
   content: [
     './pages/**/*.{js,ts,jsx,tsx}',
     './components/**/*.{js,ts,jsx,tsx}',
+    './public/**/*/.{svg}',
   ],
   theme: {
     extend: {
@@ -13,6 +14,10 @@ module.exports = {
         sans: ['OllieWollie', ...defaultTheme.fontFamily.sans],
         serif: ['MiniStory', ...defaultTheme.fontFamily.serif],
       },
+    },
+    screens: {
+      xs: '400px',
+      ...defaultTheme.screens,
     },
     container: {
       center: true,
