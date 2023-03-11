@@ -3,7 +3,7 @@ title: Silent Footsteps
 description: Sometimes the morning is just perfect and needs no other
   introduction. This was one such morning, enjoy an early morning stroll in a
   field of blue.
-collection: Kent Views
+collection: Wonderful Britain
 aspect: landscape
 image: /img/blue-field-1.jpg
 metaImage: /img/face.jpg
