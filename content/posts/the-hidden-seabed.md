@@ -2,8 +2,9 @@
 title: The Hidden Seabed
 description: >-
   It has been eleven years since the Richborough cooling towers were demolished.
-  Very few were down the beach that Sunday morning, it seemed many had gone to
-  see the tower's demise. The sound of the explosion echoed over the bay. 
+  Very few went down to Kingsdown beach that Sunday morning, it seemed many had
+  gone to see the tower's demise. The sound of the explosion echoed over the
+  bay. 
 
   Discussing the tide with a gentleman I met, he said it was the lowest he had seen it for 20 years, explaining the high pressure had caused the tide to go out further than predicted. What is normally seen as a pebble beach with chalk beds at Kingsdown in Kent, opened up as a vast area of sand, it was magical.
 collection: Beyond the Pebbles
