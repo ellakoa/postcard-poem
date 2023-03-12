@@ -20,7 +20,7 @@ poem: |-
   It was March the cold winds were none
   The day was warm, 
   with a southerly breeze
-  High pressure depressed the silent sea
+  High pressure depressed the silent sea.
 
   The tide went low, exceptionally low.
 
