@@ -20,7 +20,7 @@ address: |-
   Kent
   UK
 stamp: /img/blackthorn-winter-stamp-1-new.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-02-22T08:00:00.000Z
 ---
