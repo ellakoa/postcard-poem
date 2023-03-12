@@ -29,7 +29,8 @@ address: |-
   Beyond the Pebbles
   Oldstairs Bay
   Kingsdown
-stamp: /img/beyond-the-pebbles-stamp1-tiny-jpeg.jpg
+stamp: /img/beyond-the-pebbles-stamp-1.png
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-09-11T07:00:20.477Z
 ---
