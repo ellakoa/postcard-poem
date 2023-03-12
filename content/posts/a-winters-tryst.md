@@ -41,7 +41,7 @@ address: |-
   Alkham valley
   Kent
   UK
-stamp: /img/alkham-valley-drellingore-stamp2-1-.jpg
+stamp: /img/a-winters-tryst-stamp-1.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-02-12T08:00:22.553Z
