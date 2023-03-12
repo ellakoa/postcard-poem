@@ -30,7 +30,7 @@ address: |-
   Oldstairs Bay
   Kingsdown
 stamp: /img/beyond-the-pebbles-stamp-1.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-09-11T07:00:20.477Z
 ---
