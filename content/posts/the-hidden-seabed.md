@@ -25,7 +25,7 @@ poem: |-
   The tide went low, exceptionally low.
 
   Many had gone to see the cooling 
-  towers bought to their knees 
+  towers brought to their knees 
   with a sudden cheer, then a sigh
   as rubble and dust filled the sky.
 
