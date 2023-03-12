@@ -11,7 +11,7 @@ description: "Weeks before any trip I always buy a paper map of the area and
   the sea. I swam in the tidal pool surrounded by stars, how heavenly. "
 collection: Wonderful Britain
 aspect: landscape
-image: /img/swimming-with-stars-dancing-ledge-main1-tiny.jpg
+image: /img/swimming-with-stars-dancing-ledge-blog-new-1.jpg
 metaImage: /img/face.jpg
 alt: Chapman's pool, a tidal pool at Dancing Ledge Dorset, a lone swimmer,
   starbursts of sunlight dance on the water
