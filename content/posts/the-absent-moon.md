@@ -5,7 +5,7 @@ description: You never know what you are going to find as you amble along. Well,
   trying to be incognito on the ground. I guess we all deserve a rest day.
 collection: Beyond the Pebbles
 aspect: landscape
-image: /img/the-absent-moon-tiny.jpg
+image: /img/incognito-blog-1-new.jpg
 metaImage: /img/face.jpg
 alt: Oldstairs bay, in the sand is a large crater that looks like the moon,
   seaweed for eyes and mouth and a long chalk nose
@@ -28,7 +28,8 @@ address: |-
   Oldstairs Bay
   Kingsdown
   Kent
-stamp: /img/the-absent-moon-stamp-tiny.jpg
+stamp: /img/incognito-stamp-1-.png
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-12-04T08:00:07.347Z
 ---
