@@ -6,7 +6,7 @@ description: "We are fast approaching the longest night and what better way to
   your heart and make you smile. "
 collection: Wonderful Britain
 aspect: landscape
-image: /img/little-boats-2-tiny.jpg
+image: /img/little-boats-blog-new-1.jpg
 metaImage: /img/face.jpg
 alt: Night time scene of Ramsgate harbour, The little boats are lit up with
   festive lights which reflect in the water
