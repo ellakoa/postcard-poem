@@ -31,7 +31,8 @@ address: |-
   Kingsdown
   Kent
   UK
-stamp: /img/kingsdown-kent-stamp-1-tiny.png
+stamp: /img/kingsdown-kent-stamp-new-1.png
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-02-26T08:00:22.312Z
 ---
