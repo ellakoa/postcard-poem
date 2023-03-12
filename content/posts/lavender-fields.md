@@ -4,7 +4,7 @@ description: |
   Haiku, a short Japanese poem capturing a moment in time.
 collection: Haiku
 aspect: portrait
-image: /img/summer-bottled-1-.jpg
+image: /img/summer-bottled-blog-new.png
 metaImage: /img/face.jpg
 alt: "Lavender Fields, rows of lavender in bloom, the rows disappearing into the
   distance on a sunny day. "
@@ -24,7 +24,8 @@ address: |-
   Lavender Fields
   Kent 
   UK
-stamp: /img/lavender-fields-stamp-1-.jpg
+stamp: /img/summer-bottled-stamp-1-new.png
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-02-08T08:00:50.031Z
 ---
