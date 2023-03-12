@@ -13,7 +13,7 @@ description: You can tell that it is almost winter when The Beast from the East
   dreamed about her destination.
 collection: Wonderful Britain
 aspect: landscape
-image: /img/folkestone-washer-women-tiny.jpg
+image: /img/folkestone-washer-women-blog-new-1-.jpg
 metaImage: /img/face.jpg
 alt: "Folkestone Harbour train signal box, view towards the town and north
   downs, black rain clouds loom above "
@@ -40,7 +40,7 @@ address: |-
   The Folkestone Washer-Women
   Folkestone
   Kent
-stamp: /img/weather-folkestone-stamp-tiny.jpg
+stamp: /img/folkestone-washer-women-stamp-new-1.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-12-11T08:00:14.837Z
