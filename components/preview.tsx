@@ -2,6 +2,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import Card from './Card'
 import StampCta from './StampCta'
+import StampCtaRow from './StampCtaRow'
 
 export default function Preview(item: any, index: number) {
   const { slug, attributes } = item
@@ -54,19 +55,13 @@ export default function Preview(item: any, index: number) {
             <p className='hidden md:block text-base mb-3 '>{description}</p>
           </div>
         </div>
-        <div className='flex gap-4 md:justify-end'>
-          {!!collection && (
-            <StampCta
-              href={`/collections/${collection}`}
-              className='flex-1 md:flex-initial'
-            >
-              Visit collection
-            </StampCta>
-          )}
-          <StampCta href={`/posts/${slug}`} className='flex-1 md:flex-initial'>
-            Read post
-          </StampCta>
-        </div>
+        <StampCtaRow
+          ctaClassName='text-sm'
+          items={[
+            { url: `/collections/${collection}`, text: 'Visit collection' },
+            { url: `/posts/${slug}`, text: 'Read post' },
+          ]}
+        />
       </Card>
     </li>
   )

@@ -3,14 +3,15 @@ import { ReactNode } from 'react'
 interface CardProps {
   children?: ReactNode
   className?: string
-  bottomOnly?: boolean
+  roughBottom?: boolean
+  roughTop?: boolean
 }
 const Card = (props: CardProps) => {
-  const { children, className, bottomOnly } = props
+  const { children, className, roughBottom, roughTop } = props
   return (
     <div
       className={`h-full bg-[url('/img/svg/white-paper-texture.svg')] shadow-2xl rounded-sm ${className} ${
-        bottomOnly ? 'rough-bottom' : 'rough-edge'
+        roughBottom ? 'rough-bottom' : roughTop ? 'rough-top' : 'rough-edge'
       }`}
     >
       {children}
@@ -20,6 +21,7 @@ const Card = (props: CardProps) => {
 Card.defaultProps = {
   children: <></>,
   className: '',
-  bottomOnly: false,
+  roughBottom: false,
+  roughTop: false,
 }
 export default Card

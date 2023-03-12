@@ -6,12 +6,26 @@ interface StampCtaProps {
   className?: string
   children?: ReactNode
   onClick?: any
+  color?: 'indigo' | 'red' | 'green' | 'black'
 }
 const StampCta = (props: StampCtaProps) => {
-  const { children, className, href, onClick } = props
+  const { children, className, color, href, onClick } = props
   return (
-    <Link href={href} onClick={onClick}>
-      <a className={`font-stamp stamp no-underline ${className}`}>{children}</a>
+    <Link href={href}>
+      <a
+        onClick={onClick}
+        className={` stamp  ${className} ${
+          color === 'red'
+            ? 'text-red-800'
+            : color === 'green'
+            ? 'text-green-900'
+            : color === 'indigo'
+            ? 'text-indigo-900'
+            : ''
+        }`}
+      >
+        {children}
+      </a>
     </Link>
   )
 }

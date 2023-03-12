@@ -5,13 +5,14 @@ import Image from 'next/image'
 import Link from 'next/link'
 import Card from './Card'
 import StampCta from './StampCta'
+import StampCtaRow from './StampCtaRow'
 
 export default function Header() {
   const [isOpen, setIsOpen] = useState(false)
   const { name, image, width, height } = settings
   return (
     <Card
-      bottomOnly={true}
+      roughBottom={true}
       className='md:sticky z-10 top-0 left-0 w-full px-3 md:px-6'
     >
       <nav className='flex items-center justify-center md:justify-between flex-wrap py-3 container mx-auto'>
@@ -69,21 +70,10 @@ export default function Header() {
             isOpen ? 'blockshadow-3xl' : 'hidden'
           }`}
         >
-          {navigation.items && (
-            <ul className='pt-6 md:pt-0 list-reset md:flex justify-end flex-1 items-center'>
-              {navigation.items.map(({ url, text }: any, index: number) => (
-                <li key={index} className='nav__item mb-3 md:mb-0 md:mr-3'>
-                  <StampCta
-                    className='text-xl inline-block'
-                    onClick={() => setIsOpen(false)}
-                    href={url}
-                  >
-                    {text}
-                  </StampCta>
-                </li>
-              ))}
-            </ul>
-          )}
+          <StampCtaRow
+            items={navigation.items}
+            onClick={() => setIsOpen(false)}
+          />
         </div>
       </nav>
     </Card>

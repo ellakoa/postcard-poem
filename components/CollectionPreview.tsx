@@ -1,5 +1,4 @@
 import Image from 'next/image'
-import Link from 'next/link'
 import Card from './Card'
 import StampCta from './StampCta'
 
@@ -31,7 +30,10 @@ export default function CollectionPreview(item: any, index: number) {
           <div className='flex gap-4 md:justify-end'>
             <StampCta
               href={`/posts/${slug}`}
-              className=' flex-1 md:flex-initial'
+              className={'flex-1 md:flex-initial'}
+              color={
+                index % 3 === 0 ? 'red' : index % 2 === 0 ? 'green' : 'indigo'
+              }
             >
               Read post
             </StampCta>
