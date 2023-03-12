@@ -6,10 +6,10 @@ description: >-
   gone to see the tower's demise. The sound of the explosion echoed over the
   bay. 
 
-  Discussing the tide with a gentleman I met, he said it was the lowest he had seen it for 20 years, explaining the high pressure had caused the tide to go out further than predicted. What is normally seen as a pebble beach with chalk beds at Kingsdown in Kent, opened up as a vast area of sand, it was magical.
+  Discussing the tide with a gentleman I met, he said it was the lowest he had seen it for 20 years, explaining the high pressure had caused the spring tide to go out further than predicted. What is normally seen as a pebble beach with chalk beds at Kingsdown in Kent, opened up as a vast area of sand, it was magical.
 collection: Beyond the Pebbles
 aspect: landscape
-image: /img/the-hidden-seabed-kingsdown-2693.jpg
+image: /img/kingsdown-hidden-seabed-main-pic-3-2.jpg
 metaImage: /img/face.jpg
 alt: Kingsdown bay, A low spring tide has exposed a vast area of sand behind the
   seaweed covered chalk beds.
@@ -20,7 +20,7 @@ poem: |-
   It was March the cold winds were none
   The day was warm, 
   with a southerly breeze
-  High pressure depressed the silent sea
+  High pressure depressed the silent sea.
 
   The tide went low, exceptionally low.
 
