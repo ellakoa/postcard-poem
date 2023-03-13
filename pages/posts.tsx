@@ -2,6 +2,7 @@ import fs from 'fs'
 import Head from 'next/head'
 import { join } from 'path'
 import Meta from '../components/meta'
+import PageHeading from '../components/PageHeading'
 import Preview from '../components/preview'
 
 const POSTS_PATH = join(process.cwd(), 'content/posts')
@@ -16,9 +17,7 @@ export default function Posts(props: PostsProps) {
       <Head>
         <Meta />
       </Head>
-      <div className='container max-w-3xl my-10 px-3 md:px-6'>
-        <h1 className='font-bold font-serif text-5xl mb-10'>Posts</h1>
-      </div>
+      <PageHeading title='Posts' />
       <div className='container max-w-3xl my-10 px-3 md:px-6'>
         <ul className='grid gap-4 sm:grid-cols-2 md:grid-cols-1'>
           {!!posts && posts.map(Preview)}

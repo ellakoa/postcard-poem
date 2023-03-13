@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import './clip-paths.css';
 
 @font-face {
   font-family: 'Calton';
@@ -47,4 +48,20 @@
   src: url('/font/OllieWollie-BoldItalic.ttf') format('truetype');
   font-weight: bold;
   font-style: italic;
+}
+
+body {
+  @apply text-neutral-800;
+}
+.ink {
+  @apply border-dashed border-neutral-800 border-opacity-90 text-opacity-90 mix-blend-multiply;
+}
+
+.stamp {
+  @apply opacity-80 mix-blend-multiply px-1 rounded;
+  @apply uppercase text-center font-bold font-stamp no-underline;
+  @apply border-[5px] border-double border-current;
+  @apply hover:underline;
+  -webkit-mask-image: url('/img/grunge.png');
+  -webkit-mask-size: 400px 604px;
 }

@@ -7,6 +7,7 @@ import Link from 'next/link'
 import Meta from '../../components/meta'
 import * as siteSettings from '../../content/settings.yaml'
 import sizeOf from 'image-size'
+import StampCta from '../../components/StampCta'
 
 interface PageInfo {
   title: string
@@ -42,22 +43,15 @@ export default function Post(props: PostProps) {
             </time>
           </p>
           {!!collection && (
-            <Link href={`/collections/${collection}`}>
-              <a className='flex-1 md:flex-initial no-underline text-center font-bold text-lg px-2 py-1 border border-black rounded hover:bg-black hover:bg-opacity-20'>
-                Visit collection: {collection}
-              </a>
-            </Link>
+            <StampCta
+              href={`/collections/${collection}`}
+              className='flex-1 md:flex-initial'
+            >
+              Visit collection: {collection}
+            </StampCta>
           )}
         </header>
         <Postcard className='md:mx-auto' {...attributes} />
-        {/* {!!collection && (
-        <Link href={`/posts?collection=${collection}`}>
-          <a className='text-center block hover:underline'>
-            Visit collection: {collection}
-          </a>
-        </Link>
-      )} */}
-
         {html && (
           <div
             className='prose lg:prose-xl my-10'
@@ -69,16 +63,16 @@ export default function Post(props: PostProps) {
           <ul className='flex justify-between flex-wrap my-10'>
             {!!prev?.slug && (
               <li>
-                <Link href={prev.slug}>
-                  <a className='hover:underline'>&#8592; {prev.title}</a>
-                </Link>
+                <StampCta href={prev.slug}>
+                  <a className=''>&#8592; {prev.title}</a>
+                </StampCta>
               </li>
             )}
             {!!next?.slug && (
               <li className='ml-auto'>
-                <Link href={next.slug}>
-                  <a className='hover:underline'>{next.title} &#8594;</a>
-                </Link>
+                <StampCta href={next.slug}>
+                  <a className=''>{next.title} &#8594;</a>
+                </StampCta>
               </li>
             )}
           </ul>

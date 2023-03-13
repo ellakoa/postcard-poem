@@ -1,4 +1,5 @@
 import Image, { StaticImageData } from 'next/image'
+import Card from './Card'
 
 interface PostCardProps {
   poem: any
@@ -15,6 +16,7 @@ interface PostCardProps {
   stampWidth: number
   stampHeight: number
   video?: string
+  removePostcardPadding?: boolean
 }
 const Postcard = (props: PostCardProps) => {
   const {
@@ -32,6 +34,7 @@ const Postcard = (props: PostCardProps) => {
     stampWidth,
     stampHeight,
     video,
+    removePostcardPadding,
   } = props
   const addressLines = address
     .split(/\n/g)
@@ -39,10 +42,10 @@ const Postcard = (props: PostCardProps) => {
 
   return (
     <div className={`gap-10 lg:my-5 flex flex-col items-center ${className}`}>
-      <div
-        className={`md:p-4 bg-white shadow-2xl rounded-sm inline-block w-full ${
+      <Card
+        className={` inline-block w-full ${
           aspect === 'landscape' ? '' : 'max-w-md'
-        }`}
+        } ${removePostcardPadding ? '' : 'md:p-4'}`}
       >
         {video ? (
           <iframe
@@ -65,12 +68,12 @@ const Postcard = (props: PostCardProps) => {
             height={height}
           />
         )}
-      </div>
-      <div
-        className={`shadow-2xl rounded-sm md:p-4 grid bg-white md:grid-cols-[4fr_3fr] w-full gap-4 max-w-full`}
+      </Card>
+      <Card
+        className={`md:p-4 grid md:grid-cols-[4fr_3fr] w-full gap-4 max-w-full`}
       >
         <div
-          className={`font-sans py-10 px-5 md:py-5 items-center flex ${
+          className={`ink font-sans py-10 px-5 md:py-5 items-center flex ${
             alignPoemLeft ? '' : 'text-center'
           } justify-center md:text-2xl flex-col whitespace-pre-wrap border-t md:border-t-0 md:border-r`}
           dangerouslySetInnerHTML={{ __html: poem }}
@@ -86,7 +89,7 @@ const Postcard = (props: PostCardProps) => {
               height={stampHeight}
             />
           </div>
-          <div className='mx-auto md:mt-auto'>
+          <div className='ink mx-auto md:mt-auto'>
             <ul className='text-2xl md:text-3xl space-y-4 pb-16'>
               {addressLines?.map((line: string, index: number) => (
                 <li
@@ -99,7 +102,7 @@ const Postcard = (props: PostCardProps) => {
             </ul>
           </div>
         </div>
-      </div>
+      </Card>
       {children}
     </div>
   )
@@ -107,5 +110,6 @@ const Postcard = (props: PostCardProps) => {
 Postcard.defaultProps = {
   alignPoemLeft: false,
   className: '',
+  removePostcardPadding: false,
 }
 export default Postcard

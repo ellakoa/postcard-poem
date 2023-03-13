@@ -5,3 +5,12 @@ items:
     url: /posts
   - text: Collections
     url: /collections
+collections:
+  - text: Wonderful Britain
+    image: /img/langdon-steps-dover-stamp-1-1-.jpg
+  - text: Beyond the Pebbles
+    image: /img/kingsdown-kent-stamp-1-tiny.png
+  - text: Haiku
+    image: /img/hushed-by-snow-stamp-1-.jpg
+  - text: Beautiful Creatures
+    image: /img/christmas-mouse-stamp-tiny.jpg

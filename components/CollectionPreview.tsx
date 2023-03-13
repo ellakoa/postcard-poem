@@ -1,12 +1,13 @@
 import Image from 'next/image'
-import Link from 'next/link'
+import Card from './Card'
+import StampCta from './StampCta'
 
 export default function CollectionPreview(item: any, index: number) {
   const { slug, attributes } = item
   const { title, image, description, date, collection } = attributes
   return (
-    <li className='shadow-2xl rounded-sm md:p-4 bg-white' key={index}>
-      <>
+    <li className='' key={index}>
+      <Card className='md:p-4'>
         <div className='md:hidden aspect-video relative overflow-hidden flex-grow-0 flex-shrink-0 basis-[200px] mb-2'>
           <Image src={image} width={712} height={650} alt='' />
         </div>
@@ -27,14 +28,18 @@ export default function CollectionPreview(item: any, index: number) {
             </div>
           </div>
           <div className='flex gap-4 md:justify-end'>
-            <Link href={`/posts/${slug}`}>
-              <a className='flex-1 md:flex-initial   text-center font-bold text-sm px-2 py-1 border border-black rounded hover:bg-black hover:bg-opacity-20'>
-                Read post
-              </a>
-            </Link>
+            <StampCta
+              href={`/posts/${slug}`}
+              className={'flex-1 md:flex-initial'}
+              color={
+                index % 3 === 0 ? 'red' : index % 2 === 0 ? 'green' : 'indigo'
+              }
+            >
+              Read post
+            </StampCta>
           </div>
         </div>
-      </>
+      </Card>
     </li>
   )
 }

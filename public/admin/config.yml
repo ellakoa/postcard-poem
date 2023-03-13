@@ -59,6 +59,13 @@ collections:
           widget: boolean,
           default: false,
         }
+        - {
+          label: Hide postcard padding,
+          name: removePostcardPadding,
+          widget: boolean,
+          default: false,
+          hint: 'Remove white space around the outside of the postcard image. Works best when the image has no built-in whitespace'
+        }
       - { label: 'Address lines', name: address, widget: text }
       - { label: Stamp, name: stamp, widget: image, choose_url: true }
       - {
@@ -105,6 +112,14 @@ collections:
             fields:
               - { label: Title, name: text, widget: string }
               - { label: URL, name: url, widget: string }
+          - label: Collections
+            name: collections
+            widget: list
+            allow_add: true
+            collapsed: false
+            fields:
+              - { label: Label, name: text, widget: string }
+              - { label: 'Image', name: 'image', widget: image }
       - label: 'Settings'
         name: 'settings'
         file: 'content/settings.yaml'

@@ -1,11 +1,11 @@
-import fs from 'fs'
-import { GetStaticProps } from 'next'
 import Head from 'next/head'
 import Link from 'next/link'
+import Image from 'next/image'
 import { join } from 'path'
 import Meta from '../../components/meta'
-import Preview from '../../components/preview'
-
+import * as attributes from '../../content/navigation.yaml'
+import Card from '../../components/Card'
+import PageHeading from '../../components/PageHeading'
 const POSTS_PATH = join(process.cwd(), 'content/posts')
 
 interface CollectionsProps {
@@ -14,55 +14,41 @@ interface CollectionsProps {
   collection?: string
 }
 export default function Collections(props: CollectionsProps) {
-  const { paths } = props
-
-  const CollectionLink = (slug: string) => (
-    <Link href={`/collections/${slug}`}>
-      <a className='text-center font-bold text-sm px-2 py-1 border border-black rounded hover:bg-black hover:bg-opacity-20'>
-        {slug}
+  const { collections } = attributes
+  const CollectionLink = ({ text, image }: { text: string; image: string }) => (
+    <Link href={`/collections/${text}`}>
+      <a>
+        <Card className='flex gap-2 flex-col p-3 relative'>
+          <span className='self-end'>
+            <Image
+              src={image}
+              alt=''
+              objectFit={'contain'}
+              width={160}
+              height={140}
+              layout={'fixed'}
+              objectPosition={'top right'}
+            />
+          </span>
+          <span className='block'>{text}</span>
+        </Card>
       </a>
     </Link>
   )
+  if (!collections) {
+    return <p>No collections found!</p>
+  }
   return (
     <>
       <Head>
         <Meta />
       </Head>
+      <PageHeading title='Collections' />
       <div className='container max-w-3xl my-10 px-3 md:px-6'>
-        <h1 className='font-bold font-serif text-5xl mb-10'>Collections</h1>
-      </div>
-      <div className='container max-w-3xl my-10 px-3 md:px-6'>
-        <ul className='flex gap-4 flex-wrap'>
-          {!!paths && paths.map(CollectionLink)}
+        <ul className='grid xs:grid-cols-2 gap-4 sm:grid-cols-3'>
+          {collections.map(CollectionLink)}
         </ul>
-        {!paths && <p>No collections found!</p>}
       </div>
     </>
   )
-}
-
-export const getStaticProps: GetStaticProps = async (context) => {
-  // Get paths
-  const paths = fs
-    .readdirSync(POSTS_PATH)
-    // Remove file extensions for page paths
-    .map((path) => path.replace(/\.mdx?$/, ''))
-    // Map the path into the static paths object required by Next.js
-    .map((slug) => ({ params: { slug } }))
-
-  const posts = paths.map(({ params }: { params: any }) => {
-    const { slug } = params
-    const markdown = require(`/content/posts/${slug}.md`)
-    const { attributes } = markdown
-    return { slug, attributes }
-  })
-  const collections = posts.map(({ slug, attributes }) => attributes.collection)
-  const filteredCollections = collections.filter((collection) => !!collection)
-  const uniqueCollections = filteredCollections.reduce(
-    (prev, curr) => (prev.includes(curr) ? prev : [...prev, curr]),
-    []
-  )
-  return {
-    props: { paths: uniqueCollections }, // will be passed to the page component as props
-  }
 }

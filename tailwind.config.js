@@ -3,16 +3,22 @@ const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
   content: [
+    './styles/**/*.{css}',
     './pages/**/*.{js,ts,jsx,tsx}',
     './components/**/*.{js,ts,jsx,tsx}',
+    './public/**/*/.{svg}',
   ],
   theme: {
     extend: {
       fontFamily: {
-        stamp: ['Calton', ...defaultTheme.fontFamily.sans],
+        stamp: ['Courier', ...defaultTheme.fontFamily.sans],
         sans: ['OllieWollie', ...defaultTheme.fontFamily.sans],
         serif: ['MiniStory', ...defaultTheme.fontFamily.serif],
       },
+    },
+    screens: {
+      xs: '400px',
+      ...defaultTheme.screens,
     },
     container: {
       center: true,
