@@ -4,7 +4,7 @@ description: |
   Haiku, a short Japanese poem capturing a moment in time.
 collection: Haiku
 aspect: landscape
-image: /img/old-man-winter-1-.jpg
+image: /img/old-man-winter-blog-1-new.png
 metaImage: /img/face.jpg
 alt: A branch of blackthorn blossom, covered in snow.
 poem: |-
@@ -19,7 +19,8 @@ address: |-
   Minster
   Kent
   UK
-stamp: /img/blackthorn-winter-stamp-1-1-.png
+stamp: /img/blackthorn-winter-stamp-1-new.png
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-02-22T08:00:00.000Z
 ---

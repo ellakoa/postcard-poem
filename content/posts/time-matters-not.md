@@ -29,7 +29,7 @@ address: |-
   Kearsney Gardens
   Temple Ewell 
   Dover Kent
-stamp: /img/time-matters-not-stamp1tinyjpeg.jpg
+stamp: /img/time-matters-not-stamp-1.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-09-04T06:52:41.266Z

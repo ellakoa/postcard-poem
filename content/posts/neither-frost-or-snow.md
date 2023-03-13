@@ -33,7 +33,8 @@ address: |-
   The Hedgerows Parade
   Kent
   UK
-stamp: /img/blackthorn-hedrows-stamp-2-a.png
+stamp: /img/blackthorn-hedgerows-stamp-1.png
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-03-05T08:00:46.866Z
 ---

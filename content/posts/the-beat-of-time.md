@@ -29,7 +29,7 @@ address: |-
   The Silent Beat of Time
   Kingsdown
   Kent
-stamp: /img/the-beat-of-time-stamp-tiny.jpg
+stamp: /img/the-silent-beat-of-time-stamp-1.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-08-28T11:36:03.960Z

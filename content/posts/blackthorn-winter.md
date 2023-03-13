@@ -9,7 +9,7 @@ description: This particular year the snow fell in early March. The blackthorn
   toes.
 collection: Wonderful Britain
 aspect: landscape
-image: /img/tractor-minster-snow-tiny.jpg
+image: /img/blacthorn-winter-tractor-new-1-.jpg
 metaImage: /img/face.jpg
 alt: Heavy snow is falling. A blue and red tractor with bright yellow trailer is
   parked, a pile of logs sits in the foreground
@@ -33,7 +33,7 @@ address: |-
   Minster
   Thanet
   Kent UK
-stamp: /img/snow-tumbled-down-stamp-2-1-.jpg
+stamp: /img/snow-tumbled-down-stamp-1-new-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-01-15T08:00:47.870Z

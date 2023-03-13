@@ -1,5 +1,5 @@
 ---
-stamp: /img/starfish-kingsdown-beach-kent-stamp-tiny.jpg
+stamp: /img/starfish-kingsdown-beach-kent-stamp-1.png
 stampWidth: "400"
 width: "600"
 height: "400"
@@ -31,6 +31,7 @@ address: |-
   Oldstairs Bay
   Kingsdown 
   Kent
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-08-21T07:00:23.545Z
 ---

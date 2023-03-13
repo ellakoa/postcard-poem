@@ -12,7 +12,7 @@ description: >
 collection: Wonderful Britain
 aspect: landscape
 image: /img/poppy-lanterns-4-2.jpg
-metaImage: /img/beyond-pebbles-face-kingsdown.jpg
+metaImage: /img/stamp-1-tiny.png
 alt: Field of bright red poppies, the setting sun has made them look as if they
   are lanterns as the sun shines through them.
 poem: |+

@@ -3,7 +3,7 @@ title: Hushed by Snow
 description: Haiku, a short Japanese poem capturing a moment in time.
 collection: Haiku
 aspect: landscape
-image: /img/hushed-by-snow-blog-1-a-1-.jpg
+image: /img/hushed-by-snow-blog-new-1-.jpg
 metaImage: /img/face.jpg
 alt: A Cedar of Lebanon tree, branches are hanging, heavy with snow. Snow covers
   the ground.
@@ -22,7 +22,7 @@ address: |-
   Kearsney Parks
   Dover
   Kent UK
-stamp: /img/hushed-by-snow-stamp-1-.jpg
+stamp: /img/hushed-by-snow-stamp-1.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-03-01T08:00:47.575Z

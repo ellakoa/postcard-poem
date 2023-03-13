@@ -1,5 +1,5 @@
 ---
-stamp: /img/the-most-beautiful-morning-light-stamp-tiny.jpg
+stamp: /img/the-most-beautiful-morning-light-stamp-1.png
 stampWidth: "600"
 width: "600"
 height: "400"

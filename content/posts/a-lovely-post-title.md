@@ -1,5 +1,5 @@
 ---
-stamp: /img/stamp-heligan-new-tiny.jpg
+stamp: /img/the-garden-office-stamp-1.png
 stampWidth: "600"
 width: "400"
 height: "600"
@@ -33,7 +33,7 @@ address: |-
   Lost Gardens 
   of Heligan
   Cornwall
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-07-17T09:56:40.372Z
 tags:

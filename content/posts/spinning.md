@@ -34,7 +34,7 @@ address: |-
   Langdon Bay
   Dover
   Kent UK
-stamp: /img/langdon-steps-dover-stamp-1-1-.jpg
+stamp: /img/langdon-bay-stamp-new.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-02-19T08:00:56.129Z
