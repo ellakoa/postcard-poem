@@ -1,5 +1,5 @@
 ---
-stamp: /img/stamp-heligan-new-tiny.jpg
+stamp: /img/the-garden-office-stamp-1.png
 stampWidth: "600"
 width: "400"
 height: "600"
