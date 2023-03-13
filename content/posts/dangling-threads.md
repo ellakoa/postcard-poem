@@ -1,5 +1,5 @@
 ---
-stamp: /img/goodwinw-sands-stamp1-tiny.jpg
+stamp: /img/there-then-not-part-three-stamp-1-.png
 stampWidth: "400"
 width: "600"
 height: "400"
