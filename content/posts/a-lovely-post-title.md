@@ -33,7 +33,7 @@ address: |-
   Lost Gardens 
   of Heligan
   Cornwall
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-07-17T09:56:40.372Z
 tags:
