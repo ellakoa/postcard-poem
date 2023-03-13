@@ -32,7 +32,7 @@ address: |-
   New Forest
   Hampshire
   UK
-stamp: /img/dew-pond-new-forest-stamp-tiny.jpg
+stamp: /img/dew-pond-stamp-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-01-22T08:00:40.200Z
