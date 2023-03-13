@@ -1,5 +1,5 @@
 ---
-stamp: /img/dog-stamp-1-.jpg
+stamp: /img/watch-the-dog-stamp-1.png
 stampWidth: "600"
 width: "400"
 height: "600"
