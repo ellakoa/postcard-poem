@@ -44,7 +44,7 @@ address: |-
   Kent
   UK
 stamp: /img/the-hidden-seabed-kingsdown-stamp-1-.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-03-12T08:00:00.000Z
 ---
