@@ -71,6 +71,7 @@ export default function Header() {
           }`}
         >
           <StampCtaRow
+            rotateButtons={true}
             items={navigation.items}
             onClick={() => setIsOpen(false)}
           />
