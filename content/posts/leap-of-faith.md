@@ -28,7 +28,7 @@ address: |
   Norfolk Broads
   Norfolk
 stamp: /img/leap-fo-faith-stamp-1.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-11-23T11:05:04.702Z
 ---
