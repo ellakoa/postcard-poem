@@ -1,5 +1,5 @@
 ---
-stamp: /img/stamp-2.jpg
+stamp: /img/there-then-not-part-two-stamp-1-.png
 stampWidth: "600"
 width: "600"
 height: "400"
