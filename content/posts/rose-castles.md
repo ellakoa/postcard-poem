@@ -33,7 +33,7 @@ address: |
   Blooming Lovely
   Deal 
   Kent
-stamp: /img/stamp-dealtiny.jpg
+stamp: /img/strutting-stamp-2.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-09-18T07:00:36.660Z
