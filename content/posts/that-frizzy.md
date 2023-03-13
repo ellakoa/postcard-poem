@@ -23,7 +23,8 @@ address: |-
   Oxenden Woods
   Adisham
   Kent
-stamp: /img/bad-hair-day-stamp-tiny.jpg
+stamp: /img/frizzy-stamp.png
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-10-05T07:00:00.000Z
 ---
