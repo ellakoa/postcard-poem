@@ -8,7 +8,7 @@ description: >+
 
 collection: Wonderful Britain
 aspect: landscape
-image: /img/deal-pier-beach-flowers1-tiny.jpg
+image: /img/deal-pier-kent-blog.jpg
 metaImage: /img/face.jpg
 alt: Deal Pier strutting out to sea, side view with a pebble beach sporting
   clusters of red, pink and white flowers.
@@ -33,7 +33,7 @@ address: |-
   Strutting out to Sea
   Deal Pier
   Kent
-stamp: /img/deal-pier-stamp-tiny.jpg
+stamp: /img/strutting-stamp-1.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-09-25T07:00:48.218Z
