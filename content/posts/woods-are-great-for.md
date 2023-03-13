@@ -37,7 +37,7 @@ address: |-
   Kings Wood 
   Ashford 
   Kent
-stamp: /img/woods-are-great-for-stamp-1a.jpg
+stamp: /img/woods-are-great-for-stamp-1.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-10-02T07:00:00.000Z
