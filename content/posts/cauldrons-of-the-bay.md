@@ -36,7 +36,8 @@ address: |
   Oldstairs Bay
   Kingsdown 
   Kent
-stamp: /img/cauldrons-kingsdown.jpg
+stamp: /img/cauldrons-stamp-1.png
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-10-30T08:00:03.881Z
 ---
