@@ -29,7 +29,7 @@ address: |-
   Clickety-Clack
   Minster
   Kent
-stamp: /img/clickety-clack-stamp-tiny.jpg
+stamp: /img/clickety-clack-stamp-1.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-08-24T07:00:15.794Z
