@@ -27,11 +27,12 @@ poem: |
   Watch the dog chase his tail
   Calm the dog's playful spell.
 alignPoemLeft: false
+removePostcardPadding: true
 address: |-
   Watch the Dog
   Autumns 
   Garden
-stamp: /img/watch-the-dog-stamp-1.png
+stamp: /img/watch-the-dog-stamp-tiny.jpg
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-11-13T08:00:37.814Z
