@@ -32,6 +32,7 @@ poem: |-
   Enjoy the most beautiful morning light.
 stampHeight: "400"
 alignPoemLeft: true
+removePostcardPadding: true
 address: |-
   The Most Beautiful Morning Light
   Kingsdown
