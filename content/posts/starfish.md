@@ -4,12 +4,10 @@ stampWidth: "400"
 width: "600"
 height: "400"
 title: Starfish
-description: >-
-  At certain times of the year at low tide, you can see these delightful sea
-  creatures waiting the return of the sea.
-
-  Part of the postcard collection 'Beyond the Pebbles'
-collection: Beyond the Pebbles
+description: >
+  At certain times of the year at low tide, in Kingsdown Kent, you can see these
+  delightful sea creatures waiting for the return of the sea.
+collection: Beautiful Creatures
 aspect: landscape
 image: /img/starfish-kingsdown-beach-kent-blog-1-.jpg
 metaImage: /img/face.jpg
@@ -26,6 +24,7 @@ poem: |-
   On the beach.
 stampHeight: "200"
 alignPoemLeft: false
+removePostcardPadding: true
 address: |-
   Starfish
   Oldstairs Bay
