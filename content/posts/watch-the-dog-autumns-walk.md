@@ -32,7 +32,7 @@ address: |-
   Watch the Dog
   Autumns 
   Garden
-stamp: /img/watch-the-dog-stamp-tiny.jpg
+stamp: /img/watch-the-dog-stamp-1.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-11-13T08:00:37.814Z
