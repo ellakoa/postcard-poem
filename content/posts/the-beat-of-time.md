@@ -7,7 +7,7 @@ description: >-
   We stayed late watching the moon turn from glorious orange hues to its more traditional white silver light.
 
   The night was warm and it was with reluctance we left. As we parted, the beach was lit up with two artificial lights, the moth man had come to survey migrating moths from across the channel, how wonderful.
-collection: Wonderful Britain
+collection: Thoughtful Things
 aspect: landscape
 image: /img/the-beat-of-time-kingsdown.jpg
 metaImage: /img/face.jpg
@@ -24,6 +24,7 @@ poem: |-
   where layer upon layer of stars shine 
   pulsing to the silent beat of time.
 alignPoemLeft: false
+removePostcardPadding: true
 address: |-
   
   The Silent Beat of Time
