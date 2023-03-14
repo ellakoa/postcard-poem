@@ -38,6 +38,7 @@ poem: |-
 
   The tide was low, magically so.
 alignPoemLeft: false
+removePostcardPadding: true
 address: |-
   The Hidden Seabed
   Kingsdown 
