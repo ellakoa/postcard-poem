@@ -59,12 +59,12 @@ collections:
           widget: boolean,
           default: false,
         }
-        - {
+      - {
           label: Hide postcard padding,
           name: removePostcardPadding,
           widget: boolean,
           default: false,
-          hint: 'Remove white space around the outside of the postcard image. Works best when the image has no built-in whitespace'
+          hint: 'Remove white space around the outside of the postcard image. Works best when the image has no built-in whitespace',
         }
       - { label: 'Address lines', name: address, widget: text }
       - { label: Stamp, name: stamp, widget: image, choose_url: true }
