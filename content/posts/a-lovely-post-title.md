@@ -6,7 +6,7 @@ height: "600"
 title: The Garden Office
 description: >
   Some things are better when they are old. Things that were thought lost but
-  then found come with a certain nostalgia.
+  then found come with a certain nostalgia. 
 collection: Wonderful Britain
 aspect: portrait
 image: /img/garden-office-blog.jpg
