@@ -23,6 +23,7 @@ poem: |-
   change the view
   I wish I could leap like you.
 alignPoemLeft: false
+removePostcardPadding: true
 address: |
   A Leap of Faith
   Norfolk Broads
