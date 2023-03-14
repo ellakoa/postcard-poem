@@ -28,6 +28,7 @@ poem: |
   from this window pause and gaze.
 stampHeight: "400"
 alignPoemLeft: false
+removePostcardPadding: true
 address: |-
   The Garden Office
   Lost Gardens 
@@ -39,4 +40,3 @@ date: 2022-07-17T09:56:40.372Z
 tags:
   - number-2
 ---
-Part of a collection called Nostalgia. Look out for others in this collection.
