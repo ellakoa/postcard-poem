@@ -37,7 +37,7 @@ address: |-
   The Blue Field
   Eastry
   Kent UK
-stamp: /img/blue-field-stamp-1-.png
+stamp: /img/blue-field-stamp-3.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-03-11T16:18:49.617Z
