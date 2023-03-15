@@ -31,7 +31,7 @@ poem: |-
   and with the birds, my spirits soar
   I am awake and restored.
 alignPoemLeft: false
-removePostcardPadding: true
+removePostcardPadding: false
 address: |-
   Silent Footsteps
   The Blue Field
