@@ -38,14 +38,14 @@ poem: |-
 
   The tide was low, magically so.
 alignPoemLeft: false
-removePostcardPadding: true
+removePostcardPadding: false
 address: |-
   The Hidden Seabed
   Kingsdown 
   Kent
   UK
 stamp: /img/the-hidden-seabed-kingsdown-stamp-1-.png
-showStampInPreview: true
+showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-03-12T08:00:00.000Z
 ---
