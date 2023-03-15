@@ -23,7 +23,7 @@ poem: |-
   Gold drips from budding leaves.
 
   Early mists hover, then lift
-  around me, a subtle warmth drifts
+  around me, a subtle warmth drifts.
 
   Looking up towards the sky
   a flock of birds pass by,
