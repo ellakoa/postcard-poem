@@ -35,7 +35,7 @@ removePostcardPadding: false
 address: |-
   Silent Footsteps
   The Blue Field
-  Eastry
+  Nr. Eastry
   Kent UK
 stamp: /img/blue-field-stamp-3.png
 showStampInPreview: false
