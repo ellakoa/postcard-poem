@@ -1,8 +1,11 @@
 ---
 title: Silent Footsteps
-description: Sometimes the morning is just perfect and needs no other
-  introduction. This was one such morning, enjoy an early morning stroll in a
-  field of blue.
+description: This sea of blue caught my eye as I travelled to work one morning.
+  As soon as the weekend was here I ventured to find out what it was. Waking
+  with the sunrise I travelled to the field to discover a carpet of ground ivy
+  and periwinkle with the odd buttercup thrown into the mix. I watched the field
+  come awake as the sun rose, it was one of those rare mornings when the world
+  just felt right. It was perfect.
 collection: Wonderful Britain
 aspect: landscape
 image: /img/blue-field-1.jpg
@@ -11,23 +14,24 @@ alt: A Field of blue ground Ivy, a walker crosses the filed in the golden mist,
   the sun rises peeping through the trees.
 poem: |-
   The morning was gentle, kind
-  easing the night from the mind.
+  easing the wool from the mind.
 
   Strolling amidst the violet-blue
   silent footsteps are wet with dew.
 
-  Sunlight slips between trees
-  gold slowly drips from their leaves.
+  Sunlight slips between the trees
+  Gold drips from budding leaves.
 
-  Early mists hover, then break
-  A subtle warmth eases aches.
+  Early mists hover, then lift
+  around me, a subtle warmth drifts
 
   Looking up towards the sky
   a flock of birds pass by,
 
   and with the birds, my spirits soar
-  awake and restored.
+  I am awake and restored.
 alignPoemLeft: false
+removePostcardPadding: true
 address: |-
   Silent Footsteps
   The Blue Field
