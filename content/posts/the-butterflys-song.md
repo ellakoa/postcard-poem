@@ -28,6 +28,7 @@ poem: |+
 
 
 alignPoemLeft: false
+removePostcardPadding: true
 address: |-
   Butterfly Song
   Temple Ewell Nature Reserve
