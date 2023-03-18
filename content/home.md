@@ -7,5 +7,5 @@ welcome: |-
   Or just for collecting to look back at happy memories.
   Explore and discover. Take five and enjoy.
   New post on Sundays. 
-image: /img/blog-banner-march-2022-1-.jpg
+image: /img/blog-banner3-1-.jpg
 ---
