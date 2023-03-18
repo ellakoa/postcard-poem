@@ -22,11 +22,11 @@ poem: |-
   Sunlight slips between the trees
   Gold drips from budding leaves.
 
-  Early mists hover, then lift
+  Early mists hover then lift,
   around me, a subtle warmth drifts.
 
   Looking up towards the sky
-  a flock of birds pass by,
+  a flock of birds pass by
 
   and with the birds, my spirits soar
   I am awake and restored.
