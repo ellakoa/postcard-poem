@@ -1,6 +1,9 @@
 ---
 title: A Vase of Sunshine
-description: Haiku, a short Japanese poem capturing a moment in time.
+description: Haiku is a short Japanese, unrhyming poem capturing a moment in
+  time. The poem is on the picture on the front of the postcard. I have written
+  a brief description of where the inspiration for the poem came from on the
+  main body of the postcard.
 collection: Haiku
 aspect: landscape
 image: /img/daffodils-blog.jpg
