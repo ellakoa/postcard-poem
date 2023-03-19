@@ -20,7 +20,7 @@ poem: |-
   Even the evergreen trees appeared to be 
   sleeping, covered by this white blanket.
 alignPoemLeft: true
-removePostcardPadding: true
+removePostcardPadding: false
 address: |-
   Hushed by Snow
   Kearsney Parks
