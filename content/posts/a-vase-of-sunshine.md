@@ -18,7 +18,7 @@ poem: |
   bunch of sunshine when placed
   indoors in a vase. How delightful.
 alignPoemLeft: true
-removePostcardPadding: true
+removePostcardPadding: false
 address: |
   A Vase of Sunshine
   Deal
