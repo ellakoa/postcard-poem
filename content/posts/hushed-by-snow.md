@@ -1,6 +1,9 @@
 ---
 title: Hushed by Snow
-description: Haiku, a short Japanese poem capturing a moment in time.
+description: Haiku is a short Japanese, unrhyming poem capturing a moment in
+  time. The poem is on the picture on the front of the postcard. I have written
+  a brief description of where the inspiration for the poem came from on the
+  main body of the postcard.
 collection: Haiku
 aspect: landscape
 image: /img/hushed-by-snow-blog-new-1-.jpg
@@ -17,6 +20,7 @@ poem: |-
   Even the evergreen trees appeared to be 
   sleeping, covered by this white blanket.
 alignPoemLeft: true
+removePostcardPadding: true
 address: |-
   Hushed by Snow
   Kearsney Parks
