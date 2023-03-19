@@ -3,7 +3,7 @@ title: A Vase of Sunshine
 description: Haiku, a short Japanese poem capturing a moment in time.
 collection: Haiku
 aspect: landscape
-image: /img/daffodils-blog.jpg
+image: /img/daffodils-blog-1.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A Vase of bright yellow daffodils.
 poem: |
@@ -18,7 +18,7 @@ poem: |
   bunch of sunshine when placed
   indoors in a vase. How delightful.
 alignPoemLeft: true
-removePostcardPadding: false
+removePostcardPadding: true
 address: |
   A Vase of Sunshine
   Deal
