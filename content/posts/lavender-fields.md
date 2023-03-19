@@ -21,7 +21,7 @@ poem: |+
   all around. A very enjoyable day.
 
 alignPoemLeft: true
-removePostcardPadding: true
+removePostcardPadding: false
 address: |-
   Summer Bottled
   Lavender Fields
