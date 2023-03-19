@@ -16,7 +16,7 @@ poem: |-
   fascinated with the heavy snowfall 
   crowning the spring blossom.
 alignPoemLeft: true
-removePostcardPadding: true
+removePostcardPadding: false
 address: |-
   Old Man Winter
   Minster
