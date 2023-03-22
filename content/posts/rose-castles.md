@@ -1,12 +1,9 @@
 ---
 title: Blooming Lovely
-description: >-
-  Deal, Walmer and Kingsdown a triple helping of loveliness, one seamlessly
-  flows into the other along this stretch of seafront. The beaches bloom with
-  colour in spring. The fragrant, pink, white and red flowers of valerian are in
-  abundance. 
-
-  Part of the 'Postcards from Deal' collection
+description: Deal, Walmer and Kingsdown a triple helping of loveliness, one
+  seamlessly flows into the other along this stretch of seafront. The beaches
+  bloom with colour in spring. The fragrant, pink, white and red flowers of
+  valerian are in abundance. Blooming Lovely
 collection: Wonderful Britain
 aspect: landscape
 image: /img/walmer-beach-flowers-tiny.jpg
@@ -29,6 +26,7 @@ poem: |-
   harshly plundered
   Lovingly nurtured, delightful and cultured.
 alignPoemLeft: false
+removePostcardPadding: true
 address: |
   Blooming Lovely
   Deal 
