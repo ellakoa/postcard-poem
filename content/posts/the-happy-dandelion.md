@@ -33,7 +33,7 @@ poem: |
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
-  The Happy Dandelion
+  The Sunny Dandelion
   Deal
   Kent
   UK
