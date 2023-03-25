@@ -7,7 +7,7 @@ description: >
   Behind where I live is a field that becomes smothered with dandelions in the spring, it is joyful. All too soon the intricate seed heads are ready to set sail. It is mesmerising to watch so many dandelion seeds take flight at once.
 collection: Wonderful Britain
 aspect: landscape
-image: /img/dandelion-blog-3-1-.jpg
+image: /img/dandelion-blog-1-.jpg
 metaImage: /img/face.jpg
 alt: "Field of dandelions, some in full flower with bright yellow petals, others
   are intricat, dandelion seed heads. "
