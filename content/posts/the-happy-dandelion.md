@@ -1,7 +1,7 @@
 ---
 title: The Sunny Dandelion
 description: "1111"
-collection: Wonderful Britian
+collection: Wonderful Britain
 aspect: landscape
 image: /img/dandelion-blog-1-.jpg
 metaImage: /img/face.jpg
