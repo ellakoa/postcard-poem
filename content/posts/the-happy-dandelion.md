@@ -9,8 +9,8 @@ collection: Wonderful Britain
 aspect: landscape
 image: /img/dandelion-blog-1-.jpg
 metaImage: /img/face.jpg
-alt: Field of dandelions, some in full flowers, bright yellow, others are
-  dandelion seed heads.
+alt: "Field of dandelions, some in full flower with bright yellow petals, others
+  are intricat, dandelion seed heads. "
 poem: |
   The Sunny dandelion tries so hard
   To be loved as other plants are.
