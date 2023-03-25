@@ -8,7 +8,7 @@ metaImage: /img/face.jpg
 alt: Field of dandelions, some in full flowers, bright yellow, others are
   dandelion seed heads.
 poem: |-
-  The happy dandelions try so hard
+  The happy dandelion tries so hard
   To be loved as other plants are.
 
   Eager to please with 
