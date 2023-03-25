@@ -1,6 +1,10 @@
 ---
 title: The Sunny Dandelion
-description: "1111"
+description: >
+  Dandelions, have a habit of popping up uninvited, determined to stay for the
+  long haul. Their happy faces open in the sun, hoping to win us over. 
+
+  Behind where I live is a field that becomes smothered in dandelions in the spring, it is joyful. All too soon, due to the hard-working bees and other accommodating insects, the intricate seed heads are ready to set sail. It is mesmerising to watch them take flight.
 collection: Wonderful Britain
 aspect: landscape
 image: /img/dandelion-blog-1-.jpg
