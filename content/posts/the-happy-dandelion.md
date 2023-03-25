@@ -36,7 +36,7 @@ address: |-
   Deal
   Kent
   UK
-stamp: /img/dandelion-stamp-1.png
+stamp: /img/dandelion-2-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-03-25T14:40:23.925Z
