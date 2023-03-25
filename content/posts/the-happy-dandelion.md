@@ -8,13 +8,13 @@ metaImage: /img/face.jpg
 alt: Field of dandelions, some in full flowers, bright yellow, others are
   dandelion seed heads.
 poem: |-
-  The happy dandelion tries so hard
+  The happy dandelions try so hard
   To be loved as other plants are.
 
   Eager to please with 
   a bright yellow mane
   They smile at the sun
-  and close in the rain
+  and close in the rain.
 
   They dig their roots deep
   and spread their seeds far
