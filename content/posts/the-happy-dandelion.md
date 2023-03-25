@@ -35,7 +35,7 @@ poem: |
   Your dandelion clock 
   is a work of art.
 alignPoemLeft: false
-removePostcardPadding: false
+removePostcardPadding: true
 address: |-
   The Sunny Dandelion
   Deal
