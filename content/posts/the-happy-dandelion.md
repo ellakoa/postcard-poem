@@ -25,7 +25,7 @@ poem: |
   to show what a clever 
   little plant they are.
 
-  Truth to tell, you are loved,
+  Truth be told, you are loved,
 
   You are loved by butterflies and bees
   and the child who spreads your
