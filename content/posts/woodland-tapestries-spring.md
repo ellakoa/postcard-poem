@@ -10,7 +10,8 @@ collection: Woodland Tapestries
 aspect: portrait
 image: /img/early-purple-orchid-woodland-tapestries-spring-7840.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
+alt: Woodland scene, a shaft of sunlight through the trees illuminating a single
+  Early Purple Spotted Orchid.
 poem: |-
   Spring warps and wefts 
   its vibrant threads
