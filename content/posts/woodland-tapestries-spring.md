@@ -20,11 +20,11 @@ poem: |-
   pinks and whites, cheerful views.
 
   Woodland flowers embrace the sun 
-  while the canopy above is young
+  while the canopy above is young.
   Leaf buds burst fresh and bright
   Birds, purposeful in song and flight.
   Little creatures tentatively roam 
-  further from their winter homes 
+  further from their winter homes.
 
   A woodland eagerly awakening 
   welcoming nature, rejuvenating.
