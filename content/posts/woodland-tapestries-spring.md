@@ -32,7 +32,7 @@ removePostcardPadding: false
 address: |
   Woodland Tapestry
   Spring
-stamp: /img/derp-cat.jpeg
+stamp: /img/woodland-tapestry-spring-stamp-2a.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-04-02T07:00:27.100Z
