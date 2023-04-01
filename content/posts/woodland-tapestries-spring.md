@@ -1,10 +1,10 @@
 ---
-title: Woodland Tapestries Spring
+title: Woodland Tapestry Spring
 description: >
   Woodland Tapestries is a collection of photographs and poems showcasing our
   wonderful woodlands. I had this romantic notion that our woodlands were being
   woven on an ancient woodland loom, each season taking it in turn to weave its
-  finest colours. We start the Woodland Tapestry with Spring tending the loom.
+  finest colours. We start the Woodland Tapestry with Spring tending the loom,
   Discover more tapestries as we transition through the year. 
 collection: Woodland Tapestries
 aspect: portrait
@@ -31,11 +31,10 @@ poem: |-
 alignPoemLeft: false
 removePostcardPadding: false
 address: |
-  Woodland Tapestry
-  Spring
+  Spring Tapestry
   Frandham Wood
-  Dover Kent
-  UK
+  Dover
+  Kent UK
 stamp: /img/woodland-tapestry-spring-stamp-2a.png
 showStampInPreview: false
 author: Caroline Whitehouse
