@@ -36,7 +36,7 @@ address: |
   Dover
   Kent UK
 stamp: /img/woodland-tapestry-spring-stamp-2a.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-04-02T07:00:27.100Z
 ---
