@@ -8,7 +8,7 @@ description: >
   Discover more tapestries as we transition through the year. 
 collection: Woodland Tapestries
 aspect: portrait
-image: /img/early-purple-orchid-woodland-tapestries-spring-new.jpg
+image: /img/early-purple-orchid-woodland-tapestries-spring-7840.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Woodland scene, a shaft of sunlight through the trees illuminating a single
   Early Purple Spotted Orchid.
@@ -33,6 +33,9 @@ removePostcardPadding: false
 address: |
   Woodland Tapestry
   Spring
+  Frandham Wood
+  Dover Kent
+  UK
 stamp: /img/woodland-tapestry-spring-stamp-2a.png
 showStampInPreview: false
 author: Caroline Whitehouse
