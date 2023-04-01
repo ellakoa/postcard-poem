@@ -4,8 +4,8 @@ description: >
   Woodland Tapestries is a collection of photographs and poems showcasing our
   wonderful woodlands. I had this romantic notion that our woodlands were being
   woven on an ancient woodland loom, each season taking it in turn to weave its
-  finest tapestries. We start the Woodland Tapestry with Spring tending the
-  loom. Discover more tapestries as we transition through the year. 
+  finest colours. We start the Woodland Tapestry with Spring tending the loom.
+  Discover more tapestries as we transition through the year. 
 collection: Woodland Tapestries
 aspect: portrait
 image: /img/early-purple-orchid-woodland-tapestries-spring-7840.jpg
