@@ -29,7 +29,7 @@ poem: |-
   A woodland eagerly awakening 
   welcoming nature, rejuvenating.
 alignPoemLeft: false
-removePostcardPadding: false
+removePostcardPadding: true
 address: |
   Spring Tapestry
   Frandham Wood
