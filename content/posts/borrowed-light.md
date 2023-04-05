@@ -16,8 +16,8 @@ poem: |-
   Stretching dark shadows to fright
   Silhouetting owls in silent flight
 
-  The moon climbs higher, further 
-  diluting the dark
+  The moon climbs higher, 
+  further, diluting the dark
   Sweeping across towns and parks
   Over rooftops onto empty streets
   Stirring some from a dreamy sleep.
