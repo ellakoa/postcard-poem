@@ -1,6 +1,7 @@
 ---
 title: Borrowed Light
 description: "111"
+collection: Wonderful Britain
 aspect: landscape
 image: /img/whistable-the-street-main-1-.jpg
 metaImage: /img/face.jpg
@@ -32,7 +33,7 @@ address: |-
   Whistable
   Kent UK
 stamp: /img/ghost-light-the-street-whistable-stamp-4-1-.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-04-09T07:00:15.346Z
 ---
