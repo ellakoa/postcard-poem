@@ -25,13 +25,13 @@ poem: |-
   Shining a path with borrowed light
   The expansive moon glows bright.
 alignPoemLeft: false
-removePostcardPadding: true
+removePostcardPadding: false
 address: |-
   Borrowed Light
   The Street
   Whistable
   Kent UK
-stamp: /img/ghost-light-the-street-whistable-stamp-1-1-.png
+stamp: /img/ghost-light-the-street-whistable-stamp-2-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-04-09T07:00:15.346Z
