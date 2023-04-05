@@ -31,7 +31,7 @@ address: |-
   The Street
   Whistable
   Kent UK
-stamp: /img/ghost-light-the-street-whistable-stamp-3-1-.png
+stamp: /img/ghost-light-the-street-whistable-stamp-4-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-04-09T07:00:15.346Z
