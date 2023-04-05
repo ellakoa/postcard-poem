@@ -2,7 +2,7 @@
 title: Borrowed Light
 description: "111"
 aspect: landscape
-image: /img/the-stree-tankerton-.jpg
+image: /img/whistable-the-street-main-1-.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
@@ -31,7 +31,7 @@ address: |-
   The Street
   Whistable
   Kent UK
-stamp: /img/ghost-light-the-street-whistable-stamp-1-.png
+stamp: /img/ghost-light-the-street-whistable-stamp-3-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-04-09T07:00:15.346Z
