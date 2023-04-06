@@ -15,15 +15,15 @@ poem: |-
   The sun blows a goodnight kiss
   embracing the moon with a gift 
   The gift of light to glow bright, a
-  ghost light on the stage of night
+  ghost light on the stage of night.
 
   Into twilight’s veil, moonlight spills
   Cascading over meadows and hills
-  Stretching dark shadows to fright
-  Silhouetting owls in silent flight
+  Stretching out shadows to fright
+  Silhouetting owls in silent flight.
 
-  The moon climbs higher, 
-  further, diluting the dark
+  The moon climbs higher, further, 
+  diluting the dark
   Sweeping across towns and parks
   Over rooftops onto empty streets
   Stirring some from a dreamy sleep.
