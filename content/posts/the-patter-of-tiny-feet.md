@@ -2,19 +2,12 @@
 title: The Patter of Tiny Feet
 description: "111"
 aspect: landscape
-image: /img/the-pitter-patter-of-tiny-feet-main-1-.jpg
+image: /img/the-pitter-patter-of-tiny-feet-main1-1-.png
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
-poem: |
-  Seagulls patter the ground with their feet
-  Tap dancing it seems but it is all a deceit
-  They pitter and patter again and again
-  Tricking the worms, sounding like rain.
-  Up the worms pop expecting some air, 
-  unaware of the fate that awaits them there,
-  A hungry gull with a bright yellow bill
-  Wiggle away fast little worms
-  before the gulls have their fill.
+poem: >
+  It has always fascinated me to see a seagull tirelessly pounding the ground
+  with it's feet. It certainly looks like they are dancing.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
