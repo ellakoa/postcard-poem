@@ -11,7 +11,7 @@ poem: >
   looks as if they are tap dancing. Sorry to say they are not, they are in fact
   tricking the worms to come up to the surface. Clever seagulls, poor worms.
 alignPoemLeft: false
-removePostcardPadding: true
+removePostcardPadding: false
 address: |-
   The Patter of Tiny Feet
   Seagulls
