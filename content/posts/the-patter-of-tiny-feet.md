@@ -1,6 +1,7 @@
 ---
 title: The Patter of Tiny Feet
 description: Clever seagulls, poor worms.
+collection: Beautiful Creatures
 aspect: landscape
 image: /img/the-pitter-patter-of-tiny-feet-main1-1-.png
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
