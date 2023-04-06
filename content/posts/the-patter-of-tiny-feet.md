@@ -10,13 +10,13 @@ poem: >
   It has always fascinated me to see a seagull tirelessly pounding the ground
   with it's feet. It certainly looks like they are dancing.
 alignPoemLeft: false
-removePostcardPadding: false
+removePostcardPadding: true
 address: |-
   The Patter of Tiny Feet
   Seagulls
   Near You
 stamp: /img/the-pitter-patter-of-tiny-feet-stamp-3-1-.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-04-05T15:53:32.352Z
 ---
