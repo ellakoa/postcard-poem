@@ -23,7 +23,7 @@ address: |-
   Near 
   You
 stamp: /img/the-pitter-patter-of-tiny-feet-stamp-3-1-.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-04-05T15:53:32.352Z
 ---
