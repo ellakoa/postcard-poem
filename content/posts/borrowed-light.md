@@ -1,11 +1,16 @@
 ---
 title: Borrowed Light
-description: "111"
+description: "As the sun sets in the west casting the last of its golden rays
+  over Whitstable, the full moon rises east over Tankerton, sprinkling silver
+  into the sea. Standing on ‘The Street’  a gateway that opens up at low tide is
+  a wonderful way to see the day gradually morph into the night. Sunset and
+  moonrise, simultaneously.  "
 collection: Wonderful Britain
 aspect: landscape
 image: /img/whistable-the-street-main-1-.jpg
 metaImage: /img/face.jpg
-alt: "111"
+alt: The sunset illuminates Whitstable seafront.  A scene seen from 'The Street'
+  A pathway uncovered at low tide.
 poem: |-
   The sun blows a goodnight kiss
   embracing the moon with a gift 
