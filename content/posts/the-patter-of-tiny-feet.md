@@ -10,7 +10,7 @@ alt: A large seagull with a bright yellow bill, Cartoon worms looking terrified
 poem: |
   Have you ever seen a seagull 
   working the ground with its feet?
-   It certainly looks as if they are
+  It certainly looks as if they are
   tap dancing. Sorry to say they
   are not, they are in fact tricking 
   the worms to come up to the surface. 
