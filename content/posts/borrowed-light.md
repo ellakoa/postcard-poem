@@ -7,7 +7,7 @@ description: "As the sun sets in the west casting the last of its golden rays
   Sunset and moonrise, simultaneously.  "
 collection: Wonderful Britain
 aspect: landscape
-image: /img/whistable-the-street-main-1-.jpg
+image: /img/tankerton-the-street-main-3.jpg
 metaImage: /img/face.jpg
 alt: The sunset illuminates Whitstable seafront.  A scene seen from 'The Street'
   A pathway uncovered at low tide.
