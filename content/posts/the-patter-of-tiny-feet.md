@@ -7,8 +7,9 @@ metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A large seagull with a bright yellow bill, Cartoon worms looking terrified
   running away.
 poem: >
-  It has always fascinated me to see a seagull tirelessly pounding the ground
-  with it's feet. It certainly looks like they are dancing.
+  Have you ever seen a seagull working the ground with its feet? It certainly
+  looks as if they are tap dancing. Sorry to say they are not, they are in fact
+  tricking the worms to come up to the surface. Clever seagulls, poor worms.
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
