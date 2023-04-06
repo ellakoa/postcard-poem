@@ -4,7 +4,8 @@ description: "111"
 aspect: landscape
 image: /img/the-pitter-patter-of-tiny-feet-main1-1-.png
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
+alt: A large seagull with a bright yellow bill, Cartoon worms looking terrified
+  running away.
 poem: >
   It has always fascinated me to see a seagull tirelessly pounding the ground
   with it's feet. It certainly looks like they are dancing.
