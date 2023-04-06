@@ -11,10 +11,9 @@ poem: >
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
-  111
-  111
-  111
-  111
+  The Patter of Tiny Feet
+  Seagulls
+  Near You
 stamp: /img/the-pitter-patter-of-tiny-feet-stamp-3-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
