@@ -24,7 +24,7 @@ poem: |-
   Stirring some from a dreamy sleep.
 
   Shining a path with borrowed light
-  The expansive moon glows bright.
+  The expansive moon gleams bright.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
