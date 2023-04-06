@@ -1,6 +1,6 @@
 ---
 title: The Patter of Tiny Feet
-description: "111"
+description: Clever seagulls, poor worms.
 aspect: landscape
 image: /img/the-pitter-patter-of-tiny-feet-main1-1-.png
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
