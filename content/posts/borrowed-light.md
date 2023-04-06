@@ -2,9 +2,9 @@
 title: Borrowed Light
 description: "As the sun sets in the west casting the last of its golden rays
   over Whitstable, the full moon rises east over Tankerton, sprinkling silver
-  into the sea. Standing on ‘The Street’  a gateway that opens up at low tide is
-  a wonderful way to see the day gradually morph into the night. Sunset and
-  moonrise, simultaneously.  "
+  into the sea. Standing at the end of ‘The Street’  a pathway that opens up at
+  low tide,  is a wonderful way to see the day gradually morph into the night.
+  Sunset and moonrise, simultaneously.  "
 collection: Wonderful Britain
 aspect: landscape
 image: /img/whistable-the-street-main-1-.jpg
