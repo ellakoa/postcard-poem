@@ -30,7 +30,7 @@ poem: |-
   Wiggle away little worms
   before the gulls have their fill.
 alignPoemLeft: false
-removePostcardPadding: false
+removePostcardPadding: true
 address: |-
   The Patter of Tiny Feet
   Seagulls somewhere
