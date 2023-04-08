@@ -1,6 +1,10 @@
 ---
 title: White Horses
-description: "111"
+description: "The sea has many faces, in Sandwich bay it can be for the most
+  part charming but when a storm rolls in it can be whipped up into a frenzy.
+  Looking out over the bay from Cliffsend, it is mesmerising to watch cascades
+  of waves rolling in with the tide and on those windier days, white horse are
+  seen aplenty galloping across the bay. "
 collection: Wonderful Britian
 aspect: landscape
 image: /img/sand-dunes-sandwich-bay-1-.jpg
