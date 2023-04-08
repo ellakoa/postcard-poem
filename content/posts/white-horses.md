@@ -36,7 +36,7 @@ address: |-
   Sandwich Bay
   Kent
   UK
-stamp: /img/stamp-whitehorse-sandwich-bay.png
+stamp: /img/stamp-whitehorse-sandwich-bay-1-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-04-08T14:33:47.816Z
