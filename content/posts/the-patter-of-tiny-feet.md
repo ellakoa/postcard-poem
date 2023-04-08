@@ -1,20 +1,18 @@
 ---
 title: The Patter of Tiny Feet
-description: Clever seagulls, poor worms.
+description: >-
+  Have you ever seen a seagull working the ground with its feet? It certainly
+  looks as if they are tap dancing. Sorry to say they are not, they are tricking
+  the worms to come up to the surface. 
+
+  Clever seagulls, poor worms.
 collection: Beautiful Creatures
 aspect: landscape
-image: /img/the-pitter-patter-of-tiny-feet-7-1-.jpg
+image: /img/the-patter-of-tiny-feet-main.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A large seagull with a bright yellow bill, Cartoon worms looking terrified
   running away.
-poem: |
-  Have you ever seen a seagull 
-  working the ground with its feet?
-  It certainly looks as if they are
-  tap dancing. Sorry to say they
-  are not, they are in fact tricking 
-  the worms to come up to the surface. 
-  Clever seagulls, poor worms.
+poem: "\n"
 alignPoemLeft: true
 removePostcardPadding: false
 address: |-
