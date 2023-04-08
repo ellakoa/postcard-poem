@@ -6,7 +6,7 @@ description: "The sea has many faces, in Sandwich Bay, it can be for the most
   it is mesmerising to watch cascades of waves rolling in with the tide and on
   those windier days, white horses are seen and heard aplenty galloping across
   the bay. "
-collection: Wonderful Britian
+collection: Wonderful Britain
 aspect: landscape
 image: /img/sand-dunes-sandwich-bay-3.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
