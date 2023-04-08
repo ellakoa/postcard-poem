@@ -8,7 +8,7 @@ description: "The sea has many faces, in Sandwich Bay, it can be for the most
   the bay. "
 collection: Wonderful Britian
 aspect: landscape
-image: /img/sand-dunes-sandwich-bay-1-.jpg
+image: /img/sand-dunes-sandwich-bay-3.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Sandwich Bay looking towards Ramsgate, Sunny, breezy day with the wind
   catching a wave with salty sea spray
