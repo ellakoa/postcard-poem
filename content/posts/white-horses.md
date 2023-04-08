@@ -5,7 +5,8 @@ collection: Wonderful Britian
 aspect: landscape
 image: /img/sand-dunes-sandwich-bay-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
+alt: Sandwich Bay looking towards Ramsgate, Sunny, breezy day with the wind
+  catching a wave with salty sea spray
 poem: |-
   The waves are mesmerising today
   Crashing onshore in a rhythmic way.
