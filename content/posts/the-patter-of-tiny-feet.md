@@ -33,7 +33,7 @@ alignPoemLeft: false
 removePostcardPadding: true
 address: |-
   The Patter of Tiny Feet
-  Seagulls somewhere
+  Seagulls Somewhere
   Near 
   You
 stamp: /img/the-pitter-patter-of-tiny-feet-stamp-3-1-.png
