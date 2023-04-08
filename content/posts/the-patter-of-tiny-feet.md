@@ -8,7 +8,7 @@ description: >-
   Clever seagulls, poor worms.
 collection: Beautiful Creatures
 aspect: landscape
-image: /img/the-patter-of-tiny-feet-main.jpg
+image: /img/the-patter-of-tiny-feet-facebook-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A large seagull with a bright yellow bill, Cartoon worms looking terrified
   running away.
