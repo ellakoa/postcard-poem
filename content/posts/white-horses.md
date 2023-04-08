@@ -11,7 +11,7 @@ poem: |
   Crashing onshore in a rhythmic way.
 
   The other day they were full of rage
-  a rage, of a storm, with wild winds 
+  a rage, of a storm
   that wouldn’t conform.
 
   Outside the bay white horses paced
