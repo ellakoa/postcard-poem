@@ -4,8 +4,8 @@ description: "The sea has many faces, in Sandwich Bay, it can be for the most
   part charming with amazing cloudscapes and corresponding reflections in the
   wet sand as the tide goes out. When a storm rolls in, the sea can be whipped
   up into a frenzy, it is mesmerising to watch cascades of waves rolling in with
-  the tide and on those windier days, white horses are seen aplenty galloping
-  across the bay. "
+  the tide and on those windier days, white horses are seen and heard aplenty
+  galloping across the bay. "
 collection: Wonderful Britian
 aspect: landscape
 image: /img/sand-dunes-sandwich-bay-1-.jpg
