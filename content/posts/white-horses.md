@@ -14,7 +14,7 @@ alt: Sandwich Bay looking towards Ramsgate, Sunny, breezy day with the wind
   catching a wave with salty sea spray
 poem: |-
   The waves are mesmerising today
-  Crashing onshore in a rhythmic way.
+  rolling onshore in a rhythmic way.
 
   The other day they were full of rage
   a rage, of a storm
