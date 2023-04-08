@@ -28,7 +28,7 @@ poem: |-
   In the surf, hooves pounding
 
   For now, the storm has eased and
-  the white horses have taken their leave.
+  the horses have taken their leave.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
