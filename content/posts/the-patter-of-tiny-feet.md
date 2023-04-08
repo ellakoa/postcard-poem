@@ -12,8 +12,7 @@ image: /img/the-patter-of-tiny-feet-main.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A large seagull with a bright yellow bill, Cartoon worms looking terrified
   running away.
-poem: |+
-  
+poem: |-
   Seagulls patter the ground 
   with their feet
   Tap dancing it seems
@@ -30,7 +29,6 @@ poem: |+
   with a bright yellow bill
   Wiggle away little worms
   before the gulls have their fill.
-
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
