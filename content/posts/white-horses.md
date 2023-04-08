@@ -3,7 +3,7 @@ title: White Horses
 description: "111"
 collection: Wonderful Britian
 aspect: landscape
-image: /img/derp-cat.jpeg
+image: /img/sand-dunes-sandwich-bay-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
 poem: |
@@ -30,7 +30,7 @@ address: |-
   Sandwich Bay
   Kent
   UK
-stamp: /img/derp-cat.jpeg
+stamp: /img/sand-dunes-sandwich-bay-2.jpg
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-04-08T14:33:47.816Z
