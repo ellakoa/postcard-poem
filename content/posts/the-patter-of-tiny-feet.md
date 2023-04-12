@@ -16,11 +16,11 @@ poem: |-
   Seagulls patter the ground 
   with their feet
   Tap dancing it seems
-   but it is all a deceit
+  but it is all a deceit
   They pitter and patter 
   again and again
   Tricking the worms,
-   sounding like rain.
+  sounding like rain.
   Up the worms pop 
   expecting some air, 
   unaware of the fate 
@@ -30,14 +30,14 @@ poem: |-
   Wiggle away little worms
   before the gulls have their fill.
 alignPoemLeft: false
-removePostcardPadding: true
+removePostcardPadding: false
 address: |-
   The Patter of Tiny Feet
-  Seagulls somewhere
+  Seagulls Somewhere
   Near 
   You
 stamp: /img/the-pitter-patter-of-tiny-feet-stamp-3-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
-date: 2023-04-05T15:53:32.352Z
+date: 2023-04-09T07:00:32.352Z
 ---
