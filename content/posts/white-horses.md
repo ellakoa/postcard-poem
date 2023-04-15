@@ -8,7 +8,7 @@ description: "The sea has many faces, in Sandwich Bay Kent, it can be for the
   aplenty galloping across the bay. "
 collection: Wonderful Britain
 aspect: landscape
-image: /img/sandwich-bay-4d-2171.jpg
+image: /img/sandwich-bay-4a-0415.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Spikey Marram grass in the foreground. Sunny, breezy day with the wind
   catching a wave with salty sea spray.
@@ -17,7 +17,13 @@ poem: |-
   rolling onshore in a rhythmic way.
 
   The other day they were full of rage
-  the rage of a storm that wouldn’t conform.
+  the rage of a storm 
+  that wouldn’t conform.
+
+  Across the dunes, pebbles were flung
+  Sand grains raced and chased and stung
+  Tall spiky marram grass held on fast
+  as the dunes around them were recast.
 
   Outside the bay white horses paced
   waiting for the tide, to race, as the
