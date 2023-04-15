@@ -1,11 +1,10 @@
 ---
 title: White Horses
-description: "The sea has many faces, in Sandwich Bay Kent, it can be for the
-  most part charming with amazing cloudscapes and corresponding reflections are
-  seen in the wet sand as the tide goes out. When a storm rolls in, the sea can
-  be whipped up into a frenzy, it is mesmerising to watch cascades of waves
-  rolling in with the tide, and on those windy days, white horses are seen and
-  heard aplenty galloping across the bay. "
+description: "Sandwich Bay Kent can be charming, with amazing cloudscapes and
+  corresponding reflections in the wet sand as the tide goes out. When a storm
+  rolls in, the sea can be whipped up into a frenzy, it is mesmerising to watch
+  cascades of waves rolling in with the tide, and on those windy days, white
+  horses are seen and heard aplenty galloping across the bay. "
 collection: Wonderful Britain
 aspect: landscape
 image: /img/sandwich-bay-4a-0415.jpg
