@@ -16,8 +16,8 @@ poem: |-
   The waves are mesmerising today
   rolling onshore in a rhythmic way.
 
-  The other day they were full of a
-  storm that wouldn’t conform.
+  The other day they were full of rage
+  the rage of a storm that wouldn’t conform.
 
   Across the dunes, pebbles were flung
   Sand grains raced and chased and stung
