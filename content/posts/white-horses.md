@@ -14,11 +14,9 @@ alt: Spikey Marram grass in the foreground. Sunny, breezy day with the wind
   catching a wave with salty sea spray.
 poem: |-
   The waves are mesmerising today
-  rolling onshore in a rhythmic way.
+  Crashing onshore in a rhythmic way.
 
-  The other day they were full of rage
-  the rage of a storm 
-  that wouldn’t conform.
+  The other day they were full of rage.
 
   Across the dunes, pebbles were flung
   Sand grains raced and chased and stung
