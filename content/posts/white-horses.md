@@ -8,7 +8,7 @@ description: "The sea has many faces, in Sandwich Bay Kent, it can be for the
   aplenty galloping across the bay. "
 collection: Wonderful Britain
 aspect: landscape
-image: /img/sand-dunes-sandwich-bay-1-.jpg
+image: /img/sandwich-bay-4-0310.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Sandwich Bay looking towards Ramsgate, Sunny, breezy day with the wind
   catching a wave with salty sea spray
@@ -35,7 +35,7 @@ address: |-
   Sandwich Bay
   Kent
   UK
-stamp: /img/stamp-whitehorse-sandwich-bay.png
+stamp: /img/stamp-whitehorse-sandwich-bay-1-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-04-16T07:00:47.816Z
