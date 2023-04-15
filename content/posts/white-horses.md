@@ -10,8 +10,8 @@ collection: Wonderful Britain
 aspect: landscape
 image: /img/sandwich-bay-4a-0415.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: Sandwich Bay looking towards Ramsgate, Sunny, breezy day with the wind
-  catching a wave with salty sea spray
+alt: Spikey Marram grass in the foreground. Sunny, breezy day with the wind
+  catching a wave with salty sea spray.
 poem: |-
   The waves are mesmerising today
   rolling onshore in a rhythmic way.
