@@ -1,6 +1,6 @@
 ---
 title: White Horses
-description: "Sandwich Bay Kent can be charming, with amazing cloudscapes and
+description: "Sandwich Bay Kent is charming, with amazing cloudscapes and
   corresponding reflections in the wet sand as the tide goes out. When a storm
   rolls in, the sea can be whipped up into a frenzy, it is mesmerising to watch
   cascades of waves rolling in with the tide, and on those windy days, white
