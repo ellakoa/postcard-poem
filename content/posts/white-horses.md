@@ -1,14 +1,13 @@
 ---
 title: White Horses
-description: "Sandwich Bay, is a little bit of wilderness on our east Kent
-  coast, with amazing cloudscapes and corresponding reflections in the wet sand
-  as the tide goes out. When a storm rolls in, the sea can be whipped up into a
-  frenzy, it is mesmerising to watch cascades of waves rolling in with the tide,
-  and on those windy days, white horses are seen and heard aplenty galloping
-  across the bay. "
+description: "The hovercraft have long gone, Pegwell Bay, is now a little bit of
+  wilderness on our east Kent coast. When a storm rolls in, the sea can be
+  whipped up into a frenzy, it is mesmerising to watch cascades of waves rolling
+  in with the tide, and on those windy days, white horses are seen and heard
+  aplenty galloping across the bay. "
 collection: Wonderful Britain
 aspect: landscape
-image: /img/sandwich-bay-4a-0415.jpg
+image: /img/pegwell-baybay-6a-8230.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Spikey Marram grass in the foreground. Sunny, breezy day with the wind
   catching a wave with salty sea spray.
@@ -18,11 +17,6 @@ poem: |-
 
   The other day they were full of rage
   The rage of a storm that wouldn't conform.
-
-  Across the dunes, pebbles were flung
-  Sand grains raced and chased and stung
-  Tall spiky marram grass held on fast
-  as the dunescape was recast.
 
   Outside the bay white horses paced
   waiting for the tide, to race, as the
