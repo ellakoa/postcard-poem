@@ -17,7 +17,7 @@ poem: |-
 
   The other day they were full of rage
   A rage whipped up by a storm 
-  that wouldn't conform.
+  With winds that wouldn't conform.
 
   Outside the bay white horses paced
   waiting for the tide, to race, as the
