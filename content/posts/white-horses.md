@@ -13,10 +13,11 @@ alt: Spikey Marram grass in the foreground. Sunny, breezy day with the wind
   catching a wave with salty sea spray.
 poem: |-
   The waves are mesmerising today
-  Rolling onshore in a rhythmic way.
+  Rolling in a rhythmic way.
 
   The other day they were full of rage
-  The rage of a storm that wouldn't conform.
+  A rage whipped up by a storm 
+  that wouldn't conform.
 
   Outside the bay white horses paced
   waiting for the tide, to race, as the
