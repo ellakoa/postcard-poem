@@ -31,7 +31,7 @@ alignPoemLeft: false
 removePostcardPadding: false
 address: |-
   White Horses
-  Sandwich Bay
+  Pegwell Bay
   Kent
   UK
 stamp: /img/stamp-whitehorse-sandwich-bay-1-1-.png
