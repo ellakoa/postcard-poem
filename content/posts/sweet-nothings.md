@@ -26,7 +26,7 @@ poem: |-
 
   Many years have passed us by
   We still stand together you and I.
-alignPoemLeft: true
+alignPoemLeft: false
 removePostcardPadding: false
 address: |-
   Sweet Nothings
