@@ -26,7 +26,7 @@ poem: |-
 
   Many years have passed us by
   We have grown old together you and I.
-alignPoemLeft: false
+alignPoemLeft: true
 removePostcardPadding: false
 address: |-
   Sweet Nothings
