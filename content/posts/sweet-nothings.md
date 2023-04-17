@@ -14,7 +14,7 @@ poem: |-
   We are no longer so well-defined.
 
   I whisper sweet nothings as we touch
-  You quiver but never say much.
+  You quiver, but never say much.
 
   Come autumn
   our leaves play chase as they fall.
