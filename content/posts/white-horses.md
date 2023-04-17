@@ -7,7 +7,7 @@ description: "The hovercraft have long gone, Pegwell Bay, is now a little bit of
   aplenty galloping across the bay. "
 collection: Wonderful Britain
 aspect: landscape
-image: /img/pegwell-baybay-4.jpg
+image: /img/pegwell-bay-4aa-8226.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Spikey Marram grass in the foreground. Sunny, breezy day with the wind
   catching a wave with salty sea spray.
