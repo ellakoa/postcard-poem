@@ -11,12 +11,12 @@ poem: |-
   You’ve lost your shape, but so have I.
 
   Our crowns have become intertwined
-  We are no longer so well defined.
+  We are no longer so well-defined.
 
   I whisper sweet nothings as we touch
-  You quiver, but never say much.
+  You quiver but never say much.
 
-  Come autumn,
+  Come autumn
   our leaves play chase as they fall.
   Sweet chestnuts 
   are happily gathered by all
