@@ -25,7 +25,7 @@ poem: |-
   In spring we wake to the Cuckoo's song.
 
   Many years have passed us by
-  We have grown old together you and I.
+  We still stand together you and I.
 alignPoemLeft: true
 removePostcardPadding: false
 address: |-
