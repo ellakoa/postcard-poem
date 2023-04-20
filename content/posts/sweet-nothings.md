@@ -1,6 +1,9 @@
 ---
 title: Sweet Nothings
-description: "111"
+description: Fredville Park Nonnington, where trees have been allowed to be
+  trees and grow in all their finery. There are some very elderly sweet chestnut
+  trees here, their trunks have become knarled and twisted in the most
+  fantastical way.
 collection: Wonderful Britain
 aspect: landscape
 image: /img/sweet-nothings-main-blog-picture-1-.jpg
