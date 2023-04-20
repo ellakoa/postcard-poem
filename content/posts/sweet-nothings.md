@@ -21,7 +21,7 @@ poem: |-
   Sweet chestnuts 
   are happily gathered by all
 
-  We sleepnaked together all winter long
+  We sleep naked together all winter long
   In spring we wake to the Cuckoo's song.
 
   Many years have passed us by
