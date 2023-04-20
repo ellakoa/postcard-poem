@@ -1,7 +1,7 @@
 ---
 title: Sweet Nothings
 description: "111"
-collection: Wonderful Britian
+collection: Wonderful Britain
 aspect: landscape
 image: /img/sweet-nothings-main-blog-picture-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
