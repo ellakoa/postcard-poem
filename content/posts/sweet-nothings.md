@@ -14,15 +14,15 @@ poem: |-
   We are no longer so well-defined.
 
   I whisper sweet nothings as we touch
-  You quiver, but never say much.
+  You quiver but never say much.
 
   Come autumn
   our leaves play chase as they fall.
   Sweet chestnuts 
-  are happily gathered by all
+  are happily gathered by all.
 
   We sleep naked together all winter long
-  In spring we wake to the Cuckoo's song.
+  In spring we wake to the Cuckoos song.
 
   Many years have passed us by
   We still stand together you and I.
