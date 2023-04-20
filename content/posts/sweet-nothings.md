@@ -3,7 +3,7 @@ title: Sweet Nothings
 description: "111"
 collection: Wonderful Britian
 aspect: landscape
-image: /img/beyond-pebbles-face-kingsdo.jpg
+image: /img/sweet-nothings-main-blog-picture-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
 poem: |-
@@ -33,8 +33,8 @@ address: |-
   Fredville Park
   Nonnington
   Kent UK
-stamp: /img/blackthorn-hedgerows-stamp-1.png
-showStampInPreview: false
+stamp: /img/sweet-nothings-stamp-1-.png
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-04-17T14:58:19.105Z
 ---
