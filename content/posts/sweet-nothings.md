@@ -31,7 +31,7 @@ poem: |-
   In spring we wake to the Cuckoos song.
 
   Many years have passed us by
-  We still stand together you and I.
+  We have grown old together you and I
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
@@ -39,7 +39,7 @@ address: |-
   Fredville Park
   Nonington
   Kent UK
-stamp: /img/sweet-nothings-stamp-1-.png
+stamp: /img/sweet-nothings-stamp-2-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-04-17T14:58:19.105Z
