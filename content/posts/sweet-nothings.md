@@ -31,7 +31,7 @@ poem: |-
   In spring we wake to the Cuckoos song.
 
   Many years have passed us by
-  We have grown old together you and I
+  We have grown old together you and I.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
