@@ -1,11 +1,11 @@
 ---
 title: Sweet Nothings
 description: >-
-  Fredville Park Nonnington, where trees have been allowed to be trees and grow
-  in all their finery. There are some very elderly sweet chestnut trees here,
+  Fredville Park Nonnington, where trees have been allowed to be trees and
+  mature in all their finery. There are some very elderly sweet chestnut trees,
   their trunks have become knarled and twisted in the most fantastical way.
 
-  A couple of them stand quite close together, their crowns touching
+  This couple stand quite close together, their crowns touching, how sweet is that?
 collection: Wonderful Britain
 aspect: landscape
 image: /img/sweet-nothings-main-blog-picture-1-.jpg
