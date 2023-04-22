@@ -1,9 +1,9 @@
 ---
 title: Sweet Nothings
 description: >-
-  Fredville Park Nonnington, where trees have been allowed to be trees and
-  mature in all their finery. There are some very elderly sweet chestnut trees,
-  their trunks have become gnarled and twisted in the most fantastical way.
+  Fredville Park Nonington, where trees have been allowed to be trees and mature
+  in all their finery. There are some very elderly sweet chestnut trees, their
+  trunks have become gnarled and twisted in the most fantastical way.
 
   This couple stand quite close together, their crowns touching, how sweet is that?
 collection: Wonderful Britain
@@ -37,7 +37,7 @@ removePostcardPadding: false
 address: |-
   Sweet Nothings
   Fredville Park
-  Nonnington
+  Nonington
   Kent UK
 stamp: /img/sweet-nothings-stamp-1-.png
 showStampInPreview: true
