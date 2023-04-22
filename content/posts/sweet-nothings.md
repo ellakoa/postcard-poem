@@ -5,7 +5,7 @@ description: >-
   in all their finery. There are some very elderly sweet chestnut trees, their
   trunks have become gnarled and twisted in the most fantastical way.
 
-  This couple stand quite close together, their crowns touching, how sweet is that?
+  A couple stand quite close together, their crowns touching, how sweet is that?
 collection: Wonderful Britain
 aspect: landscape
 image: /img/sweet-nothings-main-blog-picture-1-.jpg
