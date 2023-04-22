@@ -3,14 +3,15 @@ title: Sweet Nothings
 description: >-
   Fredville Park Nonnington, where trees have been allowed to be trees and
   mature in all their finery. There are some very elderly sweet chestnut trees,
-  their trunks have become knarled and twisted in the most fantastical way.
+  their trunks have become gnarled and twisted in the most fantastical way.
 
   This couple stand quite close together, their crowns touching, how sweet is that?
 collection: Wonderful Britain
 aspect: landscape
 image: /img/sweet-nothings-main-blog-picture-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
+alt: A pair of ancient sweet chestnut trees, their trunks are gnarled and
+  twisted in a most fantastical way.
 poem: |-
   We have grown old together you and I
   You’ve lost your shape, but so have I.
