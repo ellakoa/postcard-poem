@@ -18,7 +18,11 @@ poem: |-
   mindfulness.
 alignPoemLeft: true
 removePostcardPadding: false
-address: Meadow of Flowers
+address: |-
+  Meadow of Flowers
+  North Downs
+  Temple Ewell
+  Kent UK
 stamp: /img/meadow-of-flowers-stamp.png
 showStampInPreview: false
 author: Caroline Whitehouse
