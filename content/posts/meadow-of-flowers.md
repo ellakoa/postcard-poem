@@ -13,9 +13,9 @@ poem: |-
   A summers walk across the chalkland 
   meadows in the north downs of Kent, 
   where an abundance of wildlife can
-   be enjoyed. Escape into the countryside 
-  with this haiku and enjoy a moment of 
-  mindfulness.
+  be enjoyed. Escape into the countryside 
+  with this haiku and enjoy 
+  a moment of mindfulness.
 alignPoemLeft: true
 removePostcardPadding: false
 address: |-
