@@ -6,7 +6,7 @@ description: Haiku is a short Japanese, unrhyming poem capturing a moment in
   main body of the postcard.
 collection: Haiku
 aspect: portrait
-image: /img/meadow-of-flowers-blog.jpg
+image: /img/meadow-of-flowers-blog-2.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A patch of white orchids in a meadow.
 poem: |-
