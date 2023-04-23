@@ -29,7 +29,7 @@ poem: |-
   are happily gathered by all.
 
   We sleep naked together all winter long
-  In spring we wake to the Cuckoos song.
+  In spring we wake to the cuckoos song.
 
   Many years have passed us by
   We have grown old together you and I.
