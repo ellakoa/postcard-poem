@@ -17,7 +17,7 @@ poem: |-
   with this haiku and enjoy 
   a moment of mindfulness.
 alignPoemLeft: true
-removePostcardPadding: false
+removePostcardPadding: true
 address: |-
   Meadow of Flowers
   North Downs
