@@ -10,10 +10,13 @@ image: /img/meadow-of-flowers-blog.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A patch of white orchids in a meadow.
 poem: |-
-  A summers walk across the chalkland meadows in the north downs of Kent, 
-  where an abundance of wildlife can be enjoyed. 
-  Escape into the countryside with this haiku and enjoy a moment of mindfulness.
-alignPoemLeft: false
+  A summers walk across the chalkland 
+  meadows in the north downs of Kent, 
+  where an abundance of wildlife can
+   be enjoyed. Escape into the countryside 
+  with this haiku and enjoy a moment of 
+  mindfulness.
+alignPoemLeft: true
 removePostcardPadding: false
 address: Meadow of Flowers
 stamp: /img/meadow-of-flowers-stamp.png
