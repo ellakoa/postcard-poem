@@ -16,7 +16,7 @@ poem: |-
 alignPoemLeft: false
 removePostcardPadding: false
 address: Meadow of Flowers
-stamp: /img/meadow-of-flowers-blog.jpg
+stamp: /img/meadow-of-flowers-stamp.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-04-23T12:10:31.104Z
