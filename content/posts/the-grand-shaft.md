@@ -1,9 +1,9 @@
 ---
-title: The Grand Shaft
+title: A Well of Light.
 description: "111"
 collection: Wonderful Britain
 aspect: landscape
-image: /img/beyond-pebbles-face-kingsdo.jpg
+image: /img/the-grand-shaft-6-9090.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A triple, spiral stairway, looking up through the main shaft towards the
   sky. Their are windows all the way to the top.
@@ -36,7 +36,7 @@ address: |-
   The Grand Shaft
   Dover
   Kent UK
-stamp: /img/a-stick-and-a-float-stamp-1-1-.png
+stamp: /img/a-well-of-light-stamp.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-04-29T14:45:52.155Z
