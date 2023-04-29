@@ -1,8 +1,8 @@
 ---
 title: A Well of Light.
 description: "What a fantastic bit of engineering, a triple spiral staircase,
-  reaching up 140 feet, hidden in the beautiful white cliffs of Dover. How neat
-  is that? "
+  reaching up 140 feet, hidden in the beautiful white cliffs of Dover. A well of
+  light cascades down the central shaft. How neat is that? "
 collection: Wonderful Britain
 aspect: landscape
 image: /img/the-grand-shaft-6-9090.jpg
@@ -16,7 +16,7 @@ poem: |-
   Intertwined, a trinity.
    
   An echo of the distant past
-  a whispering in the Grand Shaft
+  whispering in the Grand Shaft
 
   Rhythmic sounds through the lower arch 
   Footsteps as armies marched, 
@@ -29,7 +29,7 @@ poem: |-
   With each twist and turn I hear 
   the comradely and the fear
 
-  The walls fall silent as I climb
+  The walls remind me as I climb
   202 steps, each staircase, each time.
 alignPoemLeft: false
 removePostcardPadding: false
