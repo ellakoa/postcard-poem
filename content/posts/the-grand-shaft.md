@@ -1,7 +1,8 @@
 ---
 title: A Well of Light.
-description: What a fantastic bit of engineering, a triple spiral staircase,
-  reaching up a 140 feet, hidden in the white cliffs of Dover. How neat is that?
+description: "What a fantastic bit of engineering, a triple spiral staircase,
+  reaching up 140 feet, hidden in the beautiful white cliffs of Dover. How neat
+  is that? "
 collection: Wonderful Britain
 aspect: landscape
 image: /img/the-grand-shaft-6-9090.jpg
