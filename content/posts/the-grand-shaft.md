@@ -38,7 +38,7 @@ address: |-
   The Grand Shaft
   Dover
   Kent UK
-stamp: /img/a-well-of-light-stamp.png
+stamp: /img/a-well-of-light-stamp-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-04-29T14:45:52.155Z
