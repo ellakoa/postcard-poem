@@ -29,7 +29,7 @@ poem: |-
   With each twist and turn I hear 
   the comradely and the fear
 
-  I chant as I climb
+  I find myself counting as I climb
   202 steps, each staircase, each time.
 alignPoemLeft: false
 removePostcardPadding: false
