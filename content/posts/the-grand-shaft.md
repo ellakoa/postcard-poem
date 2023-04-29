@@ -21,13 +21,13 @@ poem: |-
   Rhythmic sounds through the lower arch 
   Footsteps as armies marched, 
   voices falling silent before the climb, 
-  Then murmurs, counting, 
+  then murmurs, counting, 
   202 steps, each staircase, each time.
 
   Standing in the well of light 
   I contemplate each spiral flight
   With each twist and turn I hear 
-  their comradely and the fear
+  the comradely and the fear
 
   The walls fall silent as I climb
   202 steps, each staircase, each time.
