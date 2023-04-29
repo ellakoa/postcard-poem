@@ -14,9 +14,9 @@ poem: |-
   A shaft where armies walked
   A spiral stairway, times three
   Intertwined, a trinity.
-
-  Walls whisper in the Grand Shaft 
-  an echo of the distant of the past
+   
+  An echo of the distant past
+  a whispering in the Grand Shaft
 
   Rhythmic sounds through the lower arch 
   Footsteps as armies marched, 
