@@ -28,7 +28,7 @@ poem: |-
   Standing in the well of light 
   I contemplate each spiral flight
   With each twist and turn I hear 
-  the comradely and the fear
+  the camaraderie and the fear
 
   I find myself counting as I climb
   202 steps, each staircase, each time.
