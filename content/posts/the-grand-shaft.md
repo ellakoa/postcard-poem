@@ -1,8 +1,9 @@
 ---
 title: A Well of Light.
-description: "What a fantastic bit of engineering, a triple spiral staircase,
-  reaching up 140 feet, hidden in the beautiful white cliffs of Dover. A well of
-  light cascades down the central shaft. How neat is that? "
+description: "What a fantastic bit of engineering. A triple spiral staircase,
+  all three winding the same way around a central shaft, reaching up 140 feet.
+  The Grand Shaft is hidden in the beautiful White Cliffs of Dover, illuminated
+  by a well of light that cascades down the central shaft. How neat is that? "
 collection: Wonderful Britain
 aspect: landscape
 image: /img/the-grand-shaft-6-9090.jpg
@@ -41,5 +42,5 @@ address: |-
 stamp: /img/a-well-of-light-stamp-1-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
-date: 2023-04-29T14:45:52.155Z
+date: 2023-04-30T07:00:52.155Z
 ---
