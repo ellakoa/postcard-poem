@@ -18,12 +18,13 @@ poem: |-
   A mantle of intricate lace
   the wood anemone's shy embrace
   Demure, close to the ground 
-  Smiles when the sun shines down.
+  Smiles as the sun shines down.
 
   Tiny White Stars
-  Ransoms in the warming spring sun
-  Smothering the woodland, drenching the air
-  Globes of tiny white stars where ever you gaze
+  Smothering the woodland
+  drenching the air
+  Globes of tiny white stars 
+  where ever you gaze
   Floating above a green woollen baize
 alignPoemLeft: false
 removePostcardPadding: false
