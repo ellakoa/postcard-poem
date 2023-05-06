@@ -4,7 +4,7 @@ description: >
   It has been a weekend where church bells have ringing out, rejoicing in the
   coronation of King Charles III.
 
-  I recently visited St Peters in Sandwich and climbed the tower. What a Gem to see. Here I learnt the bells had inscriptions on them, giving the bells a message to ring out. How cool is that?
+  I recently visited St Peters Church in Sandwich, what a gem. Climbing the clock tower afforded some wonderful views and on the way up I learnt the bells had inscriptions on them, giving the bells a message to ring out. How cool is that?
 collection: Wonderful Britain
 aspect: landscape
 image: /img/st-peters-main-1.jpg
