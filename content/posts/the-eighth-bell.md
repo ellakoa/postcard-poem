@@ -2,7 +2,7 @@
 title: The Eighth Bell
 description: >
   It has been a weekend where church bells have ringing out, rejoicing in the
-  coronation of King Charles the III
+  coronation of King Charles the III.
 
   I recently visited St Peters in Sandwich and climbed the tower. What a Gem to visit. Here I learnt the bells had inscriptions on them, giving the bells a purpose to ring out. How cool is that?
 collection: Wonderful Britain
