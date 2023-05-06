@@ -9,7 +9,8 @@ collection: Wonderful Britain
 aspect: landscape
 image: /img/st-peters-main-1.jpg
 metaImage: /img/face.jpg
-alt: "111"
+alt: Trio of pictures, medieval church with clock tower. View across rooftops
+  from the tower and a stained glass window.
 poem: |-
   My Bells have a purpose
   inscribed on their hearts
