@@ -7,7 +7,7 @@ description: >
   I recently visited St Peters in Sandwich and climbed the tower. What a Gem to visit. Here I learnt the bells had inscriptions on them, giving the bells a purpose to ring out. How cool is that?
 collection: Wonderful Britain
 aspect: landscape
-image: /img/derp-cat.jpeg
+image: /img/st-peters-main-1.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
@@ -35,8 +35,8 @@ address: |-
   St Peters Church
   Sandwich
   Kent UK
-stamp: /img/a-stick-and-a-float-stamp-reeds-3-1-.png
-showStampInPreview: false
+stamp: /img/st-peters-stamp-1-.png
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-05-07T07:00:18.544Z
 ---
