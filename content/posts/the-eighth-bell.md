@@ -18,7 +18,7 @@ poem: |-
   Inscribed in their hearts 
   is a message to sing
   of love and peace
-  and cheerful things.
+  and joyful things.
   The songs are rooted deep in my bones
   their purpose resonant in my stones.
 
@@ -26,8 +26,8 @@ poem: |-
   Sounds at night to call you home
   The inscription is lost to the past
   so, for as long as the ringing lasts
-  Find the purpose for this bell
-  within your heart.
+  Let the purpose of this bell
+  lay within your heart.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
