@@ -30,7 +30,7 @@ poem: |-
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
-  The Eighth Bell
+  The Curfew Bell
   St Peters Church
   Sandwich
   Kent UK
