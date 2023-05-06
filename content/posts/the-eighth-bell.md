@@ -19,14 +19,15 @@ poem: |-
   is a message to sing
   of love and peace
   and cheerful things.
-  The songs are rooted in my bones
+  The songs are rooted deep in my bones
   their purpose resonant in my stones.
 
   The eighth bell's beautiful tone
   Sounds at night to call you home
   The inscription is lost to the past
   so, for as long as the ringing lasts
-  Find the purpose within your heart.
+  Find the purpose for this bell
+  within your heart.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
