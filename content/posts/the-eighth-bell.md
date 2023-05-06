@@ -12,22 +12,22 @@ metaImage: /img/face.jpg
 alt: Trio of pictures, medieval church with clock tower. View across rooftops
   from the tower and a stained glass window.
 poem: |-
-  My Bells have a purpose
-  inscribed on their hearts
-  to cheerfully sing
-  and rejoice as they ring.
+  In this noble clock tower of mine
+  My bells sound out 
+  with the chime of time
+  Inscribed in their hearts 
+  is a message to sing
+  of love and peace
+  and cheerful things
+  The songs are rooted in my bones
+  their purpose resonant in my stones.
 
-  Most of the bells no longer swing
-  Yet they still happily ring
-  Sounding out with each chime of time 
-  in this noble clock tower of mine
-
-  My eighth bell, still able to peal
-  its beautiful tone, beckons home.
-  Alas, the inscription is lost to the past
+  The eighth bell's beautiful tone
+  Sounds at night to call you home
+  The inscription is lost to the past
   so, for as long as the ringing lasts
-  the purpose of my eighth bell 
-  is yours to find in your heart.
+  The purpose is yours 
+  to find in your heart.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
