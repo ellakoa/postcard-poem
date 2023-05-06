@@ -15,7 +15,7 @@ poem: |-
   My Bells have a purpose
   inscribed on their hearts
   to cheerfully sing
-  and rejoice in all things.
+  and rejoice as they ring.
 
   Most of the bells no longer swing
   Yet they still happily ring
