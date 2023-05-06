@@ -1,5 +1,5 @@
 ---
-title: The Eighth Bell
+title: The Bells of St Peters
 description: >
   It has been a weekend where church bells have ringing out, rejoicing in the
   coronation of King Charles the III.
@@ -30,7 +30,8 @@ poem: |-
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
-  The Curfew Bell
+  The Bells of 
+  St Peters
   St Peters Church
   Sandwich
   Kent UK
