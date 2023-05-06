@@ -18,7 +18,7 @@ poem: |-
   and rejoice in all things.
 
   Most of the bells no longer swing
-  Yet they are still able to happily ring
+  Yet they still happily ring
   Sounding out with each chime of time 
   in this noble clock tower of mine
 
