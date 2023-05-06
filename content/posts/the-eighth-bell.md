@@ -26,8 +26,7 @@ poem: |-
   Sounds at night to call you home
   The inscription is lost to the past
   so, for as long as the ringing lasts
-  the purpose is yours 
-  to find in your heart.
+  Find the purpose in your heart.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
