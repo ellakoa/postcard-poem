@@ -32,10 +32,10 @@ alignPoemLeft: false
 removePostcardPadding: false
 address: |-
   The Bells of 
-  St Peters
   St Peters Church
   Sandwich
-  Kent UK
+  Kent 
+  UK
 stamp: /img/st-peters-stamp-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
