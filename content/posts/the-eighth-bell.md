@@ -14,16 +14,16 @@ poem: |-
   My Bells have a purpose
   Inscribed on their hearts
   To cheerfully sing
-  And rejoice in all things.
+  and rejoice in all things.
 
   Most of the bells no longer swing
-  Yet they are still able to ring
+  yet they are still able to ring
   Sounding out with each chime of time 
   in this noble clock tower of mine
 
   My eighth bell is still able to peal
   its beautiful tone, beckons home
-  Alas, the inscription is lost to the past,
+  Alas, the inscription is lost to the past
   so, for as long as the ringing lasts
   the purpose of my eighth bell 
   you will find in your heart.
