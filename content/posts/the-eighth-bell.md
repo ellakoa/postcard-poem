@@ -1,7 +1,7 @@
 ---
 title: The Bells of St Peters
 description: >
-  It has been a weekend where church bells have ringing out, rejoicing in the
+  It has been a weekend where church bells have rung out, rejoicing in the
   coronation of King Charles III.
 
   I recently visited St Peters Church in Sandwich, what a gem. Climbing the clock tower afforded some wonderful views and on the way up I learnt the bells have inscriptions on them, giving them a message to ring out. How cool is that?
