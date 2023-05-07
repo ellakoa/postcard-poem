@@ -25,9 +25,9 @@ poem: |-
   The eighth bell's beautiful tone
   Sounds at night to call you home
   The inscription is lost to the past
-  so, for as long as the ringing lasts
-  Let the purpose of this bell
-  lay within your heart.
+  so, for as long as the ringing lasts,
+  the message of this eighth bell
+  can be yours to choose and tell.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
