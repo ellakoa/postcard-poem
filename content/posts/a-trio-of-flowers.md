@@ -1,7 +1,10 @@
 ---
-title: A Trio of Flowers
-description: "It wouldn't be spring without bluebells, and I am a sucker for
-  traipsing off to the woods each year in search of these "
+title: Fragrant Chimes
+description: >-
+  It wouldn't be spring without bluebells, and I am a sucker for traipsing off
+  to the woods each year in search them.
+
+  The joy of finding a wood fragrant with  bluebells never tires. Fragrant Chimes is part of 'Woodland Tapestries' collection. I have also added two more little poems to this collection on my website. 
 collection: Woodland Tapestries
 aspect: landscape
 image: /img/beyond-pebbles-face-kingsdo.jpg
