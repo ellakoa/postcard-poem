@@ -21,12 +21,9 @@ poem: |-
   permeates the breeze.
 alignPoemLeft: false
 removePostcardPadding: false
-address: |-
+address: |
   Fragrant Chimes
-  and other 
-  111
-  111
-  111
+  Bluebell Woods
 stamp: /img/a-stick-and-a-float-stamp-1-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
