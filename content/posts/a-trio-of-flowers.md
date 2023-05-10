@@ -9,7 +9,7 @@ collection: Woodland Tapestries
 aspect: landscape
 image: /img/beyond-pebbles-face-kingsdo.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
+alt: An abundance of bluebells in woodland. A bee drinks nectar from one of them.
 poem: |-
   Blue satin, draped 
   across the woodland bed
