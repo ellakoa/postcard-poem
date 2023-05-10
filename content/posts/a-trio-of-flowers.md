@@ -1,6 +1,7 @@
 ---
 title: A Trio of Flowers
-description: "111"
+description: "It wouldn't be spring without bluebells, and I am a sucker for
+  traipsing off to the woods each year in search of these "
 collection: Woodland Tapestries
 aspect: landscape
 image: /img/beyond-pebbles-face-kingsdo.jpg
