@@ -11,25 +11,14 @@ image: /img/beyond-pebbles-face-kingsdo.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
 poem: |-
-  Fragrant Chimes
-  Blue satin, draped across the woodland bed
+  Blue satin, draped 
+  across the woodland bed
   Bees disturb the silky heads 
-  Heads bow gracefully beneath the trees, 
+  Heads bow gracefully 
+  beneath the trees, 
   The bells might not chime
-  but their fragrance permeates the breeze.
-
-  Delicate Lace
-  A mantle of intricate lace
-  the wood anemone's shy embrace
-  Demure, close to the ground 
-  Smiles as the sun shines down.
-
-  Tiny White Stars
-  Smothering the woodland
-  drenching the air
-  Globes of tiny white stars 
-  where ever you gaze
-  Floating above a green woollen baize
+  but their fragrance 
+  permeates the breeze.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
