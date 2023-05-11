@@ -1,6 +1,6 @@
 ---
 title: Delicate Lace
-description: "11"
+description: "one "
 collection: Woodland Tapestries
 aspect: landscape
 image: /img/a-stick-and-a-float-stamp-1-1-.png
@@ -12,7 +12,7 @@ poem: |
   A mantle of intricate lace
   the wood anemone's shy embrace
   Demure, close to the ground 
-  Smiles when the sun shines down
+  Smiles when the sun shines down.
 alignPoemLeft: false
 removePostcardPadding: false
 address: Delicate Lace
