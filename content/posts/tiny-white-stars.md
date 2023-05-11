@@ -3,7 +3,7 @@ title: Tiny White Stars
 description: "111"
 collection: Woodland Tapestries
 aspect: landscape
-image: /img/beyond-pebbles-face-kingsdo.jpg
+image: /img/ransoms-5209.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
 poem: |+
