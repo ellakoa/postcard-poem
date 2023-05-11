@@ -6,20 +6,16 @@ aspect: landscape
 image: /img/beyond-pebbles-face-kingsdo.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
-poem: |
-  Crushed green velvet 
-  spread on the woodland floor
+poem: |+
+  Crushed green velvet draped 
+  on the woodland floor,
   above which globes of 
-  tiny white stars soar
-  Ransoms in the warming sun
-  Smothering the woodland,
-  drenching the air where ever
-  You stare.
+  tiny white stars soar.
+  Ransoms where ever
+  you stare
+  smothering the woodland
+  drenching the air
 
-  Ransoms in the warming spring sun
-  Smothering the woodland, drenching the air
-  Globes of tiny white stars where ever you gaze
-  Floating above a green woollen baize
 alignPoemLeft: false
 removePostcardPadding: false
 address: "111"
