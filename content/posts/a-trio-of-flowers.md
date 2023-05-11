@@ -23,7 +23,9 @@ alignPoemLeft: false
 removePostcardPadding: false
 address: |
   Fragrant Chimes
-  Bluebell Woods
+  Frandham Woods
+  Dover
+  Kent UK
 stamp: /img/fragrant-chimes-stamp.png
 showStampInPreview: true
 author: Caroline Whitehouse
