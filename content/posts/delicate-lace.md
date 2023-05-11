@@ -3,7 +3,7 @@ title: Delicate Lace
 description: "one "
 collection: Woodland Tapestries
 aspect: landscape
-image: /img/a-stick-and-a-float-stamp-1-1-.png
+image: /img/delicate-lace-1-3350.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Woodland, the woodland floor is covered with delicate white flowers, the
   wood anemone.
