@@ -16,7 +16,7 @@ poem: |
 alignPoemLeft: false
 removePostcardPadding: false
 address: Delicate Lace
-stamp: /img/a-stick-and-a-float-stamp-1-1-.png
+stamp: /img/delicate-lace-stamp.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-05-10T12:37:39.338Z
