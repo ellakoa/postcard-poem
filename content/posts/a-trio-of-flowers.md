@@ -7,7 +7,7 @@ description: >-
   The joy of finding a wood fragrant with  bluebells never tires. Fragrant Chimes is part of 'Woodland Tapestries' collection. I have also added two more little poems to this collection on my website. 
 collection: Woodland Tapestries
 aspect: landscape
-image: /img/bluebells-2-3573.jpg
+image: /img/fragrant-chimes-1.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: An abundance of bluebells in woodland. A bee drinks nectar from one of them.
 poem: |-
