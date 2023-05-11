@@ -24,8 +24,8 @@ removePostcardPadding: false
 address: |
   Fragrant Chimes
   Bluebell Woods
-stamp: /img/a-stick-and-a-float-stamp-1-1-.png
-showStampInPreview: false
+stamp: /img/fragrant-chimes-stamp.png
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-04-29T13:16:19.783Z
 ---
