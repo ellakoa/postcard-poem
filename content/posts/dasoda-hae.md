@@ -1,5 +1,5 @@
 ---
-title: Dasoda-Hae
+title: Dasoda-hae
 description: Dasoda-hae, meaning ‘he just sits there,’ what a very apt name for
   this magnificent wood carving.
 collection: Thoughtful Things
