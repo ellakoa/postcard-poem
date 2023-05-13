@@ -7,7 +7,12 @@ aspect: landscape
 image: /img/indian-head-1-.png
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Indian Chief with feathered headdress carved out of wood
-poem: aaa
+poem: |-
+  Dasoda-Hae, meaning ‘he just sits there,’
+  what a fitting name for this magnificent
+  wood carving, I am always in awe of the 
+  way a sculptor can connect and reveal 
+  the very essence of a tree.
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
