@@ -4,7 +4,7 @@ description: Dasoda-Hae, meaning ‘he just sits there,’ is a very apt name fo
   this fascinating wood carving. After a life time
 collection: Thoughtful Things
 aspect: landscape
-image: /img/indian-head-main-1-.jpg
+image: /img/indian-head-1-.png
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Indian Chief with feathered headdress carved out of wood
 poem: aaa
