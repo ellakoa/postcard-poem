@@ -1,7 +1,7 @@
 ---
 title: Dasoda-Hae
-description: "Dasoda-Hae, meaning ‘he just sits there,’ what a very apt name for
-  this fascinating wood carving. "
+description: Dasoda-Hae, meaning ‘he just sits there,’ what a very apt name for
+  this magnificent wood carving.
 collection: Thoughtful Things
 aspect: landscape
 image: /img/indian-head-1-.png
