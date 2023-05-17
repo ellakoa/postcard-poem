@@ -10,7 +10,7 @@ aspect: landscape
 image: /img/tankerton-the-street-main-3.jpg
 metaImage: /img/face.jpg
 alt: The sunset illuminates Whitstable seafront.  A scene seen from 'The Street'
-  A pathway uncovered at low tide.
+  A pebble pathway uncovered at low tide.
 poem: |-
   The sun blows a goodnight kiss
   embracing the moon with a gift 
