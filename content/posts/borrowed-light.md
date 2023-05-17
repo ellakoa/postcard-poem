@@ -18,7 +18,7 @@ poem: |-
   ghost light on the stage of night.
 
   Into twilight’s veil, moonlight spills
-  Cascading the sea, fields and hills
+  Cascading over sea, fields and hills
   Stretching out shadows to fright
   Silhouetting owls in silent flight.
 
