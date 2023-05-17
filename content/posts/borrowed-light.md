@@ -7,7 +7,7 @@ description: "As the sun sets in the west casting the last of its golden rays
   Sunset and moonrise, simultaneously.  "
 collection: Wonderful Britain
 aspect: landscape
-image: /img/full-moon-the-street-2-0291.jpg
+image: /img/full-moon-the-street-1-0296.jpg
 metaImage: /img/face.jpg
 alt: The sunset illuminates Whitstable seafront.  A scene seen from 'The Street'
   A pebble pathway uncovered at low tide.
@@ -38,7 +38,7 @@ address: |-
   The Street
   Whistable
   Kent UK
-stamp: /img/full-moon-the-street-0-.jpg
+stamp: /img/full-moon-the-street-2-0291.jpg
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-05-21T07:00:15.346Z
