@@ -9,8 +9,8 @@ collection: Wonderful Britain
 aspect: landscape
 image: /img/full-moon-the-street-1-0296.jpg
 metaImage: /img/face.jpg
-alt: The sunset illuminates Whitstable seafront.  A scene seen from 'The Street'
-  A pebble pathway uncovered at low tide.
+alt: Sunset over Whitstable, as the moon rises over Tankerton. Seen from 'The
+  Street' A pebble pathway uncovered at low tide.
 poem: |-
   The sun blows a goodnight kiss
   embracing the moon with a gift 
