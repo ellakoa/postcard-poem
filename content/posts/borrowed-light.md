@@ -28,7 +28,8 @@ poem: |-
   Over rooftops onto empty streets
   Stirring some from a dreamy sleep.
 
-  Shining a path with borrowed light
+  Shining a path into the night
+  with borrowed light
   The expansive moon gleams bright.
 alignPoemLeft: false
 removePostcardPadding: false
