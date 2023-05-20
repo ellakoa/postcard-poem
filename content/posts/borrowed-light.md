@@ -28,9 +28,9 @@ poem: |-
   Over rooftops onto empty streets
   Stirring some from a dreamy sleep.
 
-  Shining a path far into the night,
-  with borrowed light, the 
-  expansive moon gleams bright.
+  Shining a path far into the night
+  With borrowed light
+  the expansive moon gleams bright.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
