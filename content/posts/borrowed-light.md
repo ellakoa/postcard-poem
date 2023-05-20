@@ -7,7 +7,7 @@ description: As the sun sets in the west casting the last of its amber light
   Wonderful.
 collection: Wonderful Britain
 aspect: landscape
-image: /img/full-moon-the-street-2-0291.jpg
+image: /img/whistable-the-street-main-2-1-.jpg
 metaImage: /img/face.jpg
 alt: Sunset over Whitstable, as the moon rises over Tankerton. Seen from 'The
   Street' A pebble pathway uncovered at low tide.
