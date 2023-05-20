@@ -7,7 +7,7 @@ description: "As the sun sets in the west casting the last of its amber light
   Sunset and moonrise, simultaneously.  "
 collection: Wonderful Britain
 aspect: landscape
-image: /img/full-moon-the-street-1-0296.jpg
+image: /img/full-moon-the-street-2-0291.jpg
 metaImage: /img/face.jpg
 alt: Sunset over Whitstable, as the moon rises over Tankerton. Seen from 'The
   Street' A pebble pathway uncovered at low tide.
@@ -18,7 +18,7 @@ poem: |-
   ghost light on the stage of night.
 
   Into twilight’s veil, moonlight spills
-  Cascading over sea, fields and hills
+  Cascading over fields and hills
   Stretching out shadows to fright
   Silhouetting owls in silent flight.
 
