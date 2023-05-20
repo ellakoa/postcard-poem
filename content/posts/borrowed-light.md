@@ -32,7 +32,7 @@ poem: |-
   with borrowed light, the 
   expansive moon gleams bright.
 alignPoemLeft: false
-removePostcardPadding: true
+removePostcardPadding: false
 address: |-
   Borrowed Light
   The Street
