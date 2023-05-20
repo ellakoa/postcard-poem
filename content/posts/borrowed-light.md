@@ -38,7 +38,7 @@ address: |-
   The Street
   Whistable
   Kent UK
-stamp: /img/borrowed-light-stamp-1-.png
+stamp: /img/ghost-light-the-street-whistable-stamp-4-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-05-21T07:00:15.346Z
