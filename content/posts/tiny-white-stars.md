@@ -11,13 +11,12 @@ metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
 poem: |+
   Crushed green velvet draped 
-  on the woodland floor,
+  across the woodland floor,
   above which globes of 
   tiny white stars soar.
-  Ransoms where ever
-  you stare
-  smothering the woodland
-  drenching the air
+
+  Ransoms where ever you stare, 
+  intoxicating, drenching the air
 
 alignPoemLeft: false
 removePostcardPadding: false
