@@ -21,7 +21,11 @@ poem: |+
 
 alignPoemLeft: false
 removePostcardPadding: false
-address: "111"
+address: |-
+  Tiny White Stars
+  Frandham Woods
+  Dover
+  Kent UK
 stamp: /img/white-stars-1.png
 showStampInPreview: false
 author: Caroline Whitehouse
