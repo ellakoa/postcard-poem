@@ -1,6 +1,7 @@
 ---
 title: Delicate Lace
-description: "one "
+description: One of the first spring flowers to claim the woodland floor, the
+  delicate wood anemone is a pleasure to see.
 collection: Woodland Tapestries
 aspect: landscape
 image: /img/delicate-lace-1-3350.jpg
