@@ -7,12 +7,18 @@ image: /img/delicate-lace-1-3350.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Woodland, the woodland floor is covered with delicate white flowers, the
   wood anemone.
-poem: |
+poem: |+
   
-  A mantle of intricate lace
-  the wood anemone's shy embrace
+
+
+
+  The wood anemone's shy embrace
+  a mantle of intricate lace
   Demure, close to the ground 
-  Smiles when the sun shines down.
+  Openly smiles when the sun shines down.
+
+
+
 alignPoemLeft: false
 removePostcardPadding: false
 address: Delicate Lace
