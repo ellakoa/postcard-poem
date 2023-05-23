@@ -1,6 +1,7 @@
 ---
 title: The Woodland Gate
-description: "111"
+description: "The last few weeks of spring are in our midst, the countryside has
+  undergone a major transformation, everywhere "
 collection: Wonderful Britain
 aspect: landscape
 image: /img/woodland-gate-1-.jpg
