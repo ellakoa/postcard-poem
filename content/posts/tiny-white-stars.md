@@ -8,8 +8,9 @@ collection: Woodland Tapestries
 aspect: landscape
 image: /img/ransoms-5209.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
-poem: |+
+alt: Woodland floor covered in Ransoms, wild garlic, dark green leaves and
+  globes of delicate star shaped flowers.
+poem: |-
   Crushed green velvet draped 
   across the woodland floor,
   above which globes of 
@@ -17,7 +18,6 @@ poem: |+
 
   Ransoms where ever you stare, 
   intoxicating, drenching the air
-
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
