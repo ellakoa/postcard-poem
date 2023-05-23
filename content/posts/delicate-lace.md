@@ -16,7 +16,8 @@ poem: |+
   The wood anemone's shy embrace
   a mantle of intricate lace
   Demure, close to the ground 
-  Openly smiles when the sun shines down.
+  Openly smiles 
+  when the sun shines down.
 
 
 
