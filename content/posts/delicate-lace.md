@@ -23,7 +23,11 @@ poem: |+
 
 alignPoemLeft: false
 removePostcardPadding: false
-address: Delicate Lace
+address: |-
+  Delicate Lace
+  Frandham Woods
+  Dover
+  Kent UK
 stamp: /img/delicate-lace-stamp.png
 showStampInPreview: false
 author: Caroline Whitehouse
