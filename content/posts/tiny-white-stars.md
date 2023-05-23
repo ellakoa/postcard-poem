@@ -1,6 +1,9 @@
 ---
 title: Tiny White Stars
-description: "111"
+description: You'll never forget your first encounter with a woodland full of
+  Ransoms. The scent of the flowers on a sunny spring day is unmistakably
+  garlic, and whether you love the smell or not, there is no denying the beauty
+  of the profusion of tiny white stars that are their flowers.
 collection: Woodland Tapestries
 aspect: landscape
 image: /img/ransoms-5209.jpg
