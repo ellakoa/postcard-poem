@@ -17,7 +17,7 @@ poem: |-
   tiny white stars soar.
 
   Ransoms where ever you stare, 
-  intoxicating, drenching the air
+  intoxicating, drenching the spring air.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
