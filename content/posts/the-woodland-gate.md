@@ -1,7 +1,8 @@
 ---
 title: The Woodland Gate
-description: "The last few weeks of spring are in our midst, the countryside has
-  undergone a major transformation, everywhere "
+description: The last few weeks of spring are in our midst, the countryside has
+  undergone a major transformation since winter retreated. It always amazes me
+  that nature knows just what to do and when.
 collection: Wonderful Britain
 aspect: landscape
 image: /img/woodland-gate-1-.jpg
@@ -25,7 +26,7 @@ address: |-
   The Woodland Gate
   Kent
   UK
-stamp: /img/derp-cat.jpeg
+stamp: /img/woodland-gate-stamp-1.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-04-13T13:57:47.618Z
