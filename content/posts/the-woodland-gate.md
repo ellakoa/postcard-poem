@@ -24,6 +24,7 @@ alignPoemLeft: false
 removePostcardPadding: false
 address: |-
   The Woodland Gate
+  Canterbury
   Kent
   UK
 stamp: /img/woodland-gate-stamp-1.png
