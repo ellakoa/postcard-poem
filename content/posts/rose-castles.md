@@ -6,18 +6,17 @@ description: Deal, Walmer and Kingsdown a triple helping of loveliness, one
   valerian are in abundance. Blooming Lovely
 collection: Wonderful Britain
 aspect: landscape
-image: /img/walmer-beach-flowers-tiny.jpg
+image: /img/walmer-flowers-beach-1.jpg
 metaImage: /img/face.jpg
 alt: Deal and Walmer fishing boats atop the beach, large clusters of pink,
   white, red flowers blooming on the pebbles.
 poem: |-
-  Deal town not too big and not too small
-  Fronted by pebbles and a low sea wall
+  Fronted by pebbles and a white sea wall
   Named alleys lead to charming streets
   where tall houses lean and tightly meet
   The area is steeped in villainous mystery 
-  And awash with a colourful nautical history
-  Two castles built in the shape of a rose 
+  and awash with a colourful nautical history
+  Castles built in the shape of a rose 
   A memorial bandstand where music flows
   Fishing boats sit atop the shingle beach 
   under vast skies that dominate 
@@ -31,7 +30,7 @@ address: |
   Blooming Lovely
   Deal 
   Kent
-stamp: /img/strutting-stamp-2.png
+stamp: /img/blooming-lovely-stamp.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-09-18T07:00:36.660Z
