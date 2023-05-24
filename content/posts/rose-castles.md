@@ -12,6 +12,7 @@ alt: Deal and Walmer fishing boats atop the beach, large clusters of pink,
   white, red flowers blooming on the pebbles.
 poem: |-
   Fronted by pebbles and a white sea wall
+  Deal Town, not too big and not too small
   Named alleys lead to charming streets
   where tall houses lean and tightly meet
   The area is steeped in villainous mystery 
