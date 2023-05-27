@@ -4,7 +4,7 @@ description: The last few weeks of spring are in our midst, the countryside has
   undergone a major transformation since winter retreated. It always amazes me
   that nature knows just what to do and when. Here's celebrating the last of
   this years bluebells.
-collection: Wonderful Britain
+collection: Woodland Tapestries
 aspect: landscape
 image: /img/woodland-gate-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
