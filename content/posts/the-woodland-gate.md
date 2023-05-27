@@ -20,7 +20,7 @@ poem: |-
   going to seed its almost time.
 
   Most spring flowers are back to sleep
-  Safe in the woodland bed to keep.
+  safe in the woodland bed to keep.
 
   Hurry hurry spring flowers the trees won’t wait
   they're getting ready to fasten and drape 
