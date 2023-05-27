@@ -12,7 +12,8 @@ alt: Woodland filled with fragrant bluebells, a path leads out of the woods to a
   wooden gate where the sun shines.
 poem: |-
   Summers tap tapping at the woodland gate
-  Hurry hurry spring flowers the trees won't wait.
+  Hurry hurry spring flowers 
+  the trees won't wait.
 
   Paled bluebells past their prime
   lingering, still fragrantly chime.
@@ -23,9 +24,11 @@ poem: |-
   Most spring flowers are back to sleep
   safe in the woodland bed to keep.
 
-  Hurry hurry spring flowers the trees won’t wait
+  Hurry hurry spring flowers 
+  the trees won’t wait
   they're getting ready to fasten and drape 
-  over the woodland their green summer cape.
+  over the woodland 
+  their green summer cape.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
