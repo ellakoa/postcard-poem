@@ -1,9 +1,9 @@
 ---
 title: The Woodland Gate
-description: The last few weeks of spring are in our midst, the countryside has
-  undergone a major transformation since winter retreated. It always amazes me
-  that nature knows just what to do and when. Here's celebrating the last of
-  this years bluebells.
+description: "Our woodlands have undergone a major transformation since winter
+  retreated. The last few weeks of spring are in our midst and we say goodbye to
+  the colourful display of flowers that have graced the woodland floor. It
+  always amazes me that nature knows just what to do and when. "
 collection: Wonderful Britain
 aspect: landscape
 image: /img/woodland-gate-1-.jpg
