@@ -4,7 +4,7 @@ description: "Our woodlands have undergone a major transformation since winter
   retreated. The last few weeks of spring are in our midst and we say goodbye to
   the colourful display of flowers that have graced the woodland floor. It
   always amazes me that nature knows just what to do and when. "
-collection: Wonderful Britain
+collection: Woodland Tapestries
 aspect: landscape
 image: /img/woodland-gate-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
