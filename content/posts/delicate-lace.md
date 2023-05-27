@@ -4,7 +4,7 @@ description: One of the first spring flowers to claim the woodland floor, the
   delicate wood anemone is a pleasure to see.
 collection: Woodland Tapestries
 aspect: landscape
-image: /img/delicate-lace-1-3350.jpg
+image: /img/intricate-lace-wood-anenome-3409.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Woodland, the woodland floor is covered with delicate white flowers, the
   wood anemone.
