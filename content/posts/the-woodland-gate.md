@@ -8,7 +8,8 @@ collection: Wonderful Britain
 aspect: landscape
 image: /img/woodland-gate-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
+alt: Woodland filled with fragrant bluebells, a path leads out of the woods to a
+  wooden gate where the sun shines.
 poem: |-
   Summers tap tapping at the woodland gate
   Hurry hurry spring flowers the trees won't wait.
