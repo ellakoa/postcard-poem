@@ -13,7 +13,7 @@ aspect: landscape
 image: /img/butterfliesl-1.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
-poem: |
+poem: |-
   The slopes are adrift with grasses that quiver
   The slightest breeze sends them a dither
   Fragrant flowers amass on the slopes
@@ -32,9 +32,9 @@ poem: |
   Dressed in blue, blue as the sky
   the lads bow to their ladies 
   who are dancing nearby, 
-  the ladies shimmer in gowns of browns.
-  A kaleidoscope of blue butterflies
-  flutters low, over the Downs.
+  the ladies shimmer in gowns of brown.
+  Watch a kaleidoscope of blue butterflies
+  fluttering low, over the Downs.
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
