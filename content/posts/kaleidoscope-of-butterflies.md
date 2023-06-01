@@ -1,5 +1,5 @@
 ---
-title: Kaleidoscope of Butterflies
+title: Kaleidoscope of Blue Butterflies
 description: >-
   I would frequent Temple Ewell nature reserve at various times of the year to
   spot various butterflies and flowers throughout the seasons. Summer was
@@ -15,17 +15,17 @@ metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
 poem: |
   The slopes are adrift with grasses that quiver
-  The slightest breeze sends them adither
+  The slightest breeze sends them a dither
   Fragrant flowers amass on the slopes
   Waiting patiently for their butterfly hosts.
 
   Weaving trails across the Downs
-  rivers of white meander around,
+  rivers of white meander around.
   On paths of chalk, tread slow, tread light,
   Inhale and delight in a majestic sight.
 
   As the sun's heat kisses the ground
-  The Downs are alive, movement abounds.
+  The Downs come alive, movement abounds.
 
   Glimpse flashes of flight 
   in the bright morning light.
