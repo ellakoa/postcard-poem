@@ -31,7 +31,7 @@ poem: |
   Glimpse flashes of flight 
   in the bright morning light.
   Dressed in blue, blue as the sky
-  the boys bow to their ladies 
+  the lads bow to their ladies 
   who are dancing nearby, 
   the ladies shimmer in gowns of browns.
   A kaleidoscope of butterflies
