@@ -30,11 +30,10 @@ poem: |-
   Glimpse flashes of flight 
   in the bright morning light.
   Dressed in blue, blue as the sky
-  the lads bow to their ladies 
-  who are dancing nearby, 
+  the lads bow to their ladies nearby
   the ladies shimmer in gowns of brown.
   Watch a kaleidoscope of blue butterflies
-  fluttering low, over the Downs.
+  fluttering, low, over the Downs.
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
