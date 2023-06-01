@@ -1,12 +1,11 @@
 ---
 title: Kaleidoscope of Butterflies
 description: >-
-  Some life experiences can literally take your breath away in wonderment, one
-  of mine was experiencing the emergence of thousands of little blue butterflies
-  on the North Downs, and if I had to make a top ten of special experiences this
-  would be way up there. 
-
-  I would frequent Temple Ewell nature reserve at various times of the year to spot various butterflies and flowers throughout the seasons. Summer was particularly special as the reward after the hot climb was to sit quietly on a sheltered slope and watch, it never took long for a myriad of butterflies and other insects to frequent the abundant surrounding flowers.
+  I would frequent Temple Ewell nature reserve at various times of the year to
+  spot various butterflies and flowers throughout the seasons. Summer was
+  particularly special as the reward after the hot climb was to sit quietly on a
+  sheltered slope and watch. It never took long for a myriad of butterflies and
+  other insects to frequent the abundant surrounding flowers.
 
   One particular year the timing and weather were perfect, as flying low over a sheltered slope were thousands of blue butterflies, it went from saying, there's one, there's one, to silence as it became apparent something rather special was happening. Being surrounded by so many delicate creatures at once was awe-inspiring.
 collection: Wonderful Britian
