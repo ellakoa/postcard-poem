@@ -1,5 +1,5 @@
 ---
-title: Kaleidoscope of Blue Butterflies
+title: Kaleidoscope of Butterflies
 description: >-
   I would frequent Temple Ewell nature reserve at various times of the year to
   spot various butterflies and flowers throughout the seasons. Summer was
