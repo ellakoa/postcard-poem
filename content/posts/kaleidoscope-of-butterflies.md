@@ -37,7 +37,7 @@ poem: |
   A kaleidoscope of butterflies
   flutters low, over the Downs.
 alignPoemLeft: false
-removePostcardPadding: false
+removePostcardPadding: true
 address: |-
   Kaleidoscope of Butterflies
   Temple Ewell Nature Reserve
