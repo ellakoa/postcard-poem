@@ -33,7 +33,7 @@ poem: |
   the lads bow to their ladies 
   who are dancing nearby, 
   the ladies shimmer in gowns of browns.
-  A kaleidoscope of butterflies
+  A kaleidoscope of blue butterflies
   flutters low, over the Downs.
 alignPoemLeft: false
 removePostcardPadding: true
