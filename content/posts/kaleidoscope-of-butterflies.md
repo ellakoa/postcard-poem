@@ -14,26 +14,27 @@ image: /img/butterfliesl-1.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
 poem: |-
+  Weaving ways across the Downs
+  White rivers meander over the ground
+  On paths of chalk, tread slow, tread light,
+  Inhale and delight in a colourful sight.
+
   The slopes are adrift with grasses that quiver
-  The slightest breeze sends them a dither
-  Fragrant flowers amass on the slopes
+  The slightest breeze sends them adither
+  Fragrant flowers have amassed on the slopes
   Waiting patiently for their butterfly hosts.
 
-  Weaving trails across the Downs
-  rivers of white meander around.
-  On paths of chalk, tread slow, tread light,
-  Inhale and delight in a majestic sight.
-
   As the sun's heat kisses the ground
-  The Downs come alive, movement abounds.
+  The Downs are alive, and activity abounds.
 
   Glimpse flashes of flight 
   in the bright morning light.
-  Dressed in blue, blue as the sky
-  the lads bow to their ladies nearby
-  the ladies shimmer in gowns of brown.
-  Watch a kaleidoscope of blue butterflies
-  fluttering, low, over the Downs.
+  Dressed in blue, blue like the sky
+  the lads bow to their ladies 
+  who are dancing nearby, the
+  ladies shimmer in brown,
+  a kaleidoscope of butterflies
+  fluttering over the Downs.
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
