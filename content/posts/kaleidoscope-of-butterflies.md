@@ -43,7 +43,7 @@ address: |-
   Dover
   Kent UK
 stamp: /img/kaleidoscope-1a.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-06-04T07:00:00.000Z
 ---
