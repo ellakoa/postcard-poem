@@ -12,7 +12,7 @@ collection: Wonderful Britian
 aspect: landscape
 image: /img/butterfliesl-1.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
+alt: Chalkhill Blue butterfly resting on dried grass.
 poem: |-
   Weaving ways across the Downs
   White rivers meander over the ground
