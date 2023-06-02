@@ -35,7 +35,7 @@ poem: |-
   who are dancing nearby, the
   ladies shimmer in gowns of brown,
   A kaleidoscope of butterflies
-  flutter over the Downs.
+  aflutter over the Downs.
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
