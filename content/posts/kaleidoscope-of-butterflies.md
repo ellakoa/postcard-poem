@@ -12,7 +12,8 @@ collection: Wonderful Britian
 aspect: landscape
 image: /img/butterflies-orchids-2-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: Chalkhill Blue butterfly resting on dried grass.
+alt: "Female and male Chalkhill Blue butterflies resting amongst purple white
+  and yellow flowers of the chalk hill Downs. "
 poem: |-
   Weaving ways across the Downs
   White rivers meander over the ground
