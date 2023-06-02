@@ -15,14 +15,9 @@ metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "Female and male Chalkhill Blue butterflies resting amongst purple white
   and yellow flowers of the chalk hill Downs. "
 poem: |-
-  Weaving ways across the Downs
-  White rivers meander over the ground
-  On paths of chalk, tread slow, tread light,
-  Inhale and delight in a colourful sight.
-
   The slopes are adrift with grasses that quiver
   The slightest breeze sends them a dither
-  Fragrant flowers amassed on the slopes
+  Fragrant flowers amass on the slopes
   Waiting patiently for their butterfly hosts.
 
   As the sun's heat kisses the ground
