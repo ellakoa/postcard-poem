@@ -38,7 +38,7 @@ address: |-
   Temple Ewell Nature Reserve
   Dover
   Kent UK
-stamp: /img/kaleidoscope-2-1-.png
+stamp: /img/kaleidoscope-3-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-06-04T07:00:00.000Z
