@@ -21,21 +21,21 @@ poem: |-
   Inhale and delight in a colourful sight.
 
   The slopes are adrift with grasses that quiver
-  The slightest breeze sends them adither
-  Fragrant flowers have amassed on the slopes
+  The slightest breeze sends them a dither
+  Fragrant flowers amassed on the slopes
   Waiting patiently for their butterfly hosts.
 
   As the sun's heat kisses the ground
-  The Downs are alive, and activity abounds.
+  The Downs are alive, activity abounds.
 
   Glimpse flashes of flight 
-  in the bright morning light.
+  in the bright morning light,
   Dressed in blue, blue like the sky
   the lads bow to their ladies 
   who are dancing nearby, the
-  ladies shimmer in brown,
-  a kaleidoscope of butterflies
-  fluttering over the Downs.
+  ladies shimmer in gowns of brown,
+  A kaleidoscope of butterflies
+  flutter over the Downs.
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
