@@ -10,7 +10,7 @@ description: >-
   One particular year the timing and weather were perfect, flying low over a sheltered slope were thousands of blue butterflies, it went from saying, there's one, there's one, to silence as it became apparent something rather special was happening. Being surrounded by so many delicate creatures at once was breathtaking.
 collection: Beautiful Creatures
 aspect: landscape
-image: /img/butterflies-orchids-2-1-.jpg
+image: /img/all-aflutter-1.png
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "Female and male Chalkhill Blue butterflies resting amongst purple white
   and yellow flowers of the chalk hill Downs. "
@@ -25,12 +25,12 @@ poem: |-
 
   Glimpse flashes of flight 
   in the bright morning light,
-  Dressed in blue, blue like the sky
+  Dressed in blue, blue as the sky
   the lads bow to their ladies 
   who are dancing nearby, the
   ladies shimmer in gowns of brown
   All is aflutter 
-  over the chalk hill Downs.
+  on the chalk hill Downs.
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
