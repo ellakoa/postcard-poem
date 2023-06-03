@@ -7,7 +7,7 @@ description: >-
   a sheltered slope and watch. It never took long for a myriad of butterflies
   and other insects to frequent the abundant surrounding flowers.
 
-  One particular year the timing and weather were perfect, flying low over a sheltered slope were thousands of blue butterflies, it went from saying, there's one, there's one, to silence as it became apparent something rather special was happening. Being surrounded by so many delicate creatures at once was awe-inspiring.
+  One particular year the timing and weather were perfect, flying low over a sheltered slope were thousands of blue butterflies, it went from saying, there's one, there's one, to silence as it became apparent something rather special was happening. Being surrounded by so many delicate creatures at once was breathtaking.
 collection: Wonderful Britain
 aspect: landscape
 image: /img/butterflies-orchids-2-1-.jpg
