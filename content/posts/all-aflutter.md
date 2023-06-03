@@ -21,7 +21,7 @@ poem: |-
   Waiting patiently for their butterfly hosts.
 
   As the sun's heat kisses the ground
-  The Downs are alive, activity abounds.
+  The Downs come alive, activity abounds.
 
   Glimpse flashes of flight 
   in the bright morning light,
