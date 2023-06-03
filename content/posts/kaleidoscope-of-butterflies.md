@@ -29,7 +29,7 @@ poem: |-
   the lads bow to their ladies 
   who are dancing nearby, the
   ladies shimmer in gowns of brown,
-  All aflutter over the chalk hill Downs.
+  All is aflutter over the chalk hill Downs.
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
