@@ -28,8 +28,9 @@ poem: |-
   Dressed in blue, blue like the sky
   the lads bow to their ladies 
   who are dancing nearby, the
-  ladies shimmer in gowns of brown,
-  All is aflutter over the chalk hill Downs.
+  ladies shimmer in gowns of brown
+  All is aflutter 
+  over the chalk hill Downs.
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
