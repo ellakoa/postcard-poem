@@ -32,7 +32,7 @@ poem: |-
   All is aflutter 
   on the chalk hill Downs.
 alignPoemLeft: false
-removePostcardPadding: false
+removePostcardPadding: true
 address: |-
   All Aflutter 
   Temple Ewell Nature Reserve
