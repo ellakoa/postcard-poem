@@ -1,5 +1,5 @@
 ---
-title: All Aflutter over the Downs
+title: "All Aflutter "
 description: >-
   I would frequent Temple Ewell nature reserve on the North Downs to spot
   various butterflies and flowers throughout the seasons. Summer was
@@ -33,7 +33,7 @@ poem: |-
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
-  All aflutter over the downs
+  All Aflutter 
   Temple Ewell Nature Reserve
   Dover
   Kent 
