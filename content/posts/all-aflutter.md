@@ -15,7 +15,8 @@ metaImage: /img/face.jpg
 alt: Female and male Chalkhill Blue butterflies resting amongst purple white and
   yellow flowers of the chalk hill Downs
 poem: |-
-  The slopes are adrift with grasses that quiver
+  The slopes are adrift 
+  with grasses that quiver
   The slightest breeze sends them a dither
   Fragrant flowers amass on the slopes
   Waiting patiently for their butterfly hosts.
