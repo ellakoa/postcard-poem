@@ -1,5 +1,5 @@
 ---
-title: Kaleidoscope of Butterflies
+title: All Aflutter over the Downs
 description: >-
   I would frequent Temple Ewell nature reserve on the North Downs to spot
   various butterflies and flowers throughout the seasons. Summer was
@@ -29,15 +29,15 @@ poem: |-
   the lads bow to their ladies 
   who are dancing nearby, the
   ladies shimmer in gowns of brown,
-  A kaleidoscope of butterflies
-  aflutter over the Downs.
+  All aflutter over the chalk hill Downs.
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
-  Kaleidoscope of Butterflies
+  All aflutter over the downs
   Temple Ewell Nature Reserve
   Dover
-  Kent UK
+  Kent 
+  UK
 stamp: /img/kaleidoscope-3-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
