@@ -8,7 +8,7 @@ description: >-
   and other insects to frequent the abundant surrounding flowers.
 
   One particular year the timing and weather were perfect, flying low over a sheltered slope were thousands of blue butterflies, it went from saying, there's one, there's one, to silence as it became apparent something rather special was happening. Being surrounded by so many delicate creatures at once was breathtaking.
-collection: Wonderful Britain
+collection: Beautiful Creatures
 aspect: landscape
 image: /img/butterflies-orchids-2-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
