@@ -32,8 +32,8 @@ alignPoemLeft: false
 removePostcardPadding: true
 address: |-
   Forever Young 
-  Weeping Willow
-  Sandwich 
+  Weeping Willows
+  Sandwich Quay
   Kent UK
 stamp: /img/a-stick-and-a-float-stamp-1-1-.png
 showStampInPreview: true
