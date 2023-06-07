@@ -1,0 +1,42 @@
+---
+title: Forever Young (the weeping Willow)
+description: Weeping Willows at Sandwich Quay, Kent, Uk
+collection: Trees
+aspect: landscape
+image: /img/beyond-pebbles-face-kingsdo.jpg
+metaImage: /img/beyond-pebbles-face-kingsdo.jpg
+alt: "111"
+poem: |
+  Forever young, as trees go
+  a great age we shall never know
+  Forever young, we will stay
+  Dancing our youthful years away.
+
+  Supple limbs reach the ground
+  Swing and sway, sweep around
+  If we had toes or a nose,
+  Sure, we could also touch those.
+
+  At night when we should be asleep
+  We still jig and thrash out a beat
+  And when it happens  the air is still
+  Maybe, just maybe we will rest and chill
+
+  Come on by and stop awhile
+  Hum a tune that makes you smile
+  If the tune is sad to hear
+  we will weep away the tears.
+  As you brush by a branch
+  We say, with us, dance.
+alignPoemLeft: false
+removePostcardPadding: true
+address: |-
+  Forever Young (the Weeping Willow)
+  Sandwich 
+  Kent
+  UK
+stamp: /img/a-stick-and-a-float-stamp-1-1-.png
+showStampInPreview: true
+author: Caroline Whitehouse
+date: 2023-06-11T07:00:05.718Z
+---
