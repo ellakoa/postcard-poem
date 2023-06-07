@@ -3,11 +3,8 @@ stamp: /img/watch-the-dog-stamp-1.png
 stampWidth: "600"
 width: "400"
 height: "600"
-title: Watch The Dog Summers Garden
-description: >
-  Travel through the seasons with a faithful friend. 
-
-  Summer often arrives with a flourish and can be temperamental in its duration but the longer brighter days are always welcome.
+title: Summers Garden
+description: "\n"
 collection: Watch the Dog
 aspect: portrait
 image: /img/watch-the-dog-summer.jpg
@@ -32,12 +29,13 @@ poem: |-
   Calm the dog’s trepidation.
 stampHeight: "400"
 alignPoemLeft: true
-address: |
-  
-  Watch the Dog 
-  Summer
-  Garden
+removePostcardPadding: true
+address: |+
+  Summers Garden
+  Deal
+
 showStampInPreview: true
 author: Caroline Whitehouse
-date: 2022-07-24T10:58:35.956Z
+date: 2022-07-24T07:00:35.956Z
 ---
+Summer often arrives with a flourish and can be temperamental in its duration but the longer brighter days are always welcome. We enjoy summer with our faithful friend Watch the dog.
