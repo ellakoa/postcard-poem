@@ -35,7 +35,7 @@ address: |-
   Kent
 showStampInPreview: true
 author: Caroline Whitehouse
-date: 2022-08-14T15:59:59.036Z
+date: 2022-08-14T07:00:59.036Z
 ---
 When the spring tides are low take a walk in the bay and enjoy the most spectacular morning light.
 Scaffold poles and old train wheels litter the chalk beds at low tides and have become home to various sea life. I have been told they are the remnants of old sea defences.
