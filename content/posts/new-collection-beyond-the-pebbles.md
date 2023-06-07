@@ -28,6 +28,7 @@ address: |-
   Clickety-Clack
   Minster
   Kent
+  UK
 stamp: /img/clickety-clack-stamp-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
