@@ -34,7 +34,7 @@ address: |-
   The Goodwin Sands
   6 miles offshore 
   Deal
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-07-31T07:01:00.940Z
 ---
