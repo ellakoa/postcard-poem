@@ -40,3 +40,4 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-06-11T07:00:05.718Z
 ---
+Some very fine weeping willow trees grace the banks of the River Stour in Sandwich Kent. Unlike the mighty Oak and long-lived Yews, the Weeping Willow has a relatively short life span of 30 to 50 years. As I wandered amongst these graceful trees a slight breeze caused the branches to swing and sway, which made me stop and smile, I had a fancy that they were asking me to join them in their dance.
