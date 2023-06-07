@@ -18,7 +18,7 @@ poem: |
   Sure, we could also touch those.
 
   At night when we should be asleep
-  We still jig and thrash out a beat
+  We jig and thrash out a beat
   And when it happens  the air is still
   Maybe, just maybe we will rest and chill
 
