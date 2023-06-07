@@ -3,16 +3,14 @@ stamp: /img/watch-the-dog-stamp-1.png
 stampWidth: "600"
 width: "400"
 height: "600"
-title: Watch The Dog Summers Garden
-description: >
-  Travel through the seasons with a faithful friend. 
-
-  Summer often arrives with a flourish and can be temperamental in its duration but the longer brighter days are always welcome.
+title: Summers Garden
+description: |
+  Enjoy a warm summers day in the garden.
 collection: Watch the Dog
-aspect: portrait
-image: /img/watch-the-dog-summer.jpg
+aspect: landscape
+image: /img/summers-garden-1-.jpg
 metaImage: /img/face.jpg
-alt: Sunflowers, bees, gatekeeper butterflies, on a very sunny day.
+alt: A selection of fragrant white and apricot colour roses in bud and in bloom.
 poem: |-
   Long days of summer sun
   Gardens full of life and fun
@@ -32,12 +30,14 @@ poem: |-
   Calm the dog’s trepidation.
 stampHeight: "400"
 alignPoemLeft: true
+removePostcardPadding: true
 address: |
-  
-  Watch the Dog 
-  Summer
-  Garden
-showStampInPreview: true
+  Summers Garden
+  Watch the Dog
+  Deal
+  Kent UK
+showStampInPreview: false
 author: Caroline Whitehouse
-date: 2022-07-24T10:58:35.956Z
+date: 2022-07-24T07:00:35.956Z
 ---
+Summer often arrives with a flourish and can be temperamental in its duration but the longer brighter, warmer days are always welcome. We enjoy a s day in the garden with our faithful friend 'Watch' the dog.
