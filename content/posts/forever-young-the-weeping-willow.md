@@ -10,21 +10,21 @@ poem: |
   Forever young, as trees go
   a great age we shall never know
   Forever young, we will stay
-  Dancing our youthful years away.
+  Dancing youthful years away.
 
-  Supple limbs reach the ground
-  Swing and sway, sweep around
+  Supple limbs reach the ground.
+  Swing and sway, sweep around.
   If we had toes or a nose,
   Sure, we could also touch those.
 
   At night when we should be asleep
   We jig and thrash out a beat
-  And when it happens the air is still
-  Maybe, just maybe we will rest and chill
+  And when it happens that the air is still
+  Maybe, just maybe, we will rest and chill
 
   Come on by and stop awhile
   Hum a tune that makes you smile
-  If the tune is sad to hear
+  If your tune is sad, to fear
   we will weep away the tears.
   and as you brush by a branch
   We say, with us, dance.
