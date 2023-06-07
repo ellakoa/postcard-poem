@@ -40,4 +40,4 @@ showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-07-24T07:00:35.956Z
 ---
-Summer often arrives with a flourish and can be temperamental in its duration but the longer brighter, warmer days are always welcome. We enjoy a s day in the garden with our faithful friend 'Watch' the dog.
+Summer often arrives with a flourish and can be temperamental in its duration but the longer brighter, warmer days are always welcome. We enjoy a summer day in the garden with our faithful friend 'Watch' the dog.
