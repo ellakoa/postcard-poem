@@ -1,5 +1,5 @@
 ---
-title: Forever Young (the weeping Willow)
+title: Forever Young, Weeping Willow.
 description: Weeping Willows at Sandwich Quay, Kent, Uk
 collection: Trees
 aspect: landscape
@@ -31,10 +31,10 @@ poem: |
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
-  Forever Young (the Weeping Willow)
+  Forever Young 
+  Weeping Willow
   Sandwich 
-  Kent
-  UK
+  Kent UK
 stamp: /img/a-stick-and-a-float-stamp-1-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
