@@ -24,7 +24,7 @@ poem: |
 
   Come on by and stop awhile
   Hum a tune that makes you smile
-  If your tune is sad, to fear
+  If your tune is sad, to hear
   we will weep away the tears.
   and as you brush by a branch
   We say, with us, dance.
