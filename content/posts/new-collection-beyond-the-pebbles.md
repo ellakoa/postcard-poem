@@ -22,13 +22,13 @@ poem: |-
   Her gentle hands guiding mine 
   I learn to sew clickety-clack
   Sitting on my grandmother's lap.
-alignPoemLeft: false
+alignPoemLeft: true
 removePostcardPadding: true
 address: |-
   Clickety-Clack
   Minster
   Kent
-stamp: /img/clickety-clack-stamp-1.png
+stamp: /img/clickety-clack-stamp-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-08-24T07:00:15.794Z
