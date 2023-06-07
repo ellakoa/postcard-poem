@@ -3,7 +3,7 @@ stamp: /img/there-then-not-part-1-stamp-1-.png
 stampWidth: "600"
 width: "600"
 height: "400"
-title: There Then Not part one
+title: There Then Not (part one)
 description: The Goodwin Sands a few miles from the Kent Coast.
 collection: Wonderful Britain
 aspect: landscape
