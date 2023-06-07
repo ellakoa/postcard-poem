@@ -1,6 +1,6 @@
 ---
 title: The Folkestone Washer-Women
-description: Folkestone Harbour signal box.
+description: Folkestone Harbour signal box. UK.
 collection: Wonderful Britain
 aspect: landscape
 image: /img/folkestone-washer-women-blog-new-1-.jpg
