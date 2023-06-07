@@ -1,10 +1,6 @@
 ---
 title: Fragrant Chimes
-description: >-
-  It wouldn't be spring without bluebells, and I am a sucker for traipsing off
-  to the woods each year in search of them.
-
-  The joy of finding a wood fragrant with bluebells never tires. Enjoy a moment in the woods.
+description: "Bluebells in Frandham Woods. "
 collection: Woodland Tapestries
 aspect: landscape
 image: /img/fragrant-chimes-2a.jpg
@@ -31,3 +27,5 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-05-17T07:00:19.783Z
 ---
+It wouldn't be spring without bluebells, and I am a sucker for traipsing off to the woods each year in search of them.
+The joy of finding a wood fragrant with bluebells never tires. Enjoy a moment in the woods.
