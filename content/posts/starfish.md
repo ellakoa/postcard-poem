@@ -1,5 +1,5 @@
 ---
-stamp: /img/starfish-kingsdown-beach-kent-stamp-1.png
+stamp: /img/starfish-kingsdown-beach-kent-stamp-1-.png
 stampWidth: "400"
 width: "600"
 height: "400"
