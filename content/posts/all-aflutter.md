@@ -1,6 +1,6 @@
 ---
 title: All Aflutter
-description: Temple Ewell, nature reserve, Dover.
+description: Temple Ewell Nature Reserve Dover.
 collection: Beautiful Creatures
 aspect: landscape
 image: /img/butterflies-orchids-2-1-.jpg
