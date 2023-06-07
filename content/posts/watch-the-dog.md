@@ -8,7 +8,7 @@ description: |
   Enjoy a warm summers day in the garden.
 collection: Watch the Dog
 aspect: landscape
-image: /img/summers-garden-1-.jpg
+image: /img/summers-garden-2-1-.png
 metaImage: /img/face.jpg
 alt: A selection of fragrant white and apricot colour roses in bud and in bloom.
 poem: |-
