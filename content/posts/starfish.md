@@ -4,9 +4,8 @@ stampWidth: "400"
 width: "600"
 height: "400"
 title: Starfish
-description: >
-  At certain times of the year at low tide, in Kingsdown Kent, you can see these
-  delightful sea creatures waiting for the return of the sea.
+description: |
+  Kingsdown Kent UK
 collection: Beautiful Creatures
 aspect: landscape
 image: /img/starfish-kingsdown-beach-kent-blog-1-.jpg
@@ -34,3 +33,4 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-08-21T07:00:23.545Z
 ---
+At certain times of the year at low tide, in Kingsdown Kent, you can see these delightful sea creatures waiting for the return of the sea.
