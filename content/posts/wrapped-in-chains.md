@@ -1,13 +1,6 @@
 ---
 title: Wrapped in Chains
-description: >-
-  Grain Napoleonic Tower stands defiant where the River Medway meets the Thames.
-  Built as part of a defence system to protect from a perceived French naval
-  attack. It was added to and used during both world wars. The massive chain
-  once used in defence across the estuary is wrapped around the tower slowly
-  rusting away. 
-
-  Today the tower stands alone, the only battle it faces is a constant battle against the elements. 
+description: Grain Tower, Kent
 collection: Wonderful Britain
 aspect: landscape
 image: /img/grain-tower-wrapped-in-chains-tiny.jpg
@@ -31,6 +24,7 @@ poem: |
   But be aware the mudflats are thick 
   and the roving tides like to play tricks.
 alignPoemLeft: false
+removePostcardPadding: true
 address: |-
   Grain Tower
   No. 1 The Thames
@@ -41,3 +35,5 @@ showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-10-23T07:00:42.821Z
 ---
+Grain Napoleonic Tower stands defiant where the River Medway meets the Thames. Built as part of a defence system to protect from a perceived French naval attack. It was added to and used during both world wars. The massive chain once used in defence across the estuary is wrapped around the tower slowly rusting away. 
+Today the tower stands alone, the only battle it faces is a constant battle against the elements.
