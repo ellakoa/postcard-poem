@@ -1,16 +1,10 @@
 ---
-stamp: /img/there-then-not-part-one-stamp-1.png
+stamp: /img/there-then-not-part-1-stamp-1-.png
 stampWidth: "600"
 width: "600"
 height: "400"
 title: There Then Not part one
-description: >-
-  The Goodwin Sands are sandbanks that shift and change, keeping their secrets
-  hidden. 
-
-  To visit is like stepping into a different dimension. To write about the sandbanks demanded so much more than a few lines. 
-
-  The poem is in three parts. Below is part one.
+description: The Goodwin Sands a few miles from the Kent Coast.
 collection: Wonderful Britain
 aspect: landscape
 image: /img/goodwinw-sands-part-1-blog.jpg
@@ -30,14 +24,17 @@ poem: |+
 
 stampHeight: "400"
 alignPoemLeft: false
+removePostcardPadding: true
 address: |
   There Then Not
   The Goodwin Sands
   6 miles offshore 
   Deal Kent
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-08-07T07:00:00.000Z
 tags:
   - number-2
 ---
+The Goodwin Sands are sandbanks that shift and change, keeping their secrets hidden. 
+To visit is like stepping into a different dimension. To write about the sandbanks demanded so much more than a few lines. The poem is in three parts. This is part one.
