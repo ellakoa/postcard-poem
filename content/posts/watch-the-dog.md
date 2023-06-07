@@ -36,7 +36,7 @@ address: |
   Watch the Dog
   Deal
   Kent UK
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-07-24T07:00:35.956Z
 ---
