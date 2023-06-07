@@ -8,8 +8,8 @@ description: |-
   
   The Lost Gardens of Heligan Cornwall, UK
 collection: Wonderful Britain
-aspect: portrait
-image: /img/the-garden-office-print-1-.jpg
+aspect: landscape
+image: /img/the-garden-office-6-1-.jpg
 metaImage: /img/face.jpg
 alt: Partially open wooden frame window, six panes of glass in each, looking out
   of an old outbuilding.
