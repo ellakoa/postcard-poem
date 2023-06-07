@@ -1,6 +1,6 @@
 ---
 title: Wrapped in Chains
-description: Grain Tower, Kent
+description: Grain Tower, Kent, UK
 collection: Wonderful Britain
 aspect: landscape
 image: /img/grain-tower-wrapped-in-chains-tiny.jpg
