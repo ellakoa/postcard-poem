@@ -19,7 +19,7 @@ poem: |
 
   At night when we should be asleep
   We jig and thrash out a beat
-  And when it happens  the air is still
+  And when it happens the air is still
   Maybe, just maybe we will rest and chill
 
   Come on by and stop awhile
