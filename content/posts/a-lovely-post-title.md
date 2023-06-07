@@ -6,7 +6,9 @@ height: "600"
 title: The Garden Office
 description: >
   Some things are better when they are old. Things that were thought lost but
-  then found come with a certain nostalgia. 
+  then found come with a certain nostalgia. A visit to the Lost Gardens of
+  Heligan is like stepping into a time portal into the past. Time pause and to
+  reflect.
 collection: Wonderful Britain
 aspect: portrait
 image: /img/garden-office-blog.jpg
@@ -34,6 +36,7 @@ address: |-
   Lost Gardens 
   of Heligan
   Cornwall
+  UK
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-07-17T09:56:40.372Z
