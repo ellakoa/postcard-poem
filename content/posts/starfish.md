@@ -28,7 +28,7 @@ address: |-
   Starfish
   Oldstairs Bay
   Kingsdown 
-  Kent
+  Kent UK
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-08-21T07:00:23.545Z
