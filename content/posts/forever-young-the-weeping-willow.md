@@ -26,7 +26,7 @@ poem: |
   Hum a tune that makes you smile
   If the tune is sad to hear
   we will weep away the tears.
-  As you brush by a branch
+  and as you brush by a branch
   We say, with us, dance.
 alignPoemLeft: false
 removePostcardPadding: true
