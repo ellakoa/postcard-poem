@@ -41,4 +41,4 @@ date: 2022-07-17T09:56:40.372Z
 tags:
   - number-2
 ---
-Some things are better when they are old. Things that were thought lost but then found come with a certain nostalgia. A visit to the Lost Gardens of Heligan is like stepping into a time portal into the past. Time pause and to reflect.
+Some things are better when they are old. Things that were thought lost but then found come with a certain nostalgia. A visit to the Lost Gardens of Heligan is like stepping into a time portal into the past. If you are wondering what the image in the little stamp is, it shows how charcoal is made traditionally.
