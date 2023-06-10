@@ -7,7 +7,7 @@ description: >-
   gnarled and twisted in the most fantastical way. 
 
   A couple still stand quite close together, their crowns touching, how sweet is that?
-collection: Wonderful Britain
+collection: Trees
 aspect: landscape
 image: /img/sweet-nothings-main-blog-picture-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
@@ -43,5 +43,7 @@ address: |-
 stamp: /img/sweet-nothings-stamp-2-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
-date: 2023-04-17T14:58:19.105Z
+date: 2023-04-23T07:00:19.105Z
 ---
+Fredville Park Nonington Kent, where trees have been allowed to be trees and mature in all their finery.  There was once an avenue of sweet chestnut trees, few now remain, the ones that do are very elderly, and their trunks have become gnarled and twisted in the most fantastical way. 
+A couple still stand quite close together, their crowns touching, how sweet is that?
