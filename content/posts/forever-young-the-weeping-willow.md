@@ -21,17 +21,17 @@ poem: |-
   At night when most are asleep
   We jig and thrash out a lively beat
   When the air calms and is still
-  Maybe, just maybe 
+  maybe, just maybe 
   we will rest and chill
 
-  Take a seat and sit awhile
+  Join us and sit awhile
   Hum a tune, that makes you smile
   If the tune is sad to hear
   we will weep away the tears,
   and if our branch should brush your arm
-  we say with us, dance.
+  we say sway with us and dance.
 alignPoemLeft: false
-removePostcardPadding: false
+removePostcardPadding: true
 address: |-
   Forever Young 
   Weeping Willows
