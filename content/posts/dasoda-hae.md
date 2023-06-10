@@ -1,8 +1,7 @@
 ---
 title: Dasoda-hae
-description: Dasoda-hae, meaning ‘he just sits there,’ what a very apt name for
-  this magnificent wood carving.
-collection: Thoughtful Things
+description: Dasoda-hae, Minster, Kent.
+collection: Trees
 aspect: landscape
 image: /img/indian-head-1-.png
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
