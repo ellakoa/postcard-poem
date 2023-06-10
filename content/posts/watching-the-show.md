@@ -1,14 +1,9 @@
 ---
 title: Watching the Show
-description: >
-  Kingsdown beach, one of my favourite places, especially during low spring
-  tides. The bay comes to life with visitors during this time, engaging in all
-  sorts of activities and as the tide comes back in they seem to magically
-  disappear. Now you might think that the small figure sitting on the chalk
-  rocks near the middle of the photo is the lone photographer, but no, it was
-  actually a lady sitting to guard a suspected unexploded device. Her friend had
-  spied it the day before and reported it. The tide had hidden it with sand
-  again and they wanted to warn others to tread carefully. How brave was that?
+description: "Kingsdown beach, one of my favourite places, especially during low
+  spring tides. The bay comes to life with visitors during this time, engaging
+  in all sorts of activities and as the tide returns, one by one they disappear.
+  "
 collection: Kent Views
 aspect: landscape
 image: /img/kingsdown-cliffs-9874-t.jpg
@@ -36,12 +31,14 @@ poem: |-
   Most, chase their pursuits for an hour or so
   As the bay disappears they pack up and go.
 alignPoemLeft: false
+removePostcardPadding: false
 address: |-
   Watching the Show
   Kingsdown
   Kent
   UK
 stamp: /img/watching-the-show-stamp-2-1-.png
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-02-26T08:00:56.627Z
 ---
