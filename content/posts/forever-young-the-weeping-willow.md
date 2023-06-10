@@ -9,8 +9,10 @@ alt: "111"
 poem: |-
   Forever young, as trees go
   a great age we shall never know.
+  Forever young, we will stay
+  and happily dance our years away.
 
-  Supple limbs touch the ground
+  Supple limbs grace the ground
   Swing and sway, sweep around
   If we had toes or a nose,
   Sure, we could also touch those.
@@ -25,9 +27,8 @@ poem: |-
   Hum a tune, that makes you smile
   If the tune is sad to hear
   we will weep away your tears,
-
   and if our branch should brush your arm
-  With grace we say, dance.
+  We say with us, dance.
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
