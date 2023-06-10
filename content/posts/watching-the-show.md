@@ -11,18 +11,20 @@ metaImage: /img/face.jpg
 alt: Low tide, blue skies, a reflection of Kingsdown cliffs in a rock pool, a
   distant figure sits alone on the chalk rocks
 poem: |-
-  There’s a certain buzz
+  There’s a certain excitement
   as the sun starts to rise 
   chasing the dark from the nighttime sky
   What will the low tide reveal today?
   Who will enjoy the expansive bay?
-  There's
+
   Fisherman casting out with a splash
   Canoeists passing by in a dash
   A Metal detectorist looking for a find
-  Families rock pooling, and walkers, all kinds
+  Families rock pooling,
+  and walkers, all kinds
   Shrimpers sweeping with wide nets
-  A man and trolley, bait digging I expect
+  A man and trolley
+  bait digging I expect
   Swimmers embracing the cold of the sea
   sometimes the tide just up to their knees
 
