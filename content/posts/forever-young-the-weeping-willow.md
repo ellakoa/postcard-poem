@@ -6,28 +6,30 @@ aspect: landscape
 image: /img/willows-sandwich-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
-poem: |
+poem: |-
   Forever young, as trees go
   a great age we shall never know
   Forever young, we will stay
-  Dancing youthful years away.
+  Dancing our years away.
 
-  Supple limbs reach the ground.
-  Swing and sway, sweep around.
+  Supple limbs touch the ground
+  Swing and sway, sweep around
   If we had toes or a nose,
   Sure, we could also touch those.
 
-  At night when we should be asleep
-  We jig and thrash out a beat
-  And if the air is still
-  Maybe, just maybe, we will rest and chill
+  At night when most are asleep
+  We jig and thrash out a lively beat
+  When the air calms and is still
+  Maybe, just maybe 
+  we will rest and chill
 
-  Come on by and stop awhile
-  Hum a tune that makes you smile
-  If your tune is sad, to hear
-  we will weep away the tears.
-  and as you brush by a branch
-  We say, with us, dance.
+  Take a seat and rest awhile
+  Hum a tune, that makes you smile
+  If the tune is sad to hear
+  we will weep away your tears.
+
+  And if a branch should brush your arm
+  With that branch we say with us dance 
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
