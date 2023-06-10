@@ -21,7 +21,7 @@ poem: |-
   At night when most are asleep
   We jig and thrash out a lively beat
   When the air calms and is still
-  Maybe, just maybe 
+  maybe, just maybe 
   we will rest and chill
 
   Take a seat and sit awhile
@@ -31,7 +31,7 @@ poem: |-
   and if our branch should brush your arm
   we say with us, dance.
 alignPoemLeft: false
-removePostcardPadding: false
+removePostcardPadding: true
 address: |-
   Forever Young 
   Weeping Willows
