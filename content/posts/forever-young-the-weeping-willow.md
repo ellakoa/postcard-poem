@@ -29,7 +29,7 @@ poem: |-
   If the tune is sad to hear
   we will weep away the tears,
   and if our branch should brush your arm
-  we say with us, dance.
+  we say sway with us and dance.
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
