@@ -1,9 +1,9 @@
 ---
 title: Watching the Show
 description: "Kingsdown beach, one of my favourite places, especially during low
-  spring tides. The bay comes to life with visitors during this time, engaging
-  in all sorts of activities and as the tide returns, one by one they disappear.
-  "
+  spring tides. It use to be that I would wander about the bay and not see
+  anyone elseThe bay comes to life with visitors during this time, engaging in
+  all sorts of activities and as the tide returns, one by one they disappear. "
 collection: Kent Views
 aspect: landscape
 image: /img/kingsdown-cliffs-9874-t.jpg
