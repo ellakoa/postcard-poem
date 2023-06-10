@@ -8,9 +8,7 @@ metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
 poem: |-
   Forever young, as trees go
-  a great age we shall never know
-  Forever young, we will stay
-  Dancing our years away.
+  a great age we shall never know.
 
   Supple limbs touch the ground
   Swing and sway, sweep around
@@ -26,10 +24,11 @@ poem: |-
   Take a seat and rest awhile
   Hum a tune, that makes you smile
   If the tune is sad to hear
-  we will weep away your tears.
+  we will weep away your tears,
 
-  And if a branch should brush your arm
-  With that branch we say with us dance 
+  and if a branch should brush by your arm
+  With that branch we say
+  with us dance.
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
