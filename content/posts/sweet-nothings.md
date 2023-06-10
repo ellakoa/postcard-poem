@@ -1,12 +1,6 @@
 ---
 title: Sweet Nothings
-description: >-
-  Fredville Park Nonington Kent, where trees have been allowed to be trees and
-  mature in all their finery.  There was once an avenue of sweet chestnut trees,
-  few now remain, the ones that do are very elderly, their trunks have become
-  gnarled and twisted in the most fantastical way. 
-
-  A couple still stand quite close together, their crowns touching, how sweet is that?
+description: "Fredville Park Nonington Kent. "
 collection: Trees
 aspect: landscape
 image: /img/sweet-nothings-main-blog-picture-1-.jpg
