@@ -1,10 +1,7 @@
 ---
 title: Time Matters Not
-description: >
-  The Cedar of Lebanon is just one of many magnificent trees that stand on the
-  grounds of Kearsney Parks, all sporting a favourite spot.
-
-  We visited as children, we took our children, and now enjoy the parks with the grandchildren. Recently the parks have had a makeover and I am sure many more will find the magic that has delighted through the years, it is indeed a favourite spot where time matters not.
+description: |
+  The Cedar of Lebanon, Kearsney Parks, Kent, UK.
 collection: Trees
 aspect: landscape
 image: /img/cedar-of-lebanon-tree-kearsney-parks-minijpeg.jpg
@@ -35,3 +32,5 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-09-04T06:52:41.266Z
 ---
+The Cedar of Lebanon is just one of many magnificent trees that stand on the grounds of Kearsney Parks, all sporting a favourite spot.
+We visited as children, we took our children, and now enjoy the parks with the grandchildren. Recently the parks have had a makeover and I am sure many more will find the magic that has delighted through the years, it is indeed a favourite spot where time matters not.
