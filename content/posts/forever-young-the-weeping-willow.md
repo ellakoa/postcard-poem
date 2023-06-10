@@ -5,7 +5,8 @@ collection: Trees
 aspect: landscape
 image: /img/willows-c-8813.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
+alt: A row of weeping willows disappearing into the distance. Fresh spring green
+  leaves, benches sit underneath.
 poem: |-
   Forever young, as trees go
   a great age we shall never know.
