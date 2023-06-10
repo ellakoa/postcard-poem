@@ -3,7 +3,7 @@ title: Forever Young, Weeping Willow.
 description: Weeping Willows at Sandwich Quay, Kent, Uk
 collection: Trees
 aspect: landscape
-image: /img/willows-sandwich-2.jpg
+image: /img/willows-sandwich-3.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
 poem: |-
