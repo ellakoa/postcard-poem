@@ -5,7 +5,7 @@ description: >
   grounds of Kearsney Parks, all sporting a favourite spot.
 
   We visited as children, we took our children, and now enjoy the parks with the grandchildren. Recently the parks have had a makeover and I am sure many more will find the magic that has delighted through the years, it is indeed a favourite spot where time matters not.
-collection: Wonderful Britain
+collection: Trees
 aspect: landscape
 image: /img/cedar-of-lebanon-tree-kearsney-parks-minijpeg.jpg
 metaImage: /img/face.jpg
@@ -24,13 +24,14 @@ poem: |
   The tree knew that time matters not
   Standing quite still in its favourite spot.
 alignPoemLeft: false
+removePostcardPadding: true
 address: |-
   Time Matters Not
   Kearsney Gardens
   Temple Ewell 
   Dover Kent
 stamp: /img/time-matters-not-stamp-1.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-09-04T06:52:41.266Z
 ---
