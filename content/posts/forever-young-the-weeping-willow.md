@@ -24,12 +24,12 @@ poem: |-
   Maybe, just maybe 
   we will rest and chill
 
-  Take a seat and rest awhile
+  Take a seat and sit awhile
   Hum a tune, that makes you smile
   If the tune is sad to hear
-  we will weep away your tears,
+  we will weep away the tears,
   and if our branch should brush your arm
-  We say with us, dance.
+  we say with us, dance.
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
