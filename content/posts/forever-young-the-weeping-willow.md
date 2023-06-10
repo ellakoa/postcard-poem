@@ -26,8 +26,8 @@ poem: |-
   If the tune is sad to hear
   we will weep away your tears,
 
-  and if a branch should brush your arm
-  With that branch we say dance.
+  and if our branch should brush your arm
+  With grace we say, dance.
 alignPoemLeft: false
 removePostcardPadding: true
 address: |-
