@@ -37,7 +37,7 @@ address: |-
   Weeping Willows
   Sandwich Quay
   Kent UK
-stamp: /img/forever-young-willow-stamp.png
+stamp: /img/forever-young-willow-stamp-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-06-11T07:00:05.718Z
