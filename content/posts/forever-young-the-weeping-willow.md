@@ -31,7 +31,7 @@ poem: |-
   and if our branch should brush your arm
   we say sway with us and dance.
 alignPoemLeft: false
-removePostcardPadding: true
+removePostcardPadding: false
 address: |-
   Forever Young 
   Weeping Willows
