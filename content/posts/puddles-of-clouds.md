@@ -34,4 +34,4 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-06-18T07:00:06.063Z
 ---
-**Many a time I have looked up at the sky and cloud gazed, seeing all sorts of fantastical shapes. I was idly wandering across Minnis Bay in Birchington-on-Sea doing just this when a very ominous-looking cloud suddenly swept across the bay. I was not near any shelter at the time and was not prepared for wet weather so I resigned myself to getting soaked, but, the unpredictable nature of our British weather saw the cloud pass overhead with not a drop falling near me, how close was that?**
+Many a time I have looked up at the sky and cloud gazed, seeing all sorts of fantastical shapes. I was idly wandering across Minnis Bay in Birchington-on-Sea doing just this when a very ominous-looking cloud suddenly swept across the bay. I was not near any shelter at the time and was not prepared for wet weather so I resigned myself to getting soaked, but, the unpredictable nature of our British weather saw the cloud pass overhead with not a drop falling near me, how close was that?
