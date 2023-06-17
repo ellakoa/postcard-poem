@@ -5,7 +5,8 @@ collection: Wonderful Britain
 aspect: landscape
 image: /img/puddles-of-clouds-b-9092708.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
+alt: Single ominous black rain cloud sweeping across beach huts and sandy bay,
+  sweeping out to sea.
 poem: |-
   Puddles of clouds splash across the sky
   Some quite low, others up high
@@ -19,7 +20,8 @@ poem: |-
 
   Magical cloudscapes morph
   riding the tailwinds, surfing the blue
-  In a waterless ocean with endless views.
+
+  in a waterless ocean with endless views.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
