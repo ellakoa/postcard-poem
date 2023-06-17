@@ -1,10 +1,10 @@
 ---
-stamp: /img/the-most-beautiful-morning-light-stamp-1.png
+stamp: /img/the-most-beautiful-morning-light-stamp-new-1-.png
 stampWidth: "600"
 width: "600"
 height: "400"
 title: The Most Beautiful Morning Light
-description: " Kingsdown, Deal Kent."
+description: " Kingsdown, Deal, Kent."
 collection: Beyond the Pebbles
 aspect: landscape
 image: /img/morning-light-kingsdown.jpg
@@ -28,11 +28,12 @@ poem: |-
   Enjoy the most beautiful morning light.
 stampHeight: "400"
 alignPoemLeft: true
-removePostcardPadding: true
+removePostcardPadding: false
 address: |-
   The Most Beautiful Morning Light
   Kingsdown
   Kent
+  UK
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-08-14T07:00:59.036Z
