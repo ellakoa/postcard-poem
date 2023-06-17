@@ -7,7 +7,9 @@ image: /img/puddles-of-clouds-b-9092708.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Single ominous black rain cloud sweeping across beach huts and sandy bay,
   sweeping out to sea.
-poem: |-
+poem: |+
+  
+
   Puddles of clouds splash across the sky
   So much water floating up high
   Silently drifting on an unseen breeze
@@ -22,6 +24,7 @@ poem: |-
   Surfing the blue
   Magical cloudscapes
   Shift with each view.
+
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
