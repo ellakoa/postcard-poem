@@ -23,7 +23,7 @@ poem: |-
   Magical cloudscapes
   Shift with each view.
 alignPoemLeft: false
-removePostcardPadding: true
+removePostcardPadding: false
 address: |-
   Puddles of Clouds
   Minnis Bay
