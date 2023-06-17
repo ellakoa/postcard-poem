@@ -1,6 +1,7 @@
 ---
 title: Puddles of Clouds
 description: "111"
+collection: Wonderful Britain
 aspect: landscape
 image: /img/puddles-of-clouds-a-9092708.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
