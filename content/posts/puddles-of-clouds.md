@@ -1,6 +1,6 @@
 ---
 title: Puddles of Clouds
-description: "111"
+description: Minnis Bay, Birchington-on-Sea, Kent, UK.
 collection: Wonderful Britain
 aspect: landscape
 image: /img/puddles-of-clouds-a-9092708.jpg
@@ -25,7 +25,7 @@ removePostcardPadding: false
 address: |-
   Puddles of Clouds
   Minnis Bay
-  Birchinton-on-sea
+  Birchinton-on-Sea
   Kent UK
 stamp: /img/a-stick-and-a-float-stamp-1-1-.png
 showStampInPreview: true
