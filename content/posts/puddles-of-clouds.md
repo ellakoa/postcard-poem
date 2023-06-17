@@ -3,7 +3,7 @@ title: Puddles of Clouds
 description: Minnis Bay, Birchington-on-Sea, Kent, UK.
 collection: Wonderful Britain
 aspect: landscape
-image: /img/puddles-of-clouds-a-9092708.jpg
+image: /img/puddles-of-clouds-b-9092708.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
 poem: |-
