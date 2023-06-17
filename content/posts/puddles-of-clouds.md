@@ -7,21 +7,21 @@ image: /img/puddles-of-clouds-b-9092708.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Single ominous black rain cloud sweeping across beach huts and sandy bay,
   sweeping out to sea.
-poem: |
+poem: |-
   Puddles of clouds splash across the sky
-  Some quite low, others up high
+  So much water floating up high
   Silently drifting on an unseen breeze
   Billowing as waves in a waterless sea
 
   Some clouds weep as they hurry by
   grey and sullen they will heartily cry.
-  Others will keep a hold of their tears  
-  as they morph across the sphere.
+  Others will keep hold of their tears  
+  as they transfigure across the sphere.
 
-  Riding the tailwinds, surfing the blue
-  Magical cloudscapes shift and renew
-  Look up at the sky and wistfully ponder
-  A waterless ocean of endless wonder.
+  Riding the tailwinds
+  Surfing the blue
+  Magical cloudscapes
+  Shift with each view.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
