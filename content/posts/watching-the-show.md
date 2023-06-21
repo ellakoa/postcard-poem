@@ -6,7 +6,7 @@ description: "Kingsdown beach, one of my favourite places, especially during low
   all sorts of activities and as the tide returns, one by one they disappear. "
 collection: Wonderful Britain
 aspect: landscape
-image: /img/ml4.jpg
+image: /img/kingsdown-cliffs-9874-t.jpg
 metaImage: /img/face.jpg
 alt: Low tide, blue skies, a reflection of Kingsdown cliffs in a rock pool, a
   distant figure sits alone on the chalk rocks
