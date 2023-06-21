@@ -15,7 +15,7 @@ poem: |-
   as the sun starts to rise 
   chasing the dark from the night sky
   A perfect day to visit the bay
-  Let's see who comes out today
+  Let's see who visits today
 
   Fisherman casting out with a splash
   Canoeists passing by in a dash
