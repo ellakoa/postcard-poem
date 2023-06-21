@@ -4,7 +4,7 @@ description: "Kingsdown beach, one of my favourite places, especially during low
   spring tides. It use to be that I would wander about the bay and not see
   anyone elseThe bay comes to life with visitors during this time, engaging in
   all sorts of activities and as the tide returns, one by one they disappear. "
-collection: Kent Views
+collection: Wonderful Britain
 aspect: landscape
 image: /img/kingsdown-cliffs-9874-t.jpg
 metaImage: /img/face.jpg
@@ -39,5 +39,5 @@ address: |-
 stamp: /img/watching-the-show-stamp-2-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
-date: 2023-02-26T08:00:56.627Z
+date: 2023-06-25T07:00:56.627Z
 ---
