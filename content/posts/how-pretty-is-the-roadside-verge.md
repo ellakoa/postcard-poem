@@ -22,7 +22,7 @@ removePostcardPadding: false
 address: |-
   How Pretty is the 
   Roadside Verge
-  Norfolk
+  Could be anywhere.
   UK
 stamp: /img/a-stick-and-a-float-stamp-reeds-1-.png
 showStampInPreview: false
