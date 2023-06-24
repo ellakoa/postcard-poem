@@ -1,7 +1,7 @@
 ---
 title: How Pretty is the Roadside Verge
 description: Vibrant and fragrant roadside verges.
-collection: Beautiful Britain
+collection: Wonderful Britain
 aspect: landscape
 image: /img/daisy-3-5018290.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
