@@ -24,7 +24,7 @@ address: |-
   Roadside Verge
   Could be anywhere.
   UK
-stamp: /img/roadside-verge-1.png
+stamp: /img/roadside-verge-6-1-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-06-24T16:16:07.797Z
