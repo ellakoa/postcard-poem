@@ -13,7 +13,7 @@ poem: |-
   Not grown from hybrid seeds
   On the verge, they thrive and bloom
   So many flowers, with such little room
-  A colourful mix, a vibrant scene
+  So many colours, a vibrant scene
   Reds and blues splashed with green
   An abstract piece of beautiful art
   The roadside verge has my heart.
