@@ -13,8 +13,8 @@ poem: |-
   Not grown from hybrid seeds
   On the verge, they thrive and bloom
   So many flowers, with such little room
-  So many colours, a vibrant scenes
-  Set against a canvas of blue and green
+  So many colours, vibrant scenes
+  against a canvas of blue and greens
   An abstract piece of beautiful art
   The roadside verge has my heart.
 alignPoemLeft: false
