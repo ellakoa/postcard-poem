@@ -5,7 +5,7 @@ collection: Beautiful Britain
 aspect: landscape
 image: /img/oxeye-daisy-1.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
+alt: A group of oxeye daisies standing against a blue sky.
 poem: |-
   How pretty is the roadside verge
   When flowers spill out of the earth
@@ -22,7 +22,7 @@ removePostcardPadding: false
 address: |-
   How Pretty is the 
   Roadside Verge
-  Could be anywhere.
+  Deal
   UK
 stamp: /img/roadside-verge-6-1-1-.png
 showStampInPreview: false
