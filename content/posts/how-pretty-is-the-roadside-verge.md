@@ -29,3 +29,4 @@ showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-06-24T16:16:07.797Z
 ---
+T﻿he longest night has passed and summer has taken a stand with an explosion of colour along the roadside verges, recently it has been the turn of the oxeye daisy to claim its summer spot. Their heads nod eagerly as you pass by as if saying “Hello it's summer at last.”
