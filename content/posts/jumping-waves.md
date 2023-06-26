@@ -10,7 +10,7 @@ poem: |-
   We were children again 
   that day on the beach
   Jumping the waves and
-  bathing our feet
+  bathing our feet.
 
   Writing names on the sand 
   and collecting shells to 
@@ -26,7 +26,11 @@ poem: |-
   Holding hands and bathing our feet.
 alignPoemLeft: false
 removePostcardPadding: false
-address: "111"
+address: |-
+  Kids Again
+  Holywell Bay
+  Cornwall
+  UK
 stamp: /img/a-stick-and-a-float-stamp-1-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
