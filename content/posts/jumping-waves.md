@@ -19,7 +19,7 @@ poem: |-
   when the sea came it 
   would appear to float then
   watch it disappear under the waves 
-  and laugh out loud at our joke.
+  and laugh out loud at our silly joke.
 
   Not caring who saw so many daft folk
   Kids again that day on the beach
@@ -31,7 +31,7 @@ address: |-
   Holywell Bay
   Cornwall
   UK
-stamp: /img/a-stick-and-a-float-stamp-1-1-.png
+stamp: /img/completed-blogs-1-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-06-26T15:35:55.085Z
