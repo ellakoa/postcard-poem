@@ -6,24 +6,27 @@ aspect: landscape
 image: /img/children-again-6ba-studio.jpeg
 metaImage: /img/face.jpg
 alt: "111"
-poem: |-
+poem: |
   We were children again 
   that day on the beach
   Jumping the waves and
   bathing our feet.
 
-  Writing names on the sand 
-  and collecting shells to 
-  decorate a ramshackle castle we
-  built with a moat so
-  when the sea came it 
-  would appear to float then
-  watch it disappear under the waves 
-  and laugh out loud at our silly joke.
+  We wrote names on the sand 
+  and collected shells to decorate 
+  a ramshackle castle 
+  we built with a moat
+  so when the swash came
+  it would fill 
+  and away it would float
 
-  Not caring who saw so many daft folk
+  Sharing a packet of biscuits 
+  washed down with warm pop
+  Laughing out loud at our silly jokes.
+  Not caring who saw so many daft folk.
+
   Kids again that day on the beach
-  Holding hands and bathing our feet.
+  Holding hands and baring our feet.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
