@@ -3,7 +3,7 @@ title: Jumping Waves
 description: Children Again, Holywell Bay, Cornwall.
 collection: ""
 aspect: landscape
-image: /img/children-againmain.jpeg
+image: /img/children-again-new-1-.jpg
 metaImage: /img/face.jpg
 alt: Ten people holding hands in a row in bright summer clothing, jumping the
   waves rolling in on an aquamarine sea.
