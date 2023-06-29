@@ -1,6 +1,6 @@
 ---
 title: Jumping Waves
-description: "111"
+description: Children Again, Holywell Bay, Cornwall.
 collection: ""
 aspect: landscape
 image: /img/children-again-6ba-studio.jpeg
@@ -28,7 +28,7 @@ poem: |-
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
-  Kids Again
+  Children again.
   Holywell Bay
   Cornwall
   UK
