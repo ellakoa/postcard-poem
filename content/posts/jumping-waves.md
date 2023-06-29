@@ -16,12 +16,12 @@ poem: |-
    a ramshackle castle 
   we built with a moat
   so when the swash came
-  it would fill 
-  and away it would float.
-  Laughing out loud at our silly jokes
-  Not caring who saw us daft folks.
+  it would fill and away it would float.
+  Laughing out loud at our silly jokes,
+
+  Not caring who saw us daft folks
   Kids again that day on the beach
-  Holding hands and baring our feet.
+  Holding hands and showing our feet.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
