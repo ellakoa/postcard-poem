@@ -5,7 +5,8 @@ collection: ""
 aspect: landscape
 image: /img/children-again-6ba-studio.jpeg
 metaImage: /img/face.jpg
-alt: "111"
+alt: Ten people holding hands in a row in bright summer clothing, jumping the
+  waves rolling in on an aquamarine sea.
 poem: |-
   We were children again 
   that day on the beach
