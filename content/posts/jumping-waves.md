@@ -8,10 +8,8 @@ metaImage: /img/face.jpg
 alt: Ten people holding hands in a row in bright summer clothing, jumping the
   waves rolling in on an aquamarine sea.
 poem: |-
-  We were children again 
-  that day on the beach
-  Jumping the waves and
-  bathing our feet.
+  We were children again that day on the beach
+  Jumping the waves and bathing our feet.
 
   We wrote names on the sand 
   and collected shells to decorate
@@ -20,7 +18,6 @@ poem: |-
   so when the swash came
   it would fill 
   and away it would float.
-
   Laughing out loud at our silly jokes
   Not caring who saw us daft folks.
   Kids again that day on the beach
