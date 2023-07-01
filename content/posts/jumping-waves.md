@@ -33,4 +33,4 @@ showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-06-26T15:35:55.085Z
 ---
-Every time we visited Cornwall it would steal a little bit of our hearts, hiding the pieces away, somewhere in the county making sure we would always be back to visit.
+Every time I visited Cornwall it would steal a little bit of my heart, hiding the piece away, somewhere in the county enticing me back to visit. Holywell Bay has the colourful Atlantic as its backdrop, rolling surf, some really high sand dunes and a cave, maybe a little bit of my heart is hidden in the cave at Holywell Bay.
