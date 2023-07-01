@@ -18,7 +18,7 @@ poem: |-
   so when the swash came
   it would fill and away it would float.
   Laughing out loud at our silly jokes
-  Not caring who saw us silly folk
+  Not caring who saw us daft folk
   children again that day on the beach
   Holding hands and showing our feet.
 alignPoemLeft: false
