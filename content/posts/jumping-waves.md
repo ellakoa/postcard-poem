@@ -18,8 +18,8 @@ poem: |-
   so when the swash came
   it would fill and away it would float.
   Laughing out loud at our silly jokes
-  Not caring who saw us, kids again, 
-  that day on the beach
+  Not caring who saw us silly folk
+  children again that day on the beach
   Holding hands and showing our feet.
 alignPoemLeft: false
 removePostcardPadding: false
