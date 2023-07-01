@@ -1,5 +1,5 @@
 ---
-title: Jumping Waves
+title: Chlidren Again
 description: Children Again, Holywell Bay, Cornwall.
 collection: ""
 aspect: landscape
@@ -24,7 +24,7 @@ poem: |-
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
-  Children again.
+  Children again
   Holywell Bay
   Cornwall
   UK
