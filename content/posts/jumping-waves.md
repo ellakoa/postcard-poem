@@ -28,7 +28,7 @@ address: |-
   Holywell Bay
   Cornwall
   UK
-stamp: /img/children-again-stamp-z.png
+stamp: /img/children-again-stamp-z-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-06-26T15:35:55.085Z
