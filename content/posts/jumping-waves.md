@@ -16,7 +16,7 @@ poem: |-
    a ramshackle castle 
   we built with a moat
   so when the swash came
-  it would fill and away it would float.
+  it would fill and away it would float,
   Laughing out loud at our silly jokes
   Not caring who saw us daft folk
   children again that day on the beach
