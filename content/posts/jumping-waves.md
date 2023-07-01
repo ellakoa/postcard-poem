@@ -1,7 +1,7 @@
 ---
 title: Chlidren Again
 description: Children Again, Holywell Bay, Cornwall.
-collection: ""
+collection: Wonderful Britain
 aspect: landscape
 image: /img/children-again-new-1-.jpg
 metaImage: /img/face.jpg
