@@ -8,7 +8,8 @@ metaImage: /img/face.jpg
 alt: Ten people holding hands in a row in bright summer clothing, jumping the
   waves rolling in on an aquamarine sea.
 poem: |-
-  We were children again that day on the beach
+  We were children again 
+  that day on the beach
   Jumping the waves and bathing our feet.
 
   We wrote names on the sand 
@@ -16,11 +17,11 @@ poem: |-
    a ramshackle castle 
   we built with a moat
   so when the swash came
-  it would fill and away it would float,
+  it would fill, and away it would float.
   Laughing out loud at our silly jokes
-  Not caring who saw us daft folk
-  children again that day on the beach
-  Holding hands and showing our feet.
+  Not caring who saw us daft folk.
+  Children again that day on the beach
+  Holding hands and baring our feet.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
