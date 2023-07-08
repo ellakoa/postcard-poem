@@ -7,11 +7,11 @@ image: /img/misty-cornwall.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Heather on the cliff top, looking down over a sandy beach, sea mist is
   rising up over the cliffs, obscuring swimmers.
-poem: |
+poem: |-
   Curiosity got the better of the sea
   It  rose in a mist and rolled over the cliff
   The surf stopped pounding, the waves stilled 
-  as over the land, the sea mist spilled.
+  Over the land, the sea mist spilled.
 
   Silencing footsteps as around it patrolled
   Quietening voices as it probed people's souls
