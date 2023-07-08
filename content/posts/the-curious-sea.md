@@ -1,11 +1,12 @@
 ---
 title: The Curious Sea
-description: "111"
-collection: "111"
+description: Misty Cornwall, Porthtowan, Cornwall UK.
+collection: Wonderful Britain
 aspect: landscape
 image: /img/misty-cornwall.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
+alt: Heather on the cliff top, looking down over a sandy beach, sea mist is
+  rising up over the cliffs, obscuring swimmers.
 poem: |
   Curiosity got the better of the sea
   It  rose in a mist and rolled over the cliff
