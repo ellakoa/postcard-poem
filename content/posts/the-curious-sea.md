@@ -13,8 +13,8 @@ poem: |-
   The surf stopped pounding, the waves stilled 
   Over the land, the sea mist spilled.
 
-  Silencing footsteps as around it patrolled
-  Quietening voices as it probed people's souls
+  Silencing, as around it patrolled
+  Whispers, as it probed people's souls
   Weaving its way through doorless remains,
   Leaving droplets of salt on the land's domain.
 
