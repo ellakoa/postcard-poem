@@ -23,8 +23,7 @@ poem: |
   The bees stopped buzzing,
   and when all the espying was done
   the mist slipped quietly back 
-  from where it had come 
-  and again, the sea became one.
+  from where it had come. 
 
   As the surf started pounding 
   many had the same thought
