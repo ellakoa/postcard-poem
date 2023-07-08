@@ -9,7 +9,7 @@ alt: Heather on the cliff top, looking down over a sandy beach, sea mist is
   rising up over the cliffs, obscuring swimmers.
 poem: |-
   Curiosity got the better of the sea
-  It  rose in a mist and rolled over the cliff
+  It rose in a mist and rolled over the cliff
   The surf stopped pounding, the waves stilled 
   Over the land, the sea mist spilled.
 
