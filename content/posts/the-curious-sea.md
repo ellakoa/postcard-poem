@@ -32,7 +32,11 @@ poem: |
   find what it had sought?
 alignPoemLeft: false
 removePostcardPadding: false
-address: "111"
+address: |-
+  The Curious Sea
+  Porthtowan
+  Cornwall
+  UK
 stamp: /img/the-curious-sea-stamp-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
