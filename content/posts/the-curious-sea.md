@@ -42,3 +42,4 @@ showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-07-07T17:27:07.126Z
 ---
+The north coast of Cornwall where the roar of the Atlantic sea can be heard pounding against the rocky cliffs, and the surf can be seen rolling in one wave after the other, delighting beachgoers. On this particular clifftop walk it was with some bemusement we watched a sea mist roll in quieting the waves, leaving those intent on surfing just bobbing around on a calm sea, everything just seemed to stop, waiting for the mist to do its thing and move on. It was ethereal.
