@@ -3,7 +3,7 @@ title: The Curious Sea
 description: "111"
 collection: "111"
 aspect: landscape
-image: /img/mist7-.jpg
+image: /img/misty-cornwall.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
 poem: |
@@ -32,7 +32,7 @@ poem: |
 alignPoemLeft: false
 removePostcardPadding: false
 address: "111"
-stamp: /img/mist9-.jpg
+stamp: /img/the-curious-sea-stamp-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-07-07T17:27:07.126Z
