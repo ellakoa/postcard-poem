@@ -13,10 +13,10 @@ poem: |-
   The surf stopped pounding, the waves stilled 
   Over the land, the sea mist spilled.
 
-  Silencing, as around it patrolled
-  Whispers, as it probed people's souls
+  Silencing footsteps as around it patrolled
+  Hearing whispers, as it probed people's souls
   Weaving its way through empty remains,
-  Leaving droplets of salt on the land's domain.
+  Trailing spots of salt on the land's domain.
 
   All were in awe as the sea stalked the land
   The birds stopped singing,
