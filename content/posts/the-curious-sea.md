@@ -15,7 +15,7 @@ poem: |-
 
   Silencing, as around it patrolled
   Whispers, as it probed people's souls
-  Weaving its way through doorless remains,
+  Weaving its way through empty remains,
   Leaving droplets of salt on the land's domain.
 
   All were in awe as the sea stalked the land
