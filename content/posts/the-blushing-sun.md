@@ -6,13 +6,11 @@ image: /img/beyond-pebbles-face-kingsdo.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
 poem: |-
-  The sun likes to announce the day 
-  in a very spectacular way.
-
   Proud to signal the morning ahead 
   The sun rises eagerly out of his bed
   Expecting clouds to provide a drape
   To cover his modesty as he wakes, 
+
   Sometimes the clouds are off in a dream
   Not a cloud in the sky is to be seen
   The sun turns red, then a blushing pink 
@@ -35,7 +33,7 @@ poem: |-
   which causes the sun to get irate 
   Slipping his gown, he smoulders red, 
   as he discreetly sets onto his bed
-  The errant clouds feel a tad abashed
+  The errant clouds feel a tad abashed and
   turn the sky a pretty pink after the sun further sinks.
 alignPoemLeft: false
 removePostcardPadding: false
