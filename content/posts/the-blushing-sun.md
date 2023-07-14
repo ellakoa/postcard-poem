@@ -33,7 +33,11 @@ poem: |-
   turn the sky pink as the sun further sinks.
 alignPoemLeft: false
 removePostcardPadding: false
-address: "111"
+address: |-
+  The Blushing Sun
+  111
+  1111
+  1111
 stamp: /img/beyond-pebbles-face-kingsdo.jpg
 showStampInPreview: false
 author: Caroline Whitehouse
