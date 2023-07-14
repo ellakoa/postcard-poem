@@ -17,8 +17,8 @@ poem: |-
   He doesn’t have the time to think
   Reaching for his golden cloak 
   he drapes it around him in a stroke.
-  Taking a pause to settle down,  now
-  comfortable in his glowing gown
+  Taking a pause to settle down, 
+  comfy in his glowing gown
   It dawns on him that not many that day 
   will have risen so early to see him that way.
 
