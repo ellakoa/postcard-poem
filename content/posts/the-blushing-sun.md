@@ -23,18 +23,15 @@ poem: |-
   It dawns on him that not many that day 
   will have risen so early to see him that way.
 
-  But then why at night does he do the same?
-
-  Well, I am told the sun is very old
-  and to keep him in his finest prime
-  he has to retire each night on time.
+  Then to keep him in his finest prime, the sun
+  has to retire each night on time.
 
   But, those evening clouds are often late 
   which causes the sun to get irate 
   Slipping his gown, he smoulders red, 
   as he discreetly sets onto his bed
   The errant clouds feel a tad abashed and
-  turn the sky a pretty pink after the sun further sinks.
+  turn the sky pink as the sun further sinks.
 alignPoemLeft: false
 removePostcardPadding: false
 address: "111"
