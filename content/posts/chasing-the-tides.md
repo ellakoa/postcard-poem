@@ -12,7 +12,7 @@ poem: |-
   I chanced upon Kingsdown beach
   Chasing the drama of a spring tide
   I hurried and lengthened my stride
-  The waves were dutifully high 
+  The waves were roaring, dutifully high 
   Salty spray fell from the sky.
 
   But it was the morning light, 
@@ -20,9 +20,8 @@ poem: |-
   returning again and again, and
   it was by chance, on one such trip that
   as the sun rose, the tide did slip
-  revealing the most expansive bay.
-
-  Beyond the pebbles, I walked the bay,
+  revealing Oldstairs bay.
+  Beyond the pebbles, I walked the bay 
   For the briefest time, the bay was all mine.
 alignPoemLeft: false
 removePostcardPadding: false
