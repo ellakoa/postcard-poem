@@ -5,7 +5,8 @@ collection: Beyond the Pebbles
 aspect: landscape
 image: /img/chasing-the-tides-kingsdown-2-5038702.jpg
 metaImage: /img/face.jpg
-alt: "111"
+alt: Colourful beach huts. A spring tide. Waves crashing over the beach huts on
+  a sunny day.
 poem: |-
   I chanced upon Kingsdown beach 
   tucked away on this easterly reach
