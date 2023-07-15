@@ -16,14 +16,13 @@ poem: |-
   Salty spray fell from the sky.
 
   The most beautiful light bathed the coast
-  The morning light, soft yet bright.
-
-  It was by chance, on one such trip that
+  The morning light, soft yet bright, and
+  it was by chance, on one such trip that
   as the sun rose, the tide slipped away 
   revealing the most expansive bay.
 
   Beyond the pebbles I walked the bay,
-  for the briefest time the bay was all mine.
+  captivated, the bay was all mine.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
