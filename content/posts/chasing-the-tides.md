@@ -21,7 +21,7 @@ poem: |-
   it was by chance, on one such trip 
   as the sun rose, the tide did slip
   revealing Oldstairs Bay, I walked the bay
-  Beyond the pebbles, for a brief time
+  beyond the pebbles, and at that time
   the bay was all mine.
 alignPoemLeft: false
 removePostcardPadding: false
