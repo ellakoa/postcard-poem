@@ -12,17 +12,18 @@ poem: |-
   I chanced upon Kingsdown beach
   Chasing the drama of a spring tide
   I hurried and lengthened my stride
-  The waves were spectacularly high 
+  The waves were dutifully high 
   Salty spray fell from the sky.
 
   The most beautiful light bathed the coast
-  The morning light, soft yet bright, and
+  The morning light, soft yet bright, had me 
+  returning again and again, and
   it was by chance, on one such trip that
   as the sun rose, the tide slipped away 
   revealing the most expansive bay.
 
   Beyond the pebbles I walked the bay,
-  captivated, the bay was all mine.
+  For the briefest time the bay was all mine.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
