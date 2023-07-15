@@ -13,14 +13,14 @@ poem: |-
   Chasing the drama of a spring tide
   I hurried and lengthened my stride
   The waves were roaring, dutifully high 
-  Salty spray fell from the sky.
+  Salty spray fell heavily from the sky.
 
   But it was the morning light, 
   soft yet bright, that had me 
   returning again and again, and
   it was by chance, on one such trip that
   as the sun rose, the tide did slip
-  revealing Oldstairs bay.
+  revealing Oldstairs Bay.
   Beyond the pebbles, I walked the bay 
   For the briefest time, the bay was all mine.
 alignPoemLeft: false
