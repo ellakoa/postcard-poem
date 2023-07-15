@@ -20,13 +20,13 @@ poem: |-
   returning again and again, and
   it was by chance, on one such trip 
   as the sun rose, the tide did slip
-  revealing Oldstairs Bay. 
+  revealing a bay, Oldstairs Bay. 
 
   I was captivated by the way 
   the bay offered itself up
   beyond the pebbles.
   I was still chasing the tides
-  The lowest of tides.
+  Now the lowest of tides.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
