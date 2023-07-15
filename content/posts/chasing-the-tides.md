@@ -19,7 +19,7 @@ poem: |-
   The morning light, soft yet bright, had me 
   returning again and again, and
   it was by chance, on one such trip that
-  as the sun rose, the tide slipped away 
+  as the sun rose, the tide slipped away
   revealing the most expansive bay.
 
   Beyond the pebbles I walked the bay,
