@@ -3,7 +3,7 @@ title: Chasing the Tides
 description: Kingsdown, Kent, UK
 collection: Beyond the Pebbles
 aspect: landscape
-image: /img/chasing-the-tides-kingsdown-2-5038702.jpg
+image: /img/chasing-the-tides-main-1-1-.jpg
 metaImage: /img/face.jpg
 alt: Colourful beach huts. A spring tide. Waves crashing over the beach huts on
   a sunny day.
@@ -32,7 +32,7 @@ address: |-
   Kingsdown Beach
   Kingsdown
   Kent UK
-stamp: /img/chasing-the-tides-kingsdown-1-1-.png
+stamp: /img/chasing-the-tides-kingsdown-3-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-07-16T07:00:00.000Z
