@@ -13,7 +13,7 @@ poem: |-
   Chasing the drama of a spring tide
   I hurried and lengthened my stride
   The waves were spectacularly high 
-  Salty spray cascaded from the sky.
+  Salty spray fell from the sky.
 
   Yet it was the light bathing the coast
   that had me returning again and again
