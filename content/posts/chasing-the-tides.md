@@ -28,7 +28,7 @@ poem: |-
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
-  Chasing the tides
+  Chasing the Tides
   Kingsdown Beach
   Kingsdown
   Kent UK
