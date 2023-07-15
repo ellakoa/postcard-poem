@@ -15,8 +15,7 @@ poem: |-
   The waves were spectacularly high 
   Salty spray fell from the sky.
 
-  Yet it was the light bathing the coast
-  that had me returning again and again
+  The most beautiful light bathed the coast
   The morning light, soft yet bright.
 
   It was by chance, on one such trip that
