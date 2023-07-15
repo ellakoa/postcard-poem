@@ -20,9 +20,13 @@ poem: |-
   returning again and again, and
   it was by chance, on one such trip 
   as the sun rose, the tide did slip
-  revealing Oldstairs Bay, I walked the bay
-  beyond the pebbles, and at that time
-  the bay was all mine.
+  revealing Oldstairs Bay. 
+
+  I was captivated by the way 
+  the bay offered itself up
+  beyond the pebbles.
+  I was still chasing the tides
+  The lowest of tides.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
