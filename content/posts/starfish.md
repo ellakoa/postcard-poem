@@ -6,7 +6,7 @@ height: "400"
 title: Starfish
 description: |
   Kingsdown Kent UK
-collection: Beautiful Creatures
+collection: Beyond the Pebbles
 aspect: landscape
 image: /img/starfish-kingsdown-beach-kent-blog-1-.jpg
 metaImage: /img/face.jpg
