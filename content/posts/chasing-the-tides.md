@@ -3,7 +3,7 @@ title: Chasing the Tides
 description: Kingsdown, Kent, UK
 collection: Beyond the Pebbles
 aspect: landscape
-image: /img/chasing-the-tides-kingsdown-5-5038877.jpg
+image: /img/chasing-the-tides-kingsdown-2-5038702.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
