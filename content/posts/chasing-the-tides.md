@@ -11,20 +11,20 @@ poem: |-
   Tucked away on this easterly reach
   I chanced upon Kingsdown beach
   Chasing the drama of a spring tide
-  I hurried and lengthened my stride.
+  I hurried and lengthened my stride
   The tide was spectacularly high 
   Waves crashed far into the sky
 
   Yet it was the light bathing the coast
   that had me returning again and again
-  The morning light was soft yet bright.
+  The morning light, soft yet bright.
 
   It was by chance, on one such trip that
   as the sun rose, the tide slipped away 
   revealing the most expansive bay
 
   For the briefest time, I walked the bay
-  and the bay was all mine.
+  captivated, and the bay was all mine.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
