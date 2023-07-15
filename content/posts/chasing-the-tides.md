@@ -8,12 +8,13 @@ metaImage: /img/face.jpg
 alt: "111"
 poem: |-
   I chanced upon Kingsdown beach 
+  tucked away on this easterly reach
   chasing the drama of a spring tide
   The waves were crashing and dutifully high 
-  Yet it was the light bathing the beach that
-  had me returning again and again
-  What a sight, the morning light
-  Washing over the sea, soft yet bright.
+  Yet it was the light bathing 
+  this easterly reach
+  that had me returning again and again
+  The morning light soft yet bright.
 
   It was by chance, on one such trip that
   as the sun arose, the tide slipped away 
@@ -21,8 +22,8 @@ poem: |-
   I was captivated as the bay offered itself up
   For the briefest time in the early hours,
   I walked the bay, and the bay was all mine.
-  I was still chasing the tides
-  but now it was for the lowest of tides.
+  I still chase the tides
+  but the lowest of tides.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
