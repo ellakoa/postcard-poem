@@ -15,15 +15,15 @@ poem: |-
   The waves were dutifully high 
   Salty spray fell from the sky.
 
-  The most beautiful light bathed the coast
-  The morning light, soft yet bright, had me 
+  But it was the morning light, 
+  soft yet bright, that had me 
   returning again and again, and
   it was by chance, on one such trip that
-  as the sun rose, the tide slipped away
+  as the sun rose, the tide did slip
   revealing the most expansive bay.
 
-  Beyond the pebbles I walked the bay,
-  For the briefest time the bay was all mine.
+  Beyond the pebbles, I walked the bay,
+  For the briefest time, the bay was all mine.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
