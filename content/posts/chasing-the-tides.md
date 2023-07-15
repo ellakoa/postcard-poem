@@ -8,23 +8,23 @@ metaImage: /img/face.jpg
 alt: Colourful beach huts. A spring tide. Waves crashing over the beach huts on
   a sunny day.
 poem: |-
-  I chanced upon Kingsdown beach 
-  tucked away on this easterly reach
-  chasing the drama of a spring tide
-  The waves were crashing and dutifully high 
-  Yet it was the light bathing 
-  this easterly reach
+  Tucked away on this easterly reach
+  I chanced upon Kingsdown beach
+  Chasing the drama of a spring tide
+  I hurried and lengthened my stride.
+  The tide was spectacularly high 
+  Waves crashed far into the sky
+
+  Yet it was the light bathing the coast
   that had me returning again and again
-  The morning light soft yet bright.
+  The morning light was soft yet bright.
 
   It was by chance, on one such trip that
-  as the sun arose, the tide slipped away 
+  as the sun rose, the tide slipped away 
   revealing the most expansive bay
-  I was captivated as the bay offered itself up
-  For the briefest time in the early hours,
-  I walked the bay, and the bay was all mine.
-  I still chase the tides
-  but the lowest of tides.
+
+  For the briefest time, I walked the bay
+  and the bay was all mine.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
