@@ -21,10 +21,10 @@ poem: |-
 
   It was by chance, on one such trip that
   as the sun rose, the tide slipped away 
-  revealing the most expansive bay
+  revealing the most expansive bay.
 
-  Captivated, I walked the bay and for
-  the briefest time the bay was all mine.
+  Beyond the pebbles I walked the bay,
+  for the briefest time the bay was all mine.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
