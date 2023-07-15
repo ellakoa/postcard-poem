@@ -1,7 +1,7 @@
 ---
 title: Dasoda-hae
 description: Dasoda-hae, Minster, Kent.
-collection: Trees
+collection: Thoughtful Things
 aspect: landscape
 image: /img/indian-head-1-.png
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
