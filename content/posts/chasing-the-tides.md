@@ -11,14 +11,14 @@ poem: |-
   Tucked away on this easterly reach
   I chanced upon Kingsdown beach
   Chasing the drama of a spring tide
-  As I hurried and lengthened my stride
+  I hurried and lengthened my stride
   The waves were roaring, and dutifully high 
-  Salty spray fell from the the blue sky.
+  Salty spray fell from the clear blue sky.
 
   But it was the morning light, 
   soft yet bright, that had me 
   returning again and again, and
-  it was by chance, on one such trip that
+  it was by chance, on one such trip 
   as the sun rose, the tide did slip
   revealing Oldstairs Bay, I walked the bay
   Beyond the pebbles, for a brief time
