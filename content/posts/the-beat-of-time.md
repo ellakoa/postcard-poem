@@ -1,12 +1,6 @@
 ---
 title: The Silent Beat of Time
-description: >-
-  The full moon of August 2022 rose above the horizon sporting the colours of
-  the sunset.
-
-  We stayed late watching the moon turn from glorious orange hues to its more traditional white silver light.
-
-  The night was warm and it was with reluctance we left. As we parted, the beach was lit up with two artificial lights, the moth man had come to survey migrating moths from across the channel, how wonderful.
+description: Kingsdown, Kent, UK.
 collection: Beyond the Pebbles
 aspect: landscape
 image: /img/the-beat-of-time-kingsdown.jpg
@@ -35,3 +29,6 @@ showStampInPreview: false
 author: Caroline Whitehouse
 date: 2022-08-28T11:36:03.960Z
 ---
+The full moon of August 2022 rose above the horizon sporting the colours of the sunset.
+We stayed late watching the moon turn from glorious orange hues to its more traditional white silver light.
+The night was warm and it was with reluctance we left. As we parted, the beach was lit up with two artificial lights, the moth man had come to survey migrating moths from across the channel, how wonderful.
