@@ -30,7 +30,7 @@ address: |-
   Kingsdown Beach
   Kingsdown
   Kent UK
-stamp: /img/chasing-the-tides-kingsdown-3-1-.png
+stamp: /img/chasing-the-tides-kingsdown-a-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-07-16T07:00:00.000Z
