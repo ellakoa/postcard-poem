@@ -20,7 +20,7 @@ poem: |-
   A fantastical display to surprise
   Explore, let imagination surmise.
 alignPoemLeft: false
-removePostcardPadding: false
+removePostcardPadding: true
 address: |-
   Beyond the Pebbles
   Oldstairs Bay
