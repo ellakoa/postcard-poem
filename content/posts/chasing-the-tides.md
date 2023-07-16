@@ -12,7 +12,7 @@ poem: |-
   I chanced upon Kingsdown beach
   Chasing the drama of a spring tide
   I hurried and lengthened my stride
-  The waves were roaring, and dutifully high 
+  Waves were crashing, and dutifully high 
   Salty spray fell from the clear blue sky.
 
   But it was the morning light, 
@@ -24,9 +24,9 @@ poem: |-
 
   I was captivated by the way 
   the bay offered itself up
-  beyond the pebbles.
-  I was still chasing the tides
-  Now the lowest of tides.
+  Beyond the pebbles, I walked the bay
+  I still chase the tide
+  The lowest of tides.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
