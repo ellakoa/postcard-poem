@@ -14,7 +14,7 @@ poem: |
   or somewhere new you’d like to explore
 
   Into the past where memories gleam
-  Or into the future of hopes and dreams
+  Or to the future of hopes and dreams
 
   Gaze at the bridge and in your mind's eye
   Take that first step, prepare to untie
