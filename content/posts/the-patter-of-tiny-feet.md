@@ -8,10 +8,10 @@ description: >-
   Clever seagulls, poor worms.
 collection: Beautiful Creatures
 aspect: landscape
-image: /img/the-patter-of-tiny-feet-facebook-1-.jpg
+image: /img/seagull-cornwall-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: A large seagull with a bright yellow bill, Cartoon worms looking terrified
-  running away.
+alt: A soggy looking seagull, sitting on a seawall in Polperro Cornwall, with a
+  backdrop of fisherman's cottages.
 poem: |-
   Seagulls patter the ground 
   with their feet
