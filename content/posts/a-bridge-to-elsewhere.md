@@ -33,7 +33,3 @@ author: Caroline Whitehouse
 date: 2023-07-20T12:03:25.300Z
 ---
 There are many grand bridges out there, beautiful and functional, then there are those bridges that are hidden and dreamy. I have a fancy these bridges can transport you elsewhere, just gaze with your mind's eye and find yourself wherever or whenever you want. Happy dreaming.
-
-
-
-<!--EndFragment-->
