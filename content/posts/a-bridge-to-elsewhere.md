@@ -1,6 +1,7 @@
 ---
 title: A Bridge to Elsewhere
 description: Norfolk Broads, Norfolk, UK.
+collection: Wonderfull Britian
 aspect: landscape
 image: /img/norfolk-bridge-to-elsewhere-.jpg
 metaImage: /img/face.jpg
