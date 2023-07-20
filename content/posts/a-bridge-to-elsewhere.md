@@ -22,7 +22,7 @@ poem: |-
 
   Gaze at the bridge and in your mind's eye
   Take that first step, prepare to untie
-  gently float beyond what is seen,
+  Gently float beyond what is seen,
   A bridge to elsewhere
   Imagine and dream.
 alignPoemLeft: false
