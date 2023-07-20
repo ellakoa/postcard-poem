@@ -28,9 +28,9 @@ alignPoemLeft: false
 removePostcardPadding: false
 address: |-
   The Patter of Tiny Feet
-  Seagulls Somewhere
-  Near 
-  You
+  Polperro Harbour
+  Cornwall
+  UK
 stamp: /img/the-patter-of-tiny-feet-stamp-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
