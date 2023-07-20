@@ -8,9 +8,8 @@ metaImage: /img/face.jpg
 alt: An old bridge, red bricks crumbling. railings rusted set against a stormy
   sky. A single boat is tied up to transport you.
 poem: |-
-  A bridge to elsewhere, over or through
-  Where will it take you?
-  Where will you choose.?
+  A bridge to elsewhere, above or below
+  Where will it take you, where will you go?
 
   Somewhere you’ve happily travelled before
   or somewhere new you’d like to explore.
