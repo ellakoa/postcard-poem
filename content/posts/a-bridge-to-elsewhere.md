@@ -6,20 +6,25 @@ image: /img/norfolk-bridge-to-elsewhere-.jpg
 metaImage: /img/face.jpg
 alt: An old bridge, red bricks crumbling. railings rusted set against a stormy
   sky. A single boat is tied up to transport you.
-poem: |
-  A bridge to elsewhere, above or below
-  Where will it take you, where will you go?
+poem: |-
+  A bridge to elsewhere, over or through
+  Where will it take you?
+  Where will you choose.?
 
   Somewhere you’ve happily travelled before
-  or somewhere new you’d like to explore
+  or somewhere new you’d like to explore.
 
-  Into the past where memories gleam
-  Or to the future of hopes and dreams
+  Into the past where memories roam
+  Where flickers of light call you home.
+
+  Maybe the future of hopes and what ifs
+  Where life has yet to bestow its gifts.
 
   Gaze at the bridge and in your mind's eye
   Take that first step, prepare to untie
-  gently float beyond what is seen
-  A bridge to elsewhere imagine and scene.
+  gently float beyond what is seen,
+  A bridge to elsewhere
+  Imagine and dream.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
