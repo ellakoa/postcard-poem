@@ -29,7 +29,7 @@ alignPoemLeft: false
 removePostcardPadding: false
 address: |-
   A Bridge to Elsewhere
-  Norfolk Broads
+  North Broads
   Norfolk
   UK
 stamp: /img/a-bridge-to-elsewhere-stamp-1-.png
