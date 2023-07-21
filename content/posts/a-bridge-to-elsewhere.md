@@ -33,7 +33,7 @@ address: |-
   Norfolk
   UK
 stamp: /img/a-bridge-to-elsewhere-stamp-1-.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-07-23T07:00:25.300Z
 ---
