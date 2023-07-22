@@ -29,7 +29,7 @@ alignPoemLeft: false
 removePostcardPadding: false
 address: |-
   A Bridge to Elsewhere
-  North Broads
+  Norfolk Broads
   Norfolk
   UK
 stamp: /img/a-bridge-to-elsewhere-stamp-1-.png
@@ -37,4 +37,4 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-07-23T07:00:25.300Z
 ---
-There are many grand bridges out there, beautiful and functional, then there are those bridges that are hidden and dreamy. I have a fancy these bridges can transport you elsewhere, just gaze with your mind's eye and find yourself wherever or whenever you want. Happy dreaming.
+There are many bridges on the broads, some old and beautiful, some modern and functional, then there are those bridges that are hidden and dreamy. I have a fancy these bridges can transport you 'elsewhere' just gaze with your mind's eye and find yourself wherever or whenever you want. Happy dreaming.
