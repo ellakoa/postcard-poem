@@ -1,3 +1,5 @@
+'use client'
+
 import { useState } from 'react'
 import * as navigation from '../content/navigation.yaml'
 import * as settings from '../content/settings.yaml'
@@ -18,21 +20,20 @@ export default function Header() {
       <nav className='flex items-center justify-center md:justify-between flex-wrap py-3 container mx-auto'>
         {/* <!--Logo etc--> */}
         <div className='flex items-center'>
-          <Link href='/'>
-            <a
-              className='text-gray-500 font-bold text-lg flex gap-4 items-end relative max-w-[150px] md:max-w-[200px]'
-              title='Postcard Poems'
-            >
-              <span className='sr-only'>Home</span>
-              <Image
-                className='hidden md:block max-w-[200px]'
-                src={image}
-                width={width}
-                height={height}
-                layout='intrinsic'
-                alt=''
-              />
-            </a>
+          <Link
+            href='/'
+            className='text-gray-500 font-bold text-lg flex gap-4 items-end relative max-w-[150px] md:max-w-[200px]'
+            title='Postcard Poems'
+          >
+            <span className='sr-only'>Home</span>
+            <Image
+              className='hidden md:block max-w-[200px]'
+              src={image}
+              width={Math.floor(width)}
+              height={Math.floor(height)}
+              layout='intrinsic'
+              alt=''
+            />
           </Link>
         </div>
 
