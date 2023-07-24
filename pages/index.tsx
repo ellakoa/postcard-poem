@@ -5,7 +5,7 @@ import { attributes } from '../content/home.md'
 import fs from 'fs'
 import { join } from 'path'
 const POSTS_PATH = join(process.cwd(), 'content/posts')
-import Postcard from '../components/postcard'
+import Postcard from '../components/Postcard'
 import Link from 'next/link'
 import Meta from '../components/meta'
 import sizeOf from 'image-size'

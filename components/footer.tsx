@@ -1,4 +1,4 @@
-import * as attributes from '../content/settings.yaml'
+import * as attributes from '../content/settings.json'
 import Card from './Card'
 
 export default function Footer() {

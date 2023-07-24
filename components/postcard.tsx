@@ -1,4 +1,4 @@
-import Image, { StaticImageData } from 'next/image'
+import Image from 'next/image'
 import Card from './Card'
 
 interface PostCardProps {
@@ -57,15 +57,14 @@ const Postcard = (props: PostCardProps) => {
           ></iframe>
         ) : (
           <Image
-            layout='responsive'
+            width={width}
+            height={height}
             className={`border-2 border-black ${
               aspect === 'landscape' ? 'aspect-[8/5]' : 'aspect-[5/8]'
             }`}
             src={image}
             sizes='(min-width: 768px) 1080px, (min-width: 640px) 768px, 640px'
             alt={alt}
-            width={width}
-            height={height}
           />
         )}
       </Card>
@@ -81,12 +80,11 @@ const Postcard = (props: PostCardProps) => {
         <div className='font-serif row-start-1 md:row-start-auto flex flex-col justify-between p-5 gap-4'>
           <div className='inline-block w-[200px] md:w-[250px] relative self-end'>
             <Image
+              width={stampWidth}
+              height={stampHeight}
               className=''
               src={stamp}
               alt=''
-              layout='responsive'
-              width={stampWidth}
-              height={stampHeight}
             />
           </div>
           <div className='ink mx-auto md:mt-auto'>

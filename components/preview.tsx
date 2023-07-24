@@ -5,7 +5,7 @@ import StampCta from './StampCta'
 import StampCtaRow from './StampCtaRow'
 
 export default function Preview(item: any, index: number) {
-  const { slug, attributes } = item
+  const { slug, data } = item
   const {
     title,
     image,
@@ -14,7 +14,7 @@ export default function Preview(item: any, index: number) {
     collection,
     showStampInPreview,
     stamp,
-  } = attributes
+  } = data
   return (
     <li key={index}>
       <Card className='p-3'>
@@ -59,7 +59,7 @@ export default function Preview(item: any, index: number) {
           ctaClassName='text-sm'
           items={[
             { url: `/collections/${collection}`, text: 'Visit collection' },
-            { url: `/posts/${slug}`, text: 'Read post' },
+            { url: `/posts/${slug?.replace('.md', '')}`, text: 'Read post' },
           ]}
         />
       </Card>

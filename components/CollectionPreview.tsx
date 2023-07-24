@@ -3,8 +3,9 @@ import Card from './Card'
 import StampCta from './StampCta'
 
 export default function CollectionPreview(item: any, index: number) {
-  const { slug, attributes } = item
-  const { title, image, description, date, collection } = attributes
+  const { slug, data } = item
+  if (!data) return <></>
+  const { title, image, description, date, collection } = data
   return (
     <li className='' key={index}>
       <Card className='md:p-4'>
