@@ -1,11 +1,6 @@
 import Footer from '@/components/footer'
 import Navbar from '@/components/navbar'
 
-export const metadata = {
-  title: 'Postcard poems',
-  description: 'Postcard poetry',
-}
-
 export default function RootLayout({
   children,
 }: {
