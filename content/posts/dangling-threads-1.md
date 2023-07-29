@@ -1,11 +1,11 @@
 ---
 title: Dangling Threads
-description: "111"
+description: "Woodland Tapestries. "
 collection: Woodland Tapestries
 aspect: landscape
 image: /img/dangling-threads.jpg
 metaImage: /img/face.jpg
-alt: "111"
+alt: A leafless tree laden with catkins, swinging in the wind like green threads.
 poem: |
   
   The woodlands loom starts to wake
@@ -28,3 +28,4 @@ showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-02-01T08:00:28.080Z
 ---
+Woodland Tapestries is a collection of photographs and poems showcasing our wonderful woodlands. I had this romantic notion that our woodlands were being woven on an ancient woodland loom, each season taking it in turn to weave its finest colours. Discover more woodland tapestries as we transition through the year.
