@@ -1,9 +1,7 @@
 ---
 title: Strutting Out To Sea
-description: >+
-  A visit to Deal will ultimately lead you to the seafront and its iconic pier.
-  The pier struts out to sea, unapologetically on concrete legs, how smart is
-  that? 
+description: |+
+  Deal Pier, Deal, Kent UK.
 
 
 collection: Wonderful Britain
@@ -29,12 +27,14 @@ poem: |+
   Gaze back towards delightful old Deal town.
 
 alignPoemLeft: false
+removePostcardPadding: true
 address: |-
   Strutting out to Sea
   Deal Pier
   Kent
-stamp: /img/strutting-stamp-1.png
+stamp: /img/strutting-out-to-sea-stamp-1.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-09-25T07:00:48.218Z
 ---
+A visit to Deal will ultimately lead you to the seafront and its iconic pier. The pier struts out to sea, unapologetically on concrete legs, how smart is that?
