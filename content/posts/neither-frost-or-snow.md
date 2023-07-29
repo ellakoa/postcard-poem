@@ -1,12 +1,13 @@
 ---
 title: Neither Frost Nor Snow
-description: Ancient hedgerows, throughout the UK.
+description: From a collection of poems called 'The Hedgerows Parade' A carnival
+  of colour and activity that transforms the hedgerows throughout the seasons.
 collection: The Hedgerows Parade
 aspect: landscape
 image: /img/blackthorn-hedgrows-1-1-.jpg
 metaImage: /img/face.jpg
-alt: Blackthorn blossom, white flowers sitting close to the twigs that carry it,
-  no leaves yet. A bee is collecting pollen.
+alt: A hedgerow of hawthorn sweeping across the hills covered in delicate pink
+  and white May blossom.
 poem: |+
   Specks of white neither frost nor snow
   begin to claim the sparse hedgerows.
@@ -30,9 +31,9 @@ address: |-
   The Hedgerows Parade
   Kent
   UK
-stamp: /img/blackthorn-hedgerows-stamp-1.png
+stamp: /img/blackthorn-hedrows-stamp-3-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-03-05T08:00:46.866Z
 ---
-As the spring equinox dawns and the days gradually start to lengthen, a most welcome sight occurs in our ancient hedgerows. Starting as tiny white specks, which gradually develop into the most beautiful display of blackthorn blossom, the blossom, always out before the leaves, provides an early source of nectar and pollen for our early insect dwellers. It also acts as a marker of where the sloes will be, come autumn. A series of poems called 'The Hedgerows Parade' A carnival of colour and activity that transforms the hedgerows throughout the seasons.
+As the spring equinox dawns near and the days are gradually lengthening, a most welcome sight occurs in our ancient hedgerows. Starting as tiny white specks, which swell and open into the most beautiful display of blackthorn blossom, the blossom, always out before the leaves, provides an early source of nectar and pollen for our early insect dwellers. It also acts as a marker of where the sloes will be, come autumn.
