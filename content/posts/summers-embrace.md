@@ -5,7 +5,7 @@ collection: Woodland Tapestries
 aspect: landscape
 image: /img/summers-embrace-2-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
+alt: "Peaceful green woodland scene, reflections of the trees in a wide stream, "
 poem: |-
   The longest day the shortest night
   Spring relinquishes the shuttle's flight
