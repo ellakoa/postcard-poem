@@ -3,7 +3,7 @@ title: Dangling Threads
 description: "111"
 collection: Woodland Tapestries
 aspect: landscape
-image: /img/derp-cat.jpeg
+image: /img/dangling-threads.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |
@@ -20,10 +20,10 @@ alignPoemLeft: false
 removePostcardPadding: false
 address: |
   Dangling Threads
+
   1
   1
-  1
-stamp: /img/derp-cat.jpeg
+stamp: /img/dangling-threads-stamp-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-02-01T08:00:28.080Z
