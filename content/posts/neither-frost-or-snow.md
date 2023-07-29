@@ -8,7 +8,7 @@ image: /img/hedgerows-parade-spring-1-.jpg
 metaImage: /img/face.jpg
 alt: A hedgerow of hawthorn sweeping across the hills covered in delicate pink
   and white May blossom.
-poem: |+
+poem: |-
   Specks of white neither frost nor snow
   begin to claim the sparse hedgerows.
   Blackthorns stir as the days get longer
@@ -22,8 +22,8 @@ poem: |+
   Bees on blossoms, birds in nests
   Butterflies and insects full of zest
   Spring’s crowning glory steals best in show
-  as May flowers adorn the ancient hedgerows.
-
+  As garlands of May blossom drape
+  across the ancient hedgerows.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
