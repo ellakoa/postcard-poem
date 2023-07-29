@@ -29,12 +29,12 @@ poem: |-
   A woodland eagerly awakening 
   welcoming nature, rejuvenating.
 alignPoemLeft: false
-removePostcardPadding: true
-address: |
-  Spring Tapestry
-  Yockletts
-  Canterbury
-  Kent UK
+removePostcardPadding: false
+address: |-
+  A splash of Spring
+  Woodland Tapestries
+  Yockletts Bank
+  Kent, UK
 stamp: /img/woodland-tapestry-spring-stamp-2a.png
 showStampInPreview: true
 author: Caroline Whitehouse
