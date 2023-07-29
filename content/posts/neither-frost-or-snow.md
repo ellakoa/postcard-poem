@@ -4,7 +4,7 @@ description: From a collection of poems called 'The Hedgerows Parade' A carnival
   of colour and activity that transforms the hedgerows throughout the seasons.
 collection: The Hedgerows Parade
 aspect: landscape
-image: /img/blackthorn-hedgrows-1-1-.jpg
+image: /img/hedgerows-parade-spring-1-.jpg
 metaImage: /img/face.jpg
 alt: A hedgerow of hawthorn sweeping across the hills covered in delicate pink
   and white May blossom.
