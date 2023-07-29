@@ -32,7 +32,7 @@ address: |-
   Strutting out to Sea
   Deal Pier
   Kent
-stamp: /img/strutting-stamp-1.png
+stamp: /img/strutting-out-to-sea-stamp-1.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-09-25T07:00:48.218Z
