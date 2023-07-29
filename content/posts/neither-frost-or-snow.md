@@ -29,8 +29,8 @@ removePostcardPadding: false
 address: |-
   Neither Frost Nor Snow
   The Hedgerows Parade
-  Kent
-  UK
+  Temple Ewell 
+  Kent UK
 stamp: /img/blackthorn-hedrows-stamp-3-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
