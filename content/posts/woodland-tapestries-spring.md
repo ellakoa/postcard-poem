@@ -4,14 +4,14 @@ description: >
   Woodland Tapestries is a collection of photographs and poems showcasing our
   wonderful woodlands. I had this romantic notion that our woodlands were being
   woven on an ancient woodland loom, each season taking it in turn to weave its
-  finest colours. We start the Woodland Tapestry with Spring tending the loom,
-  Discover more tapestries as we transition through the year. 
+  finest colours. As the woodland loom begins to wake we get 'Springs
+  Splash'  Discover more woodland tapestries as we transition through the year. 
 collection: Woodland Tapestries
 aspect: portrait
-image: /img/early-purple-orchid-woodland-tapestries-spring-7840.jpg
+image: /img/woodland-tapestries-spring-new-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: Woodland scene, a shaft of sunlight through the trees illuminating a single
-  Early Purple Spotted Orchid.
+alt: Woodland, a shaft of sunlight through the trees illuminating two woodland
+  orchids, an early purple and lady orchid.
 poem: |-
   Spring warps and wefts 
   its vibrant threads
@@ -32,8 +32,8 @@ alignPoemLeft: false
 removePostcardPadding: true
 address: |
   Spring Tapestry
-  Frandham Wood
-  Dover
+  Yockletts
+  Canterbury
   Kent UK
 stamp: /img/woodland-tapestry-spring-stamp-2a.png
 showStampInPreview: true
