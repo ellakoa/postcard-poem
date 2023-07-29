@@ -7,7 +7,7 @@ image: /img/summers-embrace-2-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "Peaceful green woodland scene, reflections of the trees in a wide stream, "
 poem: |-
-  The longest day the shortest night
+  The longest day, the shortest night
   Spring relinquishes the shuttle's flight
   Summer slows the beating loom
   To a rhythmic hypnotic tune
@@ -15,12 +15,12 @@ poem: |-
   The canopy tightens up its seams
   a patchwork of verdant greens
   Shadows play a game of chase 
-  under the leafy embrace.
+  under the canopy's leafy embrace.
 
   Along bright rides butterflies hurry  
   In shifting shade insects scurry
   Berries plump and nuts cluster in the  
-  lengthening days of warmth and lustre.
+  longer days of warmth and lustre.
 
   A woodland teaming with animation 
   enjoying a summer celebration.
