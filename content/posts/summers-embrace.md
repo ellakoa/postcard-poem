@@ -23,7 +23,7 @@ poem: |-
   lengthening days of warmth and lustre.
 
   A woodland teaming with animation 
-  enjoying a summer celebration.
+  enjoying summers celebration.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
