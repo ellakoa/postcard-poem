@@ -36,3 +36,5 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-07-30T07:00:23.167Z
 ---
+Woodland Tapestries is a collection of photographs and poems showcasing our wonderful woodlands. I had this romantic notion that our woodlands were being woven on an ancient woodland loom, each season taking it in turn to weave its finest colours. Here is summer taking its turn at the loom.
+Discover more woodland tapestries as we transition through the year.
