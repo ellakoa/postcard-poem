@@ -27,7 +27,7 @@ poem: |-
   The inscription is lost to the past
   so, for as long as the ringing lasts,
   the message of this eighth bell
-  can be yours to choose and tell.
+  can be yours to choose and story tell.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
