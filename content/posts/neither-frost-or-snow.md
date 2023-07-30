@@ -14,7 +14,7 @@ poem: |-
   Blackthorns stir as the days get longer
   buds pop open as the sun gets stronger.
   Blossoms that appear as a dusting of snow
-  drumroll spring, in the ancient hedgerows.
+  a drumroll to spring, in the ancient hedgerows.
 
   As the first white blossoms start to fade
   Leaves unfurl in a Mexican wave
