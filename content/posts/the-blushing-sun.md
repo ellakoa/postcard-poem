@@ -1,6 +1,6 @@
 ---
 title: The Blushing Sun
-description: "11"
+description: Horsey Mere, Norfolk, UK.
 aspect: landscape
 image: /img/beyond-pebbles-face-kingsdo.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
