@@ -9,35 +9,32 @@ poem: |-
   Proud to signal the morning ahead 
   The sun rises eagerly out of his bed
   Expecting clouds to provide a drape
-  To cover his modesty as he wakes, 
-
-  Sometimes the clouds are off in a dream
-  Not a cloud in the sky is to be seen
-  The sun turns red, then a blushing pink 
-  He doesn’t have the time to think
-  Reaching for his golden cloak 
-  he drapes it around him in a stroke.
-  Taking a pause to settle down, 
-  comfy in his glowing gown
-  It dawns on him that not many that day 
+  to cover his modesty as he wakes, but,
+  at times the clouds are off in a dream,
+  not a cloud in the sky is to be seen,
+  the sun turns red, then a blushing pink 
+  Not having the time to stop and think,
+  he reaches for his golden cloak and
+  dresses in a single stroke, gradually
+  it dawns on him that not many that day 
   will have risen so early to see him that way.
 
-  Then to keep him in his finest prime, the sun
-  has to retire each night on time.
-
-  But, those evening clouds are often late 
+  Then, to keep him in his finest prime, 
+  the sun has to retire each night on time,
+  But the evening clouds are often late 
   which causes the sun to get irate 
   Slipping his gown, he smoulders red, 
   as he discreetly sets onto his bed
-  The errant clouds feel a tad abashed and
-  turn the sky pink as the sun further sinks.
+  The errant clouds, feel a tad abashed
+  turn the sky a pretty orange and pink 
+  as out of sight, the sleeping sun sinks.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
   The Blushing Sun
-  111
-  1111
-  1111
+  Horsey Mere
+  Norfolk Broads
+  UK.
 stamp: /img/beyond-pebbles-face-kingsdo.jpg
 showStampInPreview: false
 author: Caroline Whitehouse
