@@ -2,7 +2,7 @@
 title: The Blushing Sun
 description: Horsey Mere, Norfolk, UK.
 aspect: landscape
-image: /img/norfolk-sunset-blushing-sun-1-6270438.jpg
+image: /img/swans-sunset-norfolk-6270438.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
 poem: |-
@@ -12,8 +12,8 @@ poem: |-
   to cover his modesty as he wakes, but,
   at times the clouds are off in a dream,
   not a cloud in the sky is to be seen,
-  the sun turns red, then a blushing pink 
-  Not having the time to stop and think,
+  the sun turns red, then a blushing pink,
+  not having the time to stop and think,
   he reaches for his golden cloak and
   dresses in a single stroke, gradually
   it dawns on him that not many that day 
@@ -26,7 +26,7 @@ poem: |-
   Slipping his gown, he smoulders red, 
   as he discreetly sets onto his bed
   The errant clouds, feel a tad abashed
-  turn the sky a pretty orange and pink 
+  turning the sky a pretty orange and pink 
   as out of sight, the sleeping sun sinks.
 alignPoemLeft: false
 removePostcardPadding: false
