@@ -25,8 +25,8 @@ poem: |-
   which causes the sun to get irate 
   Slipping his gown, he smoulders red, 
   as he discreetly sets onto his bed
-  The errant clouds, feel a tad abashed
-  turning the sky a pretty orange and pink 
+  The errant clouds, feeling a tad abashed
+  turn the sky orange and pink 
   as out of sight, the sleeping sun sinks.
 alignPoemLeft: false
 removePostcardPadding: false
