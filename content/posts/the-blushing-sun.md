@@ -38,7 +38,7 @@ address: |-
   Horsey Mere
   Norfolk Broads
   UK.
-stamp: /img/beyond-pebbles-face-kingsdo.jpg
+stamp: /img/norfolk-the-blushing-sun-stamp-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-08-06T07:00:26.728Z
