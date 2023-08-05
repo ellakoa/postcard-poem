@@ -22,7 +22,7 @@ poem: |-
   it dawns on him, not many that day 
   will have risen so early 
   to see him that way.
-  Then,
+  Then.
   To keep him in his finest prime
   the sun retires each night on time,
   But the evening clouds can be late 
