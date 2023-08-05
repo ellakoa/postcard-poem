@@ -33,7 +33,7 @@ poem: |-
   turn the sky pretty pink as out of sight
   the naked sun doth sink.
 alignPoemLeft: true
-removePostcardPadding: true
+removePostcardPadding: false
 address: |-
   The Blushing Sun
   Horsey Mere
