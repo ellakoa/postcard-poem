@@ -9,6 +9,8 @@ poem: |-
   I am told the sun is very old
   and to keep him in his finest prime
   he has to retire each night on time.
+  Expecting clouds to provide a drape
+  To cover his modesty as he wakes,
 
   But the evening clouds are often late 
   which causes the sun to get irate 
