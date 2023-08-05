@@ -10,7 +10,7 @@ alt: The sun sets over a body of water, orange, amber and red reflect the sky,
 poem: |-
   Proud to signal the morning ahead 
   The sun rises eagerly out of his bed.
-  Clouds hang out a floating drape
+  Clouds usually hang out a floating drape
   to cover his modesty as he wakes, but,
   at times the clouds are off in a dream
   not a cloud in the sky is to be seen.
