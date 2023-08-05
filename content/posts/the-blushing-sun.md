@@ -45,4 +45,4 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-08-06T07:00:26.728Z
 ---
-After so much gloomy weather this week I revisited one of my favourite sunsets, taken a few years ago looking across Horsey Mere, as soon as we had moored up for the night, camera in hand I found this spot and settled down. Soon to be joined by a couple sharing a hip flask. I was joined by my husband who handed me a mug of hot chocolate. No words were needed as the sun did its thing, gloriously, completing the picture were two swans returning for the night. Spectacular!
+After so much unseasonal weather this week I revisited one of my favourite sunsets, taken a few years ago looking across Horsey Mere, as soon as we had moored up for the night, camera in hand I found this spot and settled down. Soon to be joined by a couple sharing a hip flask. I was joined by my husband who handed me a mug of hot chocolate. No words were needed as the sun did its thing, gloriously. As the sun gradually disappeared two swans returned for the night. Spectacular.
