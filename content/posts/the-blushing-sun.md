@@ -19,7 +19,7 @@ poem: |-
   not having the time to stop and think
   he reaches for his golden cloak,
   dressing in a single stroke, gradually 
-  it dawns on him not many that day 
+  it dawns on him that not many that day 
   will have risen so early to see him that way.
   Then.
   To keep him in his finest prime
@@ -30,8 +30,8 @@ poem: |-
   he discreetly sets onto his bed.
 
   The errant clouds, feeling a tad abashed
-  turn the sky, a pretty pink, as out of sight
-  the naked sun doth sink.
+  turn the sky a pretty pink 
+  as out of sight the naked sun doth sink.
 alignPoemLeft: true
 removePostcardPadding: false
 address: |-
