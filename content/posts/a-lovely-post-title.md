@@ -12,11 +12,11 @@ metaImage: /img/face.jpg
 alt: Partially open wooden frame window, six panes of glass in each, looking out
   of an old outbuilding towards a lush green garden.
 poem: |-
-  Some things are better when they are old. 
-  Things that were thought lost but then found
+  Some things are better when they are old,
+  things that were thought lost but then found
   come with a certain nostalgia. 
   A visit to the Lost Gardens of Heligan 
-  is like stepping into a time portal to the past
+  is like stepping in a time portal to the past.
   A simpler time, a harsher time a tragic time.
   Rediscovered and being restored 
   with renewed hope.
