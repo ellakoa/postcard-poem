@@ -6,21 +6,10 @@ image: /img/swans-sunset-norfolk-6270438.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
 poem: |-
-  Proud to signal the morning ahead 
-  The sun rises eagerly out of his bed
-  Expecting clouds to provide a drape
-  to cover his modesty as he wakes, but,
-  at times the clouds are off in a dream,
-  not a cloud in the sky is to be seen,
-  the sun turns red, then a blushing pink,
-  not having the time to stop and think,
-  he reaches for his golden cloak and
-  dresses in a single stroke, gradually
-  it dawns on him that not many that day 
-  will have risen so early to see him that way.
+  I am told the sun is very old
+  and to keep him in his finest prime
+  he has to retire each night on time.
 
-  Then, to keep him in his finest prime, 
-  the sun has to retire each night on time,
   But the evening clouds are often late 
   which causes the sun to get irate 
   Slipping his gown, he smoulders red, 
