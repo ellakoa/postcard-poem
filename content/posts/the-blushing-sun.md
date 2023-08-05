@@ -17,7 +17,7 @@ poem: |-
 
   Flushing red then blushing pink,
   not having the time to stop and think
-  The sun reaches for his golden cloak,
+  The sun reaches for his golden cloak
   dressing in a single stroke, gradually 
   it dawns on him, not many that day will
   have risen so early to see him that way.
