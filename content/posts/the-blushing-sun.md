@@ -1,6 +1,7 @@
 ---
 title: The Blushing Sun
 description: Horsey Mere, Norfolk, UK.
+collection: Wonderful Britain.
 aspect: landscape
 image: /img/swans-sunset-norfolk-6270438.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
