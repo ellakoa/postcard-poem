@@ -12,20 +12,16 @@ metaImage: /img/face.jpg
 alt: Partially open wooden frame window, six panes of glass in each, looking out
   of an old outbuilding.
 poem: |-
-  If I could just pause and gaze
-  out of a window every day
-  This is the window I would choose
-  with calming greens in the view
-  What was lost is now found
-  Echoes of the past surround
-  Sea lavender drying overhead
-  Cobwebs and dust on the ledge
-  Yellowing paint grimy glass
-  Verdigris on the brass
-  I would shake my cares away and
-  from this window pause and gaze.
+  Some things are better when they are old. 
+  Things that were thought lost but then found
+  come with a certain nostalgia. 
+  A visit to the Lost Gardens of Heligan 
+  is like stepping into a time portal to the past
+  A simpler time, a harsher time a tragic time.
+  Rediscovered and being restored 
+  with renewed hope.
 stampHeight: "400"
-alignPoemLeft: false
+alignPoemLeft: true
 removePostcardPadding: true
 address: |-
   The Garden Office
@@ -38,4 +34,3 @@ date: 2022-07-17T07:00:40.372Z
 tags:
   - number-2
 ---
-Some things are better when they are old. Things that were thought lost but then found come with a certain nostalgia. A visit to the Lost Gardens of Heligan is like stepping into a time portal into the past. If you are wondering what the image in the little stamp is, it shows how charcoal is made traditionally.
