@@ -7,7 +7,7 @@ title: The Garden Office
 description: The Lost Gardens of Heligan Cornwall, UK
 collection: Wonderful Britain
 aspect: landscape
-image: /img/the-gardeners-office-1-.png
+image: /img/the-garden-office-1-.png
 metaImage: /img/face.jpg
 alt: Partially open wooden frame window, six panes of glass in each, looking out
   of an old outbuilding towards a lush green garden.
