@@ -14,7 +14,7 @@ poem: |-
   to cover his modesty as he wakes, but,
   at times the clouds are off in a dream,
   not a cloud in the sky is to be seen.
-  Oh!
+
   The sun burns red, then blushes pink,
   not having the time to stop and think
   he reaches for his golden cloak,
