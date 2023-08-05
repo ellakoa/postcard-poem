@@ -10,18 +10,18 @@ alt: The sun sets over a body of water, orange, amber and red reflect the sky,
 poem: |-
   Proud to signal the morning ahead 
   The sun rises eagerly out of his bed.
-  The clouds hang out a floating drape
+  Clouds hang out a floating drape
   to cover his modesty as he wakes, but,
   at times the clouds are off in a dream,
   not a cloud in the sky is to be seen.
 
-  The sun burns red, then blushes pink,
+  Flushing red then blushing pink,
   not having the time to stop and think
-  he reaches for his golden cloak,
+  The sun reaches for his golden cloak,
   dressing in a single stroke, gradually 
-  it dawns on him, not many that day 
-  will have risen so early to see him that way.
-  Then.
+  it dawns on him, not many that day will
+  have risen so early to see him that way.
+  Then,
   To keep him in his finest prime
   the sun retires each night on time,
   But the evening clouds can be late 
