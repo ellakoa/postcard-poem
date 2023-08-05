@@ -11,7 +11,8 @@ image: /img/the-gardeners-office-1-.png
 metaImage: /img/face.jpg
 alt: Partially open wooden frame window, six panes of glass in each, looking out
   of an old outbuilding towards a lush green garden.
-poem: |-
+poem: |
+  
   Some things are better when they are old,
   things that were thought lost but then found
   come with a certain nostalgia. 
