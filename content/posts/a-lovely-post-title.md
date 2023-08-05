@@ -1,5 +1,5 @@
 ---
-stamp: /img/the-garden-office-stamp-1-.png
+stamp: /img/the-garden-office-stamp-2-1-.png
 stampWidth: "600"
 width: "400"
 height: "600"
@@ -7,10 +7,10 @@ title: The Garden Office
 description: The Lost Gardens of Heligan Cornwall, UK
 collection: Wonderful Britain
 aspect: landscape
-image: /img/the-garden-office-6-1-.jpg
+image: /img/the-gardeners-office-1-.png
 metaImage: /img/face.jpg
 alt: Partially open wooden frame window, six panes of glass in each, looking out
-  of an old outbuilding.
+  of an old outbuilding towards a lush green garden.
 poem: |-
   Some things are better when they are old. 
   Things that were thought lost but then found
