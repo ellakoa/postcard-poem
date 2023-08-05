@@ -16,10 +16,10 @@ poem: |-
   not a cloud in the sky is to be seen.
 
   The sun burns red, then blushes pink,
-  not having the time to stop and think,
+  not having the time to stop and think
   he reaches for his golden cloak,
   dressing in a single stroke, gradually
-  it dawns on him that not many that day 
+  it dawns on him, not many that day 
   will have risen so early to see him that way.
   Then,
   To keep him in his finest prime
