@@ -9,8 +9,8 @@ alt: The sun sets over a body of water, orange, amber and red reflect the sky,
   as the sun dips, two swans glide across the water.
 poem: |-
   Proud to signal the morning ahead 
-  The sun rises eagerly out of his bed.
-  Clouds usually hang out a floating drape
+  the sun rises eagerly out of his bed.
+  Usually, the clouds hang a floating drape
   to cover his modesty as he wakes, but,
   at times the clouds are off in a dream
   not a cloud in the sky is to be seen.
