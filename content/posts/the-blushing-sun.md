@@ -4,7 +4,8 @@ description: Horsey Mere, Norfolk, UK.
 aspect: landscape
 image: /img/swans-sunset-norfolk-6270438.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
+alt: The sun sets over a body of water, orange, amber and red reflect the sky,
+  as the sun dips, two swans glide across the water.
 poem: |-
   Proud to signal the morning ahead 
   The sun rises eagerly out of his bed.
