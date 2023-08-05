@@ -31,7 +31,7 @@ poem: |-
   The errant clouds, feeling a tad abashed
   turn the sky pretty pink as out of sight
   the naked sun doth sink.
-alignPoemLeft: false
+alignPoemLeft: true
 removePostcardPadding: false
 address: |-
   The Blushing Sun
