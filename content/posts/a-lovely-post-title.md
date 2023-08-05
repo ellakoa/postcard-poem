@@ -17,8 +17,8 @@ poem: |
   things that were thought lost but then found
   come with a certain nostalgia. 
   A visit to the Lost Gardens of Heligan 
-  is like stepping in a time portal to the past.
-  A simpler time, a harsher time a tragic time.
+  is like stepping into a time portal to the past.
+  A simpler time, a harsher time, a tragic time.
   Rediscovered and being restored 
   with renewed hope.
 stampHeight: "400"
