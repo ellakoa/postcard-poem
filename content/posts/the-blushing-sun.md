@@ -18,9 +18,10 @@ poem: |-
   The sun burns red, then blushes pink,
   not having the time to stop and think
   he reaches for his golden cloak,
-  dressing in a single stroke, gradually
+  dressing in a single stroke, gradually 
   it dawns on him, not many that day 
-  will have risen so early to see him that way.
+  will have risen so early 
+  to see him that way.
   Then,
   To keep him in his finest prime
   the sun retires each night on time,
