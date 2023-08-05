@@ -15,8 +15,8 @@ poem: |-
   at times the clouds are off in a dream
   not a cloud in the sky is to be seen.
 
-  Flushing red then blushing pink,
-  not having the time to stop and think
+  Flushing red then blushing pink
+  not having the time to stop and think,
   The sun reaches for his golden cloak
   dressing in a single stroke, gradually 
   it dawns on him, not many that day will
@@ -24,7 +24,7 @@ poem: |-
   Then,
   To keep him in his finest prime
   the sun retires each night on time,
-  But the evening clouds can be late 
+  But the evening clouds are often late 
   which causes the sun to get irate 
   Slipping his gown, smouldering red, 
   he discreetly sets onto his bed.
