@@ -23,7 +23,7 @@ poem: |
   with renewed hope.
 stampHeight: "400"
 alignPoemLeft: true
-removePostcardPadding: true
+removePostcardPadding: false
 address: |-
   The Garden Office
   Lost Gardens 
