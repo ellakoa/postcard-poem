@@ -30,7 +30,7 @@ poem: |-
   he discreetly sets onto his bed.
 
   The errant clouds, feeling a tad abashed
-  turn the sky, pretty pink, as out of sight
+  turn the sky, a pretty pink, as out of sight
   the naked sun doth sink.
 alignPoemLeft: true
 removePostcardPadding: false
