@@ -12,7 +12,7 @@ poem: |-
   The sun rises eagerly out of his bed.
   Clouds hang out a floating drape
   to cover his modesty as he wakes, but,
-  at times the clouds are off in a dream,
+  at times the clouds are off in a dream
   not a cloud in the sky is to be seen.
 
   Flushing red then blushing pink,
