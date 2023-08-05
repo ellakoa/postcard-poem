@@ -15,7 +15,7 @@ poem: |-
   at times the clouds are off in a dream,
   not a cloud in the sky is to be seen.
 
-  The sun burns red, then blushes pink,
+  The sun smolders red, then blushes pink,
   not having the time to stop and think
   he reaches for his golden cloak,
   dressing in a single stroke, gradually 
