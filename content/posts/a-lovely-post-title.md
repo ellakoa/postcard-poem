@@ -4,16 +4,14 @@ stampWidth: "600"
 width: "400"
 height: "600"
 title: The Garden Office
-description: |-
-  
-  The Lost Gardens of Heligan Cornwall, UK
+description: The Lost Gardens of Heligan Cornwall, UK
 collection: Wonderful Britain
 aspect: landscape
 image: /img/the-garden-office-6-1-.jpg
 metaImage: /img/face.jpg
 alt: Partially open wooden frame window, six panes of glass in each, looking out
   of an old outbuilding.
-poem: |
+poem: |-
   If I could just pause and gaze
   out of a window every day
   This is the window I would choose
@@ -33,8 +31,7 @@ address: |-
   The Garden Office
   Lost Gardens 
   of Heligan
-  Cornwall
-  UK
+  Cornwall UK
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-07-17T09:56:40.372Z
