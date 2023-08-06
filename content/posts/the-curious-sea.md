@@ -3,7 +3,7 @@ title: The Curious Sea
 description: Misty Cornwall, Porthtowan, Cornwall UK.
 collection: Wonderful Britain
 aspect: landscape
-image: /img/misty-cornwall.jpg
+image: /img/misty-cornwall-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Heather on the cliff top, looking down over a sandy beach, sea mist is
   rising up over the cliffs, obscuring swimmers.
