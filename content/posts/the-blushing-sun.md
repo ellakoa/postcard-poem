@@ -10,9 +10,9 @@ alt: The sun sets over a body of water, orange, amber and red reflect the sky,
 poem: |-
   Proud to signal the morning ahead 
   the sun rises eagerly out of his bed.
-  Usually, the clouds float a drape
-  to cover his modesty as he wakes, but,
-  at times the clouds are off in a dream
+  Usually, the clouds float a drape to
+  cover his modesty as he wakes, but,
+  at times the clouds are away in a dream
   not a cloud in the sky is to be seen.
 
   Flushing red then blushing pink
