@@ -3,7 +3,7 @@ title: The Blushing Sun
 description: Horsey Mere, Norfolk, UK.
 collection: Wonderful Britain.
 aspect: landscape
-image: /img/kingsdown-bay-reflection-a-6270438.jpg
+image: /img/kingsdown-bay-reflection-b-6270438.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: The sun sets over a body of water, orange, amber and red reflect the sky,
   as the sun dips, two swans glide across the water.
