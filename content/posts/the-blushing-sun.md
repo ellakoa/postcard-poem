@@ -3,16 +3,16 @@ title: The Blushing Sun
 description: Horsey Mere, Norfolk, UK.
 collection: Wonderful Britain.
 aspect: landscape
-image: /img/swans-sunset-norfolk-6270438.jpg
+image: /img/kingsdown-bay-reflection-b-6270438.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: The sun sets over a body of water, orange, amber and red reflect the sky,
   as the sun dips, two swans glide across the water.
 poem: |-
   Proud to signal the morning ahead 
   the sun rises eagerly out of his bed.
-  Usually, the clouds float a drape
-  to cover his modesty as he wakes, but,
-  at times the clouds are off in a dream
+  Usually, the clouds float a drape to
+  cover his modesty as he wakes, but,
+  at times the clouds are away in a dream
   not a cloud in the sky is to be seen.
 
   Flushing red then blushing pink
