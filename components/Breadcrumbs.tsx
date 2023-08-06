@@ -14,9 +14,7 @@ const Breadcrumbs = (props: breadcrumbsProps) => {
     <ul className='flex gap-4 flex-wrap py-4'>
       {links.map(({ url, label }: BreadcrumbLink, index) => (
         <li key={index} className=''>
-          <StampCta href={url}>
-            <a className=''>{label}</a>
-          </StampCta>
+          <StampCta href={url}>{label}</StampCta>
         </li>
       ))}
     </ul>

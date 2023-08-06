@@ -7,7 +7,12 @@ interface MetaProps {
   url: string
 }
 const Meta = (props: MetaProps) => {
-  const { title, description, image, url } = props
+  const {
+    title = 'Postcard poems',
+    description = 'Postcard poetry',
+    image,
+    url,
+  } = props
   return (
     <>
       {/* Sharing meta tags */}

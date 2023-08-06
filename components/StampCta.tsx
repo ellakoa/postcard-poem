@@ -11,21 +11,20 @@ interface StampCtaProps {
 const StampCta = (props: StampCtaProps) => {
   const { children, className, color, href, onClick } = props
   return (
-    <Link href={href}>
-      <a
-        onClick={onClick}
-        className={` stamp  ${className} ${
-          color === 'red'
-            ? 'text-red-800'
-            : color === 'green'
-            ? 'text-green-900'
-            : color === 'indigo'
-            ? 'text-indigo-900'
-            : ''
-        }`}
-      >
-        {children}
-      </a>
+    <Link
+      href={href}
+      onClick={onClick}
+      className={` stamp  ${className} ${
+        color === 'red'
+          ? 'text-red-800'
+          : color === 'green'
+          ? 'text-green-900'
+          : color === 'indigo'
+          ? 'text-indigo-900'
+          : ''
+      }`}
+    >
+      {children}
     </Link>
   )
 }
