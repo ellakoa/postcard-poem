@@ -10,7 +10,7 @@ const Card = (props: CardProps) => {
   const { children, className, roughBottom, roughTop } = props
   return (
     <div
-      className={`h-full bg-[url('/img/svg/white-paper-texture.svg')] shadow-2xl rounded-sm ${className} ${
+      className={`h-full bg-[url('/img/static/white.png')] bg-repeat shadow-2xl rounded-sm ${className} ${
         roughBottom ? 'rough-bottom' : roughTop ? 'rough-top' : 'rough-edge'
       }`}
     >

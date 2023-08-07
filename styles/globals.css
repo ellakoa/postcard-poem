@@ -62,6 +62,6 @@ body {
   @apply uppercase text-center font-bold font-stamp no-underline;
   @apply border-[5px] border-double border-current;
   @apply hover:underline;
-  -webkit-mask-image: url('/img/grunge.png');
+  -webkit-mask-image: url('/img/static/grunge.png');
   -webkit-mask-size: 400px 604px;
 }
