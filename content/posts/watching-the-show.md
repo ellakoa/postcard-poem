@@ -1,10 +1,17 @@
 ---
 title: Watching the Show
 description: "Kingsdown Beach, is one of my favourite places, especially during
-  low spring tides. It use to be that I would wander about the bay and not see
-  anyone else. These days the bay comes to life with visitors during this time,
-  engaging in all sorts of activities and as the tide predictably returns, one
-  by one they disappear. "
+  low spring tides.
+
+  I would wander the bay as the tide went out and then watch as the tide came
+  back in, if it was early I would usually have the bay to myself, maybe sharing
+  it with the occasional person walking a dog.\ 
+
+  Over the years this solitude has got less and less as when the tide goes out
+  the bay now comes to life with visitors engaging in all sorts of activities
+  and, as the tide predictably returns, one by one they disappear.
+
+  \ "
 collection: Wonderful Britain
 aspect: landscape
 image: /img/kingsdown-cliffs-9874-t.jpg
