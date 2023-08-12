@@ -1,12 +1,7 @@
 ---
 title: Watching the Show
-description: >
-  Kingsdown Beach, is one of my favourite places, especially during low spring
-  tides.
-
-  I would wander the bay as the tide went out and then watch as the tide came back in, if it was early I would usually have the bay to myself, maybe sharing it with various seabirds and the occasional person walking a dog.
-
-  Over the years this solitude has got less and less as when the tide goes out the bay now comes to life with visitors engaging in all sorts of activities and, as the tide predictably returns, one by one they disappear.
+description: |
+  Kingsdown Beach, Kingsdown, Kent, UK.
 collection: Beyond the Pebbles
 aspect: landscape
 image: /img/sun-rise-kingsdown-main.jpg
@@ -39,8 +34,11 @@ address: |-
   Watching the Show
   Kingsdown
   Kent UK
-stamp: /img/watching-the-show-kingsdown-stamp-1-.png
+stamp: /img/watching-the-show-kingsdown-stamp-ab-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-08-13T07:00:56.627Z
 ---
+Kingsdown Beach, is one of my favourite places, especially during low spring tides.
+I would wander the bay as the tide went out and then watch as the tide came back in, if it was early I would usually have the bay to myself, maybe sharing it with various seabirds and the occasional person walking a dog.
+Over the years this solitude has got less and less as when the tide goes out the bay now comes to life with visitors engaging in all sorts of activities and, as the tide predictably returns, one by one they disappear.
