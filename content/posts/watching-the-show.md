@@ -27,7 +27,7 @@ poem: |-
   The lone photographer watching the show.
 
   Most chase their pursuits for an hour or so…
-  as the tide reappears most pack up and go.
+  as the tide returns, most pack up and go.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
@@ -39,6 +39,4 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-08-13T07:00:56.627Z
 ---
-Kingsdown Beach, is one of my favourite places, especially during low spring tides.
-I would wander the bay as the tide went out and then watch as the tide came back in, if it was early I would usually have the bay to myself, maybe sharing it with various seabirds and the occasional person walking a dog.
-Over the years this solitude has got less and less as when the tide goes out the bay now comes to life with visitors engaging in all sorts of activities and, as the tide predictably returns, one by one they disappear.
+Over the years Kingsdown Beach has been one of my favourite places to visit, especially during low spring tides.I would wander the bay as the tide went out and then watch as the tide came back in. If it was early morning I would usually have the bay to myself, occasionally seeing another person walking a dog in the distance. Over the years this solitude has got less and less, when the tide goes out now the bay comes to life with visitors engaging in all sorts of activities and as the tide predictably returns, one by one they disappear.
