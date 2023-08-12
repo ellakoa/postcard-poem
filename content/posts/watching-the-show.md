@@ -38,8 +38,7 @@ removePostcardPadding: false
 address: |-
   Watching the Show
   Kingsdown
-  Kent
-  UK
+  Kent UK
 stamp: /img/completed-blogs-a-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
