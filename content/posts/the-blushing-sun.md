@@ -1,12 +1,6 @@
 ---
 title: The Blushing Sun
-description: After so much unseasonal weather this week I revisited one of my
-  favourite sunsets, taken a few years ago looking across Horsey Mere, as soon
-  as we had moored up for the night, camera in hand I found this spot and
-  settled down. Soon to be joined by a couple sharing a hip flask. I was joined
-  by my husband who handed me a mug of hot chocolate. No words were needed, and
-  as the sun did its thing, gloriously, two swans returning for the night glided
-  across the mere, how dreamy was that.
+description: Horsey Mere, Norfolk Broads, UK.
 collection: Wonderful Britain.
 aspect: landscape
 image: /img/kingsdown-bay-reflection-b-6270438.jpg
@@ -40,8 +34,9 @@ address: |-
   Horsey Mere
   Norfolk Broads
   UK.
-stamp: /img/norfolk-the-blushing-sun-stamp-1-.png
+stamp: /img/norfolk-the-blushing-sun-stamp-new-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-08-06T07:00:26.728Z
 ---
+After so much unseasonal weather this week I revisited one of my favourite sunsets, taken a few years ago looking across Horsey Mere, as soon as we had moored up for the night, camera in hand I found this spot and settled down. Soon to be joined by a couple sharing a hip flask. I was joined by my husband who handed me a mug of hot chocolate. No words were needed, and as the sun did its thing, gloriously, two swans returning for the night glided across the mere, how dreamy was that.
