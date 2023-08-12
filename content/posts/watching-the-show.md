@@ -16,7 +16,7 @@ alt: Low tide, blue skies, a reflection of Kingsdown cliffs in a rock pool, a
 poem: |-
   There’s a certain excitement
   as the sun starts to rise 
-  chasing the dark from the night sky
+  chasing the dark from the night sky.
   This morning the tide is low in the bay
   Who will come out to explore and play
 
@@ -27,7 +27,7 @@ poem: |-
   Shrimpers sweeping with wide nets
   A man and a trolley, bait digging I expect
   Swimmers embracing the cold of the sea
-  sometimes the tide just up to their knees
+  sometimes the tide just up to their knees.
 
   The lone photographer watching the show.
 
