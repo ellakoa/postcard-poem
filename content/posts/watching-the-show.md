@@ -39,7 +39,7 @@ address: |-
   Watching the Show
   Kingsdown
   Kent UK
-stamp: /img/completed-blogs-a-1-.png
+stamp: /img/completed-blogs-b-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-08-13T07:00:56.627Z
