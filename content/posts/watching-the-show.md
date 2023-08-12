@@ -27,7 +27,7 @@ poem: |-
   The lone photographer watching the show.
 
   Most chase their pursuits for an hour or so…
-  as the tide returns, most pack up and go.
+  As the tide returns, they pack up and go.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
