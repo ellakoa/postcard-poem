@@ -5,7 +5,7 @@ description: "Kingsdown Beach, is one of my favourite places, especially during
 
   I would wander the bay as the tide went out and then watch as the tide came
   back in, if it was early I would usually have the bay to myself, maybe sharing
-  it with the occasional person walking a dog.\ 
+  it with the occasional person walking a dog and various seabirds.
 
   Over the years this solitude has got less and less as when the tide goes out
   the bay now comes to life with visitors engaging in all sorts of activities
@@ -14,7 +14,7 @@ description: "Kingsdown Beach, is one of my favourite places, especially during
   \ "
 collection: Wonderful Britain
 aspect: landscape
-image: /img/kingsdown-cliffs-9874-t.jpg
+image: /img/sun-rise-kingsdown-main.jpg
 metaImage: /img/face.jpg
 alt: Low tide, blue skies, a reflection of Kingsdown cliffs in a rock pool, a
   distant figure sits alone on the chalk rocks
@@ -45,7 +45,7 @@ address: |-
   Kingsdown
   Kent
   UK
-stamp: /img/watching-the-show-stamp-2-1-.png
+stamp: /img/watching-the-show-kingsdown-stamp-1-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-08-13T07:00:56.627Z
