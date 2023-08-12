@@ -7,7 +7,7 @@ description: >
   I would wander the bay as the tide went out and then watch as the tide came back in, if it was early I would usually have the bay to myself, maybe sharing it with the occasional person walking a dog and various seabirds.
 
   Over the years this solitude has got less and less as when the tide goes out the bay now comes to life with visitors engaging in all sorts of activities and, as the tide predictably returns, one by one they disappear.
-collection: Wonderful Britain
+collection: Beyond the Pebbles
 aspect: landscape
 image: /img/sun-rise-kingsdown-main.jpg
 metaImage: /img/face.jpg
