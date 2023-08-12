@@ -18,7 +18,7 @@ image: /img/sun-rise-kingsdown-main.jpg
 metaImage: /img/face.jpg
 alt: Low tide, blue skies, a reflection of Kingsdown cliffs in a rock pool, a
   distant figure sits alone on the chalk rocks
-poem: |
+poem: |-
   There’s a certain excitement
   as the sun starts to rise 
   chasing the dark from the night sky
