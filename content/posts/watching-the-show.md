@@ -40,7 +40,7 @@ address: |-
   Kingsdown
   Kent
   UK
-stamp: /img/watching-the-show-kingsdown-stamp-1-1-.png
+stamp: /img/watching-the-show-kingsdown-stamp-2-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-08-13T07:00:56.627Z
