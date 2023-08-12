@@ -3,7 +3,7 @@ title: A Bridge to Elsewhere
 description: Norfolk Broads, Norfolk, UK.
 collection: Wonderful Britain
 aspect: landscape
-image: /img/bridge-to-elsewhere-norfolk-1-.jpg
+image: /img/bridge-to-elsewhere-norfolk-new.jpg
 metaImage: /img/face.jpg
 alt: An old bridge, red bricks crumbling. railings rusted set against a stormy
   sky. A single boat is tied up to transport you.
@@ -32,7 +32,7 @@ address: |-
   Norfolk Broads
   Norfolk
   UK
-stamp: /img/a-bridge-to-elsewhere-stamp-1-.png
+stamp: /img/a-bridge-to-elsewhere-stamp-new-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-07-23T07:00:25.300Z
