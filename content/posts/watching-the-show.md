@@ -1,34 +1,36 @@
 ---
 title: Watching the Show
-description: "Kingsdown beach, one of my favourite places, especially during low
-  spring tides. It use to be that I would wander about the bay and not see
-  anyone elseThe bay comes to life with visitors during this time, engaging in
-  all sorts of activities and as the tide returns, one by one they disappear. "
+description: "Kingsdown Beach, is one of my favourite places, especially during
+  low spring tides. It use to be that I would wander about the bay and not see
+  anyone else. These days the bay comes to life with visitors during this time,
+  engaging in all sorts of activities and as the tide predictably returns, one
+  by one they disappear. "
 collection: Wonderful Britain
 aspect: landscape
 image: /img/kingsdown-cliffs-9874-t.jpg
 metaImage: /img/face.jpg
 alt: Low tide, blue skies, a reflection of Kingsdown cliffs in a rock pool, a
   distant figure sits alone on the chalk rocks
-poem: |-
+poem: |
   There’s a certain excitement
   as the sun starts to rise 
   chasing the dark from the night sky
-  A perfect day to visit the bay
-  Let's see who visits today
+  This morning the tide is low in the bay
+  Who will come out to explore and play
 
   Fisherman casting out with a splash
   Canoeists passing by in a dash
   A Metal detectorist looking for a find
   Families rock pooling, and walkers, all kinds
   Shrimpers sweeping with wide nets
-  A man and a trolley, digging bait I expect
+  A man and a trolley, bait digging I expect
   Swimmers embracing the cold of the sea
   sometimes the tide just up to their knees
-  The lone photographer watching the show
+
+  The lone photographer watching the show.
 
   Most chase their pursuits for an hour or so…
-  as the bay tide reappears most pack up and go.
+  as the tide reappears most pack up and go.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
