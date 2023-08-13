@@ -3,7 +3,7 @@ stamp: /img/watch-the-dog-stamp-new-1-.png
 stampWidth: "600"
 width: "400"
 height: "600"
-title: Summers Garden
+title: Run and Scatter
 description: |
   Enjoy a warm summers day in the garden.
 collection: Watch the Dog
@@ -33,9 +33,9 @@ stampHeight: "400"
 alignPoemLeft: true
 removePostcardPadding: false
 address: |
-  Summers Garden
+  Run and Scatter
   Watch the Dog
-  Deal
+  Summers Garden
   Kent UK
 showStampInPreview: true
 author: Caroline Whitehouse
