@@ -1,6 +1,6 @@
 ---
 title: Puddles and Cuddles.
-description: "111"
+description: Welcome spring into the garden.
 aspect: landscape
 image: /img/beyond-pebbles-face-kingsdo.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
@@ -24,7 +24,11 @@ poem: |-
   Soggy wet cuddles are sure to come.
 alignPoemLeft: false
 removePostcardPadding: false
-address: "111"
+address: |-
+  Puddles and Cuddles
+  Watch the Dog
+  Deal
+  Kent UK
 stamp: /img/beyond-pebbles-face-kingsdo.jpg
 showStampInPreview: false
 author: Caroline Whitehouse
