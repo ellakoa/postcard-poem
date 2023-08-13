@@ -24,8 +24,9 @@ poem: |-
   Sea lavender drying overhead
   Yellowing paint, grimy glass
   Verdigris on the brass
+
   I would shake my cares away
-  and embrace the present day.
+  be present and embrace the day.
 stampHeight: "400"
 alignPoemLeft: true
 removePostcardPadding: true
