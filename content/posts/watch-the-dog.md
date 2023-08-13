@@ -1,5 +1,5 @@
 ---
-stamp: /img/watch-the-dog-stamp-1.png
+stamp: /img/watch-the-dog-stamp-new-1-.png
 stampWidth: "600"
 width: "400"
 height: "600"
@@ -8,9 +8,10 @@ description: |
   Enjoy a warm summers day in the garden.
 collection: Watch the Dog
 aspect: landscape
-image: /img/summers-garden-2-1-.png
+image: /img/summers-garden-1-.jpg
 metaImage: /img/face.jpg
-alt: A selection of fragrant white and apricot colour roses in bud and in bloom.
+alt: An old wrought iron garden seat on a green lawn surrounded by flowers in
+  bloom and a piles of cut logs.
 poem: |-
   Long days of summer sun
   Gardens full of life and fun
@@ -30,7 +31,7 @@ poem: |-
   Calm the dog’s trepidation.
 stampHeight: "400"
 alignPoemLeft: true
-removePostcardPadding: true
+removePostcardPadding: false
 address: |
   Summers Garden
   Watch the Dog
