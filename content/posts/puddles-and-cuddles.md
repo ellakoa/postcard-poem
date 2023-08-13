@@ -1,6 +1,7 @@
 ---
 title: Puddles and Cuddles.
 description: Welcome spring into the garden.
+collection: Watch the Dog
 aspect: landscape
 image: /img/beyond-pebbles-face-kingsdo.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
