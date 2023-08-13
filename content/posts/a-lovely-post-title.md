@@ -26,7 +26,7 @@ poem: |-
   Verdigris on the brass
 
   I would shake my cares away
-  and embrace each moment of the day.
+  and take a moment to pause and gaze.
 stampHeight: "400"
 alignPoemLeft: true
 removePostcardPadding: true
