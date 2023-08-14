@@ -29,6 +29,7 @@ address: |-
   Puddles and Cuddles
   Watch the Dog
   Springs Garden
+  UK
 stamp: /img/beyond-pebbles-face-kingsdo.jpg
 showStampInPreview: false
 author: Caroline Whitehouse
