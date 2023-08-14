@@ -34,6 +34,6 @@ address: |-
 stamp: /img/watch-the-dog-stamp-new-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
-date: 2022-07-24T07:00:07.631Z
+date: 2023-07-16T07:00:07.631Z
 ---
 Summer often arrives with a flourish and can be temperamental in its duration but the longer brighter, warmer days are always welcome. We enjoy a summer day in the garden with our faithful friend 'Watch' the dog.
