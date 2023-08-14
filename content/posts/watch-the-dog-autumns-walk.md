@@ -1,6 +1,6 @@
 ---
 title: Muddy Paws
-description: Enjoy the garden in Autumn with our playful friend 'Watch'.
+description: Enjoy the colours of autumn in the Garden.
 collection: Watch the Dog
 aspect: landscape
 image: /img/watch-the-dog-autumns-walk-new-1-.jpg
@@ -25,10 +25,11 @@ poem: |-
   Calm the dog's playful spell.
 alignPoemLeft: false
 removePostcardPadding: false
-address: |-
+address: |
   Muddy Paws
-  Watch the Dog
   Autumn Garden
+  Watch the Dog
+  UK
 stamp: /img/watch-the-dog-stamp-autumn-new-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
