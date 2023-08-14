@@ -2,8 +2,8 @@
 title: Muddy Paws
 description: Enjoy the garden in Autumn with our playful friend 'Watch'.
 collection: Watch the Dog
-aspect: portrait
-image: /img/watch-the-dog5-tiny.jpeg
+aspect: landscape
+image: /img/watch-the-dog-autumns-walk-new-1-.jpg
 metaImage: /img/face.jpg
 alt: "Flowers of zinnias and rudbekia in gorgeous oranges and browns on a back
   drop of autumnal leaves "
