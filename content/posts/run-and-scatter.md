@@ -31,7 +31,7 @@ address: |-
   Watch the Dog
   Summer Garden
   UK
-stamp: /img/watch-the-dog-stamp-new-1-.png
+stamp: /img/watch-the-dog-stamp-summer-new-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2022-07-24T07:00:07.631Z
