@@ -24,7 +24,7 @@ poem: |
   Watch the dog chase his tail
   Calm the dog's playful spell.
 alignPoemLeft: false
-removePostcardPadding: true
+removePostcardPadding: false
 address: |-
   Muddy Paws
   Watch the Dog
