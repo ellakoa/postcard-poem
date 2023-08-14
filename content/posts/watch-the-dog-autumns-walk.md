@@ -7,7 +7,7 @@ image: /img/watch-the-dog-autumns-walk-new-1-.jpg
 metaImage: /img/face.jpg
 alt: "Flowers of zinnias and rudbekia in gorgeous oranges and browns on a back
   drop of autumnal leaves "
-poem: |
+poem: |-
   Autumn skies change day by day
   Summer has finally given way
   Bursts of orange, hues of brown
