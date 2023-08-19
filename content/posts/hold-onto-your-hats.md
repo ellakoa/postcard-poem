@@ -16,13 +16,13 @@ poem: |
 
   But, summer was not yet done,
   It still had many weeks to run
-  Taking to task the winds torment
-  it compels its wildness to relent.
+  Taking to task the wild torment
+  compelling the winds to relent.
 
   With a mischievous sigh, 
   the winds wave goodbye
   The clouds trail the winds
-  The wild winds, for now, had given in.
+  The winds, for now, had given in.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
