@@ -31,7 +31,7 @@ address: |-
   East Sussex
   UK
 stamp: /img/sand-dunes-stamp.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-08-20T07:00:45.537Z
 ---
