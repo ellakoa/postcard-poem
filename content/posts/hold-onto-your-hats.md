@@ -21,8 +21,8 @@ poem: |-
   took to task the wild torment
   compelling the winds to relent.
 
-  With a mischievous sigh, 
-  the winds wave goodbye
+  With a mischievous sigh
+  the winds wave goodbye.
   The clouds trail the winds
   The winds, for now, have given in.
 alignPoemLeft: false
