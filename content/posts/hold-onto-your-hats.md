@@ -16,8 +16,8 @@ poem: |-
   as the dunes were given a blast.
 
   But, summer was not yet done,
-  It still had many weeks to run
-  Taking to task the wild torment
+  It still had many weeks to run, so
+  took to task the wild torment
   compelling the winds to relent.
 
   With a mischievous sigh, 
