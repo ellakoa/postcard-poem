@@ -23,7 +23,7 @@ poem: |-
   With a mischievous sigh, 
   the winds wave goodbye
   The clouds trail the winds
-  The winds, for now, had given in.
+  The winds, for now, have given in.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
