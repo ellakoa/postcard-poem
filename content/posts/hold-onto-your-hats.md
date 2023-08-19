@@ -4,27 +4,32 @@ description: Wind. sand and surf.
 aspect: landscape
 image: /img/sanddunes-2a.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
-poem: |-
+alt: Sandy Beach with high sand dunes, green spikey grass is buffeted by wild
+  winds. Fine sand is being flung into the air.
+poem: |
   Summer was holding on by its teeth
-  as wild winds hurled across the beach
+  as wild winds hurled across the beach,
   Sand grains raced and chased and stung
-  across the dunes, hats were flung
+  across the dunes, hats were flung,
   Tall spiky marram grass held on fast as
-  all about, the sand dunes were recast.
+  all about, the dunes were recast.
 
   But, summer was not yet done,
-  Golden rays burst from the sun
-  daring the clouds to join the descent
-  Compelling the winds to relent
+  It still had many weeks to run
+  Taking to task the winds torment
+  it compels it's wildness to relent.
 
   With a mischievous sigh, 
   the winds wave goodbye
-  The clouds trailed the winds
+  The clouds trail the winds
   The winds, for now, had given in.
 alignPoemLeft: false
 removePostcardPadding: false
-address: Hold onto your Hats
+address: |-
+  Hold onto your Hats
+  Camber Sands
+  East Sussex
+  UK
 stamp: /img/sand-dunes-stamp.png
 showStampInPreview: false
 author: Caroline Whitehouse
