@@ -6,13 +6,13 @@ image: /img/sanddunes-2a.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Sandy Beach with high sand dunes, green spikey grass is buffeted by wild
   winds. Fine sand is being flung into the air.
-poem: |
+poem: |-
   Summer was holding on by its teeth
   as wild winds hurled across the beach,
   Sand grains raced and chased and stung
   across the dunes, hats were flung,
-  Tall spiky marram grass held on fast as
-  all about, the dunes were recast.
+  Tall spiky marram grass held on fast 
+  as the dunes were given a blast.
 
   But, summer was not yet done,
   It still had many weeks to run
