@@ -17,7 +17,7 @@ poem: |-
 
   Fisherman casting out with a splash
   Canoeists passing by in a dash
-  A Metal detectorist looking for a find
+  A metal detectorist looking for a find
   Families rock pooling, and walkers, all kinds
   Shrimpers sweeping with wide nets
   A man and a trolley, bait digging I expect
