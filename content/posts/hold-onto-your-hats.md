@@ -2,6 +2,7 @@
 title: Hold onto your Hats
 description: |
   Wind. sand and surf.
+collection: Wonderful Britain
 aspect: landscape
 image: /img/sanddunes-2a.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
