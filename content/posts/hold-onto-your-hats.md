@@ -35,4 +35,4 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-08-20T07:00:45.537Z
 ---
-Camber Sands, beautiful golden beaches, picturesque sand dunes and a lively sea, what I hadn’t bargained for on this lovely summer's day was the wind, and not just your gentle sea breeze, it was full on hold onto your hats and anything else not pegged down kind of wind. I have lost quite a few hats this way. As the tide went out and as the sand dried, it lifted and raced as rivers across the beach. Quite exhilarating.
+Camber Sands, beautiful golden beaches, picturesque sand dunes and a lively sea, what I hadn’t bargained for on this lovely summer's day was the wind, and not just your gentle sea breeze, it was full on, hold onto your hat and anything else not pegged down kind of wind. I have lost quite a few hats this way. As the tide went out and as the sand dried, it lifted and raced as rivers across the beach. Quite exhilarating.
