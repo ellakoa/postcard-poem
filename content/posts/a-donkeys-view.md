@@ -3,10 +3,10 @@ title: A Donkey's View
 description: Delightful Donkey's in the New Forest
 collection: Beautiful Creatures
 aspect: landscape
-image: /img/donkey-8520.jpg
+image: /img/a-donkey-s-view-1-8520.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: A donkey on a heathland standing staring at the camera with a brown and
-  white mottled coat.
+alt: A donkey on a heathland standing staring at the camera with a long shaggy
+  brown and white mottled coat.
 poem: |-
   Watching you watching me
   A stubborn creature some might see
