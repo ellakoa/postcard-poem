@@ -24,8 +24,7 @@ poem: |-
   and we can end this staring game.
 
   I have all the time in the world
-  Do you? 
-  So I say,
+  Do you? So I say,
   “When you are ready, move on your way.”
 alignPoemLeft: false
 removePostcardPadding: false
