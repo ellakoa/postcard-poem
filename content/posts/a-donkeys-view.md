@@ -12,9 +12,11 @@ poem: |-
   A stubborn creature some might see
 
   That's certainly not true.
-  I just like to take my time to think things through.
+  I just like to take my time 
+  to think things through.
 
-  I roam as free as any can in this micro-managed land
+  I roam as free as any can 
+  in this micro-managed land
   I’m in no rush, why? Are you?
 
   So as I stand and ponder, 
