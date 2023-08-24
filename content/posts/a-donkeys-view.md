@@ -3,7 +3,7 @@ title: A Donkey's View
 description: Delightful Donkey's in the New Forest
 collection: Beautiful Creatures
 aspect: landscape
-image: /img/a-donkeys-view-8520.jpg
+image: /img/donkey-8520.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "1111"
 poem: |-
