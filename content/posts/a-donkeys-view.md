@@ -17,7 +17,8 @@ poem: |-
   I roam as free as any can in this micro-managed land
   I’m in no rush, why? Are you?
 
-  So as I stand and ponder, wondering where next to wander
+  So as I stand and ponder, 
+  wondering where next to wander
   Maybe you should do the same
   and we can end this staring game.
 
