@@ -5,18 +5,19 @@ collection: Beautiful Creatures
 aspect: landscape
 image: /img/donkey-8520.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "1111"
+alt: A donkey on a heathland standing staring at the camera with a brown and
+  white mottled coat.
 poem: |-
   Watching you watching me
   A stubborn creature some might see
 
   That's certainly not true.
-  I just like to take in the view
-  and think things through.
+  I just like to take my time
+  to think things through.
 
   I roam as free as any can
   In this micro-managed land
-  I’m in no rush, why? are you?
+  I’m in no rush, why? Are you?
 
   So as I stand and ponder
   Wondering where next to wander
