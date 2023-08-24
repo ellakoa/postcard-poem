@@ -1,9 +1,9 @@
 ---
 title: A Donkey's View
-description: "111"
+description: Delightful Donkey's in the New Forest
 collection: Beautiful Creatures
 aspect: landscape
-image: /img/beyond-pebbles-face-kingsdo.jpg
+image: /img/a-donkeys-view-8520.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "1111"
 poem: |-
@@ -34,7 +34,7 @@ address: |-
   New Forest
   Hampshire
   UK
-stamp: /img/a-stick-and-a-float-stamp-reeds-1-.png
+stamp: /img/a-donkey-s-view-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-08-27T07:00:04.511Z
