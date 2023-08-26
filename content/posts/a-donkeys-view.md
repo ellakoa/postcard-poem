@@ -1,6 +1,6 @@
 ---
 title: A Donkey's View
-description: Delightful Donkey's in the New Forest
+description: Delightful Donkeys in the New Forest
 collection: Beautiful Creatures
 aspect: landscape
 image: /img/a-donkey-s-view-1-8520.jpg
