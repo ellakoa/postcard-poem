@@ -39,4 +39,4 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-08-27T07:00:04.511Z
 ---
-Delightful donkeys in the New Forest. They always bring a smile to the face with their, “I’m not in a rush attitude” They will happily stand their ground, be it on roads or paths, only ambing off when they are good and ready. How lovely to be so laid back.
+Delightful donkeys in the New Forest. They always bring a smile to the face with their, “I’m not in a rush attitude” They will happily stand their ground, be it on roads or paths, only ambling off when they are good and ready. How lovely to be so laid back.
