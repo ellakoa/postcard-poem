@@ -20,13 +20,13 @@ poem: |-
   I’m in no rush, why? Are you?
 
   So as I stand and ponder, 
-  wondering where next to wander
+  wondering where next to wander.
   Maybe you should do the same
   and we can end this staring game.
 
   I have all the time in the world
   Do you? So I say,
-  “When you are ready, move on your way.”
+  When you are ready, move on your way.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
