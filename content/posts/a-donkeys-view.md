@@ -1,6 +1,7 @@
 ---
 title: A Donkey's View
-description: Delightful Donkeys in the New Forest
+description: |
+  Delightful Donkeys in the New Forest
 collection: Beautiful Creatures
 aspect: landscape
 image: /img/a-donkey-s-view-1-8520.jpg
@@ -39,4 +40,4 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-08-27T07:00:04.511Z
 ---
-Delightful donkeys in the New Forest. This one was particularly cute. They always bring a smile to the face with their, “I’m not in a rush attitude” They will happily stand their ground, be it on roads or paths, we once saw a group of donkeys bringing the town of Burly to a standstill, only ambling off when they were good and ready. How lovely to be so laid back.
+Delightful donkeys in the New Forest. This one was particularly cute. They always bring a smile to the face with their, “I’m not in a rush attitude” They will happily stand their ground, be it on roads or paths, we once saw a group of donkeys bringing the village of Burley to a standstill, only ambling off when they were good and ready. How lovely to be so laid back.
