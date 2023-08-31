@@ -22,7 +22,7 @@ address: |-
   Postcard Poems
   UK.
 stamp: /img/bee-hug-stamp-2.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-09-03T07:00:01.679Z
 ---
