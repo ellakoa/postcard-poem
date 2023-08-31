@@ -11,8 +11,9 @@ poem: |-
   We hope you have all had a good summer. 
   Postcard Poems is taking a holiday, posts will resume in two weeks.
   In the meantime enjoy some bee shenanigans,
-  or maybe scroll through and revisit some past posts
-  while we are away.
+  or maybe scroll through and revisit 
+  some past posts while we are away.
+  xxx
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
