@@ -2,7 +2,7 @@
 title: Bee Shenanigans
 description: Announcement.
 aspect: landscape
-image: /img/bee-hugs.jpg
+image: /img/bee-hug-3-1-.png
 metaImage: /img/face.jpg
 alt: Close up of a bumble bee on a daisy, and close up of a tiny bee on a pink
   wild rose.
