@@ -9,7 +9,8 @@ alt: Close up of a bumble bee on a daisy, and close up of a tiny bee on a pink
 poem: |-
   Hello to my lovely readers.
   We hope you have all had a good summer. 
-  Postcard Poems is taking a holiday, posts will resume in two weeks.
+  Postcard Poems is taking a holiday, 
+  posts will resume in two weeks.
   In the meantime enjoy some bee shenanigans,
   or maybe scroll through and revisit 
   some past posts while we are away.
