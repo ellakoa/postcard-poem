@@ -21,7 +21,7 @@ address: |-
   Bee Shenanigans
   Postcard Poems
   UK.
-stamp: /img/bee-hug-stamp-1-.png
+stamp: /img/bee-hug-stamp-2-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-09-03T07:00:01.679Z
