@@ -7,7 +7,7 @@ metaImage: /img/face.jpg
 alt: Close up of a bumble bee on a daisy, and close up of a tiny bee on a pink
   wild rose.
 poem: |-
-  Hello to my lovely readers.
+  Hello to our lovely readers.
   We hope you have all had a good summer. 
   Postcard Poems is taking a holiday, 
   posts will resume in two weeks.
