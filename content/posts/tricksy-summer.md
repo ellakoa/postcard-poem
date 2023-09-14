@@ -3,7 +3,7 @@ title: The Tricksy Summer
 description: A tricksy summer and ditsy winds.
 collection: Wonderful Britain
 aspect: landscape
-image: /img/deal-seafront5-1876.jpg
+image: /img/deal-seafront4-1860.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |
@@ -27,11 +27,7 @@ poem: |
   Summer felt it was time to split.
 alignPoemLeft: false
 removePostcardPadding: false
-address: |-
-  The Tricksy Summer
-  Deal Seafront
-  Kent
-  UK
+address: Tricksy and Ditsy
 stamp: /img/deal-seafront2-1855.jpg
 showStampInPreview: true
 author: Caroline Whitehouse
