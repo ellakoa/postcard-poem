@@ -6,7 +6,7 @@ aspect: landscape
 image: /img/deal-seafront5-1876.jpg
 metaImage: /img/face.jpg
 alt: "111"
-poem: |
+poem: |-
   Summer had been a bit tricksy
   The winds had been very ditsy
 
