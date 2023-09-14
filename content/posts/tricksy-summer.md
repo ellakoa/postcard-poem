@@ -12,8 +12,8 @@ poem: |-
 
   Just as we thought that was our lot
   The weather turned incredibly hot
-  The sun opened the furnace door 
-  and out latent heat did pour.
+  The sun opened up the furnace door 
+  and out its latent heat did pour.
 
   The land, too green to scorch
   revelled under the fiery torch.
