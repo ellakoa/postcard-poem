@@ -15,7 +15,7 @@ poem: |-
   The sun opened the furnace door 
   and out latent heat did pour.
 
-  The land was too green to scorch
+  The land, too green to scorch
   revelled under the fiery torch.
   The days were hot and balmy,
   the nights, humid and clammy.
@@ -24,7 +24,7 @@ poem: |-
   if a tad too short and a tad too late.
 
   Feeling pleased it had done its bit
-  Summer felt it was time to split.
+  Summer packed up shop and quit.
 alignPoemLeft: false
 removePostcardPadding: false
 address: Tricksy and Ditsy
