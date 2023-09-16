@@ -40,6 +40,6 @@ address: |-
 stamp: /img/snapshots-pier-hastings-stamp-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
-date: 2023-09-16T17:31:08.825Z
+date: 2023-09-17T07:00:08.825Z
 ---
 Summers at the seaside, and as a special treat we would visit Hastings. The seafront has changed much over the years, the pier now sports some very trendy beach huts, and their pastel colours remind me of flavoured ice cream. Yet the smells and the sounds of the seaside always remain as they did when I was a child.
