@@ -36,7 +36,7 @@ address: |-
   Snapshots of Summer
   at the Seaside
   Hastings
-  UK
+  Sussex UK
 stamp: /img/snapshots-pier-hastings-stamp-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
