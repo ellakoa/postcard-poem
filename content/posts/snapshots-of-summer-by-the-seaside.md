@@ -13,14 +13,14 @@ poem: |-
   Ice cream cones sticky and sweet
   Drip, drip on hands and feet.
 
-  Seashells held up to the ear,
+  Seashells held up to the ear
   the rushing tide sounds so clear.
 
   Warm plastic blow-up balls.
   Fish and chips, hunger calls.
 
   Pebbles skimming, one, two, three…..
-  Plop, plop, plop into the sea.
+  Plop, plop, plop, into the sea.
 
   Squeals, laughter, being bold
   teeth chattering, the sea is cold.
