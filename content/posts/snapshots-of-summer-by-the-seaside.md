@@ -3,6 +3,7 @@ title: Snapshots of Summer by the seaside.
 description: |+
   Smells and sounds of summer at the seaside.
 
+collection: Wonderful Britain
 aspect: landscape
 image: /img/hastings-view1aa-5942.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
