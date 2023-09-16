@@ -25,7 +25,7 @@ poem: |-
   Pebbles skimming, one, two, three…
   Plop, plop, plop, into the sea.
 
-  Squeals, laughter, being bold
+  Squeals, laughter, being bold,
   teeth chattering, the sea is cold.
 
   Suntan cream on warm skin. 
