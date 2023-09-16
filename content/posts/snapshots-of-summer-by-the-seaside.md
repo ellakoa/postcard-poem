@@ -1,8 +1,10 @@
 ---
 title: Snapshots of Summer by the seaside.
-description: Smells and sounds of summer at the seaside.
+description: |+
+  Smells and sounds of summer at the seaside.
+
 aspect: landscape
-image: /img/hastings-view1-5942.jpg
+image: /img/hastings-view1aa-5942.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Multi-coloured beach huts sit on a pier. Underneath the pier issupporting
   ironwork entangled with seaweed and fishing paraphernalia
@@ -19,7 +21,7 @@ poem: |-
   Warm plastic blow-up balls.
   Fish and chips, hunger calls.
 
-  Pebbles skimming, one, two, three…..
+  Pebbles skimming, one, two, three…
   Plop, plop, plop, into the sea.
 
   Squeals, laughter, being bold
@@ -42,4 +44,4 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-09-17T07:00:08.825Z
 ---
-A visit to Hastings was always asa special treat. The seafront has changed much over the years, the pier now sports some very trendy beach huts, and their pastel colours remind me of flavoured ice cream. Yet the smells and the sounds of the seaside always remain as they did when I was a child. s
+A summer visit to the seaside at Hastings was always a special treat. The seafront has changed much over the years, the pier now sports some very trendy beach huts, their pastel colours reminiscent of old-fashioned sweets. Yet the smells and the sounds of the seaside always remain as they did when I was a child. How reassuring some things never change.
