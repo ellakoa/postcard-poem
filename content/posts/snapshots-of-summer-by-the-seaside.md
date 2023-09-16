@@ -31,7 +31,7 @@ poem: |-
   Suntan cream on warm skin. 
   Seagulls crying, what a din.
 
-  Vinegar, cockles, whelks and prawns
+  Vinegar, cockles, whelks and prawns.
   End of the day, contented yawns.
 alignPoemLeft: false
 removePostcardPadding: false
