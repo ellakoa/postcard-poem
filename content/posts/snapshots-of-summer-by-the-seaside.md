@@ -14,7 +14,7 @@ poem: |-
   Drip, drip on hands and feet.
 
   Seashells held up to the ear,
-  The rushing tide sounds so clear.
+  the rushing tide sounds so clear.
 
   Warm plastic blow-up balls.
   Fish and chips, hunger calls.
