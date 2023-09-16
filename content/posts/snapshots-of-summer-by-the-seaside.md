@@ -37,7 +37,7 @@ alignPoemLeft: false
 removePostcardPadding: false
 address: |-
   Snapshots of Summer
-  at the Seaside
+  The Seaside
   Hastings
   East Sussex UK
 stamp: /img/snapshots-pier-hastings-stamp-1-.png
