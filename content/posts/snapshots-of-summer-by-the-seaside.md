@@ -42,4 +42,4 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-09-17T07:00:08.825Z
 ---
-Summers at the seaside, and as a special treat we would visit Hastings. The seafront has changed much over the years, the pier now sports some very trendy beach huts, and their pastel colours remind me of flavoured ice cream. Yet the smells and the sounds of the seaside always remain as they did when I was a child.
+A visit to Hastings was always asa special treat. The seafront has changed much over the years, the pier now sports some very trendy beach huts, and their pastel colours remind me of flavoured ice cream. Yet the smells and the sounds of the seaside always remain as they did when I was a child. s
