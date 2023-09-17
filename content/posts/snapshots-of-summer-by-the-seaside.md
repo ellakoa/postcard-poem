@@ -3,7 +3,7 @@ title: Snapshots of Summer by the seaside.
 description: Smells and sounds of summer at the seaside.
 collection: Wonderful Britain
 aspect: landscape
-image: /img/hastings-view1aa-5942.jpg
+image: /img/hastings-pier-a-5942.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Multi-coloured beach huts sit on a pier. Underneath the pier issupporting
   ironwork entangled with seaweed and fishing paraphernalia
@@ -38,7 +38,7 @@ address: |-
   The Seaside
   Hastings
   East Sussex UK
-stamp: /img/snapshots-pier-hastings-stamp-1-.png
+stamp: /img/snapshots-pier-hastings-stamp-2-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-09-17T07:00:08.825Z
