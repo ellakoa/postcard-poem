@@ -12,7 +12,7 @@ poem: |-
   An offshore breeze. The smell of seaweed.
 
   Ice cream cones sticky and sweet
-  drip, drip on hands and feet.
+  drip, drip, drip on hands and feet.
 
   Seashells held up to the ear
   the rushing tide sounds so clear.
