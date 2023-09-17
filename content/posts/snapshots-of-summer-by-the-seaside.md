@@ -9,8 +9,7 @@ metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Multi-coloured beach huts sit on a pier. Underneath the pier issupporting
   ironwork entangled with seaweed and fishing paraphernalia
 poem: |-
-  An offshore breeze.
-  The smell of seaweed.
+  An offshore breeze. The smell of seaweed.
 
   Ice cream cones sticky and sweet
   drip, drip on hands and feet.
