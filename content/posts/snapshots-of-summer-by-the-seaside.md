@@ -1,8 +1,6 @@
 ---
 title: Snapshots of Summer by the seaside.
-description: |+
-  Smells and sounds of summer at the seaside.
-
+description: Smells and sounds of summer at the seaside.
 collection: Wonderful Britain
 aspect: landscape
 image: /img/hastings-view1aa-5942.jpg
@@ -45,4 +43,4 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-09-17T07:00:08.825Z
 ---
-A summer visit to the seaside at Hastings was always a special treat. The seafront has changed much over the years, the pier now sports some very trendy beach huts, their pastel colours reminiscent of old-fashioned sweets. Yet the smells and the sounds of the seaside always remain as they did when I was a child. How reassuring some things never change.
+A summer visit to the seaside at Hastings was always a special treat. The seafront has changed much over the years, the pier now sports some very trendy beach huts, their pastel colours reminiscent of old-fashioned sweets and the crazy golf has got far more sophisticated. Yet if you stop and close your eyes the smells and the sounds of the seaside remain as they did when I was a child. How comforting.
