@@ -33,7 +33,7 @@ address: |-
   From a Hill Top
   Dorset
   UK
-stamp: /img/from-a-hill-top-1-stamp-1-.png
+stamp: /img/from-a-hill-top-1-stamp.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-09-24T07:00:10.021Z
