@@ -15,7 +15,7 @@ poem: |-
   or in the woods hugging a tree.
 
   Today, my happy place is ‘here’.
-  Looking far and looking near.
+  Looking far, and looking near.
 
   Finding the stillness within
   Feeling the air on my skin
@@ -25,7 +25,7 @@ poem: |-
   The world cannot still it's beat
   but I can still my mind and feet.
   This happy place comes from within
-  Being at one with the little things.
+  Being content with the little things.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
