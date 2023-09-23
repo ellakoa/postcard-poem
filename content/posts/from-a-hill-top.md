@@ -30,7 +30,7 @@ address: |-
   Dorset
   UK
 stamp: /img/from-a-hill-top-1-stamp.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-09-24T07:00:10.021Z
 ---
