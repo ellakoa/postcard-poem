@@ -1,6 +1,9 @@
 ---
 title: From a Hill Top
-description: Finding a Happy Place.
+description: |+
+  Finding that 'Happy Place'.
+
+
 collection: Wonderful Britain
 aspect: landscape
 image: /img/corf-castle-new.jpg
@@ -35,3 +38,4 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-09-24T07:00:10.021Z
 ---
+The rolling hills on the Isle of Purbeck Dorset, this was an idyllic spot to sit and watch the steam trains of the Swanage Railway weave across the countryside. In the distance sits the dreamy ruins of Corfe Castle. As I sat  capturing the scene to take home, it struck me that I am easily content, another one to add to my growing list of ‘Happy Places’.
