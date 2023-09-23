@@ -12,7 +12,7 @@ poem: |-
   or in the woods hugging a tree.
 
   Today, my happy place is ‘here’.
-  Sitting, looking far and looking near.
+  Looking far and looking near.
 
   Finding the stillness within
   Feeling the air on my skin
@@ -27,8 +27,9 @@ alignPoemLeft: false
 removePostcardPadding: false
 address: |-
   From a Hill Top
-  Dorset
-  UK
+  Corfe Castle
+  Isle of Purbeck
+  Dorset UK
 stamp: /img/from-a-hill-top-1-stamp.png
 showStampInPreview: true
 author: Caroline Whitehouse
