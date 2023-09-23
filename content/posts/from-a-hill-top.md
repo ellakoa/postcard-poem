@@ -1,6 +1,6 @@
 ---
 title: From a Hill Top
-description: The Rolling Hills of Dorset UK
+description: Finding a Happy Place.
 collection: Wonderful Britain
 aspect: landscape
 image: /img/corf-castle-new.jpg
