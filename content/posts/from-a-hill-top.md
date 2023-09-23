@@ -5,12 +5,14 @@ collection: Wonderful Britain
 aspect: landscape
 image: /img/corf-castle-new.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
-poem: |
+alt: Hills and green fields, in the foreground a steam train rests and in the
+  distance is the ruins of a castle on a hill.
+poem: |-
   Sometimes my happy place is by the sea
   or in the woods hugging a tree.
 
-  Today my happy place is ‘here’
+  Today, my happy place is ‘here’.
+  Sitting, looking far and looking near.
 
   Finding the stillness within
   Feeling the air on my skin
@@ -18,15 +20,9 @@ poem: |
   Sights, smells, sounds.
 
   The world cannot still it's beat
-  But I can still my mind and feet
-
-  I can feel a tickle of a breeze
-  Hear birds happy in the trees
-  See a butterfly passing by
-  Smell the grass, drying nearby
-
-  Be kind, to your amazing mind
-  And a happy place you will find.
+  but I can still my mind and feet.
+  This happy place comes from within
+  Being at one with the little things.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
