@@ -6,7 +6,7 @@ description: |+
 
 collection: Wonderful Britain
 aspect: landscape
-image: /img/corf-castle-new.jpg
+image: /img/corf-castle-ee-6534.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Hills and green fields, in the foreground a steam train rests and in the
   distance is the ruins of a castle on a hill.
