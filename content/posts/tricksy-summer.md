@@ -8,7 +8,7 @@ description: |+
 
 collection: Wonderful Britain
 aspect: landscape
-image: /img/new-forest-zzzzc-.jpg
+image: /img/tricksy-new-forest.jpg
 metaImage: /img/face.jpg
 alt: "111"
 poem: |-
@@ -34,7 +34,7 @@ poem: |-
 alignPoemLeft: false
 removePostcardPadding: false
 address: Tricksy and Ditsy
-stamp: /img/new-forest-tricksy-stamp-1.png
+stamp: /img/completed-blogs-2-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-10-01T19:00:26.345Z
