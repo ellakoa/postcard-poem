@@ -37,7 +37,7 @@ address: Tricksy and Ditsy
 stamp: /img/new-forest-tricksy-stamp-1.png
 showStampInPreview: true
 author: Caroline Whitehouse
-date: 2023-09-14T12:03:26.345Z
+date: 2023-10-01T19:00:26.345Z
 ---
 You’ve got to love our British weather.
 After a promising start in June, the summer of 2023 kind of fizzled out in July and August. While we watched the continent bask in outrageously high temperatures, we weathered a much cooler climate with menacing winds fronting rain storms. Then in September, the sun finally decided to give us summer, jammed into the first few weeks of autumn. How crazy was that? Finding a shady spot seemed to be the order of the day.
