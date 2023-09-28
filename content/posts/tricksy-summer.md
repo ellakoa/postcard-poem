@@ -33,7 +33,11 @@ poem: |-
   Summer gradually and reluctantly split.
 alignPoemLeft: false
 removePostcardPadding: false
-address: Tricksy and Ditsy
+address: |-
+  The Tricksy Summer
+  New Forest
+  Hampshire 
+  UK
 stamp: /img/completed-blogs-2-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
