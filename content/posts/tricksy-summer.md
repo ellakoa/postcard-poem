@@ -5,6 +5,7 @@ description: |+
 
 
 
+
 collection: Wonderful Britain
 aspect: landscape
 image: /img/deal-seafront.jpg
@@ -39,4 +40,4 @@ author: Caroline Whitehouse
 date: 2023-09-14T12:03:26.345Z
 ---
 You’ve got to love our British weather.
-After a promising start in June, the summer of 2023 kind of fizzled out in July and August. While we watched the continent bask in outrageously high temperatures, we weathered a much cooler climate with menacing winds fronting rain storms. Then in September the sun finally decided to give us summer again, jammed into the first few weeks of autumn. How crazy was that?
+After a promising start in June, the summer of 2023 kind of fizzled out in July and August. While we watched the continent bask in outrageously high temperatures, we weathered a much cooler climate with menacing winds fronting rain storms. Then in September, the sun finally decided to give us summer, jammed into the first few weeks of autumn. How crazy was that? Finding a shady spot seemed the order of the day.
