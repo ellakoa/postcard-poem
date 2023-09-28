@@ -1,6 +1,10 @@
 ---
 title: The Tricksy Summer
-description: A tricksy summer and ditsy winds.
+description: |+
+  A tricksy summer and ditsy winds.
+
+
+
 collection: Wonderful Britain
 aspect: landscape
 image: /img/deal-seafront.jpg
@@ -33,4 +37,5 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-09-14T12:03:26.345Z
 ---
-You’ve got to love our British weather. After a promising start in June, the summer of 2023 kind of fizzled out in July and August. While we watched the continent bask in outrageously high temperatures we weathered a much cooler climate with menacing winds fronting the most amazing rain storms. Be careful what you wish for comes to mind when in September the sun finally decided to give us summer, jammed into a week. How crazy was that?
+You’ve got to love our British weather.
+After a promising start in June, the summer of 2023 kind of fizzled out in July and August. While we watched the continent bask in outrageously high temperatures, we weathered a much cooler climate with menacing winds fronting rain storms. Then in September the sun finally decided to give us summer again, jammed into the first few weeks of autumn. How crazy was that?
