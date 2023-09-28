@@ -12,23 +12,24 @@ metaImage: /img/face.jpg
 alt: "111"
 poem: |-
   Summer had been a bit tricksy
-  The winds had been very ditsy
+  The winds had been very ditsy.
 
-  Just as we thought that was our lot
+  When autumn thought it had the spot
   The weather turned incredibly hot
   The sun opened up the furnace door 
-  and out its latent heat did pour.
+  and out, it’s latent heat did pour.
 
   The land, too green to scorch
-  revelled under the fiery torch.
-  The days were hot and balmy,
-  the nights, humid and clammy.
+  basked under the fiery torch
+  The grass kept growing, 
+  We all kept mowing.
 
   Summer was finally making a stake 
-  if a tad too short and a tad too late.
+  With autumn saying hurry up mate,
+  You are out of turn and a tad too late.
 
   Feeling pleased it had done its bit
-  Summer packed up shop and quit.
+  Summer reluctantly, gradually split.
 alignPoemLeft: false
 removePostcardPadding: false
 address: Tricksy and Ditsy
