@@ -27,7 +27,7 @@ poem: |-
   You are out of turn and a tad too late.
 
   Feeling pleased with its final fling
-  Summer reluctantly gave in.
+  Summer reluctantly started giving in.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
