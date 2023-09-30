@@ -7,7 +7,8 @@ collection: Wonderful Britain
 aspect: landscape
 image: /img/tricksy-new-forest.jpg
 metaImage: /img/face.jpg
-alt: "111"
+alt: Open heath with purple heather, a lone brick observation shelter from world
+  war two stands in the middle of the heath.
 poem: |-
   Summer had been a bit tricksy
   The winds had been very ditsy.
