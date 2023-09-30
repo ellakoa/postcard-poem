@@ -33,9 +33,9 @@ alignPoemLeft: false
 removePostcardPadding: false
 address: |-
   The Tricksy Summer
+  Ford, Avon Water
   New Forest
-  Hampshire 
-  UK
+  Hampshire UK
 stamp: /img/completed-blogs-2-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
