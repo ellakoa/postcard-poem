@@ -5,7 +5,7 @@ description: |+
 
 collection: Wonderful Britain
 aspect: landscape
-image: /img/new-forest-zzzzc-.jpg
+image: /img/new-forest-c-.jpg
 metaImage: /img/face.jpg
 alt: Open heath with purple heather, a lone brick observation shelter from world
   war two stands in the middle of the heath.
