@@ -28,10 +28,10 @@ poem: |-
 
   Summer was finally making a stake 
   With autumn saying hurry up mate,
-  "You are out of turn and a tad too late".
+  You are out of turn and a tad too late.
 
-  Feeling pleased it had finally done its bit
-  Summer gradually and reluctantly split.
+  Feeling pleased with its final fling
+  Summer reluctantly gave in.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
