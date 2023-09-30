@@ -33,13 +33,13 @@ alignPoemLeft: false
 removePostcardPadding: false
 address: |-
   The Tricksy Summer
+  Ford, Avon Water
   New Forest
-  Hampshire 
-  UK
+  Hampshire UK
 stamp: /img/completed-blogs-2-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-10-01T19:00:26.345Z
 ---
 You’ve got to love our British weather.
-After a promising start in June, the summer of 2023 kind of fizzled out in July and August. While we watched the continent bask in outrageously high temperatures, we weathered a much cooler climate with menacing winds fronting rain storms. Then in September, the sun finally decided to give us summer, jammed into the first few weeks of autumn. How crazy was that? We were in the beautiful New Forest camping at the beginning of September as it turned unseasonably hot. Seeking shady spots were the order of the day, the same shady spots coveted by the wise New Forest ponies.
+After a promising start in June, the summer of 2023 kind of fizzled out in July and August. While we watched the continent bask in outrageously high temperatures, we weathered a much cooler climate with menacing winds fronting rain storms. Then in September, the sun finally decided to give us summer, jammed into the first few weeks of autumn. How crazy was that? We were in the beautiful New Forest camping at the beginning of September when it turned unseasonably hot. Seeking shady spots were the order of the day, the same shady spots coveted by the wise New Forest ponies.
