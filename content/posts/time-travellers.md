@@ -1,7 +1,8 @@
 ---
 title: Time Travellers
-description: |
+description: |+
   The Dover Rings or is it a time portal?
+
 collection: Wonderful Britain
 aspect: landscape
 image: /img/time-travellerxx-9052.jpg
@@ -38,6 +39,6 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-10-08T07:00:35.083Z
 ---
-The Dover Rings. If there was ever a time portal, this must surely be what it would look like. 
-We travel through life at such a pace, racing into the future, busy busy busy, and then, I’m not sure when it happens, we seem to slow and instead of hurtling forwards we start looking back.
-But what if there was a time portal? Where would you go? Would you go? I think I might keep my feet firmly in this time line.
+The Dover Rings. If there was ever to be a time portal, surely, this must be what it would look like. 
+We travel through life at such a pace, racing into the future, busy busy busy, and then, I’m not sure when it happens, gradually we seem to slow and instead of hurtling forwards we start looking back.
+But what if there was a time portal? Where would you go? Would you go? I think I might keep my feet in this timeline.
