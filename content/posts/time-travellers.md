@@ -5,7 +5,7 @@ description: |+
 
 collection: Wonderful Britain
 aspect: landscape
-image: /img/time-travellerxx-9052.jpg
+image: /img/time-traveller-1.jpg
 metaImage: /img/face.jpg
 alt: A walk through water sculpture, of 4 large metal hoops, each hoop sprays a
   fine mist into the surroundings
