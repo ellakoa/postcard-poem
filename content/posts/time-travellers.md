@@ -31,7 +31,7 @@ removePostcardPadding: false
 address: |-
   Time Travellers
   Dover Rings
-  Dover
+  Market Square
   Kent UK
 stamp: /img/time-travellers-stamp.png
 showStampInPreview: true
