@@ -39,8 +39,8 @@ address: |-
   Dover Rings
   Dover
   Kent UK
-stamp: /img/a-stick-and-a-float-stamp-reeds-1-.png
-showStampInPreview: false
+stamp: /img/time-travellers-stamp.png
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-10-08T07:00:35.083Z
 ---
