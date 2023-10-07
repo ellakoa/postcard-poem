@@ -6,7 +6,8 @@ collection: Wonderful Britain
 aspect: landscape
 image: /img/time-travellerxx-9052.jpg
 metaImage: /img/face.jpg
-alt: "A Water scupture, "
+alt: A walk through water sculpture, of 4 large metal hoops, each hoop sprays a
+  fine mist into the surroundings
 poem: |-
   We have journeyed through time you and I
   Traversing the land, the sea, the sky.
