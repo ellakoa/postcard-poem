@@ -14,7 +14,7 @@ poem: |-
   Traversing the land, the sea, the sky.
 
   Seeking the future through many a year
-  With much laughter, and a few tears.
+  With much laughter, and the odd tear.
 
   Sharing, caring, we quietly matured
   Reaching for stars we have endured.
