@@ -23,8 +23,8 @@ poem: |-
   The time before darkness spills.
 
   Into this magical light, the first
-  star emerges, pulsing bright
-  Make a wish, share your dreams
+  star emerges, pulsing bright.
+  Make a wish, share your dreams,
   with the stars as they gently gleam.
 alignPoemLeft: false
 removePostcardPadding: false
