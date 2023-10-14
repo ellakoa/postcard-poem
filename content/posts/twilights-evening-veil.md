@@ -1,5 +1,5 @@
 ---
-title: "Twilights Evening Veil "
+title: "Twilights Veil "
 description: >+
   The magical light of twilight in the evening before the blanket of night is
   pulled across the sky.
@@ -7,7 +7,7 @@ description: >+
 
 collection: Wonderful Britain.
 aspect: landscape
-image: /img/the-inbetween-3-1-.jpg
+image: /img/twilights-veil.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Twilight skyline reflected in water, a lone duck in silhouette glides over
   the water.
