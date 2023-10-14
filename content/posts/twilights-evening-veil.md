@@ -20,9 +20,9 @@ poem: |-
   Moments of quiet as the air stills
   The time before darkness spills.
 
-  Into this magical light, the first
-  star emerges, pulsing bright.
-  Gaze as more stars gently gleam
+  Into this magical evening light,
+  Stars emerge, pulsing bright.
+  Gaze at the first star to gleam,
   Make a wish, share your dream.
 alignPoemLeft: false
 removePostcardPadding: false
