@@ -18,7 +18,7 @@ poem: |-
   The realm of the in-between.
 
   Neither the day nor the night
-  Not quite dark, yet not light.
+  Not quite dark, yet not bright.
   Moments of quiet as the air stills
   The time before darkness spills.
 
