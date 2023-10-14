@@ -18,7 +18,7 @@ poem: |-
   The realm of the in-between.
 
   Neither the day nor the night
-  Not quite dark, yet not daylight
+  Not quite dark, yet not light.
   A place that quiets as the air stills
   The time before darkness spills.
 
@@ -36,6 +36,6 @@ address: |-
 stamp: /img/the-inbetween-stamp-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
-date: 2023-10-14T13:22:04.643Z
+date: 2023-10-15T07:00:00.000Z
 ---
 We have often visited the Norfolk Broads in March and September when sunrises and sunsets happen at more sociable hours, as does twilight, whether it be morning twilight or evening twilight. The in-between, neither night nor day. In this magical time, the vast Norfolk skies and corresponding reflections morph in the most spectacular way and can literally take your breath away.
