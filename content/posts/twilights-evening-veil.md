@@ -22,8 +22,8 @@ poem: |-
 
   Into this magical light, the first
   star emerges, pulsing bright.
-  Make a wish, share your dreams
-  with the stars as they gently gleam.
+  Gaze as more stars gently gleam
+  Make a wish, share your dream.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
