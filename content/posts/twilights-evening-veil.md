@@ -19,7 +19,7 @@ poem: |-
 
   Neither the day nor the night
   Not quite dark, yet not light.
-  Moments that quiets as the air stills
+  Moments of quiet as the air stills
   The time before darkness spills.
 
   Into this magical light, the first
