@@ -4,7 +4,7 @@ description: >
   The magical light of twilight in the evening before the blanket of night is
   pulled across the sky.
 
-  We have often visited the Norfolk Broads in March and September when sunrises and sunsets happen at more sociable hours, as does twilight, whether it be morning twilight or evening twilight. The in-between, neither night nor day. During this magical light, the vast Norfolk skies and corresponding reflections morph in the most spectacular way and can literally take your breath away.
+  We have often visited the Norfolk Broads in March and September when sunrises and sunsets happen at more sociable hours, as does twilight, whether it be morning twilight or evening twilight. The in-between, neither night nor day. During this magical light, the vast Norfolk skies and corresponding reflections morph most spectacularly and can take your breath away.
 collection: Wonderful Britain.
 aspect: landscape
 image: /img/twilights-veil.jpg
