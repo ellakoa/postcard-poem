@@ -34,7 +34,7 @@ address: |-
   Norfolk Broads
   Norfolk UK.
 stamp: /img/the-inbetween-stamp-1-.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-10-15T07:00:00.000Z
 ---
