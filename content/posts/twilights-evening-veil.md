@@ -19,12 +19,12 @@ poem: |-
 
   Neither the day nor the night
   Not quite dark, yet not light.
-  A place that quiets as the air stills
+  Moments that quiets as the air stills
   The time before darkness spills.
 
   Into this magical light, the first
   star emerges, pulsing bright.
-  Make a wish, share your dreams,
+  Make a wish, share your dreams
   with the stars as they gently gleam.
 alignPoemLeft: false
 removePostcardPadding: false
