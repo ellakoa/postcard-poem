@@ -1,6 +1,7 @@
 ---
 title: The Abandoned House
-description: "111"
+description: An abandoned house, an overgrown garden and the active imaginations
+  of children.
 collection: ""
 aspect: landscape
 image: /img/beyond-pebbles-face-kingsdo.jpg
@@ -9,7 +10,7 @@ alt: "111"
 poem: |-
   A house sat behind an old flint wall 
   Abandoned? and spooky if I recall,
-  A perfect place for a game of dare 
+  A perfect place for a Halloween dare.
   Knock the door then run quite fast
   back down the old worn garden path.
 
