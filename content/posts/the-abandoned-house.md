@@ -4,9 +4,10 @@ description: An abandoned house, an overgrown garden and the active imaginations
   of children.
 collection: ""
 aspect: landscape
-image: /img/beyond-pebbles-face-kingsdo.jpg
+image: /img/spooky-house-new-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
+alt: An abandoned house sits behind rusted gates, broken glass and shuttered
+  windows, set in an overgrown garden.
 poem: |-
   A house sat behind an old flint wall 
   Abandoned? and spooky if I recall,
