@@ -65,7 +65,7 @@ address: |
   Bushy Ruff
   Dover
   Kent UK.
-stamp: /img/a-donkey-s-view-1-.png
+stamp: /img/dare-stamp-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-10-29T08:00:02.434Z
