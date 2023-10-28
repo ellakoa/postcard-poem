@@ -12,7 +12,7 @@ image: /img/spooky-house-1a-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: An abandoned house sits behind rusted gates, broken glass and shuttered
   windows, set in an overgrown garden.
-poem: |
+poem: |-
   Peeping above an old flint wall
   Pretending to look for a missing ball
   A wall of glinting grey, black stones.
