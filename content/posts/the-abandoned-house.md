@@ -5,7 +5,7 @@ description: >
   children.
 collection: ""
 aspect: landscape
-image: /img/spooky-house-new-1-.jpg
+image: /img/spooky-house-1a-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: An abandoned house sits behind rusted gates, broken glass and shuttered
   windows, set in an overgrown garden.
