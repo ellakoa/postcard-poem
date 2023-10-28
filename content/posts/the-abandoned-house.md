@@ -1,11 +1,10 @@
 ---
 title: The Abandoned House
-description: |-
-  A house sat behind an old flint wall 
-  Abandoned, haunted? If I recall,
-  A perfect place for a Halloween dare 
-  Knock the door then run quite fast
-  back down the old worn garden path.
+description: >-
+  An abandoned house, an overgrown garden and the active imaginations of
+  children.
+
+  A spooky tale for Halloween.
 collection: ""
 aspect: landscape
 image: /img/spooky-house-1a-1-.jpg
@@ -13,6 +12,12 @@ metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: An abandoned house sits behind rusted gates, broken glass and shuttered
   windows, set in an overgrown garden.
 poem: |-
+  A house sat behind an old flint wall 
+  Abandoned, haunted? If I recall,
+  A perfect place for a Halloween dare 
+  Knock the door then run quite fast
+  back down the old worn garden path.
+
   Peeping above an old flint wall
   Pretending to look for a missing ball
   A wall of glinting grey, black stones.
