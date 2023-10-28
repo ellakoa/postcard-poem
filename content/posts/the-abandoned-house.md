@@ -43,12 +43,11 @@ poem: |-
   Of course, we dared, 
   One bang each. Bang. Bang.
   Laughing, exhilarated we turned and ran
-  Down a path that now twisted and snaked,
-  Turning legs to jelly, 
-  Stirring dread in our belly
   Tripped by brambles
   Or were they bony hands?
   Grasping our feet as we ran in retreat.
+  Down a path that twisted and snaked,
+  Turning legs to jelly, stirring dread in our belly
   Dead flower heads nodding
   Or were they skulls? 
   Jaws hung open. Whispering, wait……wait…..
