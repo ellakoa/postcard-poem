@@ -18,21 +18,21 @@ poem: |-
   A wall of glinting grey, black stones.
   Or were they bones?
   Broken and knobbly, of things unknown.
-  Then,
+
   Stepping through the wrought iron gate 
   roughened, with old peeling paint.
   A gate stuck wide with crumbling rust 
   Or was it blood? 
   Dried to a thick red crust.
-  Gingerly, 
-  Making our way up the path,
+
+  Gingerly, making our way up the path,
   Pretending to look for the ball with a laugh,
   Passing overgrown beds of dead flower heads
   and brambles that scratched our spindly legs.
-  Up,
-  Steps to the wooden door, 
-  Ivy trailing over the porch floor.
-  A note above the knocker of a bear’s head,
+  Up, steps to the wooden door, 
+  Ivy trailing over the floor.
+  A note,
+  Placed above a knocker of a bear’s head,
   “Beware. “Knock me if you dare,” it said.
   Of course, 
   We dared, 
