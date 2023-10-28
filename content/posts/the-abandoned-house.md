@@ -1,7 +1,8 @@
 ---
 title: The Abandoned House
-description: An abandoned house, an overgrown garden and the active imaginations
-  of children.
+description: >
+  An abandoned house, an overgrown garden and the active imaginations of
+  children.
 collection: ""
 aspect: landscape
 image: /img/spooky-house-new-1-.jpg
@@ -10,8 +11,8 @@ alt: An abandoned house sits behind rusted gates, broken glass and shuttered
   windows, set in an overgrown garden.
 poem: |-
   A house sat behind an old flint wall 
-  Abandoned? and spooky if I recall,
-  A perfect place for a Halloween dare.
+  Abandoned, haunted? if I recall,
+  A perfect place for a Halloween dare 
   Knock the door then run quite fast
   back down the old worn garden path.
 
@@ -33,14 +34,14 @@ poem: |-
   and brambles that reached to scratch our legs.
 
   Up the steps to the wooden door, 
-  With ivy trailing over the porch floor.
+  Ivy trailing over the porch floor.
   Pinned above a knocker of a bear’s head,
   A note, browned with age curling and torn
-  A notice to warn,
+  A note to warn,
   “Beware,” it said. “Knock me if you dare,” it said.
 
   Of course, we dared, 
-  One bang each. Bang. Bang.
+  One knock each. Bang. Bang.
   Laughing, exhilarated we turned and ran
   Down a path that now twisted and snaked,
   Turning our legs to jelly, 
