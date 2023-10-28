@@ -70,3 +70,5 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-10-29T08:00:02.434Z
 ---
+In an overgrown garden, Bushy Ruff House sat abandoned and derelict for many a year. In recent years the house was demolished and the grounds were redeveloped. 
+Every time we walked past the old house and the overgrown gardens it sparked my imagination, perfect for Halloween.
