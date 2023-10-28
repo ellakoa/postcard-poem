@@ -16,54 +16,51 @@ poem: |-
   Knock the door then run quite fast
   back down the old worn garden path.
 
-  We would peep above the old flint wall
+  Peeping above an old flint wall
   Pretending to look for a missing ball
   A wall of glinting grey, black stones.
   Or were they bones?
   Broken and knobbly, of things unknown.
-
+  Then,
   Stepping through the wrought iron gate 
   roughened, with old peeling paint.
   A gate stuck wide with crumbling rust 
   Or was it blood? 
   Dried to a thick red crust.
-
-  Gingerly, making our way up the path,
+  Gingerly, 
+  Making our way up the path,
   Pretending to look for the ball with a laugh,
   Passing overgrown beds of dead flower heads
   and brambles that reached to scratch our legs.
-
-  Up the steps to the wooden door, 
+  Up,
+  Steps to the wooden door, 
   Ivy trailing over the porch floor.
-  Pinned above a knocker of a bear’s head,
-  A note, browned with age curling and torn
-  A note to warn,
-  “Beware,” it said. “Knock me if you dare,” it said.
-
-  Of course, we dared, 
-  One knock each. Bang. Bang.
+  A note above the knocker of a bear’s head,
+  “Beware. “Knock me if you dare,” it said.
+  Of course, 
+  We dared, 
+  One bang each. Bang. Bang.
   Laughing, exhilarated we turned and ran
   Down a path that now twisted and snaked,
-  Turning our legs to jelly, 
+  Turning legs to jelly, 
   Stirring dread in our belly
   Tripped by brambles
   Or were they bony hands?
-  Grasping our feet as we ran in retreat
-
-  The dead flower heads nodding
+  Grasping our feet as we ran in retreat.
+  Dead flower heads nodding
   Or were they skulls? 
   Jaws hung open. Whispering, wait……wait…..
   as we ran towards the open gate.
-
-  Stopped, in our tracks by a thunderous groan
+  Stopped, 
+  In our tracks by a thunderous groan
   Turning, nowhere to hide
-  The door of the house was open wide
+  The door of the house open wide
 
-  A single ball rolled down the steps
-
+  A ball rolled down the steps,
   Is this what you came for? 
   Come and collect.
-  Of course, we didn’t. We screamed and fled.
+  Of course, we didn’t. 
+  We screamed and fled.
 alignPoemLeft: true
 removePostcardPadding: false
 address: |
