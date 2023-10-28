@@ -28,7 +28,7 @@ poem: |-
   Making our way up the path,
   Pretending to look for the ball with a laugh,
   Passing overgrown beds of dead flower heads
-  and brambles that reached to scratch our legs.
+  and brambles that scratched our spindly legs.
   Up,
   Steps to the wooden door, 
   Ivy trailing over the porch floor.
