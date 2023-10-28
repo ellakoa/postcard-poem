@@ -29,13 +29,13 @@ poem: |-
   Pretending to look for the ball with a laugh,
   Passing overgrown beds of dead flower heads
   and brambles that scratched our spindly legs.
-  Up, steps to the wooden door, 
-  Ivy trailing over the floor.
-  A note,
-  Placed above a knocker of a bear’s head,
-  “Beware. “Knock me if you dare,” it said.
-  Of course, 
-  We dared, 
+
+  Up, steps to a wooden door, 
+  Ivy trailing over the porch floor.
+  Above a knocker of a bear’s head,
+  “Beware. “Knock me if you dare,” a note said.
+
+  Of course, we dared, 
   One bang each. Bang. Bang.
   Laughing, exhilarated we turned and ran
   Down a path that now twisted and snaked,
@@ -48,10 +48,9 @@ poem: |-
   Or were they skulls? 
   Jaws hung open. Whispering, wait……wait…..
   as we ran towards the open gate.
-  Stopped, 
-  In our tracks by a thunderous groan
+  Stopped, in our tracks by a thunderous groan
   Turning, nowhere to hide
-  The door of the house was open wide
+  The door of the house, now open wide
 
   A ball rolled down the steps,
   Is this what you came for? 
