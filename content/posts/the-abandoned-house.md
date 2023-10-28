@@ -56,7 +56,7 @@ poem: |-
   Turning, nowhere to hide
   The door of the house, now open wide
 
-  A ball rolled down the steps,
+  Silently a ball rolled down the steps,
   Is this what you came for? 
   Come and collect.
   Of course, we didn’t. 
