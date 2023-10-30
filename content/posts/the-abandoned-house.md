@@ -54,7 +54,7 @@ Laughing, exhilarated we turned and ran,
 Tripped by brambles or were they bony hands?
 Grasping our feet as we ran in retreat.
 Down a path that twisted and snaked,
-Turning legs to jelly, stirring dread in our belly
+Turning legs to jelly, stirring dread in our belly.
 Dead flower heads nodding., or were they skulls? 
 Jaws hung open. Whispering, wait……wait…..as we ran towards the open gate.
 Stopped, in our tracks by a thunderous groan
