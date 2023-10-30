@@ -1,5 +1,5 @@
 ---
-title: The Sholden Mouse
+title: The Christmas Mouse
 description: Seasons Greetings to all my readers. 2022.
 collection: Beautiful Creatures
 aspect: portrait
@@ -15,14 +15,14 @@ poem: >-
 
   A big thank you to Nora who painted a portrait of the little mouse and allowed me to include it in the artwork for this postcard. 
 
-  Read the story below.
+  Read the delightful Christmas story below.
 alignPoemLeft: true
 removePostcardPadding: false
 address: |-
-  The Sholden Mouse
+  The Christmas Mouse
   Sholden
   Deal
-  Kent
+  Kent UK
 stamp: /img/mouse-stamp-tiny.png
 showStampInPreview: true
 author: Caroline Whitehouse
