@@ -1,7 +1,6 @@
 ---
 title: The Sholden Mouse
-description: |
-  Seasons Greetings to all my readers. 2022.
+description: Seasons Greetings to all my readers. 2022.
 collection: Beautiful Creatures
 aspect: portrait
 image: /img/christmas-mouse-postcard-1-tiny.jpg
