@@ -29,7 +29,7 @@ author: Caroline Whitehouse
 date: 2023-02-12T08:00:22.553Z
 ---
 Aroused by dew drops on her lips
-The valley stirs beneath the mist
+The valley stirs beneath the mist.
 Teasing the Drellingore with a wish
 To join her for a winter tryst.
 
