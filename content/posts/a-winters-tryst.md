@@ -41,7 +41,7 @@ Ride the stream towards the sea
 Glide with abandonment, blissfully free”*
 
 Tempted by the valley’s mirth
-Water trickles from beneath the earth
+Water trickles from beneath the earth,
 Crystal clear, cool and sweet
 Reaching out to quench her thirsty feet.
 
