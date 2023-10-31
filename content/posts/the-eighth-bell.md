@@ -24,7 +24,7 @@ poem: |-
   The inscription is lost to the past
   so, for as long as the ringing lasts,
   It is for you to decide and tell
-  the message of this eighth bell.
+  the message of this noble eighth bell.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
