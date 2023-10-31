@@ -1,6 +1,7 @@
 ---
 title: The Sunny Dandelion
-description: "\n"
+description: |
+  The Happy Sunny Dandelion.
 collection: Wonderful Britain
 aspect: landscape
 image: /img/dandelion-blog-3-1-.jpg
@@ -35,4 +36,4 @@ showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-03-26T07:00:23.925Z
 ---
-The happy Sunny Dandelion.
+Dandelions; have a habit of popping up uninvited, determined to stay for the long haul. Their happy faces open in the sun, hoping to win us over. Behind where I live is a field that becomes smothered with dandelions in the spring, it is joyful. All too soon the intricate seed heads are ready to set sail. It is mesmerising to watch so many dandelion seeds take flight and dance in the wind.
