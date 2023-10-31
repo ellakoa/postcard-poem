@@ -8,14 +8,14 @@ image: /img/craft-project-4-1-.jpg
 metaImage: /img/face.jpg
 alt: Alkham Valley. The winterbourne stream the Drellingore is in full flow,
   winding it's way along the valley floor.
-poem: >
-  The beautiful Alkham Valley is known as a dry valley, so I was surprised one
-  year to see a stream running along the valley floor which increased in width
+poem: >-
+  The beautiful Alkham Valley is known as a dry valley so I was surprised one
+  year to see a stream running along the valley floor, which increased in width
   throughout the winter months, only to vanish in the spring.
 
   I had just had my first encounter with ‘The Drellingore’, a ‘winterbourne’ stream transient in nature, dependent upon the weather. It can be many years between its occurrence. I was captivated. 
 
-  Read their beautiful story below.
+  Read the magical poem below.
 alignPoemLeft: true
 removePostcardPadding: true
 address: |-
