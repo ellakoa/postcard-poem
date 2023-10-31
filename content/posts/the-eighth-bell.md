@@ -1,10 +1,7 @@
 ---
 title: The Bells of St Peters
-description: >
-  It has been a weekend where church bells have rung out, rejoicing in the
-  coronation of King Charles III.
-
-  I recently visited St Peters Church in Sandwich, what a gem. Climbing the clock tower afforded some wonderful views and on the way up I learnt the bells have inscriptions on them, giving them a message to ring out. How cool is that?
+description: |
+  A weekend of rejoicing, with the ringing of bells.
 collection: Wonderful Britain
 aspect: landscape
 image: /img/st-peters-main-1.jpg
@@ -26,8 +23,8 @@ poem: |-
   Sounds at night to call you home
   The inscription is lost to the past
   so, for as long as the ringing lasts,
-  the message of this eighth bell
-  can be yours to choose and story tell.
+  It is for you to tell
+  the message of this eighth bell.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
@@ -41,3 +38,5 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-05-07T07:00:18.544Z
 ---
+It has been a weekend where church bells have rung out, rejoicing in the coronation of King Charles III.
+I recently visited St Peter's Church in Sandwich, what a gem. Climbing the clock tower afforded some wonderful views and on the way up I learnt the bells have inscriptions on them, giving them a message to ring out. How cool is that?
