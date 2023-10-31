@@ -21,7 +21,7 @@ poem: |-
 
   The eighth bell's beautiful tone
   Sounds at night to call you home
-  The inscription is lost to the past
+  The inscription, alas, is lost to the past
   so, for as long as the ringing lasts,
   It is for you to decide and tell
   the message of this noble eighth bell.
