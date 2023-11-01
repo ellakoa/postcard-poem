@@ -9,7 +9,7 @@ poem: |-
   Often, days are just okay
   Start bright then fade to grey.
 
-  Darker days you’ll chase away
+  Darker days get chased away
   Perfect storms to keep at bay.
 
   Then there are days you wish would linger on…..
@@ -31,5 +31,5 @@ address: |-
 stamp: /img/gone-fishing-stamp-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
-date: 2023-10-23T14:25:46.849Z
+date: 2023-11-05T08:00:46.849Z
 ---
