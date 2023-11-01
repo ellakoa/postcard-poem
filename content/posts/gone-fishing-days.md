@@ -21,6 +21,9 @@ poem: |-
 
   Once hooked, you reel it into your heart
   Memories to treasure and never part.
+
+  In the retelling the story might grow
+  But hey, your story, your show.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
