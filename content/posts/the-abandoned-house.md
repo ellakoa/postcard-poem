@@ -26,13 +26,13 @@ address: |
   Bushy Ruff
   Dover
   Kent UK.
-stamp: /img/dare-stamp-2-1-.png
+stamp: /img/dare-stamp-3-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-10-29T08:00:02.434Z
 ---
 **Peeping above an old flint wall, pretending to look for a missing ball
-A wall of glinting grey, black stones. Or were they bones?
+A wall of glinting stones. Or were they bones?
 Broken and knobbly, of things unknown.**
 
 **Stepping through the wrought iron gate, roughened, with old peeling paint.
