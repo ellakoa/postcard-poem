@@ -1,6 +1,6 @@
 ---
 title: Gone Fishing Days.
-description: "11"
+description: Relax and remember a perfect day.
 aspect: landscape
 image: /img/gone-fishing-one-1-.jpg
 metaImage: /img/face.jpg
