@@ -17,7 +17,7 @@ poem: |-
 
   I call these days ‘Gone Fishing Days’
   You hope but never expect
-  They urn out perfect in every respect.
+  A perfect catch in every respect.
 
   Once hooked, you reel a piece into your heart
   Memories to treasure and never part.
