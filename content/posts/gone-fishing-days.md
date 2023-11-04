@@ -36,4 +36,6 @@ showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-11-05T08:00:46.849Z
 ---
-‘Gone fishing’ I love that expression, it conjures up peace, tranquillity and hope. Hope that maybe today is the day you’ll land the catch that you can talk about forever. Sometimes experiencing a perfect day, is like that, one that happens when you least expect it, where at the end of the day you take a deep sigh and say that was perfect, these are my ‘Gone Fishing Days’ The retelling of the story might involve a bit of artistic  licence and eventually hover between a dream and reality, but I think that is just perfect.
+‘Gone fishing’ I love that expression, it conjures up peace, tranquillity and hope. Hope that maybe today is the day you’ll land the catch you can talk about forever. 
+
+Sometimes experiencing a perfect day, is like that, one that happens when you least expect it, where at the end of the day you take a deep sigh and say that was perfect, these are my ‘Gone Fishing Days’. The retelling of the story might involve a bit of artistic  licence and eventually hover between a dream and reality, but I think that is just perfect.
