@@ -1,6 +1,7 @@
 ---
 title: Gone Fishing Days.
-description: Relax and remember a perfect day.
+description: |
+  Relax and remember a perfect day.
 aspect: landscape
 image: /img/gone-fishing-one-1-.jpg
 metaImage: /img/face.jpg
@@ -32,11 +33,11 @@ address: |-
   Deal 
   Kent UK
 stamp: /img/gone-fishing-stamp-1-.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-11-05T08:00:46.849Z
 ---
-‘Gone fishing’ I love that expression, it conjures up peace, tranquillity and hope. Hope that maybe today is the day you’ll land the catch you can talk about forever. 
+‘Gone fishing’ I love that expression, it conjures up peace, tranquillity and hope. Hope that maybe today is the day you’ll land the catch you can talk about with pride forever.
 
 Sometimes experiencing a perfect day, is like that, one that happens when you least expect it, where at the end of the day you take a deep sigh and say that was perfect. These I call my ‘Gone Fishing Days’. 
 
