@@ -1,7 +1,7 @@
 ---
 title: Copper Threads
 description: "111"
-collection: Woodland Tapestries.
+collection: Woodland Tapestries
 aspect: landscape
 image: /img/copper-threads-1-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
