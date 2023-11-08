@@ -29,7 +29,7 @@ address: |
   Kearsney Parks
   Dover
   Kent UK.
-stamp: /img/copper-threads-stamp-1-.jpg
+stamp: /img/copper-threads-stamp.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-11-12T08:00:53.758Z
