@@ -17,8 +17,8 @@ poem: |-
 
   Autumn snips the final threads and
   all around, tumbling down 
-  a cloth of orange, red and golden brown
-  layer upon layer shrouding the ground.
+  a cloth of orange, red and golden brown.
+  Layer upon layer shrouding the ground.
 
   A woodland proudly displaying its bounty
   active in preparation, storing in anticipation.
