@@ -16,8 +16,8 @@ poem: |-
   the canopy begins to fray.
 
   Autumn snips the final threads and
-  all around, tumbling down a 
-  cloth of orange, red and golden brown
+  all around, tumbling down 
+  a cloth of orange, red and golden brown
   layer upon layer shrouding the ground.
 
   A woodland proudly displaying its bounty
