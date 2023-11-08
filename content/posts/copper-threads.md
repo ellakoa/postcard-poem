@@ -23,7 +23,7 @@ poem: |-
   A woodland proudly displaying its bounty
   active in preparation, storing in anticipation.
 alignPoemLeft: false
-removePostcardPadding: false
+removePostcardPadding: true
 address: |
   Copper Threads
   Kearsney Parks
