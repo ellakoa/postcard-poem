@@ -12,8 +12,8 @@ poem: |-
   Woodland creatures go about their chores 
   rummaging for winter stores.
 
-  The canopy begins to fray 
-  as  summer has cast away.
+  Summer has cast away, 
+  the canopy begins to fray 
 
   Autumn snips the final threads and
   all around, tumbling down 
