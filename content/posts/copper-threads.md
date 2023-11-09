@@ -37,7 +37,7 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-11-12T08:00:53.758Z
 ---
-Autumn colours are reflected in the waters of Kearsney Parks. The park is beautiful whatever the season.
+Autumn colours are reflected in the waters of Kearsney Parks. 
 The low sun and the wind rippling the surface of the water made the vibrant autumn colours pop. It was as if copper threads had been woven into the tree’s canopies setting them ablaze. Mesmerizing.
 
 
