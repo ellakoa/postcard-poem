@@ -6,5 +6,5 @@ welcome: |-
   Wanting to share the joy of a place, a moment in time.
   Or just for collecting to look back at happy memories.
   Explore and discover. Take five and enjoy.
-image: /img/banner-art-1ab-.jpg
+image: /img/blog-banner-june-2023-1-.jpg
 ---
