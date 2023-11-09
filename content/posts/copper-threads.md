@@ -6,7 +6,8 @@ collection: Woodland Tapestries
 aspect: landscape
 image: /img/copper-threads-1-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
+alt: Vibrant autumn colours reflect in a lake, the wind rippling the water
+  distorts the reflection, making it look like fire.
 poem: |-
   Fungi, beautiful and weird, 
   Unruly Old Man’s Beard.
