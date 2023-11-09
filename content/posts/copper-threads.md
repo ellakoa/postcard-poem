@@ -39,4 +39,6 @@ date: 2023-11-12T08:00:53.758Z
 ---
 Autumn colours are reflected in the waters of Kearsney Parks. The park is beautiful whatever the season.
 The low sun and the wind rippling the surface of the water made the vibrant autumn colours pop. It was as if copper threads had been woven into the tree’s canopies setting them ablaze. Mesmerizing.
+
+
 Part of the Woodlands Tapestry collection of postcards.
