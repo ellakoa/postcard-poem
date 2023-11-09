@@ -1,6 +1,7 @@
 ---
 title: Copper Threads
-description: "111"
+description: |
+  Autumn Colours reflected in 
 collection: Woodland Tapestries
 aspect: landscape
 image: /img/copper-threads-1-1-.jpg
@@ -34,3 +35,6 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-11-12T08:00:53.758Z
 ---
+Autumn colours are reflected in the waters of Kearsney Parks. The park is beautiful whatever the season.
+The low sun and the wind rippling the surface of the water made the vibrant autumn colours pop. It was as if copper threads had been woven into the tree’s canopies setting them ablaze. Spellbinding. 
+Part of the Woodlands Tapestry collection of postcards.
