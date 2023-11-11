@@ -1,7 +1,7 @@
 ---
 title: Copper Threads
 description: >-
-  Enjoy autumns vibrant colours.
+  Enjoy autumn's vibrant colours.
 
   Autumn colours are reflected in the waters of Kearsney Parks. 
 
