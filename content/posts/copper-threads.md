@@ -1,14 +1,6 @@
 ---
 title: Copper Threads
-description: >-
-  Enjoy autumn's vibrant colours.
-
-  Autumn colours are reflected in the waters of Kearsney Parks. 
-
-  The low sun and the wind rippling the surface of the water made the vibrant autumn colours pop. It was as if copper threads had been woven into the tree’s canopy setting the woodland ablaze with colour.. Mesmerizing.
-
-
-  Part of the Woodlands Tapestry collection of postcards.
+description: Enjoy autumn's vibrant colours.
 collection: Woodland Tapestries
 aspect: landscape
 image: /img/copper-threads-1-1-.jpg
@@ -44,7 +36,6 @@ author: Caroline Whitehouse
 date: 2023-11-12T08:00:53.758Z
 ---
 Autumn colours are reflected in the waters of Kearsney Parks. 
-The low sun and the wind rippling the surface of the water made the vibrant autumn colours pop. It was as if copper threads had been woven into the tree’s canopies setting them ablaze. Mesmerizing.
-
+The low sun and the wind rippling the surface of the water made the vibrant autumn colours dance. It was as if copper threads had been intricately woven into the tree canopy making it appear on fire. Spectacular.
 
 Part of the Woodlands Tapestry collection of postcards.
