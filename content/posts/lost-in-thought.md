@@ -7,12 +7,11 @@ image: /img/lost-in-thought-kearsney-door-1010915.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: An old green wooden door stands shut, in an old brick wall, surrounded by
   evergreen trees.
-poem: |
+poem: |-
   Take my hand, walk by my side
   Beyond the door, I'll be your guide
-  Leave behind what makes you doubt
-  What makes you frown
-  What makes you shout.
+  Leave behind what makes you doubt,
+  what makes you frown, what makes you shout.
 
   Side by side, let us wander 
   In comfy silence, somewhere yonder.
@@ -20,9 +19,9 @@ poem: |
   What makes you smile is where we’ll go.
 
   Lost in thought, lost in time
-  Hand in hand, yours and mine
+  I won’t let go, your hand in mine
   ‘Somewhere’ is where we will be
-  A gentle amble, you and me.
+  Together, you and me.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
