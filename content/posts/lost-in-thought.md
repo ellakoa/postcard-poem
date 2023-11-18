@@ -21,7 +21,7 @@ poem: |-
   Lost in thought, lost in time
   I won’t let go, your hand in mine
   ‘Somewhere’ is where we will be
-  Together, you and me.
+  Gentley ambling, you and me.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
