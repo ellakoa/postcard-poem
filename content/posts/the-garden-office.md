@@ -21,12 +21,12 @@ poem: |-
   Some things lost, others found.
 
   Dust and cobwebs on the ledge
-  Sea lavender drying overhead
+  Sea lavender drying overhead.
   Yellowing paint, grimy glass
-  Verdigris on the brass
+  Verdigris on the brass.
 
   I would shake my cares away
-  and take a moment to pause and gaze.
+  Pause and simply gaze.
 stampHeight: "400"
 alignPoemLeft: true
 removePostcardPadding: false
