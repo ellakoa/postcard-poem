@@ -5,7 +5,7 @@ width: "400"
 height: "600"
 title: The Garden Office
 description: Pause, relax and unwind.
-collection: ""
+collection: Authors Choice
 aspect: landscape
 image: /img/the-gardeners-office-new-1-.jpg
 metaImage: /img/face.jpg
