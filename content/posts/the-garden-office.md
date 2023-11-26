@@ -26,7 +26,7 @@ poem: |-
   Verdigris on the brass.
 
   I would shake my cares away
-  Pause and simply gaze.
+  Pause a moment and simply gaze.
 stampHeight: "400"
 alignPoemLeft: true
 removePostcardPadding: false
