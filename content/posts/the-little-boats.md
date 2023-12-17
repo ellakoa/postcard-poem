@@ -8,7 +8,7 @@ metaImage: /img/face.jpg
 alt: Night time scene of Ramsgate harbour, The little boats are lit up with
   festive lights which reflect in the water
 poem: |
-  Bag of chips and not a gull in sight
+  Bag of chips and not a gull in sight,
   an evening stroll to the harbour lights.
   There's a nip in the air and sudden 
   blasts of wind, we are wrapped up 
