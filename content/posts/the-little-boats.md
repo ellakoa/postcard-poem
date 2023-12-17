@@ -9,18 +9,18 @@ alt: Night time scene of Ramsgate harbour, The little boats are lit up with
   festive lights which reflect in the water
 poem: |
   Bag of chips and not a gull in sight
-  an evening stroll to the harbour lights
+  an evening stroll to the harbour lights.
   There's a nip in the air and sudden 
-  blasts of wind we are wrapped up 
-  warm against a cold that stings
+  blasts of wind, we are wrapped up 
+  warm against a cold that stings.
 
   We casually stroll the harbour arm
-  taking our time completely charmed
+  taking our time completely charmed,
   and as twilight darkens into the night
-  the festive lights glow bright
+  the festive lights glow bright.
 
   It warms our cockles but not our toes
-  or the tip of a now red shiny nose
+  or the tip of a now, red shiny nose.
   Hot chocolate with sprinkles before
   we make tracks, we turn and wave 
   and the little boats twinkle back.
