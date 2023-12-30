@@ -2,6 +2,7 @@
 title: The Silence of Snow
 description: |
   Enjoy the magical silence of snow.
+collection: W
 aspect: landscape
 image: /img/the-silence-of-snow-1-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
