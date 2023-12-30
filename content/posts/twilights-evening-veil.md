@@ -3,7 +3,7 @@ title: "Twilights Veil "
 description: >
   The magical light of twilight in the evening before the blanket of night is
   pulled across the sky.
-collection: Wonderful Britain.
+collection: Wonderful Britain
 aspect: landscape
 image: /img/twilights-veil.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
