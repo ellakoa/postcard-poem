@@ -31,7 +31,7 @@ address: |-
   Dover
   Kent
   UK
-stamp: /img/a-bridge-to-elsewhere-stamp-new-1-.png
+stamp: /img/the-silence-of-snow.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-12-31T08:00:20.974Z
