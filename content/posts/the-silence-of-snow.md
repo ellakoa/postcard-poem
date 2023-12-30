@@ -4,8 +4,8 @@ description: Enjoy the magical silence of snow.
 aspect: landscape
 image: /img/the-silence-of-snow-1-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "Foliage weighed down with snow.  A swan glides on a pond, duck footprints
-  in the snow lead to the water. "
+alt: A hillside covered with snow, families walking up the hill dragging
+  sleighs, others are sleighing downhill.
 poem: |-
   Silence fell on the longest of nights
   Extinguishing sound. Bringing light.
