@@ -1,7 +1,6 @@
 ---
 title: The Silence of Snow
-description: |
-  Enjoy the magical silence of snow.
+description: Enjoy the magical silence of snow.
 collection: ""
 aspect: landscape
 image: /img/the-silence-of-snow-2-1-1-.jpg
@@ -39,4 +38,4 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-12-31T08:00:20.974Z
 ---
-On this particular year, overnight snow closed many roads including Whitfield Hill. What a novelty to walk down the centre of this usually busy road, while a courageous workforce worked tirelessly at trying to clear it. Many families took advantage of this 'Snow day' to dust off their sleighs and embrace the opportunity to have. fun.
+This particular year, overnight snow closed many roads, including Whitfield Hill. It was a novelty walking down the centre of this usually busy road. A courageous workforce worked tirelessly trying to clear it. Many families took advantage of the 'Snow Day' to dust off their sleighs and embrace the opportunity to have fun.
