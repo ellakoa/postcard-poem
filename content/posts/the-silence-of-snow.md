@@ -2,7 +2,7 @@
 title: The Silence of Snow
 description: The magical silence of snow.
 aspect: landscape
-image: /img/the-silence-of-snow-2-1-1-.jpg
+image: /img/the-silence-of-snow-3-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "Foliage weighed down with snow.  A swan glides on a pond, duck footprints
   in the snow lead to the water. "
