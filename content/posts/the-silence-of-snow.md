@@ -5,11 +5,25 @@ aspect: landscape
 image: /img/the-silence-of-snow-2-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
-poem: |
-  Wishing you all
-  a Happy 
-  and peaceful
-  2024.
+poem: |-
+  Silence fell on the longest of nights
+  Extinguishing sound, bringing light.
+
+  Silence fell like a blanket of peace 
+  Soothing the soul, bringing release.
+
+  Silence fell as a gentle caress,
+  Calming the body, easing stress.
+
+  Silence fell far and deep,
+  Lulling minds to restful sleep.
+
+  Silence weighed heavily down,
+  Holding its breath on the ground.
+
+  Layer upon layer upon layer,
+  Answering a child's simple prayer
+  “Oh, please let it snow”.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
