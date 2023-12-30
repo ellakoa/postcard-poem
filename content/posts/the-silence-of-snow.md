@@ -21,7 +21,8 @@ poem: |-
 
   Silence weighed heavily down,
   Holding its breath on the ground.
-  Layer upon layer upon layer,
+
+  Layer upon layer upon layer.
 
   Answering a child's simple prayer.
   “Oh, please let it snow”.
