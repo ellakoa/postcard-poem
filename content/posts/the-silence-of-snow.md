@@ -30,9 +30,9 @@ alignPoemLeft: false
 removePostcardPadding: false
 address: |-
   The Silence of Snow
-  Kearsney
   Dover
-  Kent UK
+  Kent 
+  UK
 stamp: /img/the-silence-of-snow-1a-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
