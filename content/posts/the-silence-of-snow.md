@@ -7,7 +7,7 @@ metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
 poem: |-
   Silence fell on the longest of nights
-  Extinguishing sound, bringing light.
+  Extinguishing sound. Bringing light.
 
   Silence fell like a blanket of peace 
   Soothing the soul, bringing release.
