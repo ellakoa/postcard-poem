@@ -4,7 +4,8 @@ description: The magical silence of snow.
 aspect: landscape
 image: /img/the-silence-of-snow-2-1-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
+alt: "Foliage weighed down with snow.  A swan glides on a pond, duck footprints
+  in the snow lead to the water. "
 poem: |-
   Silence fell on the longest of nights
   Extinguishing sound. Bringing light.
