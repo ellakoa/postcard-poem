@@ -4,7 +4,7 @@ description: |
   Enjoy the magical silence of snow.
 collection: ""
 aspect: landscape
-image: /img/the-silence-of-snow-1-1-.jpg
+image: /img/the-silence-of-snow-2-1-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A hillside covered with snow, families walking up the hill dragging
   sleighs, others are sleighing downhill.
@@ -34,7 +34,7 @@ address: |-
   Dover
   Kent 
   UK
-stamp: /img/the-silence-of-snow-1a-1-.png
+stamp: /img/the-silence-of-snow-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-12-31T08:00:20.974Z
