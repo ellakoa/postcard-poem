@@ -32,7 +32,7 @@ address: |-
   Kent
   UK
 stamp: /img/the-silence-of-snow.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-12-31T08:00:20.974Z
 ---
