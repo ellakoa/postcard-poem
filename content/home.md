@@ -1,6 +1,5 @@
 ---
 title: Postcard Poems
-welcome: |
-  Welcome. 
+welcome: "Take Five and Enjoy. "
 image: /img/2024-2-1-.png
 ---
