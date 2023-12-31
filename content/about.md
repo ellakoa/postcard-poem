@@ -1,10 +1,14 @@
 ---
 title: About
 ---
+**Welcome to Postcard Poems**
+
+I am a cup-half-full person and inject this positivity in my writing, I enjoy the great outdoors which is where I get my inspiration from, the places I have visited and the images I have captured with my camera. Please enjoy browsing through the postcards and share my ramblings. Check back often for new posts.
+
 **How this blog came about**
 
 Strange times in 2020 and 2021 when staying at home was normal and going out 
-was initially limited to an hour a day. The COVID -19 pandemic affected us all.
+was initially limited to an hour a day. The COVID-19 pandemic affected us all.
 
 Overnight my 88 year old mother lost the few pursuits that gave her contact with others.
 Her book club, craft club, meetings at the WI and seeing her family.  
