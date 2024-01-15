@@ -7,18 +7,18 @@ image: /img/beyond-pebbles-face-kingsdo.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
 poem: |-
-  Fallen leaves, twigs, gnarly bark
+  Fallen leaves, twigs, gnarly bark.
   Skeleton trees, canopies stark
   Delicate lichens catch the light from  
   winters sun which is low and bright.
 
   Long thin shadows slowly stretch  
-  weaving across the earthy bed 
-  Soft moss, decaying matter
+  weaving across the earthy bed.
+  Soft moss, decaying matter.
   Birds flock with incessant chatter.
 
-  Tortuous vines climb and cling 
-  an evergreen coat on aged limbs
+  Tortuous vines climb and cling,
+  an evergreen coat on aged limbs.
   Trees stand tall and fast as
   ferocious winds whine and grasp.
 
