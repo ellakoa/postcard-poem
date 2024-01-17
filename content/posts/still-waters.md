@@ -8,7 +8,7 @@ metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A frozen Lake surrounded by snow, many birds have landed on the lake and
   stand bemused on the frozen water.
 poem: |-
-  Watery sun flows
+  Watery sunset
   Ice glistening traps still ponds
   Birds alight and skate.
 alignPoemLeft: false
