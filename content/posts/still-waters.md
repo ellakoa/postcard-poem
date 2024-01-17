@@ -1,6 +1,6 @@
 ---
 title: Still Waters
-description: A Chilly Haiku.
+description: A Wintery Haiku.
 collection: Haiku
 aspect: landscape
 image: /img/silent-pond-kearsney-main-blog-t.jpg
