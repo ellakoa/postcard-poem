@@ -9,7 +9,7 @@ alt: A frozen Lake surrounded by snow, many birds have landed on the lake and
   stand bemused on the frozen water.
 poem: |-
   Watery sunset
-  Glistening, ice traps still ponds
+  Glinting, the ice traps still lakes
   Birds alight and skate.
 alignPoemLeft: false
 removePostcardPadding: false
