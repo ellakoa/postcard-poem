@@ -10,7 +10,7 @@ alt: A frozen Lake surrounded by snow, many birds have landed on the lake and
 poem: |-
   Watery sunset
   Glinting, the ice traps still ponds
-  Birds alight and skate.
+  Ducks alight and skate.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
