@@ -21,6 +21,6 @@ address: |-
 stamp: /img/silent-ponds-stamp.png
 showStampInPreview: false
 author: Caroline Whitehouse
-date: 2023-12-03T08:00:27.208Z
+date: 2023-01-08T08:01:27.208Z
 ---
 Kearsney Parks in Dover, the birds were certainly confused as they landed and encountered ice instead of water. Those who had already landed had no interest in alerting their fellow birds of the ice and watched bemused as many became skittles in the subsequent landings of their feathered friends.
