@@ -1,6 +1,6 @@
 ---
 title: Summers Embrace
-description: Woodland Tapestries. New Forest. Hampshire, UK.
+description: Summer in the Woodlands Tapestries Collection.
 collection: Woodland Tapestries
 aspect: landscape
 image: /img/summers-embrace-2-1-.jpg
