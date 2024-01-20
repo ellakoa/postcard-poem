@@ -1,6 +1,6 @@
 ---
 title: Lost in Thought
-description: A timeless amble in the grounds of Kearsney Parks.
+description: An amble in the timeless grounds of Kearsney Parks.
 aspect: landscape
 image: /img/lost-in-thought-kearsney-door-1010915.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
