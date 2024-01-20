@@ -11,7 +11,7 @@ collection: Woodland Tapestries
 aspect: landscape
 image: /img/winters-sleep-1-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "111"
+alt: Two trees with their branches interwoven and covered in snow.
 poem: |-
   Fallen leaves, twigs, gnarly bark.
   Skeleton trees, canopies stark
