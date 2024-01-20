@@ -1,6 +1,12 @@
 ---
 title: Winters Sleep
-description: Winter in the Woodland Tapestry Collection
+description: >-
+  Winter in the Woodland Tapestry Collection
+
+
+  Woodland Tapestries is a collection of photographs and poems showcasing our wonderful woodlands. I had this romantic notion that our woodlands were being woven on an ancient woodland loom, each season taking it in turn to weave its finest colours. Here is winter tending to the loom.
+
+  Discover more woodland tapestries as we transition through the year.
 collection: Woodland Tapestries
 aspect: landscape
 image: /img/winters-sleep-1-1-.jpg
@@ -17,14 +23,14 @@ poem: |-
   Soft moss, decaying matter.
   Birds flock with incessant chatter.
 
-  Tortuous vines climb and cling,
+  Tortuous vines climb and cling
   an evergreen coat on aged limbs.
   Trees stand tall and fast as
   ferocious winds whine and grasp.
 
   Jack frost chills, fresh snow stills,
   A woodland steeped in hibernation 
-  veiled from winter altercations.
+  veiled from winters altercation.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
