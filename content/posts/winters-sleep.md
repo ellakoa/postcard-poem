@@ -3,7 +3,7 @@ title: Winters Sleep
 description: Winter in the Woodland Tapestry Collection
 collection: Woodland Tapestries
 aspect: landscape
-image: /img/beyond-pebbles-face-kingsdo.jpg
+image: /img/winters-sleep-1-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
 poem: |-
@@ -27,8 +27,12 @@ poem: |-
   veiled from winter altercations.
 alignPoemLeft: false
 removePostcardPadding: false
-address: "111"
-stamp: /img/beyond-pebbles-face-kingsdo.jpg
+address: |-
+  Winters Sleep
+  Kearsney Parks
+  Dover
+  Kent UK
+stamp: /img/winters-sleep-stamp-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2024-01-14T08:00:10.106Z
