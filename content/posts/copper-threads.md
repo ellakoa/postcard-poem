@@ -1,6 +1,6 @@
 ---
 title: Copper Threads
-description: Enjoy autumn's vibrant colours.
+description: Enjoy autumn's vibrant colours in the Woodland Tapestries Collection.
 collection: Woodland Tapestries
 aspect: landscape
 image: /img/copper-threads-1-1-.jpg
