@@ -1,6 +1,6 @@
 ---
 title: Winters Sleep
-description: Winter in the Woodland Tapestry Collection
+description: Enjoy winter in the Woodland Tapestry Collection
 collection: Woodland Tapestries
 aspect: landscape
 image: /img/winters-sleep-1-1-.jpg
