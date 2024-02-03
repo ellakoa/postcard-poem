@@ -3,7 +3,7 @@ title: A Hope of Snowdrops
 description: Snowdrops in our woodlands.
 collection: ""
 aspect: landscape
-image: /img/banner-art-1ab-.jpg
+image: /img/a-hope-of-snowdrops-main-1-.jpg
 metaImage: /img/face.jpg
 alt: Winter woodland bathed in sunlight, snowdrops are in bloom.
 poem: |-
@@ -21,7 +21,7 @@ address: |-
   Kearsney Parks
   Dover
   Kent UK
-stamp: /img/a-bridge-to-elsewhere-stamp-new-1-.png
+stamp: /img/a-hope-of-snowdrops-stamp-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2024-02-04T08:00:20.319Z
