@@ -13,7 +13,7 @@ poem: |-
   Green shoots pierce the frozen earth.
 
   A hope of snowdrops brings light
-  Soon, an end to long dark nights.
+  Soon, an end to cold dark nights.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
