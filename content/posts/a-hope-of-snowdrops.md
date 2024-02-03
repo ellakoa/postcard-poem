@@ -7,8 +7,8 @@ image: /img/a-hope-of-snowdrops-main-1-.jpg
 metaImage: /img/face.jpg
 alt: Winter woodland bathed in sunlight, snowdrops are in bloom.
 poem: |-
-  Sunlight between spindly trees
-  Long shadows on fallen leaves
+  Sunlight peeps between spindly trees
+  Long shadows walk on fallen leaves
 
   Green shoots pierce the frozen earth.
 
