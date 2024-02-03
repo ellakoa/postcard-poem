@@ -8,12 +8,12 @@ metaImage: /img/face.jpg
 alt: Winter woodland bathed in sunlight, snowdrops are in bloom.
 poem: |-
   Sunlight peeps between spindly trees
-  Long shadows walk on fallen leaves
+  Long shadows walk on a bed of leaves.
 
   Green shoots pierce the frozen earth.
 
   A hope of snowdrops brings light
-  Soon, an end to cold dark nights.
+  Soon, an end to long cold nights.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
