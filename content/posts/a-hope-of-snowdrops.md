@@ -19,7 +19,7 @@ poem: |-
          of snowdrops delights.
   Soon, 
          an end to the long cold nights.
-  Spring
+  Spring,
          is within our sight.
 alignPoemLeft: true
 removePostcardPadding: false
