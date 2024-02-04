@@ -1,6 +1,6 @@
 ---
 title: A Hope of Snowdrops
-description: Snowdrops in our woodlands.
+description: A hope, that spring will soon be here.
 collection: ""
 aspect: landscape
 image: /img/a-hope-of-snowdrops-main-1-.jpg
