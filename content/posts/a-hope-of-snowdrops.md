@@ -8,17 +8,17 @@ metaImage: /img/face.jpg
 alt: Winter woodland bathed in sunlight, snowdrops are in bloom.
 poem: |-
   Like swords, 
-             shoots pierce the frozen land.
+         shoots pierce the frozen land.
   Rising, 
-             to make a stand. 
+         to make a stand. 
   A challenge,
-             to winter’s white.
+         to winter’s white.
   Flowering, 
-             little lanterns of light.
+         little lanterns of light.
   A hope,
-             of snowdrops delights.
+         of snowdrops delights.
   Promising, 
-             an end to the long cold nights.
+         an end to the long cold nights.
 alignPoemLeft: true
 removePostcardPadding: false
 address: |-
