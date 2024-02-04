@@ -19,7 +19,7 @@ poem: |-
          of snowdrops delights.
   Soon, 
          an end to the long cold nights.
-alignPoemLeft: true
+alignPoemLeft: false
 removePostcardPadding: false
 address: |-
   A Hope of Snowdrops
