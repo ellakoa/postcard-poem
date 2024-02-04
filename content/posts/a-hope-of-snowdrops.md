@@ -17,7 +17,7 @@ poem: |-
          little lanterns of light.
   A hope,
          of snowdrops delights.
-  Promising, 
+  Soon, 
          an end to the long cold nights.
 alignPoemLeft: true
 removePostcardPadding: false
