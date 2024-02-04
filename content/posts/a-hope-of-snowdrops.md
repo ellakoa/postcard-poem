@@ -7,14 +7,19 @@ image: /img/a-hope-of-snowdrops-main-1-.jpg
 metaImage: /img/face.jpg
 alt: Winter woodland bathed in sunlight, snowdrops are in bloom.
 poem: |-
-  Sunlight peeps between spindly trees
-  Long shadows walk on a bed of leaves.
-
-  Green shoots pierce the frozen earth.
-
-  A hope of snowdrops brings light
-  Soon, an end to long cold nights.
-alignPoemLeft: false
+  Like swords, 
+             shoots pierce the frozen land.
+  Rising, 
+             to make a stand. 
+  A challenge,
+             to winter’s white.
+  Flowering, 
+             little lanterns of light.
+  A hope,
+             of snowdrops delights.
+  Promising, 
+             an end to the long cold nights.
+alignPoemLeft: true
 removePostcardPadding: false
 address: |-
   A Hope of Snowdrops
