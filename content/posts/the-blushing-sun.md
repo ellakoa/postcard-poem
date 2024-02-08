@@ -17,16 +17,16 @@ poem: |-
   the sun retires each night on time.
 
   The evening clouds gently billow 
-  To provide the sun with a pillow
+  To provide the sun with a pillow.
 
-  But, the evening clouds can be late
+  But the evening clouds can be late
   which causes the sun to get irate 
-  Smouldering, as he settles down
+  Smouldering as he settles down
   a furious red, without his gown.
 
   The errant clouds, feeling a tad abashed
-  turn the sky pretty pink
-  as out of sight the sun doth sink.
+  turn the sky pretty pink as out of sight 
+  the sun slowly sinks.
 alignPoemLeft: true
 removePostcardPadding: false
 address: |-
