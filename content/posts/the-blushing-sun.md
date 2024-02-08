@@ -9,24 +9,23 @@ alt: The sun sets over a body of water, orange, amber and red reflect the sky,
   as the sun dips, two swans glide across the water.
 poem: |-
   I am told the sun is very old
-  an ancient orb of burnished gold.
+  An ancient orb of burnished gold.
   A glowing mantle is his gown.
   A fiery aura is his crown.
 
   To keep him in his finest prime
   the sun retires each night on time.
-
   The evening clouds gently billow 
-  To provide the sun with a pillow
+  To provide the sun with a pillow.
 
-  But, the evening clouds can be late
+  But the evening clouds can be late
   which causes the sun to get irate 
-  Smouldering, as he settles down
+  Smouldering, he settles down
   a furious red, without his gown.
 
   The errant clouds, feeling a tad abashed
-  turn the sky pretty pink
-  as out of sight the sun doth sink.
+  turn the sky pretty pink as out of sight 
+  the sun slowly sinks.
 alignPoemLeft: true
 removePostcardPadding: false
 address: |-
