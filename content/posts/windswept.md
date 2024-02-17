@@ -11,25 +11,21 @@ alt: Hawthorn tree shaped by the wind to look like hair blowing in the wind,
 poem: |-
   Windswept, looking out to sea
   that is me, a wild Hawthorn tree.
-
   Rooted atop the white cliffs, I wait
   for the easterly wind to shape my fate.
 
   Tangled, unruly, without much care
   my branches are wavy as maiden's hair.
-
   Seasons in turn try to tame my tresses
   gently coaxing with persistent caresses.
 
   Warmer months, tie a leafy green scarf,
-  winds try to snatch it away with a laugh.
-
-  And as summer turns into autumn browns
-  Red berries are tied tight to my crown. 
+  winds try to snatch it away with a laugh,
+  and as summer turns into autumn brown
+  red berries are tied tight to my crown. 
 
   In winter, after the usual leaf loss
   my locks have braids of lichen and moss.
-
   Spring adorns me with garlands of white
   May blossom is the most wondrous sight.
 
