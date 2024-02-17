@@ -22,10 +22,10 @@ poem: |-
   gently coaxing with persistent caresses.
 
   Warmer months, tie a leafy green scarf,
-  the wind tries to snatch it away with a laugh.
+  winds try to snatch it away with a laugh.
 
   And as summer turns into autumn browns
-  Sprigs of red berries are tied tight to my crown. 
+  Red berries are tied tight to my crown. 
 
   In winter, after the usual leaf loss
   my locks have braids of lichen and moss.
