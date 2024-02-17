@@ -16,7 +16,7 @@ poem: |-
   for the easterly wind to shape my fate.
 
   Tangled, unruly, without much care
-  my branches are wavey as maiden's hair.
+  my branches are untamed as maiden's hair.
 
   Seasons in turn try to tame my tresses
   gently coaxing with persistent caresses.
