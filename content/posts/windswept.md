@@ -21,8 +21,8 @@ poem: |-
   Seasons in turn try to tame my tresses
   gently coaxing with persistent caresses.
 
-  Warmer months, tie a leafy green scarf
-  which the wind tries to snatch away with a laugh.
+  Warmer months, tie a leafy green scarf,
+  the wind tries to snatch it away with a laugh.
 
   And as summer turns into autumn browns
   Sprigs of red berries are tied tight to my crown. 
