@@ -29,7 +29,7 @@ address: |-
   Dover
   Kent UK
 stamp: /img/a-hope-of-snowdrops-stamp-1-.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2024-02-04T08:00:20.319Z
 ---
