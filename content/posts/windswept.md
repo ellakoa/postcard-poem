@@ -16,7 +16,7 @@ poem: |-
   for the easterly wind to shape my fate.
 
   Tangled, unruly, without much care
-  my branches are untamed as maiden's hair.
+  my branches are wavy as maiden's hair.
 
   Seasons in turn try to tame my tresses
   gently coaxing with persistent caresses.
@@ -34,7 +34,7 @@ poem: |-
   May blossom is the most wondrous sight.
 
   Despite all their efforts, 
-  and nature's wondrous art
+  in nature's art
   I remain,
   Windswept, unruly, a wild child at heart.
 alignPoemLeft: false
