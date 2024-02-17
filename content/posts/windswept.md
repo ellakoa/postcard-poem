@@ -33,8 +33,7 @@ poem: |-
   Spring adorns me with garlands of white
   May blossom is the most wondrous sight.
 
-  Despite all their efforts, 
-  in nature's art
+  Despite all their efforts, in nature's art,
   I remain,
   Windswept, unruly, a wild child at heart.
 alignPoemLeft: false
