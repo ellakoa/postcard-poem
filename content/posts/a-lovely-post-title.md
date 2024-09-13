@@ -12,7 +12,7 @@ metaImage: /img/face.jpg
 alt: Partially open wooden frame window, six panes of glass in each, looking out
   of an old outbuilding towards a lush green garden.
 poem: |-
-  If I could just pause and gaze
+  If I could pause and gaze
   through a window every day
   This is the window I would choose 
   with restful greens in the view.
@@ -23,7 +23,7 @@ poem: |-
   Dust and cobwebs on the ledge
   Sea lavender drying overhead
   Yellowing paint, grimy glass
-  Verdigris on the brass
+  Verdigris on the dulled brass
 
   I would shake my cares away
   and take a moment to pause and gaze.
