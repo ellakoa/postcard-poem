@@ -28,7 +28,7 @@ poem: |-
   Disturbing the critters where you tread
   Spark the jitters, installing dread
   Hold your breath, feel the heart pound
-  Mind the deadly toadstools all around.
+  Mind the deadly toadstools around.
 
   Be careful of where you roam
   Stick to the path and find your way home.
