@@ -2,7 +2,7 @@
 title: Deep in the Forest
 description: Something a little Dark for Halloween 2024
 aspect: landscape
-image: /img/deep-in-the-forest-1-.jpg
+image: /img/deep-in-the-forest-2-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A Forest track, Sunlight lighting up the path, dense dark vegetation either
   side.
