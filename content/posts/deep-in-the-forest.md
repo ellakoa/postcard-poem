@@ -1,8 +1,8 @@
 ---
 title: Deep in the Forest
-description: Something a little Dark for Halloween
+description: Something a little Dark for Halloween 2024
 aspect: landscape
-image: /img/bad-hair-day-tiny.jpg
+image: /img/deep-in-the-forest-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A Forest track, Sunlight lighting up the path, dense dark vegetation either
   side.
@@ -31,10 +31,10 @@ address: |-
   The New Forest
   Hampshire
   UK
-stamp: /img/authors-choice.jpg
+stamp: /img/deep-in-the-forest-stamp-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
-date: 2024-10-15T13:11:48.319Z
+date: 2024-10-15T07:00:48.319Z
 ---
 Wandering along the path on a sunny day in the new forest I was instilled with a sense of joyous well-being. The sun was warm and bright, birds and insects were busy around, and vegetation thrived, but only along the edges of the path. A step off the path and the dense canopy of the forest was excluding and forbidding.
 
