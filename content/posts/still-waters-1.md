@@ -1,7 +1,7 @@
 ---
 title: Still Waters
 description: A Wintery Haiku.
-collection: Authors Choice
+collection: Haiku
 aspect: landscape
 image: /img/silent-pond-kearsney-main-blog-t.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
