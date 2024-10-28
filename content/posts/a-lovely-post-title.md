@@ -23,7 +23,7 @@ poem: |-
   Dust and cobwebs on the ledge
   Sea lavender drying overhead
   Yellowing paint, grimy glass
-  Verdigris on the dulled brass
+  Verdigris on the brass
 
   I would shake my cares away
   and take a moment to pause and gaze.
