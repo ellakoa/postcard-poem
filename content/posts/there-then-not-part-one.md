@@ -16,11 +16,12 @@ poem: |+
 
   Lashed with rain on our outward ride we arrived under thunderous skies
   Flanked by inquisitive seals our first glimpse of the sandbanks chilled
-  Surrounded by the unpredictable sea would it swallow us up or let us be?
+  Surrounded by the unpredictable sea would it swallow us or let us be?
 
-  With trepidation we stepped ashore, trespasses on these famed sands
-  The sun appeared, a rainbow transpired
-  An amnesty? We hoped while the tide had other shores to scope.
+  With trepidation, we stepped ashore, trespasses on these famed sands
+  The sun appeared, and a rainbow transpired
+  An amnesty? 
+  We hoped while the tide had other shores to scope.
 
 stampHeight: "400"
 alignPoemLeft: false
