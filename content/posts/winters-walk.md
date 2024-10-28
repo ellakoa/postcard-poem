@@ -20,7 +20,7 @@ poem: |-
 
   The air is cold, the sun is low
   everywhere a dusting of snow
-  Time for gloves and a woolly scarf
+  Time for gloves and woolly scarf
   Hear the dog's playful bark
   excited for walks in the park.
 alignPoemLeft: false
