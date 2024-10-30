@@ -12,25 +12,23 @@ metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: An abandoned house sits behind rusted gates, broken glass and shuttered
   windows, set in an overgrown garden.
 poem: >-
-  A house sat behind an old flint wall 
+  The house lurked behind an old flint wall 
 
-  Abandoned, haunted? If I recall,
+  Abandoned, haunted? If I recall.
 
   A perfect place for a Halloween dare.
 
-  Knock the door then run quite fast
+  Knock the door, run, quite fast,
 
-  back down the old worn garden path.
+  back down the overgrown garden path.
 
 
-  Peeping above an old flint wall, pretending to look for a missing ball
+  We would peep over the old flint wall, pretending to look for a missing ball.
 
   A wall of glinting stones. Or were they bones?
 
   Broken and knobbly, of things unknown.
 
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   Stepping through the wrought iron gate, roughened, with old peeling paint.
 
@@ -52,7 +50,6 @@ poem: >-
 
   Of course, we dared. One bang each. Bang. Bang.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   Laughing, exhilarated we turned and ran,
 
