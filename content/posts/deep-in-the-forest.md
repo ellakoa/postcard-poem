@@ -15,9 +15,9 @@ metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A Forest track, Sunlight lighting up the path, dense dark vegetation either
   side.
 poem: |-
-  Deep in the forest where the sun doesn’t heat
-  Where pine needles fall and pinprick your feet
-  Where birds rarely sing and ants hardly crawl
+  Deep in the forest, the sun doesn’t heat
+  Pine needles fall and pinprick your feet
+  Birds rarely sing and ants hardly crawl
   A darkness encircles, a silence calls.
 
   Stray from the path and lose your way
