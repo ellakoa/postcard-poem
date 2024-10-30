@@ -25,13 +25,13 @@ poem: |-
   Don’t rest your head, don’t count sheep
   No sweet dreams if you drift asleep.
 
-  Disturbing the critters where you tread
+  Disturbing critters where you tread
   Spark the jitters, installing dread
   Hold your breath, feel the heart pound
-  Mind the deadly toadstools all around.
+  Mind deadly toadstools all around.
 
   Be careful of where you roam
-  Stick to the path and find your way home.
+  Stick to the path, find your way home.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
