@@ -44,9 +44,9 @@ poem: >-
 
   Above a knocker of a bear’s head. 
 
-  A torn and worn bit of paper said. “Beware. 
+  A torn and worn bit of paper said. 
 
-  “Knock me if you dare”
+  “Beware, Knock me if you dare”
 
   Of course, we dared. One bang each. Bang. Bang.
 
