@@ -10,7 +10,7 @@ poem: >
   Chasing the Sunset is a favourite pastime. Often, clouds arrive at the last
   minute to thwart my photographic attempts. This particular evening, as the
   grasses gently swayed in the warm breeze, the sky was streaked with colour as
-  if a tub of powdered paint had been thrown across it. Glorious. 
+  if a tub of powdered paint had been thrown across it. Breathtaking.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
