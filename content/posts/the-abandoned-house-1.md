@@ -12,7 +12,6 @@ metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: An abandoned house sits behind rusted gates, broken glass and shuttered
   windows, set in an overgrown garden.
 poem: >-
-  
   A house sat behind an old flint wall 
 
   Abandoned, haunted? If I recall,
@@ -31,9 +30,7 @@ poem: >-
   Broken and knobbly, of things unknown.
 
 
-
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
   Stepping through the wrought iron gate, roughened, with old peeling paint.
 
@@ -41,11 +38,9 @@ poem: >-
 
   Dried to a thick red crust.
 
-
   Gingerly, making our way up the path, pretending to look for the ball with a laugh,
 
   Passing overgrown beds of dead flower heads and brambles that scratched our spindly legs.
-
 
   Up, steps to a wooden door,  ivy trailing over the porch floor.
 
