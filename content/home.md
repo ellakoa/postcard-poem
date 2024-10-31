@@ -1,13 +1,8 @@
 ---
 title: Postcard Poems
 welcome: >-
-  Wandering along the path on a sunny day in the New Forest I was instilled with
-  a sense of joyous well-being. The sun was warm and bright, birds and insects
-  were busy around, and vegetation thrived, but only along the edges of the
-  path. A step off the path and the dense canopy of the forest was excluding and
-  forbidding.
+  We're thrilled to have you here, where the beauty of poetry meets the charm of postcards. Explore a unique collection of heartfelt poems that capture moments, emotions, and stories, all presented in a delightful postcard format. Whether you're looking to find inspiration, or simply enjoy the art of words, we invite you to dive in and discover the magic of postcard poetry.
 
-
-  The contrast between light and dark should make your feet want to stay firmly on the path, but the mind's curiosity sometimes pulls in the wrong direction and then your feet just have to follow. Getting lost in the forest ignites the imagination.
+  Happy exploring!
 image: /img/2024-a-1-.png
 ---
