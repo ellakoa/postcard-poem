@@ -21,7 +21,7 @@ poem: >-
 
   Transport yourself with this letter postcard. 
 
-  See below.
+  Read below.
 stampHeight: "400"
 alignPoemLeft: false
 removePostcardPadding: true
