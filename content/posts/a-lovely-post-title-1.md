@@ -4,7 +4,21 @@ stampWidth: "600"
 width: "600"
 height: "400"
 title: "There Then Not "
-description: The Goodwin Sands a few miles from the Kent Coast.
+description: |-
+  The Goodwin Sands a few miles from the Kent Coast.
+
+  Lashed with rain on our outward ride 
+  We arrived under thunderous skies,
+  Flanked by inquisitive seals 
+  Our first glimpse of the sandbanks chilled,
+  Surrounded by the unpredictable sea,
+  Would it swallow us up or let us be?
+
+  With trepidation we stepped ashore,
+  Trespasses on these famed sands
+  The sun appeared, a rainbow transpired
+  An amnesty? We hoped,
+  While the tide had other shores to scope.
 collection: Letter Postcards
 aspect: landscape
 image: /img/goodwinw-sands-part-1-blog.jpg
@@ -36,12 +50,18 @@ date: 2022-08-07T07:00:00.000Z
 tags:
   - number-2
 ---
-Lashed with rain on our outward ride we arrived under thunderous skies
-Flanked by inquisitive seals our first glimpse of the sandbanks chilled
-Surrounded by the unpredictable sea would it swallow us up or let us be?
-With trepidation we stepped ashore, trespasses on these famed sands
+Lashed with rain on our outward ride 
+We arrived under thunderous skies,
+Flanked by inquisitive seals 
+Our first glimpse of the sandbanks chilled,
+Surrounded by the unpredictable sea,
+Would it swallow us up or let us be?
+
+With trepidation we stepped ashore,
+Trespasses on these famed sands
 The sun appeared, a rainbow transpired
-An amnesty? We hoped while the tide had other shores to scope.
+An amnesty? We hoped,
+While the tide had other shores to scope.
 
 Respectfully we trod the sands
 Forever mindful of those who had
@@ -67,4 +87,4 @@ Bowed our heads in silent reflection
 A place of tragedy of many lives lost
 The Goodwin Sands are there….
 
-And then, they are not.
+and then, they are not.
