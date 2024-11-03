@@ -18,15 +18,15 @@ poem: |-
   with restful greens in the view.
 
   Echoes of the past surround
-  Some things lost, others found.
+  some things lost, others found.
 
   Dust and cobwebs on the ledge
   Sea lavender drying overhead
   Yellowing paint, grimy glass
-  Verdigris on the brass
+  Verdigris on the brass.
 
   I would shake my cares away
-  and take a moment to pause and gaze.
+  and take a moment to reflect and gaze.
 stampHeight: "400"
 alignPoemLeft: true
 removePostcardPadding: false
