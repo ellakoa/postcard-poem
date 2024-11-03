@@ -1,14 +1,6 @@
 ---
 title: Deep in the Forest
-description: >-
-  Wandering along the path on a sunny day in the New Forest I was instilled with
-  a sense of joyous well-being. The sun was warm and bright, birds and insects
-  were busy around, and vegetation thrived, but only along the edges of the
-  path. A step off the path and the dense canopy of the forest was excluding and
-  forbidding.
-
-
-  The contrast between light and dark should make your feet want to stay firmly on the path, but the mind's curiosity sometimes pulls in the wrong direction and then your feet just have to follow. Getting lost in the forest ignites the imagination.
+description: A walk in the forest this Halloween.
 aspect: landscape
 image: /img/deep-in-the-forest-2-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
@@ -44,3 +36,6 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2024-10-15T07:00:48.319Z
 ---
+Wandering along the path on a sunny day in the New Forest I was instilled with a sense of joyous well-being. The sun was warm and bright, birds and insects were busy around, and vegetation thrived, but only along the edges of the path. A step off the path and the dense canopy of the forest was excluding and forbidding.
+
+The contrast between light and dark should make your feet want to stay firmly on the path, but the mind's curiosity sometimes pulls in the wrong direction and then your feet just have to follow. Getting lost in the forest ignites the imagination.
