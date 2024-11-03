@@ -1,7 +1,7 @@
 ---
 title: The Christmas Mouse
 description: Seasons Greetings to all my readers. 2022.
-collection: Beautiful Creatures
+collection: Letter Postcards
 aspect: portrait
 image: /img/christmas-mouse-postcard-1-tiny.jpg
 metaImage: /img/face.jpg
