@@ -53,3 +53,18 @@ No ringing of bells in the distant swell
 Just beautiful sands for miles and miles
 Peaceful, surreal, virgin land each tide
 Were we being mesmerised?
+
+We weren't fooled by the soulful pools
+The sculptured sands, a beauty wrought 
+by the restless sea, a jealous master 
+who guards, then strikes 
+extinguishing the lights of men
+binding crew and their doomed ships
+to the shifting sands, eclipsed.
+
+We left before the sea’s interception
+Bowed our heads in silent reflection
+A place of tragedy of many lives lost
+The Goodwin Sands are there….
+
+And then, they are not.
