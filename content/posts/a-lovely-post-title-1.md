@@ -42,3 +42,14 @@ Surrounded by the unpredictable sea would it swallow us up or let us be?
 With trepidation we stepped ashore, trespasses on these famed sands
 The sun appeared, a rainbow transpired
 An amnesty? We hoped while the tide had other shores to scope.
+
+Respectfully we trod the sands
+Forever mindful of those who had
+gone before and what could ensue 
+If we overstayed this precious tour.
+
+We saw no ghosts, heard no eerie sighs
+No ringing of bells in the distant swell
+Just beautiful sands for miles and miles
+Peaceful, surreal, virgin land each tide
+Were we being mesmerised?
