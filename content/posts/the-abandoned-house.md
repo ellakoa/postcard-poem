@@ -5,7 +5,7 @@ description: >-
   children.
 
   A spooky tale for Halloween.
-collection: Longer Reads.
+collection: Letter Postcards
 aspect: landscape
 image: /img/spooky-house-1a-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
