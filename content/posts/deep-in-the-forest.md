@@ -1,6 +1,6 @@
 ---
 title: Deep in the Forest
-description: A walk in the forest this Halloween.
+description: An October walk in the forest.
 aspect: landscape
 image: /img/deep-in-the-forest-2-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
