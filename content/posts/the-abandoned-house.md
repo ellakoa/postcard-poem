@@ -31,9 +31,13 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-10-29T08:00:02.434Z
 ---
-**Peeping above an old flint wall, pretending to look for a missing ball
-A wall of glinting stones. Or were they bones?
-Broken and knobbly, of things unknown.**
+**Peeping above an old flint wall, pretending to look for a missing ball.**
+
+
+**A wall of glinting stones. Or were they bones?**
+
+
+**Broken and knobbly, of things unknown.**
 
 **Stepping through the wrought iron gate, roughened, with old peeling paint.
 A gate stuck wide with crumbling rust. Or was it blood? 
