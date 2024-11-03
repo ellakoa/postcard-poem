@@ -4,21 +4,7 @@ stampWidth: "600"
 width: "600"
 height: "400"
 title: "There Then Not "
-description: |-
-  The Goodwin Sands a few miles from the Kent Coast.
-
-  Lashed with rain on our outward ride 
-  We arrived under thunderous skies,
-  Flanked by inquisitive seals 
-  Our first glimpse of the sandbanks chilled,
-  Surrounded by the unpredictable sea,
-  Would it swallow us up or let us be?
-
-  With trepidation we stepped ashore,
-  Trespasses on these famed sands
-  The sun appeared, a rainbow transpired
-  An amnesty? We hoped,
-  While the tide had other shores to scope.
+description: The Goodwin Sands a few miles from the Kent Coast.
 collection: Letter Postcards
 aspect: landscape
 image: /img/goodwinw-sands-part-1-blog.jpg
