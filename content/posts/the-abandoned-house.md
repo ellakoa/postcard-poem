@@ -34,8 +34,8 @@ date: 2023-10-29T08:00:02.434Z
 Peeping above an old flint wall,
 Pretending to look for a missing ball. 
 A wall of glinting stones. Or were they bones?
-Broken and knobbly, of things unknown.
 
+Broken and knobbly, of things unknown.
 Stepping through the wrought iron gate
 Roughened, with old peeling paint.
 A gate stuck wide with crumbling rust. 
@@ -50,7 +50,7 @@ and brambles that scratched our spindly legs.
 Ivy trailing over the porch floor,
 Steps up to a green wooden door,
 A knocker of a bear’s head. 
-A notice said.“Beware, Knock Me if You Dare,”
+A notice read “Beware. Knock Me if You Dare,”
 
 Of course, we dared. One bang each. Bang. Bang.
 Laughing, exhilarated we turned and ran,
@@ -60,9 +60,10 @@ Down a path that twisted and snaked,
 Our legs turned to jelly, dread in our belly.
 Dead flower heads nodding, or were they skulls? 
 Jaws hung open. Whispering, 
-Wait……Wait…..as we ran towards the open gate.
+Wait……Wait… As we ran towards the open gate.
+
 Stopped in our tracks by a thunderous groan.
-Turning, nowhere to hide, the door of the house, now open wide
+Turning, nowhere to hide, the door of the house, now open wide.
 
 Silently a ball rolled down the steps,
 Is this what you came for? Come and collect.
