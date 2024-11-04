@@ -34,7 +34,6 @@ date: 2023-10-29T08:00:02.434Z
 Peeping above an old flint wall,
 Pretending to look for a missing ball. 
 A wall of glinting stones. Or were they bones?
-
 Broken and knobbly, of things unknown.
 Stepping through the wrought iron gate
 Roughened, with old peeling paint.
@@ -46,7 +45,6 @@ Gingerly, making our way up the path,
 Pretending to look for the ball, with a laugh.
 Passing overgrown beds of dead flower heads 
 and brambles that scratched our spindly legs.
-
 Ivy trailing over the porch floor,
 Steps up to a green wooden door,
 A knocker of a bear’s head. 
@@ -64,7 +62,6 @@ Wait……Wait… As we ran towards the open gate.
 
 Stopped in our tracks by a thunderous groan.
 Turning, nowhere to hide, the door of the house, now open wide.
-
 Silently a ball rolled down the steps,
 Is this what you came for? Come and collect.
 Of course, we didn’t. We screamed and fled.
