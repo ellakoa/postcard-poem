@@ -50,7 +50,7 @@ and brambles that scratched our spindly legs.
 Ivy trailing over the porch floor,
 Steps up to a green wooden door,
 A knocker of a bear’s head. 
-A notice said.“Beware, Knock Me if You Dare,”
+A notice said.“Beware. Knock Me if You Dare,”
 
 Of course, we dared. One bang each. Bang. Bang.
 Laughing, exhilarated we turned and ran,
@@ -62,8 +62,9 @@ Dead flower heads nodding, or were they skulls?
 Jaws hung open. Whispering, 
 Wait……Wait…..as we ran towards the open gate.
 Stopped in our tracks by a thunderous groan.
-Turning, nowhere to hide, the door of the house, now open wide
+Turning, nowhere to hide, the door of the house, now open wide.
 
 Silently a ball rolled down the steps,
 Is this what you came for? Come and collect.
-Of course, we didn’t. We screamed and fled.
+Of course, we didn’t. 
+We screamed and fled.
