@@ -1,8 +1,6 @@
 ---
 title: Poppy Lanterns
-description: |-
-  
-  Remembering 
+description: "Remembering "
 collection: Wonderful Britain
 aspect: landscape
 image: /img/poppy-lanterns-4-2.jpg
@@ -11,13 +9,13 @@ alt: Field of bright red poppies, the setting sun has made them look as if they
   are lanterns as the sun shines through them.
 poem: |-
   Poppies open in the morning light
-  Then close again before twilight
+  Then close again before twilight.
   Fields of red, a patch, or just one
   Poppies shine with hope
   in the morning sun
 
   Red embers glow
-  as the sun sinks low 
+  as the sun sinks low.
 
   Poppy petals cup their face
   Closing in a tender embrace.
