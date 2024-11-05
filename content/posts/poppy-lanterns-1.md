@@ -2,7 +2,7 @@
 title: Poppy Lanterns
 description: |-
   
-  Remembering Summer in November
+  Remembering this November
 collection: Wonderful Britain
 aspect: landscape
 image: /img/poppy-lanterns-4-2.jpg
