@@ -1,8 +1,6 @@
 ---
 title: Poppy Lanterns
-description: |-
-  
-  Remembering 
+description: "Remembering "
 collection: Wonderful Britain
 aspect: landscape
 image: /img/poppy-lanterns-4-2.jpg
