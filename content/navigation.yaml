@@ -7,18 +7,20 @@ items:
     url: /collections
 collections:
   - text: Authors Choice
-    image: /img/pastures-new-stamp-1-.png
+    image: /img/authors-choice.png
   - text: Beyond the Pebbles
-    image: /img/beyond-pebbles-face-kingsdo.jpg
+    image: /img/stamp-beyond-the-pebbles-collection-1-.png
   - text: Haiku
     image: /img/haiku-main-image-3-1-.png
   - text: Beautiful Creatures
-    image: /img/mouse-stamp-tiny.png
+    image: /img/stamp-beautiful-creatures-collection-1-.png
   - text: Watch the Dog
-    image: /img/watch-the-dog-stamp-2a.png
+    image: /img/stamp-watch-the-dog-collection-1-.png
   - text: The Hedgerows Parade
-    image: /img/hedgerows-parade-spring-1-.jpg
+    image: /img/stamp-hedgerows-parade-collection-1-.png
   - text: Woodland Tapestries
-    image: /img/woodland-20tapestries.jpg
+    image: /img/stamp-woodland-tapestries-collection-1-.png
   - text: Trees
-    image: /img/majesty6-7486-tiny.jpg
+    image: /img/stamp-trees-collection-1-.png
+  - text: Letter Postcards
+    image: /img/stamp-letter-postcards-collection-1-.png

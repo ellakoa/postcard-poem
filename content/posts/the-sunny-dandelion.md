@@ -32,7 +32,7 @@ address: |-
   Kent
   UK
 stamp: /img/dandelion-2-1-.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2024-03-17T08:00:20.936Z
 ---
