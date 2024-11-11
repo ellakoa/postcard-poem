@@ -46,14 +46,37 @@ const Home: NextPage = ({
           )}
         </Card>
       </div>
-      <div className='container prose lg:prose-xl text-center my-10 p-3'>
+
+      <div className='container prose lg:prose-xl text-center mt-10 p-3'>
         <h1 className='font-serif text-5xl'>{title}</h1>
         <p>{welcome}</p>
       </div>
-      <article className='container max-w-5xl px-3 md:px-6 my-10 flex flex-col'>
+      <article className='container max-w-5xl px-3 md:px-6 mb-10 flex flex-col'>
+        <hr className='my-20 h-px bg-white' />
+        <header className='prose lg:prose-xl pb-5 mb-5  text-center mx-auto'>
+          <h2 className='font-serif font-bold text-5xl'>
+            {postcardAttributes.title}
+          </h2>
+          <p>{postcardAttributes.description}</p>
+          <p className=' text-base leading-6 font-medium text-gray-500'>
+            <time>
+              {' '}
+              {new Date(postcardAttributes?.date).toDateString()} by{' '}
+              <a>{postcardAttributes?.author}</a>{' '}
+            </time>
+          </p>
+          {!!postcardAttributes?.collection && (
+            <StampCta
+              href={`/collections/${postcardAttributes?.collection}`}
+              className='flex-1 md:flex-initial'
+            >
+              Visit collection: {postcardAttributes?.collection}
+            </StampCta>
+          )}
+        </header>
         <Postcard {...{ ...latest.attributes, ...postcardAttributes }}>
-          <StampCta href={`/posts/${latest.slug}`} className='ml-auto'>
-            Read more
+          <StampCta href={`/posts/`} className='ml-auto'>
+            More posts
           </StampCta>
         </Postcard>
       </article>
