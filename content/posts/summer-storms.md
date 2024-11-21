@@ -14,7 +14,7 @@ poem: |-
   unwittingly created an almighty squall.
 
   Eventually, the storm retreated
-  Its energy is quite depleted.
+  Its energy quite depleted.
   What was the quarrel about?
   Who knows?
   But as the storm disappeared
