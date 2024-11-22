@@ -14,7 +14,7 @@ poem: |-
   The first flash in the skies, you count, anticipating. 
   The sound of thunder, escalating, rattling your bones. 
   Is there time to outrun the rain and head for home?
-alignPoemLeft: false
+alignPoemLeft: true
 removePostcardPadding: false
 address: |-
   Run for Home
