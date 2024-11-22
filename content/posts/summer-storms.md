@@ -27,7 +27,7 @@ address: |-
   Kent
   UK
 stamp: /img/summer-storms-stamp.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2024-11-20T08:00:00.000Z
 ---
