@@ -1,6 +1,6 @@
 ---
 title: Run For Home
-description: Caught in a summer storm.
+description: Summer storms revisited as a Haiku.
 collection: Haiku
 aspect: landscape
 image: /img/run-for-home-2a-.jpg
