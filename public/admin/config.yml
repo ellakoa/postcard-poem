@@ -4,7 +4,7 @@ backend:
   branch: main
   ### enable below lines for github integration ###
   # name: github
-  # repo: AndyWebster/postcard-poem
+  # repo: ellakoa/postcard-poem
 media_folder: 'public/img'
 public_folder: '/img'
 
