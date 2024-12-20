@@ -9,7 +9,7 @@ image: /img/milo-main-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A dog in a red Christmas hat and scarf standing next to a tree with
   coloured lights and a snowman with a carrot nose.
-poem: |+
+poem: |-
   Waking from a dream of fetch
   Milo gave a sleepy stretch.
   His cute black nose started twitching
@@ -19,8 +19,6 @@ poem: |+
   Everything was white, which looked strange.
 
                                   Carry on reading below
-
-
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
