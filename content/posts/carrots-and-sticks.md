@@ -10,7 +10,22 @@ image: /img/milo-main-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A dog in a red Christmas hat and scarf standing next to a tree with
   coloured lights and a snowman with a carrot nose.
-poem: "Distracted by a favourite sound,\ 
+poem: "
+
+  Waking from a dream of fetch
+
+  Milo gave a sleepy stretch.
+
+  His cute black nose started twitching
+
+  Something’s different he was thinking.
+
+  Looking outside, the garden had changed
+
+  Everything was white, which looked strange.
+
+
+  Distracted by a favourite sound,\ 
 
   off to the kitchen, he excitedly bound.
 
@@ -25,9 +40,9 @@ poem: "Distracted by a favourite sound,\
 
   The back door was open, the air smelt cold,\ 
 
-  outside he ventured being bold.
+  outside he ventured being quite bold.
 
-  In the garden where he played catch,
+  In the garden where he played catch
 
   stood a figure with a scarf and a woolly hat.
 
@@ -40,11 +55,11 @@ poem: "Distracted by a favourite sound,\
   The snowman smiled but did not remark.
 
 
-  Called back inside, Milo spied carrots on a plate,\ 
+  Called back inside, Milo spied carrots on a plate
 
   but it was whisked away, leaving Milo irate.
 
-  Oh… who was getting his carrot treats?\\
+  Oh… who was getting his carrot treats?
 
   All day he was puzzled until he fell asleep.
 
@@ -62,9 +77,7 @@ poem: "Distracted by a favourite sound,\
 
   What a sight, on this cold chilly night.\ 
 
-  The sleigh bells jingled,\ 
-
-  Milo's nose tingled.
+  The sleigh bells jingled, Milo's nose tingled.
 
   Feeling content and at peace,\ 
 
@@ -80,9 +93,7 @@ poem: "Distracted by a favourite sound,\
   and then with a wink, left in a blink.
 
 
-  Puzzled, Milo searched around\ 
-
-  and found placed at his feet\ 
+  Milo found placed at his feet\ 
 
   The largest, tastiest, carrot treat.
 
@@ -91,6 +102,7 @@ alignPoemLeft: false
 removePostcardPadding: false
 address: |-
   Carrots and Twigs
+  A Letter Postcard
   Deal
   Kent
   UK
