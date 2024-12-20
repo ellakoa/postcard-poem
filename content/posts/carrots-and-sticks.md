@@ -23,7 +23,7 @@ poem: "Waking from a dream of fetch
   Everything was white, which looked strange.
 
 
-  Distracted by a favourite sound,\ 
+  Distracted by a favourite sound
 
   off to the kitchen, he excitedly bound.
 
@@ -77,7 +77,7 @@ poem: "Waking from a dream of fetch
 
   The sleigh bells jingled, Milo's nose tingled.
 
-  Feeling content and at peace,\ 
+  Feeling content and at peace
 
   Milo forgot about tasty treats.
 
