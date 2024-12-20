@@ -1,8 +1,9 @@
 ---
 title: Carrots and Sticks
-description: >
+description: >+
   A magical story about a very special visitor we had staying with us last
   Christmas.
+
 collection: Letter Postcards
 aspect: landscape
 image: /img/milo-main-1-.jpg
