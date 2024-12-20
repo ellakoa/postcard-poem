@@ -28,7 +28,7 @@ poem: |
   we make tracks, we turn and wave 
   and the little boats twinkle back.
 alignPoemLeft: false
-removePostcardPadding: true
+removePostcardPadding: false
 address: |-
   The Little Boats
   Ramsgate Harbour
