@@ -3,7 +3,7 @@ title: Carrots and Sticks
 description: >
   A magical story about a very special visitor we had staying with us last
   Christmas.
-collection: Longer Reads
+collection: Letter Postcards
 aspect: landscape
 image: /img/milo-main-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
