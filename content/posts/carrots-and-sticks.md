@@ -99,7 +99,7 @@ poem: "Waking from a dream of fetch
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
-  Carrots and Twigs
+  Carrots and Sticks
   A Letter Postcard
   Deal
   Kent
