@@ -14,14 +14,14 @@ poem: |-
   Waking from a dream of fetch
   Milo gave a sleepy stretch.
   His cute black nose started twitching
-  Something’s different he was thinking 
+  Something’s different he was thinking. 
 
   Distracted by a favourite sound
-  off to the kitchen, he excitedly bound.
+  off to the kitchen he excitedly bound.
   What was being chopped, chopped, chopped? 
   What was on the wooden block?
-  Oh please, let it be a carrot treat, 
-  one of his favourites, crunchy and sweet.
+  Oh please let it be a carrot treat, 
+  one of his favourites crunchy and sweet.
 
   The back door was open, the air smelt cold
   outside he rushed being bold.
@@ -39,7 +39,7 @@ poem: |-
 
   Milo dreamt of carrots raining down 
   and reluctantly awoke to a snuffling sound. 
-  Outside the window, munching carrot treats 
+  Outside the window munching carrot treats 
   were magnificent creatures with hooved feet.
 
   Milo was in awe of the reindeer he saw
@@ -52,7 +52,7 @@ poem: |-
   Milo turned towards his bed 
   and saw a figure dressed in red.
   Santa smiled and patted Milo's head 
-  and with a playful wink, he left in a blink.
+  and with a playful wink, left in a blink.
 
   Milo found placed at his feet 
   The largest, tastiest, carrot treat.                        
