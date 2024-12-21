@@ -52,7 +52,7 @@ poem: |-
   Milo turned towards his bed 
   and saw a figure dressed in red.
   Santa smiled and patted Milo's head 
-  and with a playful wink, 
+  then with a playful wink, 
   he was gone in a blink.
 
   Milo found placed at his feet 
