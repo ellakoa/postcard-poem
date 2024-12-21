@@ -32,7 +32,7 @@ poem: |-
   Milo ran in circles, he let out a bark. 
   The snowman smiled but did not remark.
 
-  Called back inside, Milo spied carrots on a plate 
+  Called inside, Milo spied carrots on a plate 
   but it was whisked away leaving Milo irate.
   Oh… who was getting his carrot treats?  
   All day he was puzzled until he fell asleep.
