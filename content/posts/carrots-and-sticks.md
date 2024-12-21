@@ -1,8 +1,8 @@
 ---
 title: Carrots and Sticks
 description: >+
-  A magical Letter Postcard about a very special visitor we had staying with us
-  last Christmas.
+  A magical Letter Postcard about a special dog we had staying with us last
+  Christmas.
 
 collection: Letter Postcards
 aspect: landscape
@@ -10,92 +10,52 @@ image: /img/milo-main-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A dog in a red Christmas hat and scarf standing next to a tree with
   coloured lights and a snowman with a carrot nose.
-poem: "Waking from a dream of fetch
-
+poem: |-
+  Waking from a dream of fetch
   Milo gave a sleepy stretch.
-
   His cute black nose started twitching
-
-  Something’s different he was thinking.
-
-  Looking outside, the garden had changed
-
-  All was white, which looked strange.
-
+  Something’s different he was thinking 
 
   Distracted by a favourite sound
-
   off to the kitchen, he excitedly bound.
-
-  What was being chopped, chopped, chopped?\ 
-
+  What was being chopped, chopped, chopped? 
   What was on the wooden block?
-
-  Oh please, let it be a carrot treat,\ 
-
+  Oh please, let it be a carrot treat, 
   one of his favourites, crunchy and sweet.
 
-
-  The back door was open, the air smelt cold,\ 
-
-  outside he ventured being quite bold.
-
+  The back door was open, the air smelt cold
+  outside he rushed being bold.
   In the garden where he played catch
-
   stood a figure with a scarf and a woolly hat.
-
-  And what was that? A carrot nose!\ 
-
+  And what was that? A carrot nose! 
   And his favourite sticks for arms and toes!
-
-  Milo ran in circles, he let out a bark.\ 
-
+  Milo ran in circles, he let out a bark. 
   The snowman smiled but did not remark.
 
-
-  Called back inside, Milo spied carrots on a plate
-
-  but it was whisked away, leaving Milo irate.
-
-  Oh… who was getting his carrot treats?
-
+  Called back inside, Milo spied carrots on a plate 
+  but it was whisked away leaving Milo irate.
+  Oh… who was getting his carrot treats?  
   All day he was puzzled until he fell asleep.
 
-
-  Milo dreamt of carrots raining down\ 
-
-  and reluctantly awoke to a snuffling sound.\ 
-
-  Outside the window, munching carrot treats\ 
-
+  Milo dreamt of carrots raining down 
+  and reluctantly awoke to a snuffling sound. 
+  Outside the window, munching carrot treats 
   were magnificent creatures with hooved feet.
 
-
   Milo was in awe of the reindeer he saw
-
-  What a sight, on this cold chilly night.\ 
-
-  The sleigh bells jingled, Milo's nose tingled.
-
+  What a sight on this cold chilly night. 
+  Their silver bells jingled
+  Milo's nose tingled.
   Feeling content and at peace
-
   Milo forgot about tasty treats.
 
+  Milo turned towards his bed 
+  and saw a figure dressed in red.
+  Santa smiled and patted Milo's head 
+  and with a playful wink, he left in a blink.
 
-  Milo turned towards his bed\ 
-
-  Where he found Santa dressed in red.
-
-  Santa smiled and patted Milo's head,\ 
-
-  and then with a wink, left in a blink.
-
-
-  Milo found placed at his feet\ 
-
-  The largest, tastiest, carrot treat.
-
-  \                        "
+  Milo found placed at his feet 
+  The largest, tastiest, carrot treat.                        
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
