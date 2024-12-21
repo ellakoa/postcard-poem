@@ -52,11 +52,11 @@ poem: |-
   Milo turned towards his bed 
   and saw a figure dressed in red.
   Santa smiled and patted Milo's head 
-  and with a playful wink, left in a blink.
+  and then with a playful wink, left in a blink.
 
   Milo found placed at his feet 
   The largest, tastiest, carrot treat.                        
-alignPoemLeft: false
+alignPoemLeft: true
 removePostcardPadding: false
 address: |-
   Carrots and Sticks
