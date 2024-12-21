@@ -6,7 +6,7 @@ description: >+
 
 collection: Letter Postcards
 aspect: landscape
-image: /img/milo-1a-1-.jpg
+image: /img/milo-1b-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A dog in a red Christmas hat and scarf standing next to a tree with
   coloured lights and a snowman with a carrot nose.
