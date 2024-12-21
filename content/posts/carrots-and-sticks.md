@@ -1,8 +1,8 @@
 ---
 title: Carrots and Sticks
 description: >+
-  A magical Letter Postcard about a handsome young dog we had staying with us
-  last Christmas.
+  A Letter Postcard about a handsome young dog we had staying with us last
+  Christmas, He bought some magic into our lives.
 
 collection: Letter Postcards
 aspect: landscape
@@ -52,7 +52,8 @@ poem: |-
   Milo turned towards his bed 
   and saw a figure dressed in red.
   Santa smiled and patted Milo's head 
-  and then with a playful wink, left in a blink.
+  and with a playful wink, 
+  he was gone in a blink.
 
   Milo found placed at his feet 
   The largest, tastiest, carrot treat.                        
