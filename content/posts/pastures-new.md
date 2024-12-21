@@ -1,7 +1,7 @@
 ---
 title: Pastures New
 description: Watching the sunset on a warm summers evening.
-collection: Authors Choice
+collection: Haiku
 aspect: landscape
 image: /img/pastures-new-main-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
