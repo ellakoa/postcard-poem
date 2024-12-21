@@ -20,7 +20,7 @@ poem: "Waking from a dream of fetch
 
   Looking outside, the garden had changed
 
-  Everything was white, which looked strange.
+  All was white, which looked strange.
 
 
   Distracted by a favourite sound
