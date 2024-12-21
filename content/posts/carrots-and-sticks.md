@@ -38,9 +38,9 @@ poem: |-
   All day he was puzzled until he fell asleep.
 
   Milo dreamt of carrots raining down 
-  and reluctantly awoke to a snuffling sound. 
+  reluctantly waking to a snuffling sound. 
   Outside the window munching carrot treats 
-  were magnificent creatures with hooved feet.
+  were magnificent creatures with big hooved feet.
 
   Milo was in awe of the reindeer he saw
   What a sight on this cold chilly night. 
