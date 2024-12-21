@@ -1,12 +1,12 @@
 ---
 title: Carrots and Sticks
 description: >+
-  A magical Letter Postcard about a special dog we had staying with us last
-  Christmas.
+  A magical Letter Postcard about a handsome young dog we had staying with us
+  last Christmas.
 
 collection: Letter Postcards
 aspect: landscape
-image: /img/milo-main-1-.jpg
+image: /img/milo-1a-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A dog in a red Christmas hat and scarf standing next to a tree with
   coloured lights and a snowman with a carrot nose.
@@ -64,7 +64,7 @@ address: |-
   Deal
   Kent
   UK
-stamp: /img/milo-stamp-1-.png
+stamp: /img/milo-stamp-1a-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2024-12-22T08:00:20.662Z
