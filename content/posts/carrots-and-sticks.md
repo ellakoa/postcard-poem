@@ -2,7 +2,7 @@
 title: Carrots and Sticks
 description: >+
   A Letter Postcard about a handsome young dog we had staying with us last
-  Christmas, He bought some magic into our lives.
+  Christmas: Milo brought fun and magic into our lives.
 
 collection: Letter Postcards
 aspect: landscape
