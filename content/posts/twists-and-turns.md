@@ -15,8 +15,8 @@ poem: |-
   Another New Year and so it starts
   Optimism and hope in your heart.
 
-  You dream of a path that is straight
-  but often in life, it will deviate.
+  You may dream of a path that is straight
+  but often in life, the path will deviate.
 
   Twisting and turning along the way
   Each step claims another day.
@@ -25,7 +25,7 @@ poem: |-
   Take kindness in your heart to sow.
 
   There is no right way there is no wrong
-  Walk your path and sing your song.
+  Dance your path and sing your song.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
@@ -38,4 +38,3 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2025-01-01T08:00:40.435Z
 ---
-There are areas of the New Forest in Hampshire that are awash with elegant foxgloves in June. They stand up straight aiming for the sky, well most of them, there was this one foxglove bucking the trend, maybe it was doing a foxtrot, dancing its way in its colourful life.
