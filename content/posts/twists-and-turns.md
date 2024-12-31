@@ -3,7 +3,7 @@ title: Twists and Turns
 description: "111"
 collection: "11"
 aspect: portrait
-image: /img/foxglove-main-1-.jpg
+image: /img/foxglove-main-1-1-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
 poem: |-
@@ -25,7 +25,7 @@ address: |-
   New Forest
   Hampshire
   UK
-stamp: /img/foxglove-stamp-1-.png
+stamp: /img/foxglove-stamp-1-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2025-01-01T08:00:40.435Z
