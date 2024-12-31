@@ -11,11 +11,11 @@ poem: |-
   Another New Year and so it starts
   Optimism and hope in your heart.
 
-  You dream of a path that's straight
-  but often in life it will deviate.
+  You dream of a path that is straight
+  but often in life, it will deviate.
 
   Twisting and turning along the way
-  Each step forward claiming another day.
+  Each step claims another day.
 
   Aim towards the light as you go
   Take kindness in your heart to sow.
