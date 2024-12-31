@@ -2,7 +2,7 @@
 title: Twists and Turns
 description: "111"
 collection: "11"
-aspect: portrait
+aspect: landscape
 image: /img/foxglove-main-1-1-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: "111"
