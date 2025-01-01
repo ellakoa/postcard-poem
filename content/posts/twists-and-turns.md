@@ -19,8 +19,8 @@ poem: |-
   Dreams of a path always straight
   but often in life, the path will deviate.
 
-  Twisting and turning along the way
-  Each step brings another day.
+  Twisting and winding along the way
+  With each step another day.
 
   Aim towards the light as you go
   Take kindness in your heart to sow.
