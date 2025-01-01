@@ -13,14 +13,14 @@ metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: Pink Foxglove in a woodland. Instead of being straight the fox glove has
   curved to find the light.
 poem: |-
-  Another New Year and so it starts
+  New Year, new plans, fresh start
   Optimism and hope in your heart.
 
-  You may dream of a path that is straight
+  Dreams of a path always straight
   but often in life, the path will deviate.
 
   Twisting and turning along the way
-  Each step claims another day.
+  Each step brings another day.
 
   Aim towards the light as you go
   Take kindness in your heart to sow.
