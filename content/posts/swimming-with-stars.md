@@ -16,21 +16,20 @@ metaImage: /img/face.jpg
 alt: Chapman's pool, a tidal pool at Dancing Ledge Dorset, a lone swimmer,
   starbursts of sunlight dance on the water
 poem: |-
-  Have the stars skipped down
-  when the moon's not around
+  Have the stars skipped down when the moon's not around
   to play on the sea in a daytime breeze?
 
   Or maybe the sun has sprinkled glitter
-  over the waves to glint and flitter 
-  as sparkling sun glitter.
+  making the waves glint and flitter.
 
   When the sun's asleep and the stars peep
-  is it silver the moon spills 
-  to make the sea shimmer 
-  for the midnight swimmer?
+  Is it silver the moon spills
+  Making the sea shimmer 
+  For the midnight swimmer?
 
   Possibly it is all three.
 alignPoemLeft: false
+removePostcardPadding: false
 address: |-
   Swimming with Stars
   Dancing Ledge
@@ -39,5 +38,5 @@ address: |-
 stamp: /img/stamp-swimming-with-starstiny.png
 showStampInPreview: true
 author: Caroline Whitehouse
-date: 2023-01-08T08:00:46.527Z
+date: 2025-08-09T15:35:32.982Z
 ---
