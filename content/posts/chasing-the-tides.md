@@ -25,7 +25,7 @@ poem: |-
   I was captivated by the way 
   the bay offered itself up
   Beyond the pebbles, I walked the bay
-  I still chase the tide
+  Always chasing the tide
   The lowest of tides.
 alignPoemLeft: false
 removePostcardPadding: false
