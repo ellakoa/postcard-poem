@@ -17,14 +17,14 @@ alt: Exposed rusted train wheel attached to chains, encrusted with limpets and
   mussels, across the bay is a chalk cliff.
 poem: |-
   When the plug is pulled in the bay 
-  and the sea appears to drain away 
-  take an early morning walk across 
-  the shore with the whitest chalk.
+  the sea appears to drain away,
+  Take an early morning walk across 
+  the shore of flint and chalk.
 
   Stroll beyond the rolling pebbles and
   the groynes that reach onto the levels.
   Skirt around the sandy pools towards
-  a sea that sparkles like jewels.
+  a sea that sparkles with jewels.
 
   Watch seabirds stalk the shallow waters,
   Listen as waves gently ebb and falter,
