@@ -15,7 +15,7 @@ poem: |-
   Silent in reflection
   Caught in contemplation
   Still waters capture stills
-  that move as nature wills
+  That move as nature wills
   Blues and greys change hue
   Birds fly straight on through
   The sun pours molten gold
@@ -23,9 +23,10 @@ poem: |-
   A breeze, ripples anew
   Shifting the placid view
   Breaking the trance 
-  of a pensive glance
+  Of a pensive glance
   Pools full of sky.
 alignPoemLeft: true
+removePostcardPadding: false
 address: |-
   Pools Full of Sky
   Kingsdown
