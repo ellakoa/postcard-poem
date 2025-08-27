@@ -20,7 +20,7 @@ poem: |-
   Lost in thought, lost in time
   I won’t let go, your hand in mine
   ‘Somewhere’ is where we will be
-  Gentley ambling, you and me.
+  Gently ambling, you and me.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
