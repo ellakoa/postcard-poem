@@ -16,8 +16,8 @@ alt: Three colourful yachts moored up, a grey cloudy sky, the sun breaking
   through, beautiful reflections in the water.
 poem: |
   Weave a way through reeds and sedge 
-  come closer to the water's edge
-  peer deep in reflections before they shift
+  come closer to the water's edge.
+  Peer deep in reflections before they shift
   Glance at an otherly world of eels and fish
 
   Navigate flat marshes under vast skies  
@@ -26,11 +26,11 @@ poem: |
   a kingfisher vanishing from view
 
   Spy grey herons on spindly legs
-  being statues at the water's edge
+  being statues at the water's edge,
   and just as still with a stick and a float
   spy a fisherman in a waterproof coat
 
-  Hear whispers in the golden reeds 
+  Hear murmurs in the golden reeds 
   of dreams that start sowing the seeds
   to the one in a boat holding the helm 
   whispering the waters are his realm.
