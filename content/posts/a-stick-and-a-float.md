@@ -21,7 +21,7 @@ poem: |
   Glance at an otherly world of eels and fish
 
   Navigate flat marshes under vast skies  
-  watch a myriad of birds dip and dive
+  Watch a myriad of birds dip and dive
   See a dart of electric blue, glimpse
   a kingfisher vanishing from view
 
@@ -35,9 +35,10 @@ poem: |
   to the one in a boat holding the helm 
   whispering the waters are his realm.
 
-  Light bounces and plays morphing the days
+  Light bounces and plays, morphing the days
   entrancing the dwellers of these waterways.
 alignPoemLeft: false
+removePostcardPadding: false
 address: |-
   A Stick and a Float
   and your very own boat
@@ -46,5 +47,5 @@ address: |-
 stamp: /img/a-stick-and-a-float-stamp-reeds-1-.png
 showStampInPreview: false
 author: Caroline Whitehouse
-date: 2023-01-29T08:00:38.547Z
+date: 2025-09-17T15:46:20.304Z
 ---
