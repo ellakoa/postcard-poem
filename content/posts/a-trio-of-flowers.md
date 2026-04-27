@@ -1,7 +1,7 @@
 ---
 title: Fragrant Chimes
 description: "Bluebells in Frandham Woods. "
-collection: Woodland Tapestries
+collection: Authors Choice
 aspect: landscape
 image: /img/fragrant-chimes-2a.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
