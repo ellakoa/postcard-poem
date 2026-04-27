@@ -1,0 +1,4 @@
+# Use Sharp’s bundled libvips only. Netlify’s build image can expose a system
+# libvips that leads to a broken or mismatched native install for IPX/next/image.
+[build.environment]
+  SHARP_IGNORE_GLOBAL_LIBVIPS = "1"
