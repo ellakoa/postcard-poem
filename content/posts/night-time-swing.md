@@ -1,6 +1,7 @@
 ---
 title: Night Time Swing
-description: "\n"
+description: |
+  Night Time Swing.
 aspect: landscape
 image: /img/night-swing.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
