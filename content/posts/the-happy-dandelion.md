@@ -2,7 +2,7 @@
 title: The Sunny Dandelion
 description: |
   The Happy Sunny Dandelion.
-collection: Wonderful Britain
+collection: Authors Choice
 aspect: landscape
 image: /img/dandelion-blog-3-1-.jpg
 metaImage: /img/face.jpg
