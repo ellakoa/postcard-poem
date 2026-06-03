@@ -12,14 +12,13 @@ poem: |-
   when the moon's not around
   to play on the sea in a daytime breeze?
 
-  Or maybe the sun has playfully
-  sprinkled glitter over the waves 
-  to watch as the sea glints and flitters..
+  Or maybe the sun has sprinkled glitter 
+  to watch the sea glint and flitter.
 
-  When the sun's asleep and the stars peep
-  Is it silver the moon spills
-  Making the sea shimmer 
-  For the midnight swimmer?
+  When the sun's asleep, and the stars peep
+  is it silver the moon spills
+  making the sea shimmer 
+  for the midnight swimmer?
 
   Possibly it is all three.
 alignPoemLeft: false
