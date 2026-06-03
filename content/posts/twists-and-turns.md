@@ -1,11 +1,8 @@
 ---
 title: Twists and Turns
-description: >+
-  Happy New Year 2025.
-
-
-  There are areas of the New Forest in Hampshire that are awash with elegant foxgloves in June. They stand up straight aiming for the sky, well most of them, there was this one foxglove bucking the trend, maybe it was doing a foxtrot, dancing its way in its colourful life. 
-
+description: |-
+  
+  Happy New Year.
 collection: ""
 aspect: portrait
 image: /img/foxglove-main-1-.jpg
@@ -39,3 +36,4 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2025-01-01T08:00:40.435Z
 ---
+There are areas of the New Forest in Hampshire that are awash with elegant foxgloves in June. They stand up straight aiming for the sky, well most of them, there was this one foxglove bucking the trend, maybe it was doing a foxtrot, dancing its way in its colourful life.
