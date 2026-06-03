@@ -1,9 +1,6 @@
 ---
 title: The Little Boats
-description: "We are fast approaching the longest night and what better way to
-  embrace this than to visit some festive lights? The little boats in Ramsgate
-  harbour always put on a splendid display bringing some festive cheer to warm
-  your heart and make you smile. "
+description: Festive lights to bring a cheer to the long dark nights.
 collection: Wonderful Britain
 aspect: landscape
 image: /img/little-boats-blog-new-1.jpg
@@ -39,3 +36,4 @@ showStampInPreview: false
 author: Caroline Whitehouse
 date: 2024-12-19T18:30:15.155Z
 ---
+We are fast approaching the longest night and what better way to embrace this than to visit some festive lights? The little boats in Ramsgate harbour always put on a splendid display bringing some festive cheer to warm your heart and make you smile.
