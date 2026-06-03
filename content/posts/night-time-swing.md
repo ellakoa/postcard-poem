@@ -1,6 +1,12 @@
 ---
 title: Night Time Swing
-description: "\n"
+description: >
+  
+  Growing up with a swing in the garden was idyllic. 
+
+  I would spend many happy daytime hours with my feet untethered from the ground, daydreaming.
+
+  I was unaware that my mother would sometimes do the same at night, something I learned as an adult years later.
 aspect: landscape
 image: /img/night-swing.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
@@ -34,6 +40,3 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2026-06-03T14:17:31.804Z
 ---
-Growing up with a swing in the garden was idyllic. 
-I would spend many happy daytime hours with my feet untethered from the ground, daydreaming,
-unaware that at night my mother would do the same, something I learned as an adult years later.
