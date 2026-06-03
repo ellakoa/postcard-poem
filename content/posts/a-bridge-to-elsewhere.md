@@ -1,7 +1,7 @@
 ---
 title: A Bridge to Elsewhere
 description: Let your imagination take you elsewhere.
-collection: Authors Choice
+collection: ""
 aspect: landscape
 image: /img/bridge-to-elsewhere-norfolk-new.jpg
 metaImage: /img/face.jpg
