@@ -1,6 +1,10 @@
 ---
 title: Puddles and Cuddles.
-description: Welcome spring into the garden.
+description: >-
+  Welcome spring into the garden.
+
+
+  Spring teases us, slowly giving us hints of what is to come and then, in a flourish, it pops out of its seams; everything in the garden is demanding, look at me, and needing attention. We enter the spring garden with renewed vigour, just like our furry friend.
 collection: Watch the Dog
 aspect: landscape
 image: /img/beyond-pebbles-face-kingsdo.jpg
@@ -30,9 +34,9 @@ address: |-
   Watch the Dog
   Springs Garden
   UK
-stamp: /img/beyond-pebbles-face-kingsdo.jpg
+stamp: /img/stamp-1.png
 showStampInPreview: false
 author: Caroline Whitehouse
 date: 2023-05-21T19:00:59.728Z
 ---
-Spring teases us, slowly giving us hints of what is to come and then in a flourish it pops out of its seams, everything in the garden is demanding, look at me, and needing attention. We enter the spring garden with renewed vigour., just like our furry friend ‘Watch’
+Spring teases us, slowly giving us hints of what is to come and then, in a flourish, it pops out of its seams; everything in the garden demanding attention. We enter the spring garden with renewed vigour, just like our furry friend.
