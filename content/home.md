@@ -8,5 +8,5 @@ welcome: >-
   we invite you to dive in and discover the magic of Postcard Poems.
 
   Happy exploring!
-image: /img/2024-a-1-.png
+image: /img/children-banner1a.jpg
 ---
