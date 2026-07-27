@@ -8,12 +8,12 @@ image: /img/beautiful-sky-1.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A walker climbs up a steep path on the rocky Jurassic coastline. The blue
   summer sky is dotted with small white cloudsT
-poem: |
+poem: |-
   Beautiful sky, 
 
   So near and so far
 
-  From beneath feet to the most distant star
+  From beneath our feet to the most distant star
 
   Custodian of clouds and winds
 
@@ -22,8 +22,6 @@ poem: |
   A panorama, a glimpse, and all in between
 
   Meeting the horizon, setting the scene.
-
-  Beautiful sky.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
