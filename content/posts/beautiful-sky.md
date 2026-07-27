@@ -1,7 +1,7 @@
 ---
 title: Beautiful Sky
 description: >
-  A place to rest before continuing the long walk along the Jurassic coastline
+  A place to rest before continuing a steep climb along the Jurassic coastline
   of Dorset, taking time to consider the beauty and enormity of the sky.
 aspect: landscape
 image: /img/beautiful-sky-1.jpg
