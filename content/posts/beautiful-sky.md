@@ -9,9 +9,7 @@ metaImage: /img/beyond-pebbles-face-kingsdo.jpg
 alt: A walker climbs up a steep path on the rocky Jurassic coastline. The blue
   summer sky is dotted with small white cloudsT
 poem: |-
-  Beautiful sky, 
-
-  So near and so far
+  Beautiful sky, so near and so far
 
   From beneath our feet to the most distant star
 
@@ -21,7 +19,7 @@ poem: |-
 
   A panorama, a glimpse, and all in between
 
-  Meeting the horizon, setting the scene.
+  Greeting the horizon, setting the scene.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
