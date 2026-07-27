@@ -1,8 +1,9 @@
 ---
 title: Beautiful Sky
 description: >
-  A place to rest before continuing a steep climb along the Jurassic coastline
-  of Dorset, taking time to consider the beauty and enormity of the sky.
+  A place to rest and ponder before continuing a steep climb along the Jurassic
+  coastline of Dorset, taking time to consider the beauty and enormity of the
+  sky.
 aspect: landscape
 image: /img/beautiful-sky-1.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
