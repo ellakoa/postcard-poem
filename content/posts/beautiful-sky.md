@@ -19,7 +19,7 @@ poem: |-
 
   A panorama, a glimpse, and all in between
 
-  Greeting the horizon, setting the scene.
+  Beautiful sky setting the scene.
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
