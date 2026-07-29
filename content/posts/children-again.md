@@ -22,7 +22,7 @@ poem: |
   The magic never goes away.
   Children again that summer's day.
 alignPoemLeft: false
-removePostcardPadding: true
+removePostcardPadding: false
 address: |-
   Children Again
   St Margaret's Bay
