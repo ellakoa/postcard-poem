@@ -22,7 +22,7 @@ poem: |
   from slumbered rest. Eyes bleary, I saw snow 
   falling - had my dreams manifest?
 
-  I cupped a flake and smiled, there clearly
+  I cupped a flake, now awake, there clearly
   before my eyes, fluffy seed heads all about 
   me dancing on a breath of air. A breath of 
   air that was hardly there.
