@@ -1,10 +1,13 @@
 ---
 title: A Breath of Air
-description: "11"
+description: >
+  Golden summer days, a walk through the dreamy Norfolk Broads. A perfect place
+  to sit and reflect, and maybe close your eyes and dream.
 aspect: landscape
 image: /img/breath-of-air-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: "11"
+alt: A traditionally tied bundle of golden reeds lay drying, beneath an arching
+  bow of an oak tree. The distant view is of golden fields under a summer sky.
 poem: |
   A breath of air hardly there, passed me by 
   beneath a sun-bleached sky. Seeking shade, 
