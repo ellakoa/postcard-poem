@@ -33,7 +33,7 @@ address: |-
   Norfolk Broads
   Norfolk
   UK
-stamp: /img/stamp-a-breath-of-air-1-.png
+stamp: /img/a-breath-of-air-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
 date: 2026-08-10T17:48:46.204Z
