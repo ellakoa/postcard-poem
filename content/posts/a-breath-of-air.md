@@ -19,8 +19,8 @@ poem: |
   from slumbered rest. Eyes bleary, I saw snow 
   falling - had my dreams manifest?
 
-  I cupped a flake and smiled. Clearly, there 
-  before my eyes, fluffy seedheads all about 
+  I cupped a flake and smiled, there clearly
+  before my eyes, fluffy seed heads all about 
   me dancing on a breath of air. A breath of 
   air that was hardly there.
 alignPoemLeft: false
