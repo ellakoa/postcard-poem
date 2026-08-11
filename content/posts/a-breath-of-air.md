@@ -19,10 +19,10 @@ poem: |
   on a sun-parched ground.
 
   The lightest touch, gently teasing, drew me 
-  from slumbered rest. Eyes bleary, I saw snow 
+  from slumbering rest. Eyes bleary, I saw snow 
   falling - had my dreams manifest?
 
-  I cupped a flake, now awake, there clearly
+  I cupped a flake, now awake, clearly there
   before my eyes, fluffy seed heads all about 
   me dancing on a breath of air. A breath of 
   air that was hardly there.
