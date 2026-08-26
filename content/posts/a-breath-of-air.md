@@ -26,7 +26,7 @@ poem: |
   before my eyes, fluffy seed heads all about 
   me dancing on a breath of air. A breath of 
   air that was hardly there.
-alignPoemLeft: false
+alignPoemLeft: true
 removePostcardPadding: false
 address: |-
   A Breath of Air
