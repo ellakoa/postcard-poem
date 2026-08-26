@@ -9,7 +9,9 @@ collection: ""
 aspect: landscape
 image: /img/catured-in-a-frame-main-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
-alt: aa
+alt: A misty morning on the river. A small fishing boat comes into view under
+  Wroxham railway bridge. As the sun breaks through a reflection of the bridge
+  frames the fishing boat.
 poem: |
   Monochrome the soft morning light
   as dawn sees the night take flight.
