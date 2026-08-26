@@ -3,9 +3,9 @@ title: Captured in a Frame
 description: Getting up and about before the sun takes a bit of effort as we get
   older, but as soon as we are on the water in our little boat, everything melts
   away, and we just are present in the moment. This particular morning, the
-  mists danced around us as we made our way to Wroxham, stopping just beyond
+  mists danced around us as we made our way to Wroxham. We stopped just beyond
   Wroxham railway bridge for our breakfast. Idyllic.
-collection: aa
+collection: ""
 aspect: landscape
 image: /img/catured-in-a-frame-main-1-.jpg
 metaImage: /img/beyond-pebbles-face-kingsdo.jpg
