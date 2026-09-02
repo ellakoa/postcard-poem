@@ -20,7 +20,7 @@ poem: |
   nature embraces; the quiet is a balm.
 
   ​Gentle mists languidly drift, and in
-  the golden hour, they gradually lift.
+  the golden hour, they magically lift.
 
   ​Colour saturates with the sun,
   the day develops its daily hum.
