@@ -1,6 +1,6 @@
 ---
 title: The Curious Sea
-description: Misty Cornwall, Porthtowan, Cornwall UK.
+description: A misty walk. Porthtowan, Cornwall, UK.
 collection: Wonderful Britain
 aspect: landscape
 image: /img/misty-cornwall-1-.jpg
@@ -9,27 +9,25 @@ alt: Heather on the cliff top, looking down over a sandy beach, sea mist is
   rising up over the cliffs, obscuring swimmers.
 poem: |-
   Curiosity got the better of the sea
-  It rose in a mist and rolled over the cliff
-  The surf stopped pounding, the waves stilled 
-  Over the land, the sea mist spilled.
+  Rising in a mist, rolling over the cliff
+  Surf stopped pounding, waves stilled 
+  As on the land, the sea mist spilled.
 
   Silencing footsteps as around it patrolled
-  Hearing whispers, as it probed people's souls
-  Weaving its way through empty remains,
-  Trailing spots on the land's domain.
+  Quietening voices, probing people's souls
+  Weaving its way through doorless remains,
+  Leaving droplets of salt on the land's domain.
 
   All were in awe as the sea stalked the land
   The birds stopped singing,
-  The bees stopped buzzing,
-  and when all the espying was done
-  the mist slipped quietly back 
-  from where it had come. 
+  The bees stopped buzzing
+  and when it was done, 
+  The mist and the sea again became one.
 
-  As the surf started pounding 
+  As the surf started pounding,
   many had the same thought
-  Wondering did the curious sea 
-  find what it had sought?
-alignPoemLeft: false
+  Did the curious sea find what it had sought?
+alignPoemLeft: true
 removePostcardPadding: false
 address: |-
   The Curious Sea
@@ -37,8 +35,8 @@ address: |-
   Cornwall
   UK
 stamp: /img/the-curious-sea-stamp-1-.png
-showStampInPreview: false
+showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-07-07T17:27:07.126Z
 ---
-The north coast of Cornwall where the roar of the Atlantic sea can be heard pounding against the rocky cliffs, and the surf can be seen rolling in one wave after the other, delighting beachgoers. On this particular clifftop walk it was with some bemusement we watched a sea mist roll in, quieting the waves, leaving those intent on surfing just bobbing around on a calm sea, everything just seemed to stop, waiting for the mist to do its thing and move on. It was ethereal.
+The north coast of Cornwall, where the roar of the Atlantic sea pounds against rocky cliffs, and the surf rolls wave after wave, delighting beachgoers. On this particular clifftop walk, we watched a sea mist roll in, quieting the surf. Leaving those intent on surfing, bobbing around on a calm sea, everything just seemed to stop, waiting for the mist to do its thing and move on. It was spooky.
