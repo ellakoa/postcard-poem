@@ -31,7 +31,7 @@ address: |-
 stamp: /img/stamp-2-1-.png
 showStampInPreview: true
 author: Caroline Whitehouse
-date: 2024-11-05T14:59:46.909Z
+date: 2026-11-08T09:00:52.012Z
 ---
 Poppies are one of a handful of flowers that close at night. This I discovered on a sunny July evening.
 My husband had arrived home from work and mentioned seen a glorious field of poppies on his travels. 
