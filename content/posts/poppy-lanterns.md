@@ -32,7 +32,8 @@ poem: |+
   Silence falls as the evening stills
   Poppy lanterns light up the fields.
 
-alignPoemLeft: false
+alignPoemLeft: true
+removePostcardPadding: false
 address: |-
   Poppy Lanterns
   Bishopsbourne
@@ -40,5 +41,5 @@ address: |-
 stamp: /img/stamp-1-tiny.png
 showStampInPreview: false
 author: Caroline Whitehouse
-date: 2022-11-06T08:00:21.359Z
+date: 2026-11-08T09:10:54.729Z
 ---
