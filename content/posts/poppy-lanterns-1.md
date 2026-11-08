@@ -21,7 +21,7 @@ poem: |-
   Closing in a tender embrace.
   Silence falls as the evening stills
   Poppy lanterns light up the fields.
-alignPoemLeft: false
+alignPoemLeft: true
 removePostcardPadding: false
 address: |-
   Poppy Lanterns
