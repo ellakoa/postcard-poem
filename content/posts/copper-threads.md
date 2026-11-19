@@ -33,7 +33,7 @@ address: |
 stamp: /img/copper-threads-stamp.png
 showStampInPreview: true
 author: Caroline Whitehouse
-date: 2023-11-12T08:00:53.758Z
+date: 2026-11-19T02:57:14.232Z
 ---
 Autumn colours are reflected in the waters of Kearsney Parks. 
 The low sun and the wind rippling the surface of the water made the vibrant autumn colours dance. It was as if copper threads had been intricately woven into the tree canopy making it appear on fire. Spectacular.
